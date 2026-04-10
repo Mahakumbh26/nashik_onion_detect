@@ -1,0 +1,1001 @@
+Date,Market,Grade,Min Price (Rs./ Qtl),Max Price (Rs./Qtl),Modal Price (Rs./Qtl),Festival,is_amavasya,is_ekadashi,is_purnima,Tithi,Nakshatra,Day,Month,Year,Week,Temp Max (°C),Rain (mm),Heat Stress,Rain Alert,Agro Advisory
+2022-03-23,MANMAD,OTHER,300.0,1407,1300.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,CHANDVAD,OTHER,414.0,1531,1260.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,PIMPALGAON,OTHER,500.0,1951,1350.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,LASALGAON,OTHER,600.0,1611,1320.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,NASIK,OTHER,300.0,1451,800.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,LASALGAON,OTHER,600.0,1740,1301.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,NAMPUR,OTHER,300.0,1390,1250.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,LASALGAON(VINCHUR),OTHER,500.0,1501,1300.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1331,1175.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,DEVALA,OTHER,310.0,1575,1200.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,SINNER,OTHER,300.0,1360,1250.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,NANDGAON,OTHER,310.0,1371,1150.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,KALVAN,OTHER,400.0,1901,1100.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,35.0,0.0,No,No,Normal conditions
+2022-03-23,MANMAD,OTHER,300.0,1326,1200.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,CHANDVAD,OTHER,500.0,1452,1260.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,PIMPALGAON,OTHER,300.0,1871,1325.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,NASIK,OTHER,320.0,1500,850.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,SHREE RAMESHWAR KRUSHI MARKET,OTHER,251.0,1515,1037.84,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-23,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,300.0,2000,1530.0,,0,0,0,Krishna Shashthi,Anuradha,23,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,374.0,1312,897.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,NAMPUR,OTHER,300.0,1415,1250.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,UMRANE,OTHER,700.0,1511,1350.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,LASALGAON(VINCHUR),OTHER,500.0,1525,1300.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1325,1140.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,LASALGAON(NIPHAD),OTHER,500.0,1500,1350.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,DEVALA,OTHER,350.0,1605,1205.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,SINNER,OTHER,300.0,1380,1250.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,KALVAN,OTHER,600.0,1900,1150.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,MANMAD,OTHER,300.0,1252,1150.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,CHANDVAD,OTHER,500.0,1550,1350.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,PIMPALGAON,OTHER,400.0,2099,1380.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,LASALGAON,OTHER,500.0,1890,1275.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,NASIK,OTHER,350.0,1601,950.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,YEOLA,OTHER,351.0,1339,1070.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,CHANDVAD,OTHER,500.0,1655,1270.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,PIMPALGAON,OTHER,400.0,1900,1350.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,YEOLA,OTHER,300.0,1346,1050.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1325,1125.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,DINDORI,OTHER,851.0,1600,1290.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,MANMAD,OTHER,200.0,1370,1200.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,CHANDVAD,OTHER,550.0,1700,1220.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,PIMPALGAON,OTHER,400.0,2000,1325.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,LASALGAON,OTHER,500.0,2051,1350.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-24,YEOLA,OTHER,208.0,1338,1051.0,,0,0,0,Krishna Saptami,Jyeshtha,24,3,2022,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,NASIK,OTHER,250.0,1475,800.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1400,1200.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,DEVALA,OTHER,300.0,1445,1225.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,SINNER,OTHER,300.0,1425,1300.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,KALVAN,OTHER,700.0,1900,1100.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,MANMAD,OTHER,300.0,1406,1300.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,NASIK,OTHER,275.0,1511,820.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,NAMPUR,OTHER,300.0,1500,1300.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,LASALGAON(VINCHUR),OTHER,600.0,1780,1400.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,LASALGAON(NIPHAD),OTHER,500.0,1410,1311.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,SINNER,OTHER,300.0,1395,1275.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,NANDGAON,OTHER,250.0,1500,1150.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,MANMAD,OTHER,300.0,1352,1200.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,PIMPALGAON,OTHER,400.0,1917,1300.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,LASALGAON,OTHER,500.0,2100,1425.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,YEOLA,OTHER,350.0,1278,1075.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,PIMPALGAON,OTHER,400.0,1916,1300.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,YEOLA,OTHER,300.0,1473,1075.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,425.0,2000,1450.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,LASALGAON(VINCHUR),OTHER,500.0,1701,1370.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1550,1200.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-25,DINDORI(VANI),OTHER,901.0,1591,1321.0,,0,0,0,Krishna Ashtami,Mula,25,3,2022,12,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,LASALGAON(NIPHAD),OTHER,500.0,1425,1300.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,DEVALA,OTHER,250.0,1425,1225.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,SINNER,OTHER,300.0,1356,1250.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,SATANA,OTHER,265.0,1550,1230.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,DINDORI,OTHER,901.0,1591,1321.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,NANDGAON,OTHER,100.0,1470,1150.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,MANMAD,OTHER,200.0,1351,1200.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,CHANDVAD,OTHER,550.0,1775,1320.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,LASALGAON,OTHER,500.0,2001,1400.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,KALVAN,OTHER,500.0,1900,1150.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,420.0,1800,1350.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-26,NAMPUR,OTHER,300.0,1500,1300.0,,0,0,0,Krishna Navami,Purva Ashadha,26,3,2022,12,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-27,UMRANE,OTHER,1000.0,1600,1375.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Ashadha,27,3,2022,12,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,LASALGAON(VINCHUR),OTHER,500.0,1811,1375.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1602,1225.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,DINDORI(VANI),OTHER,800.0,1647,1351.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,LASALGAON(NIPHAD),OTHER,500.0,1475,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,DEVALA,OTHER,450.0,1535,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,SINNER,OTHER,300.0,1381,1250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,DINDORI,OTHER,800.0,1647,1351.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,NANDGAON,OTHER,100.0,1525,1150.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,MANMAD,OTHER,300.0,1471,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,CHANDVAD,OTHER,550.0,1700,1380.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,PIMPALGAON,OTHER,500.0,2000,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,LASALGAON,OTHER,551.0,2100,1451.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,NASIK,OTHER,350.0,1600,1000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,NAMPUR,OTHER,300.0,1465,1200.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,UMRANE,OTHER,1000.0,1600,1250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,400.0,1900,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-28,LASALGAON(VINCHUR),OTHER,500.0,1656,1400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shravana,28,3,2022,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1500,1175.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,LASALGAON(NIPHAD),OTHER,500.0,1470,1375.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,DEVALA,OTHER,200.0,1480,1300.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,SINNER,OTHER,300.0,1420,1250.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,SATANA,OTHER,200.0,1525,1260.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,34.8,0.0,No,No,Normal conditions
+2022-03-29,NANDGAON,OTHER,100.0,1500,1150.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,MANMAD,OTHER,200.0,1499,1300.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,CHANDVAD,OTHER,550.0,1750,1430.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,PIMPALGAON,OTHER,400.0,2116,1400.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,LASALGAON,OTHER,500.0,2080,1425.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,NASIK,OTHER,450.0,1701,1100.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,YEOLA,OTHER,326.0,1401,1150.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-29,NASIK,OTHER,400.0,1600,850.0,,0,0,0,Krishna Dwadashi,Dhanishtha,29,3,2022,13,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1500,1275.0,,0,0,0,Krishna Trayodashi,Shatabhisha,30,3,2022,13,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-30,DINDORI(VANI),OTHER,901.0,1701,1381.0,,0,0,0,Krishna Trayodashi,Shatabhisha,30,3,2022,13,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-03-31,LASALGAON(NIPHAD),OTHER,500.0,1521,1351.0,Chaitra Amavasya,1,0,0,Krishna Chaturdashi,Purva Bhadrapada,31,3,2022,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-01,DINDORI,OTHER,901.0,1701,1381.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,1,4,2022,13,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-01,KALVAN,OTHER,400.0,2020,1150.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,1,4,2022,13,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-01,MANMAD,OTHER,400.0,1661,1300.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,1,4,2022,13,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-01,CHANDVAD,OTHER,527.0,2000,1350.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,1,4,2022,13,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-01,PIMPALGAON,OTHER,400.0,2090,1450.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,1,4,2022,13,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,LASALGAON,OTHER,500.0,2001,1351.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,YEOLA,OTHER,362.0,1426,1150.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,DINDORI,OTHER,850.0,1851,1460.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,1780,1085.47,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,39.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,NAMPUR,OTHER,400.0,1515,1300.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,UMRANE,OTHER,1000.0,1552,1250.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,LASALGAON(VINCHUR),OTHER,600.0,1800,1400.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1700,1260.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,DINDORI(VANI),OTHER,850.0,1815,1460.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-02,LASALGAON(NIPHAD),OTHER,500.0,1500,1375.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,2,4,2022,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,DEVALA,OTHER,300.0,1500,1400.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,40.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,SINNER,OTHER,300.0,1465,1275.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,SATANA,OTHER,255.0,1580,1280.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,NANDGAON,OTHER,100.0,1536,1250.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,KALVAN,OTHER,350.0,1675,1050.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,MANMAD,OTHER,300.0,1468,1300.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,CHANDVAD,OTHER,550.0,1700,1360.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,PIMPALGAON,OTHER,500.0,2099,1475.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,LASALGAON,OTHER,500.0,2001,1400.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,NASIK,OTHER,300.0,1400,750.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,YEOLA,OTHER,355.0,1460,1150.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,YEOLA,OTHER,361.0,1451,1175.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,600.0,2000,1550.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,NAMPUR,OTHER,300.0,1525,1200.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,UMRANE,OTHER,1000.0,1671,1300.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1700,1230.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,LASALGAON(NIPHAD),OTHER,500.0,1480,1375.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,LASALGAON(VINCHUR),OTHER,600.0,1780,1425.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,DEVALA,OTHER,300.0,1700,1300.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,40.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-04,SINNER,OTHER,300.0,1386,1250.0,Chaitri Gaur begins,0,0,0,Shukla Tritiya,Bharani,4,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,NASIK,OTHER,250.0,1600,900.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,SATANA,OTHER,365.0,1655,1335.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,NANDGAON,OTHER,100.0,1517,1150.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,KALVAN,OTHER,400.0,1905,1200.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,MANMAD,OTHER,200.0,1490,1200.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,CHANDVAD,OTHER,522.0,1875,1430.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,PIMPALGAON,OTHER,500.0,2101,1400.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,LASALGAON,OTHER,500.0,2051,1400.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,NASIK,OTHER,275.0,1650,1050.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,350.0,1900,1520.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,1854,1178.73,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,NAMPUR,OTHER,300.0,1560,1200.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,UMRANE,OTHER,1000.0,1725,1350.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,LASALGAON(VINCHUR),OTHER,600.0,1815,1500.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1857,1240.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,DINDORI(VANI),OTHER,901.0,1845,1465.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,LASALGAON(NIPHAD),OTHER,500.0,1551,1400.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,DEVALA,OTHER,250.0,1650,1375.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-05,SINNER,OTHER,300.0,1383,1250.0,Rang Panchami,0,0,0,Shukla Chaturthi,Krittika,5,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,SATANA,OTHER,395.0,1605,1280.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,DINDORI,OTHER,901.0,1845,1465.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,NANDGAON,OTHER,125.0,1625,1250.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,KALVAN,OTHER,500.0,2275,1251.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,MANMAD,OTHER,400.0,1516,1350.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,CHANDVAD,OTHER,501.0,1650,1350.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,PIMPALGAON,OTHER,400.0,2100,1400.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,LASALGAON,OTHER,600.0,2112,1500.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,YEOLA,OTHER,400.0,1426,1100.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,300.0,2000,1560.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,1871,1169.62,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,NAMPUR,OTHER,400.0,1455,1250.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,UMRANE,OTHER,1000.0,1751,1300.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,LASALGAON(VINCHUR),OTHER,600.0,1716,1450.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,PIMPALGAON BASWANT(SAYKHEDA),RED,600.0,1425,1225.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1425,1225.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,DINDORI(VANI),OTHER,850.0,1785,1400.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,LASALGAON(NIPHAD),OTHER,500.0,1500,1400.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,DEVALA,OTHER,300.0,1600,1350.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,41.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,SINNER,OTHER,300.0,1381,1275.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,SATANA,OTHER,400.0,1715,1305.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-06,DINDORI,OTHER,850.0,1775,1400.0,Rang Panchami,0,0,0,Shukla Panchami,Rohini,6,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,NANDGAON,OTHER,100.0,1515,1250.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,KALVAN,OTHER,500.0,1905,1200.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,MANMAD,OTHER,400.0,1425,1300.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,CHANDVAD,OTHER,520.0,1781,1410.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,PIMPALGAON,OTHER,400.0,1988,1350.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,LASALGAON,OTHER,500.0,2100,1460.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,NASIK,OTHER,300.0,1675,1100.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,400.0,2000,1535.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,NAMPUR,OTHER,300.0,1485,1200.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,UMRANE,OTHER,1000.0,1750,1350.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,LASALGAON(VINCHUR),OTHER,600.0,1652,1450.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1651,1250.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,LASALGAON(NIPHAD),OTHER,500.0,1452,1370.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,DEVALA,OTHER,300.0,1575,1450.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,41.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,SINNER,OTHER,300.0,1451,1250.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,SATANA,OTHER,355.0,1805,1380.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,NANDGAON,OTHER,105.0,1510,1250.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,KALVAN,OTHER,400.0,2200,1250.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,MANMAD,OTHER,300.0,1520,1250.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,CHANDVAD,OTHER,500.0,1751,1350.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,PIMPALGAON,OTHER,400.0,2140,1400.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,LASALGAON,OTHER,551.0,2111,1451.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,NASIK,OTHER,400.0,1801,1300.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,YEOLA,OTHER,367.0,1431,1150.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-07,LASALGAON(VINCHUR),OTHER,600.0,1756,1450.0,,0,0,0,Shukla Shashthi,Mrigashira,7,4,2022,14,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,750.0,1800,1270.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,DINDORI(VANI),OTHER,901.0,1826,1447.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,LASALGAON(NIPHAD),OTHER,500.0,1500,1350.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,DINDORI,OTHER,1000.0,1401,1300.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,KALVAN,OTHER,350.0,1805,1251.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,MANMAD,OTHER,300.0,1503,1350.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,CHANDVAD,OTHER,521.0,1790,1330.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,PIMPALGAON,OTHER,350.0,2141,1350.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,LASALGAON,OTHER,500.0,2140,1451.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,NASIK,OTHER,300.0,1650,1100.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,YEOLA,OTHER,302.0,1357,1100.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,355.0,1258,1025.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,NAMPUR,OTHER,300.0,1505,1200.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,UMRANE,OTHER,1000.0,1800,1400.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,LASALGAON(VINCHUR),OTHER,600.0,1752,1500.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1826,1300.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,DINDORI(VANI),OTHER,850.0,1815,1470.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,LASALGAON(NIPHAD),OTHER,500.0,1521,1400.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-08,DEVALA,OTHER,350.0,1670,1450.0,,0,0,0,Shukla Saptami,Ardra,8,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,SINNER,OTHER,300.0,1475,1350.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,SATANA,OTHER,350.0,1730,1335.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,DINDORI,OTHER,1000.0,1401,1300.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,KALVAN,OTHER,350.0,1800,1351.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,MANMAD,OTHER,300.0,1701,1400.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,CHANDVAD,OTHER,525.0,1786,1360.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,PIMPALGAON,OTHER,475.0,2031,1350.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,LASALGAON,OTHER,651.0,2200,1551.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,NASIK,OTHER,400.0,1800,1250.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,YEOLA,OTHER,400.0,1441,1100.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1200.0,2005,1450.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,1881,1117.17,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,LASALGAON(VINCHUR),OTHER,600.0,1750,1460.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1400,1220.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,LASALGAON(NIPHAD),OTHER,601.0,1550,1425.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-09,DEVALA,OTHER,300.0,1550,1375.0,Ram Navami,0,0,0,Shukla Ashtami,Punarvasu,9,4,2022,14,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,SINNER,OTHER,300.0,1441,1300.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,YEOLA,OTHER,380.0,1554,1151.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,CHANDVAD,OTHER,590.0,1790,1450.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,PIMPALGAON,OTHER,400.0,2053,1400.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,LASALGAON,OTHER,651.0,2092,1475.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,NASIK,OTHER,450.0,1851,1300.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,2001,1132.08,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,YEOLA,OTHER,350.0,1500,1150.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,NASIK,OTHER,400.0,1751,1200.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,LASALGAON,OTHER,500.0,2145,1500.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,PIMPALGAON,OTHER,450.0,2125,1425.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,CHANDVAD,OTHER,560.0,1752,1450.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,MANMAD,OTHER,300.0,1601,1400.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,KALVAN,OTHER,400.0,2000,1375.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,NANDGAON,OTHER,200.0,1593,1350.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,SINNER,OTHER,300.0,1570,1375.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,DEVALA,OTHER,300.0,1685,1525.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,LASALGAON(NIPHAD),OTHER,500.0,1591,1451.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1500,1200.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,LASALGAON(VINCHUR),OTHER,600.0,1690,1500.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,NAMPUR,OTHER,300.0,1615,1300.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-11,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1150.0,2105,1550.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Ashlesha,11,4,2022,15,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,NASIK,OTHER,350.0,1711,1100.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,NANDGAON,OTHER,180.0,1715,1350.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,DINDORI,OTHER,850.0,1575,1425.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,SATANA,OTHER,425.0,1685,1325.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,SINNER,OTHER,300.0,1581,1375.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,DEVALA,OTHER,250.0,1600,1425.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,LASALGAON(NIPHAD),OTHER,500.0,1610,1450.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,DINDORI(VANI),OTHER,850.0,1575,1425.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,2200,1230.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,LASALGAON(VINCHUR),OTHER,600.0,1711,1500.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,UMRANE,OTHER,1000.0,1725,1300.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,NAMPUR,OTHER,300.0,1660,1300.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,1900,1224.28,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1200.0,2000,1540.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,KALVAN,OTHER,450.0,2205,1400.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,MANMAD,OTHER,300.0,1580,1400.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,CHANDVAD,OTHER,541.0,1801,1480.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,PIMPALGAON,OTHER,400.0,2005,1450.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-12,LASALGAON,OTHER,600.0,2100,1480.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Ashlesha,12,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,NASIK,OTHER,300.0,1600,850.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1200.0,2055,1525.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,2000,1197.86,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,NAMPUR,OTHER,300.0,1725,1300.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,UMRANE,OTHER,1000.0,1720,1350.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,LASALGAON(VINCHUR),OTHER,600.0,1616,1450.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1800,1250.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,LASALGAON(NIPHAD),OTHER,500.0,1600,1470.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,DEVALA,OTHER,200.0,1605,1450.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,40.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,SINNER,OTHER,300.0,1476,1350.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,SATANA,OTHER,400.0,1660,1355.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,NANDGAON,OTHER,100.0,1640,1350.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,KALVAN,OTHER,500.0,2100,1351.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,MANMAD,OTHER,200.0,1697,1450.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,CHANDVAD,OTHER,712.0,1751,1450.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,PIMPALGAON,OTHER,400.0,1960,1425.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,LASALGAON,OTHER,651.0,2100,1500.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-13,YEOLA,OTHER,382.0,1561,1250.0,,0,0,0,Shukla Dwadashi,Magha,13,4,2022,15,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-14,LASALGAON(NIPHAD),OTHER,500.0,1700,1475.0,"Dr. Ambedkar Jayanti, Mahavir Jayanti",0,0,0,Shukla Trayodashi,Purva Phalguni,14,4,2022,15,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1200.0,2000,1550.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,LASALGAON(VINCHUR),OTHER,600.0,1715,1500.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2052,1400.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,DINDORI(VANI),OTHER,900.0,1751,1461.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,DINDORI,OTHER,1000.0,1671,1450.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,KALVAN,OTHER,450.0,1845,1301.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,MANMAD,OTHER,300.0,1631,1400.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,CHANDVAD,OTHER,700.0,1700,1400.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,PIMPALGAON,OTHER,400.0,2025,1425.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,LASALGAON,OTHER,600.0,2174,1551.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,YEOLA,OTHER,418.0,1521,1225.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-15,YEOLA,OTHER,300.0,1601,1200.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima, Good Friday",0,0,1,Shukla Chaturdashi,Uttara Phalguni,15,4,2022,15,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,365.0,1350,988.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,SHREE RAMESHWAR KRUSHI MARKET,OTHER,400.0,1826,1147.1,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,NAMPUR,OTHER,400.0,1900,1400.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,UMRANE,OTHER,1000.0,1770,1300.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,LASALGAON(VINCHUR),OTHER,600.0,1800,1500.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,PIMPALGAON BASWANT(SAYKHEDA),OTHER,900.0,2100,1440.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,DINDORI(VANI),OTHER,850.0,1841,1475.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,LASALGAON(NIPHAD),OTHER,600.0,1751,1500.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-16,DEVALA,OTHER,100.0,1600,1350.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Hasta,16,4,2022,15,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,SINNER,OTHER,300.0,1439,1300.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,SATANA,OTHER,365.0,1805,1440.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,DINDORI,OTHER,1000.0,1687,1450.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,NANDGAON,OTHER,200.0,1580,1350.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,MANMAD,OTHER,200.0,1720,1500.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,CHANDVAD,OTHER,450.0,1780,1400.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,KALVAN,OTHER,600.0,1850,1300.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,PIMPALGAON,OTHER,500.0,2070,1451.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,LASALGAON,OTHER,600.0,2100,1510.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,NASIK,OTHER,250.0,1500,800.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,LASALGAON,OTHER,600.0,2120,1500.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1205.0,2000,1545.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,SHREE RAMESHWAR KRUSHI MARKET,OTHER,391.0,1851,1136.33,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,NAMPUR,OTHER,300.0,1800,300.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,UMRANE,OTHER,1000.0,1800,1350.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,LASALGAON(VINCHUR),OTHER,600.0,1861,1500.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2051,1350.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,DINDORI(VANI),OTHER,900.0,1958,1490.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,DEVALA,OTHER,300.0,1645,1450.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,SINNER,OTHER,300.0,1455,1350.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,SATANA,OTHER,325.0,1845,1415.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,DINDORI,OTHER,900.0,1958,1490.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-18,NANDGAON,OTHER,100.0,1666,1350.0,,0,0,0,Krishna Dwitiya,Vishakha,18,4,2022,16,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,KALVAN,OTHER,500.0,2005,1401.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,MANMAD,OTHER,500.0,1652,1400.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,MANMAD,OTHER,200.0,1652,1450.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,CHANDVAD,OTHER,607.0,1799,1450.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,PIMPALGAON,OTHER,425.0,2106,1500.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,NASIK,OTHER,250.0,1600,900.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,YEOLA,OTHER,300.0,1576,1150.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,LASALGAON(NIPHAD),OTHER,500.0,1610,1475.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1150.0,2200,1350.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,409.0,1300,954.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,NAMPUR,OTHER,300.0,1800,1300.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,2100,1300.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,DINDORI(VANI),OTHER,900.0,1936,1500.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,DEVALA,OTHER,300.0,1700,1575.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,SINNER,OTHER,300.0,1540,1425.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,DINDORI,OTHER,900.0,1936,1500.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,NANDGAON,OTHER,100.0,1600,1350.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,KALVAN,OTHER,400.0,2175,1425.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,MANMAD,OTHER,300.0,1821,1550.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,CHANDVAD,OTHER,500.0,1825,1450.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-19,PIMPALGAON,OTHER,450.0,2036,1500.0,,0,0,0,Krishna Tritiya,Anuradha,19,4,2022,16,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,YEOLA,OTHER,300.0,1491,1150.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1250.0,2105,1615.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,LASALGAON,OTHER,600.0,2200,1525.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,SHREE RAMESHWAR KRUSHI MARKET,OTHER,275.0,1850,1117.61,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,LASALGAON(VINCHUR),OTHER,600.0,1846,1550.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,LASALGAON(NIPHAD),OTHER,500.0,1647,1500.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,NASIK,OTHER,300.0,1700,1100.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,36.3,0.5,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,SATANA,OTHER,355.0,1750,1345.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,34.4,0.0,No,No,Normal conditions
+2022-04-20,KALVAN,OTHER,400.0,2190,1400.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,SINNER,OTHER,300.0,1526,1400.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,YEOLA,OTHER,300.0,1589,1175.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,NASIK,OTHER,275.0,1750,1150.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,36.3,0.5,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,LASALGAON,OTHER,651.0,2200,1550.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,PIMPALGAON,OTHER,400.0,2222,1550.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,CHANDVAD,OTHER,524.0,1880,1430.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,MANMAD,OTHER,200.0,1739,1400.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,KALVAN,OTHER,450.0,2001,1411.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,NANDGAON,OTHER,200.0,1505,1250.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,DINDORI,OTHER,1000.0,1665,1500.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,SATANA,OTHER,450.0,1675,1305.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,34.4,0.0,No,No,Normal conditions
+2022-04-20,DEVALA,OTHER,300.0,1625,1500.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,LASALGAON(NIPHAD),OTHER,500.0,1600,1500.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-20,DINDORI(VANI),OTHER,900.0,2136,1500.0,,0,0,0,Krishna Chaturthi,Jyeshtha,20,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,900.0,1900,1425.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,LASALGAON(VINCHUR),OTHER,600.0,1802,1520.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1100.0,2000,1525.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,NASIK,OTHER,300.0,1700,1100.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,LASALGAON,OTHER,600.0,2100,1551.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,PIMPALGAON,OTHER,480.0,2252,1575.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,CHANDVAD,OTHER,503.0,1833,1440.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,36.8,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,MANMAD,OTHER,350.0,1611,1400.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,KALVAN,OTHER,500.0,2000,1400.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,DINDORI,OTHER,900.0,2045,1561.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1250.0,2200,1550.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,LASALGAON(VINCHUR),OTHER,600.0,1830,1500.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,1904,1500.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,DINDORI(VANI),OTHER,900.0,2045,1561.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,LASALGAON(NIPHAD),OTHER,500.0,1751,1511.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,YEOLA,OTHER,251.0,1643,1200.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,LASALGAON,OTHER,600.0,2101,1500.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,YEOLA,OTHER,350.0,1671,1250.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,PIMPALGAON,OTHER,475.0,2211,1600.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,CHANDVAD,OTHER,580.0,1953,1480.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,36.8,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-04-21,MANMAD,OTHER,312.0,1525,1300.0,,0,0,0,Krishna Panchami,Mula,21,4,2022,16,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,KALVAN,OTHER,700.0,2040,1450.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,DINDORI,OTHER,1200.0,1803,1550.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,SATANA,OTHER,405.0,1750,1385.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,36.3,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,DEVALA,OTHER,300.0,1720,1450.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,LASALGAON(NIPHAD),OTHER,500.0,1751,1500.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,39.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,DINDORI(VANI),OTHER,950.0,2040,1550.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,2000,1470.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,NAMPUR,OTHER,300.0,1805,1400.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,411.0,1544,1058.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,39.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,LASALGAON,OTHER,600.0,2111,1570.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,39.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,YEOLA,OTHER,372.0,1676,1250.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,NASIK,OTHER,400.0,1850,1200.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,PIMPALGAON,OTHER,400.0,2201,1550.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,CHANDVAD,OTHER,525.0,2121,1530.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,37.3,1.8,Yes,No,Irrigation needed | Heat stress risk
+2022-04-22,MANMAD,OTHER,251.0,1602,1400.0,,0,0,0,Krishna Shashthi,Purva Ashadha,22,4,2022,16,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,KALVAN,OTHER,400.0,2150,1311.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,NANDGAON,OTHER,250.0,1743,1350.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,SATANA,OTHER,440.0,1705,1375.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,SINNER,OTHER,500.0,1600,1500.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,DEVALA,OTHER,300.0,1550,1450.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,LASALGAON(NIPHAD),OTHER,600.0,1811,1550.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,1901,1450.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,LASALGAON(VINCHUR),OTHER,500.0,1911,1580.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,NAMPUR,OTHER,300.0,1620,1400.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,SHREE RAMESHWAR KRUSHI MARKET,OTHER,411.0,1891,1215.11,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1300.0,2200,1650.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,LASALGAON,OTHER,600.0,2100,1570.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,39.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,PIMPALGAON,OTHER,400.0,2099,1500.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,MANMAD,OTHER,300.0,1675,1400.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-23,KALVAN,OTHER,450.0,2100,1400.0,,0,0,0,Krishna Saptami,Uttara Ashadha,23,4,2022,16,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,NANDGAON,OTHER,211.0,1700,1350.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,SINNER,OTHER,300.0,1580,1450.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,DEVALA,OTHER,400.0,1700,1550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,LASALGAON(NIPHAD),OTHER,500.0,1800,1550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,1950,1430.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,LASALGAON(VINCHUR),OTHER,500.0,1696,1550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,NAMPUR,OTHER,300.0,1620,1350.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,SHREE RAMESHWAR KRUSHI MARKET,OTHER,450.0,1900,1187.85,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1350.0,2200,1600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,NASIK,OTHER,350.0,1751,1150.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,YEOLA,OTHER,300.0,1631,1300.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,PIMPALGAON BASWANT(SAYKHEDA),OTHER,900.0,2051,1450.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,NASIK,OTHER,400.0,1801,1050.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,LASALGAON,OTHER,700.0,2200,1651.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,PIMPALGAON,OTHER,450.0,2212,1550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,CHANDVAD,OTHER,540.0,2200,1550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,MANMAD,OTHER,300.0,1801,1500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,KALVAN,OTHER,600.0,2351,1451.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-25,NANDGAON,OTHER,260.0,1650,1350.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Dhanishtha,25,4,2022,17,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,DINDORI,OTHER,1251.0,2030,1601.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,SATANA,OTHER,300.0,1865,1460.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,SINNER,OTHER,300.0,1595,1450.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,DEVALA,OTHER,400.0,1800,1650.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,40.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,LASALGAON(NIPHAD),OTHER,600.0,1830,1580.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,DINDORI(VANI),OTHER,1251.0,2030,1601.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,LASALGAON(VINCHUR),OTHER,500.0,1760,1600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,NAMPUR,OTHER,300.0,1815,1400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,SHREE RAMESHWAR KRUSHI MARKET,OTHER,401.0,1921,1212.99,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1255.0,2205,1550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,NASIK,OTHER,450.0,1901,1250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,PIMPALGAON,OTHER,450.0,2211,1550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,CHANDVAD,OTHER,511.0,2150,1490.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,MANMAD,OTHER,300.0,1900,1500.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,KALVAN,OTHER,500.0,2400,1451.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,NANDGAON,OTHER,200.0,1700,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-26,DINDORI,OTHER,900.0,2300,1700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Shatabhisha,26,4,2022,17,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,SATANA,OTHER,310.0,1765,1505.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,SINNER,OTHER,300.0,1618,1475.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,DEVALA,OTHER,250.0,1775,1575.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,LASALGAON(NIPHAD),OTHER,600.0,1799,1600.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,DINDORI(VANI),OTHER,900.0,2300,1700.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2100,1425.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,LASALGAON(VINCHUR),OTHER,500.0,1670,1550.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,NAMPUR,OTHER,300.0,1900,1500.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1250.0,2200,1550.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,YEOLA,OTHER,401.0,1750,1400.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,LASALGAON,OTHER,700.0,2200,1600.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,1900,1400.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,YEOLA,OTHER,351.0,1676,1350.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,NASIK,OTHER,300.0,1851,1150.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-27,LASALGAON,OTHER,700.0,2200,1580.0,,0,0,0,Krishna Dwadashi,Purva Bhadrapada,27,4,2022,17,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,PIMPALGAON,OTHER,400.0,2202,1550.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,CHANDVAD,OTHER,511.0,1850,1580.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,MANMAD,OTHER,200.0,1651,1400.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,DINDORI,OTHER,1000.0,1700,1550.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,LASALGAON(NIPHAD),OTHER,500.0,1851,1600.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,DINDORI(VANI),OTHER,1001.0,2500,1761.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,LASALGAON(VINCHUR),OTHER,500.0,1701,1550.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,501.0,1435,1247.26,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,514.0,1491,1241.39,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,NASIK,OTHER,350.0,2001,1300.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,YEOLA,OTHER,250.0,1800,1400.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,LASALGAON,OTHER,600.0,2120,1551.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,PIMPALGAON,OTHER,400.0,2400,1600.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,CHANDVAD,OTHER,555.0,1899,1520.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-28,MANMAD,OTHER,300.0,1711,1400.0,,0,0,0,Krishna Trayodashi,Uttara Bhadrapada,28,4,2022,17,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,KALVAN,OTHER,450.0,1800,1311.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,NANDGAON,OTHER,100.0,1652,1350.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,DINDORI,OTHER,751.0,2611,1751.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,SATANA,OTHER,240.0,1900,1550.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,SINNER,OTHER,300.0,1655,1400.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,DEVALA,OTHER,300.0,1800,1600.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,LASALGAON(NIPHAD),OTHER,500.0,1810,1550.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,DINDORI(VANI),OTHER,751.0,2611,1751.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1670,1340.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,LASALGAON(VINCHUR),OTHER,600.0,1801,1580.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,UMRANE,OTHER,1000.0,1700,1350.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,SHREE RAMESHWAR KRUSHI MARKET,OTHER,300.0,2012,1226.07,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1100.0,2200,1545.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,YEOLA,OTHER,325.0,1726,1350.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-29,NASIK,OTHER,250.0,1601,1050.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Revati,29,4,2022,17,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-30,LASALGAON,OTHER,600.0,2251,1600.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Ashwini,30,4,2022,17,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-30,PIMPALGAON,OTHER,400.0,2505,1550.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Ashwini,30,4,2022,17,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-04-30,CHANDVAD,OTHER,503.0,1801,1420.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Ashwini,30,4,2022,17,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,MANMAD,OTHER,200.0,1610,1300.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,MANMAD,OTHER,200.0,1610,1400.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,KALVAN,OTHER,400.0,2400,1411.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,36.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,NANDGAON,OTHER,100.0,1718,1350.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,DINDORI,OTHER,750.0,2222,1600.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,SATANA,OTHER,265.0,1775,1400.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,SINNER,OTHER,200.0,1550,1350.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,DEVALA,OTHER,300.0,1600,1480.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,LASALGAON(NIPHAD),OTHER,500.0,1850,1550.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,DINDORI(VANI),OTHER,750.0,2222,1600.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1644,1300.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-02,LASALGAON(VINCHUR),OTHER,500.0,1880,1580.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Krittika,2,5,2022,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-03,UMRANE,OTHER,1000.0,2011,1500.0,"Parashurama Jayanti, Id-ul-Fitr",0,0,0,Shukla Tritiya,Rohini,3,5,2022,18,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-03,NAMPUR,OTHER,200.0,1780,1500.0,"Parashurama Jayanti, Id-ul-Fitr",0,0,0,Shukla Tritiya,Rohini,3,5,2022,18,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-03,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,306.0,1337,1022.15,"Parashurama Jayanti, Id-ul-Fitr",0,0,0,Shukla Tritiya,Rohini,3,5,2022,18,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,YEOLA,OTHER,200.0,1652,1200.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,LASALGAON(VINCHUR),OTHER,500.0,1690,1500.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,564.0,1605,1229.06,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,NAMPUR,OTHER,200.0,2100,1500.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,UMRANE,OTHER,1000.0,2051,1500.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1600,1320.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,LASALGAON(NIPHAD),OTHER,500.0,1752,1500.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,DEVALA,OTHER,200.0,1700,1475.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,41.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,SINNER,OTHER,300.0,1630,1450.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,SATANA,OTHER,200.0,1870,1505.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-04,DINDORI,OTHER,850.0,2291,1651.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Mrigashira,4,5,2022,18,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,NANDGAON,OTHER,100.0,1600,1250.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,KALVAN,OTHER,500.0,2055,1351.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,MANMAD,OTHER,200.0,1700,1400.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,CHANDVAD,OTHER,501.0,1831,1330.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1100.0,2200,1525.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,PIMPALGAON,OTHER,400.0,2590,1650.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,LASALGAON,OTHER,600.0,2201,1540.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,NASIK,OTHER,250.0,1750,1100.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,LASALGAON,OTHER,600.0,2201,1620.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,UMRANE,OTHER,1000.0,1870,1500.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,LASALGAON(VINCHUR),OTHER,500.0,1720,1550.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,1900,1370.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,DINDORI(VANI),OTHER,800.0,2231,1650.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-05,LASALGAON(NIPHAD),OTHER,600.0,1860,1560.0,,0,0,0,Shukla Chaturthi,Ardra,5,5,2022,18,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,DEVALA,OTHER,200.0,1540,1425.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,SINNER,OTHER,300.0,1600,1400.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,SATANA,OTHER,255.0,1855,1490.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,DINDORI,OTHER,800.0,2231,1650.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,NANDGAON,OTHER,100.0,1551,1350.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,KALVAN,OTHER,350.0,1990,1311.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,MANMAD,OTHER,200.0,1850,1500.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,CHANDVAD,OTHER,503.0,1951,1420.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,PIMPALGAON,OTHER,400.0,2513,1650.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,NASIK,OTHER,275.0,1800,1200.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,422.0,1253,948.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-06,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1050.0,2300,1900.0,,0,0,0,Shukla Panchami,Ardra,6,5,2022,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1050.0,2300,1900.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,256.0,1230,841.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,NAMPUR,OTHER,200.0,1840,1500.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,UMRANE,OTHER,1000.0,1800,1350.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,YEOLA,OTHER,150.0,1559,1225.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1700,1230.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-07,LASALGAON(VINCHUR),OTHER,600.0,1870,1600.0,,0,0,0,Shukla Shashthi,Punarvasu,7,5,2022,18,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,LASALGAON,OTHER,700.0,2152,1600.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,PIMPALGAON,OTHER,600.0,2400,1500.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,CHANDVAD,OTHER,501.0,1953,1370.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,MANMAD,OTHER,200.0,1750,1300.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,41.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,KALVAN,OTHER,400.0,2400,1400.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,NANDGAON,OTHER,100.0,1701,1350.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,42.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,DINDORI,OTHER,900.0,2461,1700.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,SATANA,OTHER,200.0,1880,1525.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,SINNER,OTHER,300.0,1675,1550.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,DEVALA,OTHER,200.0,1710,1550.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,42.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,LASALGAON(NIPHAD),OTHER,600.0,1865,1600.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,NASIK,OTHER,300.0,2000,1500.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,DINDORI(VANI),OTHER,900.0,2461,1700.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-09,LASALGAON,OTHER,600.0,2208,1601.0,,0,0,0,Shukla Ashtami,Ashlesha,9,5,2022,19,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,YEOLA,OTHER,200.0,1626,1200.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,41.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,NASIK,OTHER,350.0,2001,1300.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.0,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,PIMPALGAON,OTHER,550.0,2390,1580.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,CHANDVAD,OTHER,440.0,2085,1480.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,MANMAD,OTHER,250.0,2000,1500.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,KALVAN,OTHER,500.0,2215,1401.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,DINDORI,OTHER,1000.0,1800,1600.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,LASALGAON(NIPHAD),OTHER,500.0,1950,1651.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,DINDORI(VANI),OTHER,950.0,2351,1750.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2050,1320.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,LASALGAON(VINCHUR),OTHER,500.0,2001,1600.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,41.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,155.0,1696,1446.79,,0,0,0,Shukla Navami,Magha,10,5,2022,19,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1250.0,2500,1450.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-10,NAMPUR,OTHER,200.0,1840,1500.0,,0,0,0,Shukla Navami,Magha,10,5,2022,19,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,UMRANE,OTHER,800.0,1751,1250.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,LASALGAON(VINCHUR),OTHER,500.0,2021,1600.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1721,1370.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,DINDORI(VANI),OTHER,900.0,2251,1650.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,LASALGAON(NIPHAD),OTHER,500.0,2000,1700.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,DEVALA,OTHER,200.0,1835,1600.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,42.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,SINNER,OTHER,500.0,1770,1600.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,DINDORI,OTHER,950.0,2351,1750.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,KALVAN,OTHER,500.0,2205,1350.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,MANMAD,OTHER,200.0,1781,1500.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,CHANDVAD,OTHER,552.0,2214,1530.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,PIMPALGAON,OTHER,585.0,2508,1650.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,511.0,1693,1308.27,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,LASALGAON,OTHER,600.0,2100,1600.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-11,NASIK,OTHER,325.0,2211,1450.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Purva Phalguni,11,5,2022,19,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-12,YEOLA,OTHER,200.0,1551,1200.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Uttara Phalguni,12,5,2022,19,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-12,SHREE RAMESHWAR KRUSHI MARKET,OTHER,252.0,2260,1226.01,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Uttara Phalguni,12,5,2022,19,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-12,LASALGAON,OTHER,700.0,2082,1600.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Uttara Phalguni,12,5,2022,19,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,YEOLA,OTHER,300.0,1615,1325.0,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,NASIK,OTHER,300.0,1875,1211.0,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1100.0,2500,1265.0,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,500.0,1700,1273.14,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,SHREE RAMESHWAR KRUSHI MARKET,OTHER,101.0,2100,1213.02,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,NAMPUR,OTHER,200.0,2251,1600.0,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,UMRANE,OTHER,1000.0,2451,1650.0,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-13,LASALGAON(VINCHUR),OTHER,500.0,2080,1600.0,,0,0,0,Shukla Dwadashi,Hasta,13,5,2022,19,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,1616,1350.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,DINDORI(VANI),OTHER,1050.0,2550,1850.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,DEVALA,OTHER,200.0,2000,1600.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,SINNER,OTHER,500.0,1750,1500.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,36.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,SATANA,OTHER,225.0,1885,1475.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,DINDORI,OTHER,1050.0,2550,1850.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,NANDGAON,OTHER,100.0,1715,1350.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,40.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-14,KALVAN,OTHER,500.0,2400,1351.0,,0,0,0,Shukla Trayodashi,Chitra,14,5,2022,19,36.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,MANMAD,OTHER,200.0,1900,1500.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,CHANDVAD,OTHER,430.0,2037,1500.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,PIMPALGAON,OTHER,500.0,2551,1651.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,SATANA,OTHER,200.0,1765,1475.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,35.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1100.0,2500,1350.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,581.0,1700,1255.31,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-16,NAMPUR,OTHER,200.0,1930,1500.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,16,5,2022,20,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,UMRANE,OTHER,1000.0,2151,1350.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,LASALGAON(VINCHUR),OTHER,500.0,1921,1600.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,PIMPALGAON BASWANT(SAYKHEDA),OTHER,800.0,2100,1340.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,36.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,LASALGAON(NIPHAD),OTHER,551.0,1921,1630.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,DEVALA,OTHER,100.0,2100,1650.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,SINNER,OTHER,300.0,1701,1450.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,NANDGAON,OTHER,100.0,1811,1450.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,KALVAN,OTHER,400.0,2401,2401.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,MANMAD,OTHER,200.0,1801,1500.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,CHANDVAD,OTHER,526.0,2101,1460.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,PIMPALGAON,OTHER,540.0,2476,1550.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,LASALGAON,OTHER,700.0,2111,1620.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,NASIK,OTHER,350.0,1851,1200.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-17,YEOLA,OTHER,200.0,1741,1200.0,,0,0,0,Krishna Pratipada,Anuradha,17,5,2022,20,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,LASALGAON(NIPHAD),OTHER,600.0,2000,1651.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1100.0,2600,1550.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,551.0,2200,1979.67,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,SHREE RAMESHWAR KRUSHI MARKET,OTHER,251.0,2521,1251.31,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,UMRANE,OTHER,1000.0,2020,1350.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,LASALGAON(VINCHUR),OTHER,500.0,2000,1550.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2100,1350.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,DEVALA,OTHER,200.0,1755,1550.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,SINNER,OTHER,300.0,1720,1500.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,SATANA,OTHER,200.0,1860,1550.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,35.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,KALVAN,OTHER,500.0,2351,1401.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,MANMAD,OTHER,200.0,1801,1500.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,CHANDVAD,OTHER,500.0,2300,1480.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,PIMPALGAON,OTHER,525.0,2425,1600.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-18,LASALGAON,OTHER,600.0,2112,1600.0,,0,0,0,Krishna Tritiya,Jyeshtha,18,5,2022,20,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1200.0,2500,1450.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,540.0,1901,1067.74,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,NAMPUR,OTHER,200.0,1825,1400.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,UMRANE,OTHER,1000.0,2100,1350.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,LASALGAON(VINCHUR),OTHER,500.0,1900,1520.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2100,1370.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,DEVALA,OTHER,200.0,1755,1575.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,LASALGAON(NIPHAD),OTHER,600.0,1910,1600.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,SINNER,OTHER,300.0,1610,1400.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,SATANA,OTHER,255.0,2005,1540.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,KALVAN,OTHER,500.0,2400,1400.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,MANMAD,OTHER,200.0,1801,1300.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,CHANDVAD,OTHER,412.0,2350,1480.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,PIMPALGAON,OTHER,550.0,2601,1650.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-19,LASALGAON,OTHER,700.0,2160,1600.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,19,5,2022,20,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,NASIK,OTHER,250.0,1500,900.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,YEOLA,OTHER,160.0,1686,1350.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,LASALGAON,OTHER,501.0,2101,1450.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1000.0,2500,1725.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,850.0,1602,1193.35,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1671,1350.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,LASALGAON(NIPHAD),OTHER,600.0,1750,1431.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,KALVAN,OTHER,350.0,1911,1151.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,36.2,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,PIMPALGAON,OTHER,531.0,2506,1600.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,NASIK,OTHER,200.0,1601,1100.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,NASIK,OTHER,300.0,1551,1050.0,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,500.0,1628,1108.15,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-20,SHREE RAMESHWAR KRUSHI MARKET,OTHER,151.0,2002,1045.19,,0,0,0,Krishna Panchami,Uttara Ashadha,20,5,2022,20,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-21,NAMPUR,OTHER,100.0,2300,1600.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,36.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-21,LASALGAON(VINCHUR),OTHER,500.0,1700,1460.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1625,1300.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,34.5,0.0,No,No,Normal conditions
+2022-05-21,DINDORI(VANI),OTHER,1000.0,2551,1801.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,34.8,0.0,No,No,Normal conditions
+2022-05-21,LASALGAON(NIPHAD),OTHER,600.0,1700,1400.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-21,DEVALA,OTHER,150.0,1730,1450.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-21,SINNER,OTHER,100.0,1391,1250.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,33.7,0.0,No,No,Normal conditions
+2022-05-21,DINDORI,OTHER,1000.0,2551,1750.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,34.8,0.0,No,No,Normal conditions
+2022-05-21,KALVAN,OTHER,400.0,1750,1111.0,,0,0,0,Krishna Shashthi,Shravana,21,5,2022,20,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,MANMAD,OTHER,200.0,1650,1300.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,CHANDVAD,OTHER,400.0,2400,1480.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,34.5,0.0,No,No,Normal conditions
+2022-05-23,PIMPALGAON,OTHER,400.0,2576,1600.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,35.0,0.0,No,No,Normal conditions
+2022-05-23,LASALGAON,OTHER,600.0,2101,1475.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,36.0,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,YEOLA,OTHER,150.0,1475,1125.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1150.0,2300,1250.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,NAMPUR,OTHER,100.0,1675,1200.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,LASALGAON(VINCHUR),OTHER,500.0,1700,1440.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,36.0,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1451,1250.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,34.3,0.0,No,No,Normal conditions
+2022-05-23,DINDORI(VANI),OTHER,980.0,2451,1660.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,34.7,0.0,No,No,Normal conditions
+2022-05-23,DEVALA,OTHER,150.0,1625,1425.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-23,SINNER,OTHER,100.0,1390,1200.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,33.7,0.0,No,No,Normal conditions
+2022-05-23,SATANA,OTHER,150.0,1830,1270.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,33.2,0.0,No,No,Normal conditions
+2022-05-23,DINDORI,OTHER,980.0,2451,1660.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,34.7,0.0,No,No,Normal conditions
+2022-05-23,NANDGAON,OTHER,100.0,1881,1250.0,,0,0,0,Krishna Ashtami,Shatabhisha,23,5,2022,21,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,KALVAN,OTHER,400.0,1850,1151.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,34.3,0.0,No,No,Normal conditions
+2022-05-24,MANMAD,OTHER,200.0,1801,1300.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,CHANDVAD,OTHER,370.0,1970,1410.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,34.2,0.0,No,No,Normal conditions
+2022-05-24,PIMPALGAON,OTHER,650.0,2512,1550.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,34.5,0.3,No,No,Normal conditions
+2022-05-24,LASALGAON,OTHER,651.0,2101,1451.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,35.5,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,NASIK,OTHER,250.0,1500,850.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,34.0,0.7,No,No,Normal conditions
+2022-05-24,YEOLA,OTHER,100.0,1525,1100.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,36.0,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,900.0,2200,1560.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,34.8,0.1,No,No,Normal conditions
+2022-05-24,NAMPUR,OTHER,100.0,1495,1200.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,LASALGAON(VINCHUR),OTHER,500.0,1821,1400.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,35.5,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1500,1225.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,34.2,0.3,No,No,Normal conditions
+2022-05-24,LASALGAON(NIPHAD),OTHER,500.0,1740,1400.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,35.5,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,DEVALA,OTHER,100.0,1700,1425.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-24,SINNER,OTHER,100.0,1490,1050.0,,0,0,0,Krishna Navami,Purva Bhadrapada,24,5,2022,21,33.1,0.0,No,No,Normal conditions
+2022-05-25,SATANA,OTHER,150.0,1695,1210.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,33.7,0.0,No,No,Normal conditions
+2022-05-25,NANDGAON,OTHER,100.0,1500,1150.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,MANMAD,OTHER,200.0,1603,1300.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,CHANDVAD,OTHER,426.0,2002,1350.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,PIMPALGAON,OTHER,525.0,2530,1500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,LASALGAON,OTHER,600.0,2020,1420.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1000.0,2105,1525.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,UMRANE,OTHER,900.0,1800,1500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,LASALGAON(VINCHUR),OTHER,500.0,1752,1360.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1350,1050.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,34.3,0.0,No,No,Normal conditions
+2022-05-25,DINDORI(VANI),OTHER,801.0,2331,1451.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,34.9,0.0,No,No,Normal conditions
+2022-05-25,LASALGAON(NIPHAD),OTHER,500.0,1800,1400.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,DEVALA,OTHER,100.0,1700,1350.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-25,SINNER,OTHER,100.0,1434,1050.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Uttara Bhadrapada,25,5,2022,21,34.7,0.0,No,No,Normal conditions
+2022-05-26,SATANA,OTHER,200.0,1700,1215.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,33.4,0.0,No,No,Normal conditions
+2022-05-26,DINDORI,OTHER,801.0,2331,1451.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,34.8,0.0,No,No,Normal conditions
+2022-05-26,KALVAN,OTHER,400.0,1900,1151.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,MANMAD,OTHER,200.0,1570,1300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,CHANDVAD,OTHER,412.0,1801,1280.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,35.0,0.0,No,No,Normal conditions
+2022-05-26,PIMPALGAON,OTHER,600.0,2381,1425.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,LASALGAON,OTHER,500.0,2000,1400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,NASIK,OTHER,300.0,1400,950.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,34.5,0.0,No,No,Normal conditions
+2022-05-26,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,950.0,2150,1250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,SHREE RAMESHWAR KRUSHI MARKET,OTHER,100.0,1902,787.9,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,36.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,NAMPUR,OTHER,200.0,1615,1200.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,UMRANE,OTHER,700.0,1661,1300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,34.9,0.0,No,No,Normal conditions
+2022-05-26,LASALGAON(VINCHUR),OTHER,500.0,1500,1300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-26,YEOLA,OTHER,150.0,1400,950.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Revati,26,5,2022,21,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-27,NASIK,OTHER,350.0,1500,1000.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,33.8,0.0,No,No,Normal conditions
+2022-05-27,LASALGAON,OTHER,500.0,1952,1350.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,34.7,0.0,No,No,Normal conditions
+2022-05-27,PIMPALGAON,OTHER,600.0,2501,1450.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,33.8,0.0,No,No,Normal conditions
+2022-05-27,CHANDVAD,OTHER,300.0,1825,1100.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,33.5,0.0,No,No,Normal conditions
+2022-05-27,MANMAD,OTHER,200.0,1601,1300.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,34.5,0.0,No,No,Normal conditions
+2022-05-27,KALVAN,OTHER,300.0,1935,1100.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,33.9,0.0,No,No,Normal conditions
+2022-05-27,NANDGAON,OTHER,100.0,1511,1150.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,35.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-27,DINDORI,OTHER,800.0,2051,1401.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,33.7,0.0,No,No,Normal conditions
+2022-05-27,SATANA,OTHER,100.0,1620,1155.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,32.2,0.0,No,No,Normal conditions
+2022-05-27,SINNER,OTHER,100.0,1320,1050.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,33.1,0.0,No,No,Normal conditions
+2022-05-27,DEVALA,OTHER,100.0,1680,1400.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-27,LASALGAON(NIPHAD),OTHER,600.0,1652,1300.0,,0,0,0,Krishna Dwadashi,Ashwini,27,5,2022,21,34.7,0.0,No,No,Normal conditions
+2022-05-28,DINDORI(VANI),OTHER,800.0,2051,1401.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,33.9,0.0,No,No,Normal conditions
+2022-05-28,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1425,1130.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,33.5,0.0,No,No,Normal conditions
+2022-05-28,LASALGAON,OTHER,600.0,1920,1380.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-28,YEOLA,OTHER,150.0,1500,1100.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,35.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-28,NASIK,OTHER,700.0,1800,1300.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,33.8,0.0,No,No,Normal conditions
+2022-05-28,PIMPALGAON,OTHER,650.0,2251,1450.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,34.1,0.0,No,No,Normal conditions
+2022-05-28,CHANDVAD,OTHER,400.0,1741,1110.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,34.0,0.0,No,No,Normal conditions
+2022-05-28,KALVAN,OTHER,400.0,1930,1175.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,34.1,0.0,No,No,Normal conditions
+2022-05-28,DINDORI,OTHER,780.0,1901,1275.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,28,5,2022,21,33.9,0.0,No,No,Normal conditions
+2022-05-30,LASALGAON(NIPHAD),OTHER,600.0,1520,1300.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-30,DINDORI(VANI),OTHER,780.0,1901,1275.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,34.8,0.0,No,No,Normal conditions
+2022-05-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1411,1100.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,33.9,0.0,No,No,Normal conditions
+2022-05-30,LASALGAON(VINCHUR),OTHER,500.0,1652,1300.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-30,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1150.0,2105,1250.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-30,YEOLA,OTHER,200.0,1460,1050.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-30,UMRANE,OTHER,800.0,1676,1300.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,34.8,0.1,No,No,Normal conditions
+2022-05-30,LASALGAON(VINCHUR),OTHER,500.0,1700,1400.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1451,1150.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,33.9,0.0,No,No,Normal conditions
+2022-05-30,DINDORI(VANI),OTHER,800.0,1900,1400.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Krittika,30,5,2022,22,34.8,0.0,No,No,Normal conditions
+2022-05-31,LASALGAON(NIPHAD),OTHER,500.0,2001,1400.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,DEVALA,OTHER,200.0,1725,1470.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,SINNER,OTHER,200.0,1470,1100.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,SATANA,OTHER,250.0,1655,1105.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,33.5,0.0,No,No,Normal conditions
+2022-05-31,DINDORI,OTHER,800.0,1900,1400.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,35.3,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,NAMPUR,OTHER,200.0,1525,1100.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,NANDGAON,OTHER,100.0,1499,1250.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,KALVAN,OTHER,400.0,1755,1100.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,35.6,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,MANMAD,OTHER,300.0,1501,1100.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,CHANDVAD,OTHER,300.0,1611,1150.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,PIMPALGAON,OTHER,400.0,2251,1500.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,LASALGAON,OTHER,700.0,1961,1400.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-05-31,NASIK,OTHER,275.0,1451,950.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,34.8,0.1,No,No,Normal conditions
+2022-05-31,CHANDVAD,OTHER,400.0,1740,1300.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Rohini,31,5,2022,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1150.0,2205,1450.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,36.7,4.6,Yes,No,Normal conditions
+2022-06-01,NAMPUR,OTHER,200.0,1880,1300.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,UMRANE,OTHER,700.0,1616,1200.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,36.7,0.6,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,LASALGAON(VINCHUR),OTHER,500.0,1801,1400.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,37.5,4.9,Yes,No,Normal conditions
+2022-06-01,PIMPALGAON BASWANT(SAYKHEDA),OTHER,750.0,1651,1200.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,36.1,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,DINDORI(VANI),OTHER,850.0,1950,1480.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,36.9,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,LASALGAON(NIPHAD),OTHER,570.0,1700,1441.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,37.5,4.9,Yes,No,Normal conditions
+2022-06-01,DEVALA,OTHER,200.0,1695,1450.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,39.3,1.9,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,SINNER,OTHER,200.0,1531,1300.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,35.8,4.7,Yes,No,Normal conditions
+2022-06-01,SATANA,OTHER,350.0,1800,1350.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,34.7,0.0,No,No,Normal conditions
+2022-06-01,DINDORI,OTHER,850.0,1950,1480.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,36.9,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-06-01,NANDGAON,OTHER,100.0,1621,1150.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Mrigashira,1,6,2022,22,38.2,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,KALVAN,OTHER,300.0,1835,1150.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,36.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,MANMAD,OTHER,321.0,1560,1300.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,PIMPALGAON,OTHER,400.0,2300,1500.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,LASALGAON,OTHER,700.0,1930,1400.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,NASIK,OTHER,300.0,1550,1000.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,34.2,0.0,No,No,Normal conditions
+2022-06-02,YEOLA,OTHER,150.0,1425,1050.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,NASIK,OTHER,400.0,1500,950.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,34.2,0.0,No,No,Normal conditions
+2022-06-02,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,301.0,1151,712.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-02,NAMPUR,OTHER,255.0,1710,1100.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Ardra,2,6,2022,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,UMRANE,OTHER,700.0,1640,1250.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,LASALGAON(VINCHUR),OTHER,500.0,1625,1350.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,1520,1125.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,DINDORI(VANI),OTHER,800.0,2160,1450.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,LASALGAON(NIPHAD),OTHER,600.0,1620,1341.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,DEVALA,OTHER,200.0,1625,1400.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,SATANA,OTHER,275.0,1635,1275.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,34.8,0.0,No,No,Normal conditions
+2022-06-03,DINDORI,OTHER,800.0,2160,1450.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-03,NANDGAON,OTHER,100.0,1616,1250.0,,0,0,0,Shukla Chaturthi,Punarvasu,3,6,2022,22,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,KALVAN,OTHER,400.0,2100,1151.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,MANMAD,OTHER,315.0,1500,1300.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,YEOLA,OTHER,300.0,1469,1050.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,CHANDVAD,OTHER,300.0,1726,1280.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,PIMPALGAON,OTHER,550.0,2300,1500.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,LASALGAON,OTHER,700.0,1960,1375.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,NAMPUR,OTHER,100.0,1615,1100.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,800.0,2100,1425.0,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-04,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,501.0,1603,1283.17,,0,0,0,Shukla Panchami,Pushya,4,6,2022,22,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1602,913.47,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,37.3,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,UMRANE,OTHER,800.0,1640,1350.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,37.6,0.9,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,LASALGAON(VINCHUR),OTHER,500.0,1626,1300.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,37.2,0.4,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,1553,1100.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,35.5,0.6,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,LASALGAON(NIPHAD),OTHER,600.0,1700,1300.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,37.2,0.4,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,DEVALA,OTHER,150.0,1485,1270.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,40.4,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,SATANA,OTHER,250.0,1625,1240.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,35.0,0.0,No,No,Normal conditions
+2022-06-06,DINDORI,OTHER,1000.0,1730,1440.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,36.0,0.5,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,NANDGAON,OTHER,100.0,1551,1050.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,KALVAN,OTHER,500.0,1935,1100.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-06,MANMAD,OTHER,200.0,1502,1200.0,,0,0,0,Shukla Shashthi,Magha,6,6,2022,23,39.0,1.4,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,PIMPALGAON,OTHER,550.0,2211,1450.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,35.2,0.8,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,LASALGAON,OTHER,600.0,1881,1351.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,35.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,NASIK,OTHER,350.0,1451,800.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,34.3,1.8,No,No,Normal conditions
+2022-06-07,YEOLA,OTHER,100.0,1421,950.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,37.8,0.9,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,1150.0,2105,1310.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,34.5,1.1,No,No,Normal conditions
+2022-06-07,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,911.0,1300,1045.86,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,35.4,0.6,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,NAMPUR,OTHER,100.0,1490,1000.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,UMRANE,OTHER,700.0,1580,1200.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,36.4,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,LASALGAON(VINCHUR),OTHER,500.0,1600,1200.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,35.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,650.0,1500,1050.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,34.0,1.2,No,No,Normal conditions
+2022-06-07,DINDORI(VANI),OTHER,750.0,1900,1350.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,34.8,1.0,No,No,Normal conditions
+2022-06-07,LASALGAON(NIPHAD),OTHER,600.0,1453,1175.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,35.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,DEVALA,OTHER,100.0,1405,1225.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,40.0,0.2,Yes,No,Irrigation needed | Heat stress risk
+2022-06-07,SINNER,OTHER,200.0,1440,1260.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,33.2,2.0,No,No,Normal conditions
+2022-06-07,SATANA,OTHER,200.0,1465,1055.0,,0,0,0,Shukla Saptami,Purva Phalguni,7,6,2022,23,34.2,0.4,No,No,Normal conditions
+2022-06-08,DINDORI,OTHER,1000.0,1688,1450.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.0,0.2,No,No,Normal conditions
+2022-06-08,NANDGAON,OTHER,100.0,1451,850.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,38.2,11.4,Yes,Moderate,Good moisture
+2022-06-08,KALVAN,OTHER,500.0,1925,1111.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.5,0.7,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,CHANDVAD,OTHER,300.0,1561,1100.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.6,1.1,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,PIMPALGAON,OTHER,550.0,2176,1400.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.8,0.5,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,LASALGAON,OTHER,600.0,1717,1200.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.7,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,NASIK,OTHER,400.0,1600,950.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.4,3.6,Yes,No,Normal conditions
+2022-06-08,PIMPALGAON,OTHER,500.0,1999,1275.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.8,0.5,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,850.0,1805,1250.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,36.0,0.6,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,LASALGAON(VINCHUR),OTHER,500.0,1452,1150.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.7,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,675.0,1356,1025.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,34.8,0.5,No,No,Normal conditions
+2022-06-08,DINDORI(VANI),OTHER,650.0,1800,1300.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.0,0.2,No,No,Normal conditions
+2022-06-08,LASALGAON(NIPHAD),OTHER,500.0,1325,1125.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.7,0.3,Yes,No,Irrigation needed | Heat stress risk
+2022-06-08,DINDORI,OTHER,1000.0,1625,1300.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,8,6,2022,23,35.0,0.2,No,No,Normal conditions
+2022-06-09,MANMAD,OTHER,200.0,1361,1100.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.6,6.4,Yes,Moderate,Good moisture
+2022-06-09,CHANDVAD,OTHER,317.0,1446,980.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.0,1.6,Yes,No,Irrigation needed | Heat stress risk
+2022-06-09,LASALGAON,OTHER,600.0,1612,1200.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.8,6.1,Yes,Moderate,Good moisture
+2022-06-09,NASIK,OTHER,250.0,1200,700.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.2,6.1,Yes,Moderate,Good moisture
+2022-06-09,YEOLA,OTHER,100.0,1367,850.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,38.0,13.1,Yes,Moderate,Good moisture
+2022-06-09,LASALGAON,OTHER,500.0,1601,1150.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.8,6.1,Yes,Moderate,Good moisture
+2022-06-09,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,387.0,1221,828.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.8,6.1,Yes,Moderate,Good moisture
+2022-06-09,NAMPUR,OTHER,100.0,1440,1200.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.8,0.8,Yes,No,Irrigation needed | Heat stress risk
+2022-06-09,YEOLA,OTHER,100.0,1325,800.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,38.0,13.1,Yes,Moderate,Good moisture
+2022-06-09,LASALGAON(VINCHUR),OTHER,500.0,1525,1150.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.8,6.1,Yes,Moderate,Good moisture
+2022-06-09,PIMPALGAON BASWANT(SAYKHEDA),OTHER,650.0,1270,950.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.0,4.6,Yes,No,Normal conditions
+2022-06-09,LASALGAON(NIPHAD),OTHER,500.0,1380,1100.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,36.8,6.1,Yes,Moderate,Good moisture
+2022-06-09,DEVALA,OTHER,100.0,1365,1180.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,38.8,8.2,Yes,Moderate,Good moisture
+2022-06-09,SINNER,OTHER,200.0,1269,1000.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,35.0,4.4,No,No,Normal conditions
+2022-06-09,SATANA,OTHER,150.0,1415,1020.0,,0,0,0,Shukla Navami,Hasta,9,6,2022,23,34.8,1.5,No,No,Normal conditions
+2022-06-10,DINDORI,OTHER,650.0,1800,1300.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,32.7,1.2,No,No,Normal conditions
+2022-06-10,KALVAN,OTHER,300.0,1500,1075.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,33.9,3.7,No,No,Normal conditions
+2022-06-10,MANMAD,OTHER,200.0,1450,1100.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,34.0,2.0,No,No,Normal conditions
+2022-06-10,NASIK,OTHER,300.0,1275,720.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,32.8,4.3,No,No,Normal conditions
+2022-06-10,CHANDVAD,OTHER,300.0,1471,980.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,33.5,8.1,No,Moderate,Good moisture
+2022-06-10,PIMPALGAON,OTHER,450.0,1991,1250.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,33.2,2.3,No,No,Normal conditions
+2022-06-10,MANMAD,OTHER,200.0,1440,1100.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,34.0,2.0,No,No,Normal conditions
+2022-06-10,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,850.0,1705,1150.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,31.9,3.0,No,No,Normal conditions
+2022-06-10,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,491.0,1060,956.76,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,32.5,1.2,No,No,Normal conditions
+2022-06-10,LASALGAON(VINCHUR),OTHER,500.0,1555,1130.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,33.3,3.2,No,No,Normal conditions
+2022-06-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1204,900.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,32.2,3.0,No,No,Normal conditions
+2022-06-10,DINDORI(VANI),OTHER,610.0,1756,1250.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,32.7,1.2,No,No,Normal conditions
+2022-06-10,LASALGAON(NIPHAD),OTHER,500.0,1350,1120.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Chitra,10,6,2022,23,33.3,3.2,No,No,Normal conditions
+2022-06-11,DEVALA,OTHER,100.0,1305,1150.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,34.0,48.0,No,Heavy,Heavy rain expected
+2022-06-11,SATANA,OTHER,200.0,1370,935.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,29.6,17.4,No,Moderate,Good moisture
+2022-06-11,DINDORI,OTHER,610.0,1756,1250.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,31.5,19.1,No,Moderate,Good moisture
+2022-06-11,NANDGAON,OTHER,100.0,1300,850.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,34.5,24.8,No,Heavy,Heavy rain expected
+2022-06-11,KALVAN,OTHER,400.0,1835,1050.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,31.1,13.4,No,Moderate,Good moisture
+2022-06-11,CHANDVAD,OTHER,301.0,1452,950.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,31.6,10.3,No,Moderate,Good moisture
+2022-06-11,PIMPALGAON,OTHER,400.0,1990,1250.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,31.9,15.4,No,Moderate,Good moisture
+2022-06-11,LASALGAON,OTHER,500.0,1570,1175.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,32.0,19.3,No,Moderate,Good moisture
+2022-06-11,NASIK,OTHER,290.0,1250,750.0,,0,0,0,Shukla Dwadashi,Swati,11,6,2022,23,32.1,12.7,No,Moderate,Good moisture
+2022-06-13,YEOLA,OTHER,100.0,1325,800.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,33.5,2.3,No,No,Normal conditions
+2022-06-13,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,415.0,1095,741.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,33.4,1.4,No,No,Normal conditions
+2022-06-13,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,501.0,1022,996.02,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,33.4,2.1,No,No,Normal conditions
+2022-06-13,NAMPUR,OTHER,150.0,1400,1000.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,32.0,3.7,No,No,Normal conditions
+2022-06-13,UMRANE,OTHER,700.0,1500,1200.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,32.5,1.6,No,No,Normal conditions
+2022-06-13,LASALGAON(VINCHUR),OTHER,500.0,1501,1160.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,33.4,1.4,No,No,Normal conditions
+2022-06-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1225,975.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,32.3,2.6,No,No,Normal conditions
+2022-06-13,NASIK,OTHER,300.0,1300,800.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,31.6,2.5,No,No,Normal conditions
+2022-06-13,DINDORI(VANI),OTHER,650.0,1651,1150.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,32.5,4.3,No,No,Normal conditions
+2022-06-13,LASALGAON(NIPHAD),OTHER,500.0,1401,1200.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,33.4,1.4,No,No,Normal conditions
+2022-06-13,DEVALA,OTHER,100.0,1225,1050.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,33.4,4.2,No,No,Normal conditions
+2022-06-13,SINNER,OTHER,100.0,1301,950.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,30.8,5.2,No,Moderate,Good moisture
+2022-06-13,SATANA,OTHER,200.0,1295,930.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Anuradha,13,6,2022,24,30.8,3.3,No,No,Normal conditions
+2022-06-14,DINDORI,OTHER,700.0,1500,1150.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,33.7,0.6,No,No,Normal conditions
+2022-06-14,NANDGAON,OTHER,100.0,1200,950.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,34.1,0.0,No,No,Normal conditions
+2022-06-14,KALVAN,OTHER,400.0,1611,1011.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,33.1,1.0,No,No,Normal conditions
+2022-06-14,MANMAD,OTHER,200.0,1460,1100.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,33.8,0.2,No,No,Normal conditions
+2022-06-14,CHANDVAD,OTHER,326.0,1425,950.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,33.3,1.0,No,No,Normal conditions
+2022-06-14,PIMPALGAON,OTHER,450.0,1866,1150.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,34.1,2.5,No,No,Normal conditions
+2022-06-14,LASALGAON,OTHER,500.0,1560,1160.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,34.5,0.3,No,No,Normal conditions
+2022-06-14,YEOLA,OTHER,100.0,1200,750.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,34.6,0.0,No,No,Normal conditions
+2022-06-14,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,850.0,1600,1050.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,32.8,1.7,No,No,Normal conditions
+2022-06-14,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,272.0,951,605.93,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,34.0,1.0,No,No,Normal conditions
+2022-06-14,LASALGAON,OTHER,500.0,1631,1150.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,34.5,0.3,No,No,Normal conditions
+2022-06-14,NAMPUR,OTHER,100.0,1500,1000.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Jyeshtha,14,6,2022,24,33.6,0.1,No,No,Normal conditions
+2022-06-15,UMRANE,OTHER,700.0,1451,1200.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,32.3,2.6,No,No,Normal conditions
+2022-06-15,LASALGAON(VINCHUR),OTHER,500.0,1550,1150.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,33.7,1.1,No,No,Normal conditions
+2022-06-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1149,930.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,31.7,1.9,No,No,Normal conditions
+2022-06-15,DINDORI(VANI),OTHER,700.0,1681,1250.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,32.3,3.2,No,No,Normal conditions
+2022-06-15,LASALGAON(NIPHAD),OTHER,500.0,1316,1100.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,33.7,1.1,No,No,Normal conditions
+2022-06-15,DEVALA,OTHER,100.0,1195,1050.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,34.2,0.5,No,No,Normal conditions
+2022-06-15,SINNER,OTHER,200.0,1160,800.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,30.5,0.8,No,No,Normal conditions
+2022-06-15,DINDORI,OTHER,700.0,1375,1050.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,32.3,3.2,No,No,Normal conditions
+2022-06-15,NANDGAON,OTHER,100.0,1150,950.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,33.6,0.3,No,No,Normal conditions
+2022-06-15,KALVAN,OTHER,300.0,1605,1000.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,31.9,2.1,No,No,Normal conditions
+2022-06-15,MANMAD,OTHER,200.0,1350,1100.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,32.7,0.6,No,No,Normal conditions
+2022-06-15,CHANDVAD,OTHER,326.0,1400,800.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,32.1,2.7,No,No,Normal conditions
+2022-06-15,PIMPALGAON,OTHER,450.0,1927,1100.0,,0,0,0,Krishna Pratipada,Mula,15,6,2022,24,32.8,2.4,No,No,Normal conditions
+2022-06-16,NASIK,OTHER,275.0,1251,750.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,32.0,1.1,No,No,Normal conditions
+2022-06-16,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,600.0,1700,1250.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,32.7,1.1,No,No,Normal conditions
+2022-06-16,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,150.0,766,425.49,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,33.5,1.2,No,No,Normal conditions
+2022-06-16,NAMPUR,OTHER,100.0,1200,1000.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,33.0,0.8,No,No,Normal conditions
+2022-06-16,UMRANE,OTHER,800.0,1611,1250.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,32.4,1.8,No,No,Normal conditions
+2022-06-16,LASALGAON(VINCHUR),OTHER,500.0,1561,1150.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,33.8,0.8,No,No,Normal conditions
+2022-06-16,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,1180,925.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,32.3,1.2,No,No,Normal conditions
+2022-06-16,DINDORI(VANI),OTHER,720.0,1661,1210.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,33.0,1.0,No,No,Normal conditions
+2022-06-16,LASALGAON(NIPHAD),OTHER,500.0,1380,1100.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,33.8,0.8,No,No,Normal conditions
+2022-06-16,DEVALA,OTHER,100.0,1230,1080.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,34.4,1.1,No,No,Normal conditions
+2022-06-16,SINNER,OTHER,200.0,1311,950.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,16,6,2022,24,31.0,0.5,No,No,Normal conditions
+2022-06-17,SATANA,OTHER,150.0,1240,885.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,31.2,0.8,No,No,Normal conditions
+2022-06-17,DINDORI,OTHER,900.0,1380,1100.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,33.0,3.1,No,No,Normal conditions
+2022-06-17,NANDGAON,OTHER,100.0,1150,750.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,34.5,0.4,No,No,Normal conditions
+2022-06-17,KALVAN,OTHER,300.0,1765,1101.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,32.8,1.5,No,No,Normal conditions
+2022-06-17,MANMAD,OTHER,100.0,1315,1000.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,33.9,1.0,No,No,Normal conditions
+2022-06-17,CHANDVAD,OTHER,300.0,1411,780.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,32.8,1.8,No,No,Normal conditions
+2022-06-17,LASALGAON,OTHER,500.0,1651,1150.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,34.3,1.6,No,No,Normal conditions
+2022-06-17,NASIK,OTHER,300.0,1300,775.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,17,6,2022,24,31.4,2.8,No,No,Normal conditions

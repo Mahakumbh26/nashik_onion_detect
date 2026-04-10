@@ -1,0 +1,1001 @@
+Date,Market,Grade,Min Price (Rs./ Qtl),Max Price (Rs./Qtl),Modal Price (Rs./Qtl),Festival,is_amavasya,is_ekadashi,is_purnima,Tithi,Nakshatra,Day,Month,Year,Week,Temp Max (°C),Rain (mm),Heat Stress,Rain Alert,Agro Advisory
+2022-09-17,NANDGAON,RED,400.0,2252,1950.0,,0,0,0,Krishna Saptami,Rohini,17,9,2022,37,27.9,8.6,No,Moderate,Good moisture
+2022-09-17,MANMAD,RED,400.0,2300,2000.0,,0,0,0,Krishna Saptami,Rohini,17,9,2022,37,26.6,2.5,No,No,Normal conditions
+2022-09-17,PIMPALGAON,POLE,600.0,2653,2150.0,,0,0,0,Krishna Saptami,Rohini,17,9,2022,37,26.2,9.8,No,Moderate,Good moisture
+2022-09-17,DEVALA,RED,800.0,2400,2250.0,,0,0,0,Krishna Saptami,Rohini,17,9,2022,37,28.5,25.1,No,Heavy,Heavy rain expected
+2022-09-17,LASALGAON(NIPHAD),OTHER,1800.0,2400,2250.0,,0,0,0,Krishna Saptami,Rohini,17,9,2022,37,26.7,11.3,No,Moderate,Good moisture
+2022-09-19,YEOLA,RED,550.0,2301,2051.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,23.6,23.2,No,Heavy,Heavy rain expected
+2022-09-19,DEVALA,OTHER,700.0,2385,2200.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,25.8,20.0,No,Moderate,Good moisture
+2022-09-19,NAMPUR,RED,300.0,2205,1800.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,24.7,6.5,No,Moderate,Good moisture
+2022-09-19,UMRANE,RED,1000.0,2245,1800.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,23.3,18.9,No,Moderate,Good moisture
+2022-09-19,LASALGAON(NIPHAD),RED,1000.0,2460,2350.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,24.5,27.4,No,Heavy,Heavy rain expected
+2022-09-19,CHANDVAD,RED,1130.0,2260,2090.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,23.4,10.0,No,Moderate,Good moisture
+2022-09-19,SINNER,RED,500.0,2221,2050.0,,0,0,0,Krishna Navami,Ardra,19,9,2022,38,24.3,11.1,No,Moderate,Good moisture
+2022-09-20,NAMPUR,OTHER,745.0,2250,2000.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Punarvasu,20,9,2022,38,27.3,1.6,No,No,Normal conditions
+2022-09-20,NANDGAON,RED,300.0,2186,1950.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Punarvasu,20,9,2022,38,27.8,2.9,No,No,Normal conditions
+2022-09-20,NAMPUR,RED,300.0,2450,2000.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Punarvasu,20,9,2022,38,27.3,1.6,No,No,Normal conditions
+2022-09-20,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2150,1900.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Punarvasu,20,9,2022,38,25.4,1.5,No,No,Normal conditions
+2022-09-20,LASALGAON(VINCHUR),OTHER,1800.0,2401,2300.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Punarvasu,20,9,2022,38,27.0,1.5,No,No,Normal conditions
+2022-09-20,NAMPUR,OTHER,1125.0,2201,1663.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Punarvasu,20,9,2022,38,27.3,1.6,No,No,Normal conditions
+2022-09-21,PIMPALGAON,POLE,700.0,2501,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,27.9,0.5,No,No,Normal conditions
+2022-09-21,YEOLA,RED,400.0,2337,2050.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,28.4,0.9,No,No,Normal conditions
+2022-09-21,SATANA,OTHER,850.0,2435,2210.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,26.5,2.8,No,No,Normal conditions
+2022-09-21,SHREE RAMESHWAR KRUSHI MARKET,OTHER,500.0,2301,1952.53,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,28.1,0.4,No,No,Normal conditions
+2022-09-21,SHREE RAMESHWAR KRUSHI MARKET,RED,500.0,2400,1914.98,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,28.1,0.4,No,No,Normal conditions
+2022-09-21,LASALGAON(NIPHAD),RED,1000.0,2575,2350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,28.3,0.7,No,No,Normal conditions
+2022-09-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,1152.0,2150,1970.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,26.7,0.5,No,No,Normal conditions
+2022-09-21,MANMAD,RED,400.0,2290,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,28.4,0.4,No,No,Normal conditions
+2022-09-21,DEVALA,RED,700.0,2385,2150.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,29.2,0.6,No,No,Normal conditions
+2022-09-21,LASALGAON,RED,800.0,2555,2270.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Pushya,21,9,2022,38,28.3,0.7,No,No,Normal conditions
+2022-09-22,LASALGAON(NIPHAD),OTHER,1200.0,2450,2300.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,27.1,1.2,No,No,Normal conditions
+2022-09-22,NASIK,POLE,1200.0,2851,2350.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.1,1.9,No,No,Normal conditions
+2022-09-22,SINNER,RED,500.0,2227,1950.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.2,0.8,No,No,Normal conditions
+2022-09-22,MANMAD,OTHER,900.0,2251,2050.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,27.4,2.9,No,No,Normal conditions
+2022-09-22,DINDORI(VANI),RED,1701.0,2720,2301.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.4,2.7,No,No,Normal conditions
+2022-09-22,NANDGAON,OTHER,550.0,2511,1850.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,28.8,2.5,No,No,Normal conditions
+2022-09-22,LASALGAON,OTHER,1000.0,2541,2351.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,27.1,1.2,No,No,Normal conditions
+2022-09-22,DEVALA,OTHER,600.0,2275,2050.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,29.0,1.2,No,No,Normal conditions
+2022-09-22,LASALGAON(VINCHUR),RED,1101.0,2454,2250.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,27.1,1.2,No,No,Normal conditions
+2022-09-22,UMRANE,RED,1000.0,2370,1800.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.5,1.9,No,No,Normal conditions
+2022-09-22,CHANDVAD,RED,1311.0,2301,2160.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.6,0.9,No,No,Normal conditions
+2022-09-22,SATANA,RED,900.0,2370,2185.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,25.1,1.7,No,No,Normal conditions
+2022-09-22,PIMPALGAON,OTHER,1700.0,2500,2201.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.8,1.4,No,No,Normal conditions
+2022-09-22,PIMPALGAON,OTHER,1725.0,2390,2150.0,,0,0,0,Krishna Dwadashi,Ashlesha,22,9,2022,38,26.8,1.4,No,No,Normal conditions
+2022-09-23,DINDORI(VANI),RED,1800.0,2890,2301.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,26.3,0.4,No,No,Normal conditions
+2022-09-23,SATANA,RED,400.0,2390,2125.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,25.0,0.3,No,No,Normal conditions
+2022-09-23,LASALGAON(VINCHUR),RED,1000.0,2451,2250.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,27.2,0.3,No,No,Normal conditions
+2022-09-23,NANDGAON,OTHER,700.0,2311,1950.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,28.1,0.1,No,No,Normal conditions
+2022-09-23,PIMPALGAON BASWANT(SAYKHEDA),RED,1420.0,2356,1900.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,26.3,0.4,No,No,Normal conditions
+2022-09-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,1501.0,2300,2200.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,26.3,0.4,No,No,Normal conditions
+2022-09-23,CHANDVAD,RED,1452.0,2425,2060.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,26.2,0.3,No,No,Normal conditions
+2022-09-23,NAMPUR,OTHER,400.0,2600,1500.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,27.2,0.5,No,No,Normal conditions
+2022-09-23,LASALGAON(NIPHAD),OTHER,1800.0,2316,2200.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,27.2,0.3,No,No,Normal conditions
+2022-09-23,PIMPALGAON,POLE,500.0,2682,2100.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,26.4,0.4,No,No,Normal conditions
+2022-09-23,MANMAD,RED,400.0,2302,2000.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,27.0,0.1,No,No,Normal conditions
+2022-09-23,LASALGAON,OTHER,1000.0,2496,2250.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,27.2,0.3,No,No,Normal conditions
+2022-09-23,DEVALA,OTHER,700.0,2280,2100.0,,0,0,0,Krishna Trayodashi,Magha,23,9,2022,38,28.3,0.0,No,No,Normal conditions
+2022-09-24,NANDGAON,RED,200.0,2351,1850.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,29.0,0.1,No,No,Normal conditions
+2022-09-24,NASIK,POLE,1250.0,3000,2450.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,27.8,2.0,No,No,Normal conditions
+2022-09-24,DEVALA,RED,850.0,2390,2150.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,29.3,0.1,No,No,Normal conditions
+2022-09-24,LASALGAON(VINCHUR),OTHER,1911.0,2430,2300.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,28.4,1.4,No,No,Normal conditions
+2022-09-24,LASALGAON(NIPHAD),RED,1000.0,2411,2251.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,28.4,1.4,No,No,Normal conditions
+2022-09-24,KALVAN,RED,1200.0,2355,2150.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,27.5,0.8,No,No,Normal conditions
+2022-09-24,NAMPUR,RED,300.0,2600,2100.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,27.6,0.2,No,No,Normal conditions
+2022-09-24,SATANA,OTHER,300.0,2640,2260.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,26.2,0.6,No,No,Normal conditions
+2022-09-24,MANMAD,OTHER,1391.0,2130,2000.0,"Ashwin Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Chaturdashi,Purva Phalguni,24,9,2022,38,28.2,0.4,No,No,Normal conditions
+2022-09-26,UMRANE,RED,1000.0,2370,1800.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Hasta,26,9,2022,39,26.5,2.2,No,No,Normal conditions
+2022-09-26,LASALGAON,RED,851.0,2400,2200.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Hasta,26,9,2022,39,27.8,2.0,No,No,Normal conditions
+2022-09-26,SINNER,RED,500.0,2466,2100.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Hasta,26,9,2022,39,26.5,10.0,No,Moderate,Good moisture
+2022-09-26,LASALGAON(VINCHUR),RED,1000.0,2433,2250.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Hasta,26,9,2022,39,27.8,2.0,No,No,Normal conditions
+2022-09-26,UMRANE,RED,1000.0,2400,2000.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Hasta,26,9,2022,39,26.5,2.2,No,No,Normal conditions
+2022-09-26,NASIK,POLE,1200.0,2900,2400.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Hasta,26,9,2022,39,26.0,1.5,No,No,Normal conditions
+2022-09-27,KALVAN,RED,1250.0,2355,2100.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,28.1,0.7,No,No,Normal conditions
+2022-09-27,PIMPALGAON,OTHER,1490.0,2451,2001.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,28.3,1.3,No,No,Normal conditions
+2022-09-27,PIMPALGAON BASWANT(SAYKHEDA),RED,1430.0,2356,2100.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,27.8,1.0,No,No,Normal conditions
+2022-09-27,PIMPALGAON,POLE,500.0,2757,2050.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,28.3,1.3,No,No,Normal conditions
+2022-09-27,SINNER,RED,500.0,2500,2150.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,27.6,2.5,No,No,Normal conditions
+2022-09-27,NANDGAON,OTHER,451.0,2300,1850.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,29.0,1.4,No,No,Normal conditions
+2022-09-27,DINDORI(VANI),RED,1750.0,2950,2375.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,27.9,1.4,No,No,Normal conditions
+2022-09-27,MANMAD,RED,300.0,2416,1900.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,28.0,1.1,No,No,Normal conditions
+2022-09-27,LASALGAON(VINCHUR),OTHER,1700.0,2400,2300.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,28.1,1.7,No,No,Normal conditions
+2022-09-27,NANDGAON,RED,300.0,2250,1850.0,Hartalika Teej,0,0,0,Shukla Dwitiya,Chitra,27,9,2022,39,29.0,1.4,No,No,Normal conditions
+2022-09-28,NAMPUR,RED,300.0,2310,2000.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.2,5.9,No,Moderate,Good moisture
+2022-09-28,LASALGAON,OTHER,980.0,2601,2300.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.8,2.2,No,No,Normal conditions
+2022-09-28,SATANA,RED,350.0,2250,1955.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,26.5,5.2,No,Moderate,Good moisture
+2022-09-28,DEVALA,RED,800.0,2385,2150.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,29.7,3.7,No,No,Normal conditions
+2022-09-28,MANMAD,OTHER,721.0,2151,2000.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.4,8.1,No,Moderate,Good moisture
+2022-09-28,LASALGAON(NIPHAD),OTHER,1911.0,2315,2225.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.8,2.2,No,No,Normal conditions
+2022-09-28,SATANA,OTHER,800.0,2300,2020.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,26.5,5.2,No,Moderate,Good moisture
+2022-09-28,DEVALA,OTHER,700.0,2470,2100.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,29.7,3.7,No,No,Normal conditions
+2022-09-28,LASALGAON,RED,700.0,2475,2250.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.8,2.2,No,No,Normal conditions
+2022-09-28,YEOLA,RED,500.0,2251,1950.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,29.0,4.1,No,No,Normal conditions
+2022-09-28,NAMPUR,OTHER,775.0,2310,2000.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.2,5.9,No,Moderate,Good moisture
+2022-09-28,LASALGAON(NIPHAD),RED,1000.0,2450,2350.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.8,2.2,No,No,Normal conditions
+2022-09-28,YEOLA,RED,400.0,2281,2075.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,29.0,4.1,No,No,Normal conditions
+2022-09-28,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,2750,2050.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,27.7,6.2,No,Moderate,Good moisture
+2022-09-28,PIMPALGAON,OTHER,1700.0,2359,2000.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.1,7.1,No,Moderate,Good moisture
+2022-09-28,PIMPALGAON,POLE,400.0,2641,2050.0,"Hartalika Teej, Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday)",0,0,0,Shukla Tritiya,Swati,28,9,2022,39,28.1,7.1,No,Moderate,Good moisture
+2022-09-29,LASALGAON(VINCHUR),RED,900.0,2770,2200.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,DINDORI(VANI),RED,1701.0,3001,2375.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.0,11.2,No,Moderate,Good moisture
+2022-09-29,LASALGAON(NIPHAD),OTHER,1900.0,2400,2250.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,LASALGAON,OTHER,1800.0,2441,2300.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,LASALGAON(NIPHAD),RED,1100.0,3101,2300.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,MANMAD,OTHER,650.0,2223,2005.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,28.8,2.4,No,No,Normal conditions
+2022-09-29,LASALGAON,RED,900.0,2476,2270.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,LASALGAON(VINCHUR),OTHER,1911.0,2627,2300.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,NASIK,POLE,1400.0,3000,2450.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,28.4,2.3,No,No,Normal conditions
+2022-09-29,MANMAD,RED,400.0,2571,2200.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,28.8,2.4,No,No,Normal conditions
+2022-09-29,SINNER,RED,500.0,2360,2200.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,28.1,6.0,No,Moderate,Good moisture
+2022-09-29,LASALGAON(VINCHUR),OTHER,1901.0,2570,2350.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,MANMAD,RED,500.0,2450,2100.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,28.8,2.4,No,No,Normal conditions
+2022-09-29,NANDGAON,OTHER,501.0,2441,2150.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.4,3.1,No,No,Normal conditions
+2022-09-29,LASALGAON(NIPHAD),RED,1100.0,2560,2350.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-29,NAMPUR,RED,300.0,2490,2200.0,"Ganesh Chaturthi / Vinayaka Chaturthi (State Holiday), Rishi Panchami",0,0,0,Shukla Chaturthi,Vishakha,29,9,2022,39,29.5,1.9,No,No,Normal conditions
+2022-09-30,YEOLA,RED,500.0,2341,2000.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,30.0,1.3,No,No,Normal conditions
+2022-09-30,SATANA,RED,400.0,2450,2250.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,28.2,1.6,No,No,Normal conditions
+2022-09-30,NANDGAON,RED,300.0,2452,2050.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,30.0,0.4,No,No,Normal conditions
+2022-09-30,MANMAD,WHITE,800.0,1450,1301.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.4,0.9,No,No,Normal conditions
+2022-09-30,DEVALA,RED,800.0,2450,2250.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,30.4,1.1,No,No,Normal conditions
+2022-09-30,KALVAN,RED,1375.0,2580,2325.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.2,1.3,No,No,Normal conditions
+2022-09-30,LASALGAON,RED,900.0,2525,2300.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.7,1.4,No,No,Normal conditions
+2022-09-30,LASALGAON(VINCHUR),RED,1040.0,2470,2300.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.7,1.4,No,No,Normal conditions
+2022-09-30,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,2416,2125.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,28.9,0.9,No,No,Normal conditions
+2022-09-30,LASALGAON(NIPHAD),OTHER,2075.0,2401,2300.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.7,1.4,No,No,Normal conditions
+2022-09-30,LASALGAON,OTHER,1700.0,2700,2351.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.7,1.4,No,No,Normal conditions
+2022-09-30,NASIK,POLE,1300.0,2900,2400.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.1,1.4,No,No,Normal conditions
+2022-09-30,PIMPALGAON,POLE,500.0,2800,2200.0,"Rishi Panchami, Lalita Sashti",0,0,0,Shukla Panchami,Anuradha,30,9,2022,39,29.5,2.0,No,No,Normal conditions
+2022-10-01,LASALGAON(NIPHAD),OTHER,2170.0,2420,2250.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,29.5,1.5,No,No,Normal conditions
+2022-10-01,KALVAN,RED,1375.0,2615,2350.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,28.8,1.3,No,No,Normal conditions
+2022-10-01,LASALGAON(VINCHUR),OTHER,1902.0,2551,2351.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,29.5,1.5,No,No,Normal conditions
+2022-10-01,MANMAD,RED,400.0,2829,2300.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,29.3,0.8,No,No,Normal conditions
+2022-10-01,MANMAD,WHITE,839.0,1371,1191.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,29.3,0.8,No,No,Normal conditions
+2022-10-01,SINNER,RED,500.0,2400,2250.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,28.0,4.2,No,No,Normal conditions
+2022-10-01,NAMPUR,RED,300.0,2500,2100.0,Lalita Sashti,0,0,0,Shukla Shashthi,Jyeshtha,1,10,2022,39,29.6,2.1,No,No,Normal conditions
+2022-10-03,LASALGAON,RED,1100.0,2604,2400.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.4,0.0,No,No,Normal conditions
+2022-10-03,YEOLA,RED,500.0,2435,2200.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.4,0.0,No,No,Normal conditions
+2022-10-03,LASALGAON(NIPHAD),RED,1100.0,2600,2450.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.4,0.0,No,No,Normal conditions
+2022-10-03,LASALGAON,OTHER,1260.0,2651,2451.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.4,0.0,No,No,Normal conditions
+2022-10-03,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,2370,2100.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,28.1,0.0,No,No,Normal conditions
+2022-10-03,DEVALA,RED,750.0,2585,2400.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.8,0.0,No,No,Normal conditions
+2022-10-03,NASIK,POLE,1250.0,2600,2300.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,28.1,0.1,No,No,Normal conditions
+2022-10-03,NANDGAON,RED,300.0,2515,2250.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.5,0.2,No,No,Normal conditions
+2022-10-03,LASALGAON(VINCHUR),RED,1000.0,2650,2300.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Purva Ashadha,3,10,2022,40,29.4,0.0,No,No,Normal conditions
+2022-10-04,PIMPALGAON,POLE,500.0,2600,2250.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.1,0.0,No,No,Normal conditions
+2022-10-04,NANDGAON,OTHER,500.0,2500,2250.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.8,0.1,No,No,Normal conditions
+2022-10-04,NASIK,POLE,1200.0,2550,2250.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,28.4,0.3,No,No,Normal conditions
+2022-10-04,MANMAD,RED,400.0,2501,2200.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,28.8,0.3,No,No,Normal conditions
+2022-10-04,LASALGAON(NIPHAD),RED,1100.0,2650,2500.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.2,0.3,No,No,Normal conditions
+2022-10-04,LASALGAON(NIPHAD),OTHER,2180.0,2361,2260.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.2,0.3,No,No,Normal conditions
+2022-10-04,DINDORI(VANI),RED,1800.0,2881,2350.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.0,0.3,No,No,Normal conditions
+2022-10-04,LASALGAON,RED,1000.0,2590,2425.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.2,0.3,No,No,Normal conditions
+2022-10-04,LASALGAON(NIPHAD),RED,1100.0,2670,2500.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.2,0.3,No,No,Normal conditions
+2022-10-04,MANMAD,WHITE,800.0,1200,1080.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,28.8,0.3,No,No,Normal conditions
+2022-10-04,SATANA,RED,655.0,2510,2310.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,27.5,1.0,No,No,Normal conditions
+2022-10-04,LASALGAON,OTHER,1000.0,2580,2370.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.2,0.3,No,No,Normal conditions
+2022-10-04,MANMAD,RED,400.0,2490,2100.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,28.8,0.3,No,No,Normal conditions
+2022-10-04,PIMPALGAON,POLE,700.0,2690,2300.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,29.1,0.0,No,No,Normal conditions
+2022-10-04,NASIK,POLE,1300.0,3101,2550.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Uttara Ashadha,4,10,2022,40,28.4,0.3,No,No,Normal conditions
+2022-10-05,KALVAN,RED,1350.0,2600,2300.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,28.7,0.3,No,No,Normal conditions
+2022-10-05,LASALGAON(VINCHUR),RED,1055.0,2702,2430.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,29.5,0.5,No,No,Normal conditions
+2022-10-05,DEVALA,RED,950.0,2575,2350.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,30.6,0.5,No,No,Normal conditions
+2022-10-05,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2525,2175.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,28.2,0.2,No,No,Normal conditions
+2022-10-05,SINNER,RED,500.0,2340,2200.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,27.8,1.8,No,No,Normal conditions
+2022-10-05,LASALGAON(NIPHAD),OTHER,2100.0,2400,2300.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,29.5,0.5,No,No,Normal conditions
+2022-10-05,LASALGAON(VINCHUR),OTHER,1800.0,2627,2350.0,"Papankusha Ekadashi, Dussehra / Vijayadashami",0,1,0,Shukla Dashami,Shravana,5,10,2022,40,29.5,0.5,No,No,Normal conditions
+2022-10-06,NAMPUR,RED,300.0,2410,2100.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.2,27.0,No,Heavy,Heavy rain expected
+2022-10-06,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2851,2200.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,28.6,12.0,No,Moderate,Good moisture
+2022-10-06,SHREE RAMESHWAR KRUSHI MARKET,RED,352.0,2900,2254.34,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,28.2,14.4,No,Moderate,Good moisture
+2022-10-06,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1151.0,2800,2419.41,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,28.2,14.4,No,Moderate,Good moisture
+2022-10-06,NANDGAON,OTHER,300.0,2270,1950.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.2,16.1,No,Moderate,Good moisture
+2022-10-06,NASIK,OTHER,1250.0,3100,2500.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,28.5,8.9,No,Moderate,Good moisture
+2022-10-06,NAMPUR,RED,300.0,2525,2100.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.2,27.0,No,Heavy,Heavy rain expected
+2022-10-06,CHANDVAD,RED,1680.0,2831,2350.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,26.0,17.2,No,Moderate,Good moisture
+2022-10-06,SINNER,RED,500.0,2351,2200.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.6,9.4,No,Moderate,Good moisture
+2022-10-06,MANMAD,WHITE,1013.0,1371,1130.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,26.2,5.5,No,Moderate,Good moisture
+2022-10-06,SATANA,RED,700.0,2575,2355.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,26.0,13.8,No,Moderate,Good moisture
+2022-10-06,LASALGAON(NIPHAD),RED,1100.0,2700,2500.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.9,14.1,No,Moderate,Good moisture
+2022-10-06,DINDORI(VANI),RED,1701.0,2810,2275.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,28.5,10.1,No,Moderate,Good moisture
+2022-10-06,LASALGAON,RED,1000.0,2680,2400.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.9,14.1,No,Moderate,Good moisture
+2022-10-06,NANDGAON,RED,500.0,2526,2150.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.2,16.1,No,Moderate,Good moisture
+2022-10-06,LASALGAON,OTHER,1001.0,2626,2351.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.9,14.1,No,Moderate,Good moisture
+2022-10-06,LASALGAON(VINCHUR),RED,2000.0,2600,2315.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.9,14.1,No,Moderate,Good moisture
+2022-10-06,LASALGAON(NIPHAD),OTHER,2150.0,2400,2240.0,Papankusha Ekadashi,0,1,0,Shukla Ekadashi,Dhanishtha,6,10,2022,40,27.9,14.1,No,Moderate,Good moisture
+2022-10-07,YEOLA,RED,500.0,2480,2275.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,26.8,20.9,No,Heavy,Heavy rain expected
+2022-10-07,KALVAN,RED,1300.0,2600,2251.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.5,7.3,No,Moderate,Good moisture
+2022-10-07,MANMAD,RED,400.0,2424,2100.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,26.7,10.6,No,Moderate,Good moisture
+2022-10-07,UMRANE,RED,1000.0,2626,2200.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,24.4,15.4,No,Moderate,Good moisture
+2022-10-07,DEVALA,RED,800.0,2675,2300.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,27.5,16.3,No,Moderate,Good moisture
+2022-10-07,LASALGAON(VINCHUR),OTHER,2000.0,2580,2400.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.3,18.7,No,Moderate,Good moisture
+2022-10-07,PIMPALGAON,POLE,600.0,2940,2275.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,24.4,9.8,No,Moderate,Good moisture
+2022-10-07,PIMPALGAON,POLE,500.0,2952,2150.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,24.4,9.8,No,Moderate,Good moisture
+2022-10-07,LASALGAON(NIPHAD),OTHER,1300.0,2385,2200.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.3,18.7,No,Moderate,Good moisture
+2022-10-07,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,3000,2150.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,24.1,10.9,No,Moderate,Good moisture
+2022-10-07,LASALGAON,RED,900.0,2899,2400.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.3,18.7,No,Moderate,Good moisture
+2022-10-07,LASALGAON(NIPHAD),RED,1100.0,2650,2400.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.3,18.7,No,Moderate,Good moisture
+2022-10-07,LASALGAON,OTHER,1301.0,2372,2151.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.3,18.7,No,Moderate,Good moisture
+2022-10-07,LASALGAON(VINCHUR),RED,1200.0,2830,2350.0,,0,0,0,Shukla Dwadashi,Shatabhisha,7,10,2022,40,25.3,18.7,No,Moderate,Good moisture
+2022-10-08,MANMAD,RED,400.0,2451,2100.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,27.4,0.5,No,No,Normal conditions
+2022-10-08,YEOLA,RED,500.0,2500,2150.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,27.8,1.0,No,No,Normal conditions
+2022-10-08,NASIK,POLE,1400.0,3351,2650.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,25.1,5.1,No,Moderate,Good moisture
+2022-10-08,CHANDVAD,RED,1300.0,2750,2230.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,26.1,1.0,No,No,Normal conditions
+2022-10-08,LASALGAON,RED,900.0,2855,2325.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,26.9,3.1,No,No,Normal conditions
+2022-10-08,SHREE RAMESHWAR KRUSHI MARKET,OTHER,902.0,2552,1936.15,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,26.7,3.4,No,No,Normal conditions
+2022-10-08,CHANDVAD,RED,1200.0,2498,2180.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,26.1,1.0,No,No,Normal conditions
+2022-10-08,MANMAD,RED,400.0,2400,2100.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,27.4,0.5,No,No,Normal conditions
+2022-10-08,SINNER,RED,500.0,2426,2150.0,"Ashwin Purnima / Sharad Purnima / Kojagiri, Ganesh Visarjan (State Holiday), Sharad Purnima / Kojagiri Purnima",0,0,1,Shukla Chaturdashi,Purva Bhadrapada,8,10,2022,40,26.0,10.1,No,Moderate,Good moisture
+2022-10-10,LASALGAON(VINCHUR),RED,1000.0,2620,2300.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.5,11.0,No,Moderate,Good moisture
+2022-10-10,MANMAD,WHITE,951.0,1081,951.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.0,1.1,No,No,Normal conditions
+2022-10-10,PIMPALGAON,POLE,600.0,2940,2175.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.8,3.6,No,No,Normal conditions
+2022-10-10,DEVALA,RED,800.0,2450,2275.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,30.0,5.4,No,Moderate,Good moisture
+2022-10-10,KALVAN,RED,1200.0,2750,2351.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,29.0,6.8,No,Moderate,Good moisture
+2022-10-10,LASALGAON,OTHER,1000.0,2475,2200.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.5,11.0,No,Moderate,Good moisture
+2022-10-10,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2476,2050.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.5,7.1,No,Moderate,Good moisture
+2022-10-10,YEOLA,RED,400.0,2571,2200.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,29.0,18.0,No,Moderate,Good moisture
+2022-10-10,LASALGAON(VINCHUR),OTHER,1300.0,2360,2000.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.5,11.0,No,Moderate,Good moisture
+2022-10-10,NAMPUR,RED,300.0,2405,2100.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,29.2,4.6,No,No,Normal conditions
+2022-10-10,NASIK,POLE,1100.0,3100,2450.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.9,9.6,No,Moderate,Good moisture
+2022-10-10,LASALGAON(NIPHAD),RED,1101.0,2611,2420.0,,0,0,0,Krishna Pratipada,Revati,10,10,2022,41,28.5,11.0,No,Moderate,Good moisture
+2022-10-11,SHREE RAMESHWAR KRUSHI MARKET,RED,500.0,2700,1978.8,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.3,1.6,No,No,Normal conditions
+2022-10-11,LASALGAON(NIPHAD),OTHER,1871.0,2360,2221.0,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.2,2.7,No,No,Normal conditions
+2022-10-11,LASALGAON(NIPHAD),RED,1000.0,2800,2500.0,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.2,2.7,No,No,Normal conditions
+2022-10-11,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1700.0,2200,1960.5,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.3,1.6,No,No,Normal conditions
+2022-10-11,SHREE RAMESHWAR KRUSHI MARKET,RED,411.0,2500,1814.58,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.3,1.6,No,No,Normal conditions
+2022-10-11,MANMAD,RED,500.0,2451,2100.0,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,27.7,6.3,No,Moderate,Good moisture
+2022-10-11,LASALGAON,OTHER,1000.0,2490,2200.0,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.2,2.7,No,No,Normal conditions
+2022-10-11,LASALGAON(VINCHUR),OTHER,1300.0,2451,2100.0,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,28.2,2.7,No,No,Normal conditions
+2022-10-11,CHANDVAD,RED,901.0,2386,2110.0,,0,0,0,Krishna Dwitiya,Ashwini,11,10,2022,41,27.4,5.1,No,Moderate,Good moisture
+2022-10-12,YEOLA,RED,451.0,2290,1750.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,3.8,No,No,Normal conditions
+2022-10-12,DEVALA,RED,900.0,2465,2200.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,28.1,1.7,No,No,Normal conditions
+2022-10-12,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2476,2150.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.8,2.6,No,No,Normal conditions
+2022-10-12,LASALGAON(VINCHUR),RED,900.0,2561,2200.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,NASIK,POLE,1100.0,3200,2600.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.7,2.6,No,No,Normal conditions
+2022-10-12,PIMPALGAON,POLE,700.0,2914,2150.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.9,3.4,No,No,Normal conditions
+2022-10-12,LASALGAON(NIPHAD),OTHER,1446.0,2448,2281.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,SATANA,RED,550.0,2475,2005.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,26.9,0.9,No,No,Normal conditions
+2022-10-12,KALVAN,RED,1250.0,2850,2350.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,26.9,1.2,No,No,Normal conditions
+2022-10-12,LASALGAON,RED,800.0,2872,2300.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,LASALGAON(NIPHAD),RED,1100.0,2670,2450.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,LASALGAON(NIPHAD),OTHER,851.0,2300,2241.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,LASALGAON,RED,1000.0,3053,2400.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,MANMAD,WHITE,1225.0,1499,1391.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.2,3.7,No,No,Normal conditions
+2022-10-12,PIMPALGAON,POLE,700.0,2951,2100.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.9,3.4,No,No,Normal conditions
+2022-10-12,LASALGAON(VINCHUR),RED,1000.0,3012,2500.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-12,LASALGAON,OTHER,961.0,2792,2270.0,,0,0,0,Krishna Tritiya,Bharani,12,10,2022,41,27.6,6.5,No,Moderate,Good moisture
+2022-10-13,MANMAD,RED,300.0,2482,2150.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,27.9,1.1,No,No,Normal conditions
+2022-10-13,PIMPALGAON,POLE,800.0,3455,2500.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.6,0.1,No,No,Normal conditions
+2022-10-13,LASALGAON,RED,1000.0,3401,2600.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.2,No,No,Normal conditions
+2022-10-13,MANMAD,RED,400.0,2700,2100.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,27.9,1.1,No,No,Normal conditions
+2022-10-13,LASALGAON,OTHER,800.0,3152,2700.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.2,No,No,Normal conditions
+2022-10-13,LASALGAON(NIPHAD),RED,1100.0,2851,2550.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.2,No,No,Normal conditions
+2022-10-13,DEVALA,RED,650.0,2805,2500.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,29.0,0.2,No,No,Normal conditions
+2022-10-13,KALVAN,RED,1400.0,3100,2750.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.3,0.1,No,No,Normal conditions
+2022-10-13,SINNER,RED,1000.0,3100,2500.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,27.6,1.4,No,No,Normal conditions
+2022-10-13,CHANDVAD,RED,1125.0,3132,2450.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,27.6,0.3,No,No,Normal conditions
+2022-10-13,LASALGAON(VINCHUR),RED,1000.0,3100,2700.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.2,No,No,Normal conditions
+2022-10-13,LASALGAON(VINCHUR),OTHER,1800.0,2826,2650.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.2,No,No,Normal conditions
+2022-10-13,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2771,2500.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.6,No,No,Normal conditions
+2022-10-13,MANMAD,WHITE,1100.0,1276,1190.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,27.9,1.1,No,No,Normal conditions
+2022-10-13,LASALGAON(NIPHAD),OTHER,1717.0,2646,2347.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.7,0.2,No,No,Normal conditions
+2022-10-13,SATANA,RED,595.0,2830,2315.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,27.4,0.3,No,No,Normal conditions
+2022-10-13,NASIK,POLE,1250.0,3400,2650.0,,0,0,0,Krishna Chaturthi,Krittika,13,10,2022,41,28.9,1.2,No,No,Normal conditions
+2022-10-14,UMRANE,RED,1000.0,3215,2500.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,27.5,4.2,No,No,Normal conditions
+2022-10-14,PIMPALGAON,POLE,800.0,3434,2750.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.5,1.7,No,No,Normal conditions
+2022-10-14,DEVALA,RED,1000.0,2960,2750.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.7,1.6,No,No,Normal conditions
+2022-10-14,LASALGAON(VINCHUR),RED,1500.0,3101,2750.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.2,7.1,No,Moderate,Good moisture
+2022-10-14,LASALGAON,RED,1200.0,3311,2700.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.2,7.1,No,Moderate,Good moisture
+2022-10-14,MANMAD,WHITE,1086.0,1555,1086.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,27.3,5.2,No,Moderate,Good moisture
+2022-10-14,MANMAD,RED,405.0,2900,2500.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,27.3,5.2,No,Moderate,Good moisture
+2022-10-14,CHANDVAD,RED,1500.0,3153,2450.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,26.9,1.0,No,No,Normal conditions
+2022-10-14,LASALGAON(NIPHAD),OTHER,1700.0,2850,2651.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.2,7.1,No,Moderate,Good moisture
+2022-10-14,SINNER,RED,1000.0,3151,2700.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,27.5,5.9,No,Moderate,Good moisture
+2022-10-14,DINDORI(VANI),RED,1580.0,3440,2851.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.6,2.5,No,No,Normal conditions
+2022-10-14,NASIK,POLE,1200.0,3275,2600.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.6,8.0,No,Moderate,Good moisture
+2022-10-14,NANDGAON,OTHER,1350.0,3099,2650.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,27.7,7.0,No,Moderate,Good moisture
+2022-10-14,YEOLA,RED,700.0,2871,2450.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.0,3.5,No,No,Normal conditions
+2022-10-14,LASALGAON,OTHER,1601.0,3046,2600.0,,0,0,0,Krishna Panchami,Rohini,14,10,2022,41,28.2,7.1,No,Moderate,Good moisture
+2022-10-15,NAMPUR,RED,300.0,3100,2500.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,27.4,0.0,No,No,Normal conditions
+2022-10-15,SATANA,RED,705.0,3135,2610.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,26.1,0.0,No,No,Normal conditions
+2022-10-15,KALVAN,RED,1400.0,3410,3000.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,26.9,0.0,No,No,Normal conditions
+2022-10-15,UMRANE,RED,1000.0,3403,2800.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,26.5,0.0,No,No,Normal conditions
+2022-10-15,NANDGAON,RED,500.0,2799,2250.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,27.9,0.0,No,No,Normal conditions
+2022-10-15,LASALGAON(NIPHAD),RED,1200.0,3200,2900.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,27.6,0.0,No,No,Normal conditions
+2022-10-15,PIMPALGAON BASWANT(SAYKHEDA),RED,1840.0,3101,2750.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,27.5,0.0,No,No,Normal conditions
+2022-10-15,NASIK,POLE,1400.0,3850,2900.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,27.6,0.0,No,No,Normal conditions
+2022-10-15,PIMPALGAON BASWANT(SAYKHEDA),RED,1700.0,3201,2900.0,,0,0,0,Krishna Shashthi,Mrigashira,15,10,2022,41,27.5,0.0,No,No,Normal conditions
+2022-10-17,CHANDVAD,RED,1700.0,3551,2900.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,27.8,4.1,No,No,Normal conditions
+2022-10-17,LASALGAON(VINCHUR),RED,1300.0,3300,2900.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,3.6,No,No,Normal conditions
+2022-10-17,YEOLA,RED,825.0,3250,2650.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.1,4.6,No,No,Normal conditions
+2022-10-17,LASALGAON,RED,1200.0,3481,3000.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,3.6,No,No,Normal conditions
+2022-10-17,PIMPALGAON,POLE,1000.0,3614,2950.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.3,7.8,No,Moderate,Good moisture
+2022-10-17,MANMAD,WHITE,1581.0,1832,1620.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.2,5.4,No,Moderate,Good moisture
+2022-10-17,LASALGAON(NIPHAD),RED,1300.0,3325,3050.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,3.6,No,No,Normal conditions
+2022-10-17,MANMAD,RED,400.0,3290,2600.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.2,5.4,No,Moderate,Good moisture
+2022-10-17,KALVAN,RED,1500.0,3855,3100.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,27.9,11.9,No,Moderate,Good moisture
+2022-10-17,LASALGAON(NIPHAD),RED,1400.0,4011,3150.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,3.6,No,No,Normal conditions
+2022-10-17,NASIK,POLE,1250.0,3401,2790.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,17.3,No,Moderate,Good moisture
+2022-10-17,UMRANE,RED,1000.0,3551,3000.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,27.6,2.2,No,No,Normal conditions
+2022-10-17,LASALGAON,RED,1500.0,3535,3100.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,3.6,No,No,Normal conditions
+2022-10-17,SINNER,RED,1000.0,3651,3000.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,27.8,3.2,No,No,Normal conditions
+2022-10-17,LASALGAON,OTHER,1500.0,3535,3100.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.4,3.6,No,No,Normal conditions
+2022-10-17,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3600,2950.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.1,9.5,No,Moderate,Good moisture
+2022-10-17,PIMPALGAON,POLE,1000.0,3632,2900.0,,0,0,0,Krishna Saptami,Punarvasu,17,10,2022,42,28.3,7.8,No,Moderate,Good moisture
+2022-10-18,CHANDVAD,RED,1571.0,3651,3100.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.5,3.8,No,No,Normal conditions
+2022-10-18,SATANA,RED,500.0,3295,2905.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.3,1.2,No,No,Normal conditions
+2022-10-18,LASALGAON(VINCHUR),RED,1500.0,3651,3100.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,3.6,No,No,Normal conditions
+2022-10-18,MANMAD,WHITE,830.0,1786,1600.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,7.6,No,Moderate,Good moisture
+2022-10-18,YEOLA,RED,700.0,3337,2750.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,7.8,No,Moderate,Good moisture
+2022-10-18,DEVALA,RED,1100.0,3400,3100.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,28.4,5.5,No,Moderate,Good moisture
+2022-10-18,NAMPUR,RED,300.0,3400,3000.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,28.0,3.0,No,No,Normal conditions
+2022-10-18,MANMAD,RED,700.0,3500,3000.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,7.6,No,Moderate,Good moisture
+2022-10-18,NANDGAON,RED,500.0,4000,2850.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,28.1,3.6,No,No,Normal conditions
+2022-10-18,YEOLA,RED,900.0,3390,2950.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,7.8,No,Moderate,Good moisture
+2022-10-18,MANMAD,WHITE,1830.0,1830,1830.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,7.6,No,Moderate,Good moisture
+2022-10-18,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3500,2800.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,27.5,4.7,No,No,Normal conditions
+2022-10-18,LASALGAON(NIPHAD),RED,1300.0,4000,3050.0,,0,0,0,Krishna Ashtami,Pushya,18,10,2022,42,26.9,3.6,No,No,Normal conditions
+2022-10-19,PIMPALGAON,POLE,1000.0,3601,2850.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.4,4.1,No,No,Normal conditions
+2022-10-19,LASALGAON(VINCHUR),RED,1311.0,3400,2900.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.0,4.5,No,No,Normal conditions
+2022-10-19,MANMAD,RED,400.0,3410,2700.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,26.4,4.4,No,No,Normal conditions
+2022-10-19,DEVALA,RED,1100.0,3155,2800.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.5,2.2,No,No,Normal conditions
+2022-10-19,NAMPUR,RED,300.0,3505,2600.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.5,2.6,No,No,Normal conditions
+2022-10-19,SATANA,RED,570.0,3155,2785.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,26.2,1.5,No,No,Normal conditions
+2022-10-19,SINNER,RED,1000.0,3239,2850.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,26.4,3.4,No,No,Normal conditions
+2022-10-19,KALVAN,RED,1350.0,3550,2850.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.3,1.3,No,No,Normal conditions
+2022-10-19,CHANDVAD,RED,1870.0,3300,2810.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,26.0,2.3,No,No,Normal conditions
+2022-10-19,NASIK,OTHER,1400.0,3500,2650.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.2,2.9,No,No,Normal conditions
+2022-10-19,UMRANE,RED,1000.0,3312,2700.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,26.2,2.1,No,No,Normal conditions
+2022-10-19,LASALGAON,RED,1200.0,3400,2900.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.0,4.5,No,No,Normal conditions
+2022-10-19,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1251.0,2602,2222.78,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.2,3.2,No,No,Normal conditions
+2022-10-19,SHREE RAMESHWAR KRUSHI MARKET,RED,351.0,2901,2288.27,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.2,3.2,No,No,Normal conditions
+2022-10-19,NASIK,POLE,1050.0,3000,2250.0,,0,0,0,Krishna Navami,Pushya,19,10,2022,42,27.2,2.9,No,No,Normal conditions
+2022-10-20,PIMPALGAON,POLE,650.0,2976,2200.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,27.0,0.9,No,No,Normal conditions
+2022-10-20,CHANDVAD,RED,1000.0,2818,2180.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,25.6,3.9,No,No,Normal conditions
+2022-10-20,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2400,2150.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,27.0,2.4,No,No,Normal conditions
+2022-10-20,MANMAD,RED,400.0,2601,2200.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,26.6,4.2,No,No,Normal conditions
+2022-10-20,LASALGAON,RED,1000.0,2860,2451.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,28.1,2.0,No,No,Normal conditions
+2022-10-20,DINDORI(VANI),RED,1701.0,3400,2401.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,26.9,2.0,No,No,Normal conditions
+2022-10-20,YEOLA,RED,500.0,2601,2150.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,27.9,1.8,No,No,Normal conditions
+2022-10-20,LASALGAON(NIPHAD),RED,1100.0,3000,2550.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,28.1,2.0,No,No,Normal conditions
+2022-10-20,KALVAN,RED,1375.0,2785,2300.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,26.2,3.9,No,No,Normal conditions
+2022-10-20,LASALGAON(NIPHAD),RED,1100.0,2651,2475.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,28.1,2.0,No,No,Normal conditions
+2022-10-20,MANMAD,RED,300.0,2426,2100.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,26.6,4.2,No,No,Normal conditions
+2022-10-20,SATANA,RED,505.0,2745,2290.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,25.3,0.5,No,No,Normal conditions
+2022-10-20,DEVALA,RED,900.0,2630,2300.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,27.2,2.0,No,No,Normal conditions
+2022-10-20,LASALGAON,RED,900.0,2890,2400.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,28.1,2.0,No,No,Normal conditions
+2022-10-20,PIMPALGAON,POLE,500.0,3000,2250.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Ashlesha,20,10,2022,42,27.0,0.9,No,No,Normal conditions
+2022-10-21,CHANDVAD,RED,1200.0,2785,2200.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,25.9,7.9,No,Moderate,Good moisture
+2022-10-21,SINNER,RED,500.0,3000,2200.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,26.0,3.6,No,No,Normal conditions
+2022-10-21,DINDORI(VANI),RED,1751.0,3500,2551.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.1,23.0,No,Heavy,Heavy rain expected
+2022-10-21,NASIK,POLE,800.0,2575,2101.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.5,4.2,No,No,Normal conditions
+2022-10-21,NAMPUR,RED,300.0,2680,2100.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.0,15.0,No,Moderate,Good moisture
+2022-10-21,YEOLA,RED,500.0,2625,2100.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,26.7,10.5,No,Moderate,Good moisture
+2022-10-21,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2451,2125.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,26.7,4.7,No,No,Normal conditions
+2022-10-21,DINDORI(VANI),RED,1850.0,3404,2401.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.1,23.0,No,Heavy,Heavy rain expected
+2022-10-21,PIMPALGAON,POLE,600.0,2981,2150.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.1,32.5,No,Heavy,Heavy rain expected
+2022-10-21,NAMPUR,RED,300.0,2560,2000.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.0,15.0,No,Moderate,Good moisture
+2022-10-21,KALVAN,RED,1375.0,2705,2250.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,26.7,3.7,No,No,Normal conditions
+2022-10-21,NANDGAON,RED,300.0,2552,2050.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,27.1,10.0,No,Moderate,Good moisture
+2022-10-21,CHANDVAD,RED,1000.0,2700,2080.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Ekadashi,Magha,21,10,2022,42,25.9,7.9,No,Moderate,Good moisture
+2022-10-22,LASALGAON,RED,1000.0,2695,2370.0,,0,0,0,Krishna Dwadashi,Purva Phalguni,22,10,2022,42,28.2,0.3,No,No,Normal conditions
+2022-10-22,MANMAD,RED,300.0,2605,2100.0,,0,0,0,Krishna Dwadashi,Purva Phalguni,22,10,2022,42,27.8,0.0,No,No,Normal conditions
+2022-10-24,YEOLA,RED,550.0,2461,2000.0,"Kartik Amavasya / Diwali, Diwali / Lakshmi Puja, Diwali / Narak Chaturdashi",1,0,0,Krishna Chaturdashi,Hasta,24,10,2022,43,27.6,0.0,No,No,Normal conditions
+2022-10-25,NASIK,POLE,700.0,2615,2111.0,"Kartik Amavasya / Diwali, Diwali / Lakshmi Puja, Shardiya Navratri begins / Ghatasthapana",1,0,0,Krishna Amavasya,Chitra,25,10,2022,43,28.1,0.0,No,No,Normal conditions
+2022-10-26,MANMAD,WHITE,581.0,1185,1085.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Swati,26,10,2022,43,27.8,0.0,No,No,Normal conditions
+2022-10-26,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2400,2100.0,Shardiya Navratri begins / Ghatasthapana,0,0,0,Shukla Pratipada,Swati,26,10,2022,43,27.8,0.0,No,No,Normal conditions
+2022-10-28,LASALGAON(NIPHAD),RED,1100.0,2605,2400.0,,0,0,0,Shukla Tritiya,Anuradha,28,10,2022,43,27.8,0.0,No,No,Normal conditions
+2022-10-29,DEVALA,RED,950.0,2555,2300.0,,0,0,0,Shukla Chaturthi,Jyeshtha,29,10,2022,43,29.0,0.0,No,No,Normal conditions
+2022-10-31,SATANA,RED,600.0,2700,2175.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,26.6,0.0,No,No,Normal conditions
+2022-10-31,LASALGAON,RED,900.0,2701,2400.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,27.9,0.0,No,No,Normal conditions
+2022-10-31,YEOLA,RED,600.0,2426,2000.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,27.5,0.0,No,No,Normal conditions
+2022-10-31,SINNER,RED,500.0,2461,2150.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,26.5,0.0,No,No,Normal conditions
+2022-10-31,NASIK,POLE,1100.0,2651,2050.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,27.5,0.0,No,No,Normal conditions
+2022-10-31,DINDORI(VANI),RED,1800.0,3421,2500.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,28.5,0.0,No,No,Normal conditions
+2022-10-31,LASALGAON(NIPHAD),RED,1000.0,2600,2400.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,27.9,0.0,No,No,Normal conditions
+2022-10-31,NANDGAON,RED,200.0,2376,1950.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,28.0,0.0,No,No,Normal conditions
+2022-10-31,MANMAD,RED,300.0,2580,2200.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,27.9,0.0,No,No,Normal conditions
+2022-10-31,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2500,2075.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,28.0,0.0,No,No,Normal conditions
+2022-10-31,NAMPUR,RED,300.0,2605,2000.0,Durga Ashtami / Maha Ashtami,0,0,0,Shukla Saptami,Uttara Ashadha,31,10,2022,44,28.6,0.0,No,No,Normal conditions
+2022-11-01,LASALGAON(VINCHUR),RED,1000.0,2570,2250.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,27.6,0.0,No,No,Normal conditions
+2022-11-01,PIMPALGAON,POLE,500.0,2910,2100.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.0,0.0,No,No,Normal conditions
+2022-11-01,CHANDVAD,RED,1100.0,2676,2200.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,26.5,0.0,No,No,Normal conditions
+2022-11-01,DEVALA,RED,950.0,2500,2175.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.4,0.0,No,No,Normal conditions
+2022-11-01,MANMAD,WHITE,1000.0,1447,1072.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.1,0.0,No,No,Normal conditions
+2022-11-01,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2201,2191.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,27.2,0.0,No,No,Normal conditions
+2022-11-01,NAMPUR,RED,400.0,2405,2000.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.3,0.0,No,No,Normal conditions
+2022-11-01,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2300,1900.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,27.5,0.0,No,No,Normal conditions
+2022-11-01,NASIK,POLE,1100.0,2851,2100.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,27.0,0.0,No,No,Normal conditions
+2022-11-01,LASALGAON(VINCHUR),RED,1000.0,2516,2250.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,27.6,0.0,No,No,Normal conditions
+2022-11-01,MANMAD,WHITE,500.0,1400,1052.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.1,0.0,No,No,Normal conditions
+2022-11-01,NANDGAON,RED,401.0,2500,1850.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.4,0.0,No,No,Normal conditions
+2022-11-01,DEVALA,RED,900.0,2390,2150.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,28.4,0.0,No,No,Normal conditions
+2022-11-01,CHANDVAD,RED,1135.0,2630,2080.0,"Durga Ashtami / Maha Ashtami, Maha Navami",0,0,0,Shukla Ashtami,Shravana,1,11,2022,44,26.5,0.0,No,No,Normal conditions
+2022-11-02,LASALGAON,RED,800.0,2751,2270.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.5,0.0,No,No,Normal conditions
+2022-11-02,LASALGAON(NIPHAD),RED,1000.0,2553,2300.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.5,0.0,No,No,Normal conditions
+2022-11-02,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2600,2300.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.8,0.0,No,No,Normal conditions
+2022-11-02,SINNER,RED,500.0,2372,1900.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,27.5,0.0,No,No,Normal conditions
+2022-11-02,KALVAN,RED,1100.0,2640,2201.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.3,0.0,No,No,Normal conditions
+2022-11-02,MANMAD,RED,300.0,2400,1800.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.5,0.0,No,No,Normal conditions
+2022-11-02,PIMPALGAON,POLE,500.0,2951,2100.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,29.0,0.0,No,No,Normal conditions
+2022-11-02,SATANA,RED,450.0,2375,2055.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,27.2,0.0,No,No,Normal conditions
+2022-11-02,SATANA,RED,400.0,2320,1910.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,27.2,0.0,No,No,Normal conditions
+2022-11-02,KALVAN,RED,1100.0,2580,2210.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.3,0.0,No,No,Normal conditions
+2022-11-02,LASALGAON(NIPHAD),RED,1000.0,2400,2100.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.5,0.0,No,No,Normal conditions
+2022-11-02,DEVALA,RED,850.0,2345,2150.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.8,0.0,No,No,Normal conditions
+2022-11-02,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2101,1825.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.8,0.0,No,No,Normal conditions
+2022-11-02,NAMPUR,RED,400.0,2240,1900.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,29.2,0.0,No,No,Normal conditions
+2022-11-02,LASALGAON,RED,900.0,2668,2100.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.5,0.0,No,No,Normal conditions
+2022-11-02,NANDGAON,RED,203.0,2235,1750.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,28.6,0.0,No,No,Normal conditions
+2022-11-02,SINNER,RED,500.0,2390,1850.0,"Maha Navami, Dussehra / Vijayadashami",0,0,0,Shukla Navami,Dhanishtha,2,11,2022,44,27.5,0.0,No,No,Normal conditions
+2022-11-03,NASIK,POLE,1000.0,2300,1850.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,29.7,0.0,No,No,Normal conditions
+2022-11-03,LASALGAON(VINCHUR),RED,1000.0,2352,2100.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-03,MANMAD,WHITE,731.0,1290,1200.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.5,0.0,No,No,Normal conditions
+2022-11-03,MANMAD,RED,300.0,2386,1900.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.5,0.0,No,No,Normal conditions
+2022-11-03,DINDORI(VANI),RED,1700.0,3081,2201.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.5,0.0,No,No,Normal conditions
+2022-11-03,YEOLA,RED,400.0,2226,1750.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-03,PIMPALGAON,POLE,400.0,2900,2050.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.1,0.0,No,No,Normal conditions
+2022-11-03,CHANDVAD,RED,991.0,2572,1850.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,28.4,0.0,No,No,Normal conditions
+2022-11-03,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2655,2300.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-03,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2161,1875.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-03,CHANDVAD,RED,1100.0,2500,1780.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,28.4,0.0,No,No,Normal conditions
+2022-11-03,NASIK,POLE,1100.0,2951,2250.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,29.7,0.0,No,No,Normal conditions
+2022-11-03,LASALGAON,RED,700.0,2600,2100.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-03,MANMAD,RED,200.0,2476,1900.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.5,0.0,No,No,Normal conditions
+2022-11-03,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2655,2450.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-03,PIMPALGAON,POLE,600.0,2904,2100.0,"Dev Uthani Ekadashi, Dussehra / Vijayadashami, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Dashami,Shatabhisha,3,11,2022,44,30.1,0.0,No,No,Normal conditions
+2022-11-04,DINDORI(VANI),RED,1751.0,2950,2350.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,30.4,0.0,No,No,Normal conditions
+2022-11-04,MANMAD,WHITE,512.0,1550,1311.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,31.0,0.0,No,No,Normal conditions
+2022-11-04,LASALGAON(VINCHUR),RED,1000.0,2360,2100.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,29.9,0.0,No,No,Normal conditions
+2022-11-04,LASALGAON(NIPHAD),RED,1000.0,2351,2125.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,29.9,0.0,No,No,Normal conditions
+2022-11-04,YEOLA,RED,400.0,2300,1800.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,29.8,0.0,No,No,Normal conditions
+2022-11-04,NANDGAON,RED,100.0,2401,1750.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,31.3,0.0,No,No,Normal conditions
+2022-11-04,NAMPUR,RED,400.0,2350,1800.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,30.2,0.0,No,No,Normal conditions
+2022-11-04,LASALGAON(VINCHUR),RED,1000.0,2430,2200.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,29.9,0.0,No,No,Normal conditions
+2022-11-04,UMRANE,RED,700.0,2511,1850.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,29.0,0.0,No,No,Normal conditions
+2022-11-04,SATANA,RED,325.0,2485,1950.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,28.0,0.0,No,No,Normal conditions
+2022-11-04,DEVALA,RED,800.0,2300,2100.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,30.5,0.0,No,No,Normal conditions
+2022-11-04,LASALGAON,RED,1000.0,2652,2250.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,29.9,0.0,No,No,Normal conditions
+2022-11-04,MANMAD,WHITE,300.0,1630,1230.0,"Dev Uthani Ekadashi, Govatsa Dwadashi / Vasu Baras",0,1,0,Shukla Ekadashi,Purva Bhadrapada,4,11,2022,44,31.0,0.0,No,No,Normal conditions
+2022-11-05,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2301,2000.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,29.8,0.0,No,No,Normal conditions
+2022-11-05,KALVAN,RED,1300.0,2650,2200.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,30.2,0.0,No,No,Normal conditions
+2022-11-05,LASALGAON(NIPHAD),RED,1100.0,2525,2250.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-05,DINDORI(VANI),RED,1700.0,2900,2350.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,30.5,0.0,No,No,Normal conditions
+2022-11-05,SINNER,RED,500.0,2391,1950.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,29.1,0.0,No,No,Normal conditions
+2022-11-05,PIMPALGAON,POLE,700.0,2653,2150.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,30.4,0.0,No,No,Normal conditions
+2022-11-05,NASIK,OTHER,1200.0,3000,2300.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,29.6,0.0,No,No,Normal conditions
+2022-11-05,YEOLA,RED,500.0,2401,1900.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,30.0,0.0,No,No,Normal conditions
+2022-11-05,MANMAD,RED,400.0,2700,2100.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,31.6,0.0,No,No,Normal conditions
+2022-11-05,CHANDVAD,RED,1100.0,2596,2030.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Dwadashi,Uttara Bhadrapada,5,11,2022,44,29.6,0.0,No,No,Normal conditions
+2022-11-07,NASIK,POLE,1150.0,2900,2200.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.6,0.0,No,No,Normal conditions
+2022-11-07,LASALGAON(NIPHAD),RED,1100.0,2511,2250.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.5,0.0,No,No,Normal conditions
+2022-11-07,LASALGAON(VINCHUR),RED,1000.0,2512,2250.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.5,0.0,No,No,Normal conditions
+2022-11-07,UMRANE,RED,700.0,2550,1800.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,28.4,0.0,No,No,Normal conditions
+2022-11-07,CHANDVAD,RED,1000.0,2552,2000.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,28.4,0.0,No,No,Normal conditions
+2022-11-07,YEOLA,RED,400.0,2496,1900.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.5,0.0,No,No,Normal conditions
+2022-11-07,SINNER,RED,500.0,2400,1950.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.4,0.0,No,No,Normal conditions
+2022-11-07,MANMAD,RED,400.0,2820,2200.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,30.8,0.0,No,No,Normal conditions
+2022-11-07,NAMPUR,RED,400.0,2470,1800.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,30.8,0.0,No,No,Normal conditions
+2022-11-07,PIMPALGAON,POLE,700.0,2760,2150.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.9,0.0,No,No,Normal conditions
+2022-11-07,SATANA,RED,460.0,2475,1905.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,28.3,0.0,No,No,Normal conditions
+2022-11-07,DEVALA,RED,900.0,2370,2150.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,31.6,0.0,No,No,Normal conditions
+2022-11-07,MANMAD,WHITE,980.0,1400,1260.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,30.8,0.0,No,No,Normal conditions
+2022-11-07,NANDGAON,RED,200.0,2500,1750.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,31.5,0.0,No,No,Normal conditions
+2022-11-07,DINDORI(VANI),RED,1715.0,3050,2450.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,30.0,0.0,No,No,Normal conditions
+2022-11-07,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2300,1950.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali",0,0,1,Shukla Chaturdashi,Ashwini,7,11,2022,45,29.4,0.0,No,No,Normal conditions
+2022-11-08,LASALGAON,RED,1000.0,2651,2351.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Bharani,8,11,2022,45,30.1,0.0,No,No,Normal conditions
+2022-11-08,NAMPUR,RED,400.0,2325,1800.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Bharani,8,11,2022,45,31.2,0.0,No,No,Normal conditions
+2022-11-08,DEVALA,RED,900.0,2440,2200.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Bharani,8,11,2022,45,31.4,0.0,No,No,Normal conditions
+2022-11-08,LASALGAON(NIPHAD),RED,1100.0,2650,2325.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Bharani,8,11,2022,45,30.1,0.0,No,No,Normal conditions
+2022-11-08,SATANA,RED,265.0,2405,1925.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Bharani,8,11,2022,45,28.7,0.0,No,No,Normal conditions
+2022-11-08,NASIK,POLE,1200.0,2751,2100.0,"Kartik Purnima / Dev Deepawali, Guru Nanak Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Bharani,8,11,2022,45,29.9,0.0,No,No,Normal conditions
+2022-11-09,LASALGAON(VINCHUR),RED,1000.0,2728,2300.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,28.8,0.0,No,No,Normal conditions
+2022-11-09,NANDGAON,RED,200.0,2611,1750.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,30.7,0.0,No,No,Normal conditions
+2022-11-09,SINNER,RED,500.0,2430,2100.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,28.7,0.0,No,No,Normal conditions
+2022-11-09,PIMPALGAON,POLE,700.0,2870,2200.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-09,NAMPUR,OTHER,400.0,2325,1800.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,30.2,0.0,No,No,Normal conditions
+2022-11-09,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2500,2050.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-09,MANMAD,WHITE,1000.0,1690,1300.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,30.2,0.0,No,No,Normal conditions
+2022-11-09,YEOLA,RED,281.0,2495,1800.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-09,LASALGAON,RED,1100.0,2602,2300.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,28.8,0.0,No,No,Normal conditions
+2022-11-09,MANMAD,RED,400.0,2600,2100.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,30.2,0.0,No,No,Normal conditions
+2022-11-09,NASIK,POLE,1100.0,2611,2050.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,29.4,0.0,No,No,Normal conditions
+2022-11-09,PIMPALGAON,POLE,800.0,2722,2251.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-09,SATANA,RED,450.0,2500,1980.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,27.5,0.0,No,No,Normal conditions
+2022-11-09,MANMAD,WHITE,1190.0,1635,1400.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Krittika,9,11,2022,45,30.2,0.0,No,No,Normal conditions
+2022-11-10,LASALGAON(NIPHAD),RED,1100.0,2700,2400.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-10,LASALGAON(VINCHUR),RED,1000.0,2611,2250.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-10,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2700,2450.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,28.6,0.0,No,No,Normal conditions
+2022-11-10,DEVALA,RED,900.0,2455,2200.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.6,0.0,No,No,Normal conditions
+2022-11-10,NAMPUR,RED,500.0,2300,1800.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.4,0.0,No,No,Normal conditions
+2022-11-10,KALVAN,RED,1400.0,2820,2250.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,28.3,0.0,No,No,Normal conditions
+2022-11-10,MANMAD,RED,400.0,2700,2100.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.1,0.0,No,No,Normal conditions
+2022-11-10,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2500,2075.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,28.5,0.0,No,No,Normal conditions
+2022-11-10,LASALGAON,RED,1000.0,2882,2400.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-10,CHANDVAD,RED,1030.0,2671,2000.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,27.5,0.0,No,No,Normal conditions
+2022-11-10,SINNER,RED,500.0,2381,2150.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,27.2,0.0,No,No,Normal conditions
+2022-11-10,NANDGAON,RED,200.0,2450,1850.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,30.0,0.0,No,No,Normal conditions
+2022-11-10,YEOLA,RED,400.0,2580,1900.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,29.5,0.0,No,No,Normal conditions
+2022-11-10,CHANDVAD,RED,1016.0,2636,1980.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,27.5,0.0,No,No,Normal conditions
+2022-11-10,NASIK,POLE,1000.0,2551,1900.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Rohini,10,11,2022,45,28.2,0.0,No,No,Normal conditions
+2022-11-11,MANMAD,RED,500.0,2651,2200.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.9,0.0,No,No,Normal conditions
+2022-11-11,MANMAD,WHITE,800.0,1700,1297.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.9,0.0,No,No,Normal conditions
+2022-11-11,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2365,2025.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.7,0.0,No,No,Normal conditions
+2022-11-11,LASALGAON(VINCHUR),RED,1000.0,2611,2250.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.8,0.0,No,No,Normal conditions
+2022-11-11,KALVAN,RED,1200.0,2900,2301.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.2,0.0,No,No,Normal conditions
+2022-11-11,LASALGAON(NIPHAD),RED,1100.0,2611,2350.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.8,0.0,No,No,Normal conditions
+2022-11-11,NAMPUR,RED,400.0,2425,1900.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,29.1,0.0,No,No,Normal conditions
+2022-11-11,PIMPALGAON,POLE,800.0,2821,2250.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.9,0.0,No,No,Normal conditions
+2022-11-11,LASALGAON,RED,1000.0,2851,2370.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.8,0.0,No,No,Normal conditions
+2022-11-11,DEVALA,RED,900.0,2460,2250.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,29.3,0.0,No,No,Normal conditions
+2022-11-11,SATANA,RED,350.0,2555,2020.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,27.1,0.0,No,No,Normal conditions
+2022-11-11,UMRANE,RED,700.0,2551,1850.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,27.5,0.0,No,No,Normal conditions
+2022-11-11,SHREE RAMESHWAR KRUSHI MARKET,RED,451.0,2651,1869.36,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-11,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2900,2550.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.9,0.0,No,No,Normal conditions
+2022-11-11,YEOLA,RED,500.0,2701,2150.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,29.5,0.0,No,No,Normal conditions
+2022-11-11,MANMAD,WHITE,1100.0,1561,1300.0,,0,0,0,Krishna Tritiya,Mrigashira,11,11,2022,45,28.9,0.0,No,No,Normal conditions
+2022-11-12,NASIK,POLE,1100.0,2701,2250.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,28.2,0.0,No,No,Normal conditions
+2022-11-12,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2430,2050.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,28.6,0.0,No,No,Normal conditions
+2022-11-12,DINDORI(VANI),RED,1800.0,2899,2411.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-12,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2800,2500.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,28.6,0.0,No,No,Normal conditions
+2022-11-12,LASALGAON,RED,1100.0,2900,2425.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-12,LASALGAON(NIPHAD),RED,1100.0,2750,2425.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-12,MANMAD,RED,400.0,2550,2150.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-12,LASALGAON(VINCHUR),RED,1000.0,2751,2400.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-12,PIMPALGAON,POLE,600.0,2860,2200.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.0,0.0,No,No,Normal conditions
+2022-11-12,LASALGAON(NIPHAD),RED,1100.0,2770,2475.0,,0,0,0,Krishna Chaturthi,Mrigashira,12,11,2022,45,29.2,0.0,No,No,Normal conditions
+2022-11-14,LASALGAON,RED,1100.0,2900,2400.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-14,PIMPALGAON,POLE,700.0,2821,2250.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,28.8,0.0,No,No,Normal conditions
+2022-11-14,MANMAD,RED,500.0,2835,2200.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,28.7,0.0,No,No,Normal conditions
+2022-11-14,NASIK,POLE,1400.0,3275,2600.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,29.0,0.0,No,No,Normal conditions
+2022-11-14,YEOLA,RED,400.0,2576,2150.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-14,CHANDVAD,RED,1145.0,2700,2280.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,27.4,0.0,No,No,Normal conditions
+2022-11-14,NAMPUR,RED,400.0,2610,2100.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,29.2,0.0,No,No,Normal conditions
+2022-11-14,DEVALA,RED,900.0,2565,2250.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,30.2,0.0,No,No,Normal conditions
+2022-11-14,LASALGAON(VINCHUR),RED,1000.0,2711,2400.0,,0,0,0,Krishna Shashthi,Punarvasu,14,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-15,SATANA,RED,450.0,2735,2155.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,28.2,0.0,No,No,Normal conditions
+2022-11-15,MANMAD,WHITE,1300.0,1701,1460.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.0,0.0,No,No,Normal conditions
+2022-11-15,KALVAN,RED,1200.0,2810,2211.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,28.8,0.0,No,No,Normal conditions
+2022-11-15,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2550,2100.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.0,0.0,No,No,Normal conditions
+2022-11-15,LASALGAON(NIPHAD),RED,1100.0,2602,2400.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,28.8,0.0,No,No,Normal conditions
+2022-11-15,MANMAD,WHITE,1256.0,1800,1600.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.0,0.0,No,No,Normal conditions
+2022-11-15,DINDORI(VANI),RED,1800.0,2941,2471.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.4,0.0,No,No,Normal conditions
+2022-11-15,YEOLA,RED,400.0,2501,2100.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,28.8,0.0,No,No,Normal conditions
+2022-11-15,NAMPUR,RED,300.0,2505,2100.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.5,0.0,No,No,Normal conditions
+2022-11-15,PIMPALGAON,POLE,550.0,2837,2250.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.4,0.0,No,No,Normal conditions
+2022-11-15,MANMAD,RED,500.0,2676,2100.0,,0,0,0,Krishna Saptami,Pushya,15,11,2022,46,29.0,0.0,No,No,Normal conditions
+2022-11-16,LASALGAON,RED,1000.0,2852,2351.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-16,DEVALA,RED,900.0,2500,2250.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,29.1,0.0,No,No,Normal conditions
+2022-11-16,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2800,2550.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.3,0.0,No,No,Normal conditions
+2022-11-16,LASALGAON(VINCHUR),RED,1000.0,2700,2350.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-16,KALVAN,RED,1300.0,2950,2200.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,27.8,0.0,No,No,Normal conditions
+2022-11-16,CHANDVAD,RED,1002.0,2600,2250.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,27.4,0.0,No,No,Normal conditions
+2022-11-16,NANDGAON,RED,325.0,2600,1950.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,29.2,0.0,No,No,Normal conditions
+2022-11-16,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2451,2050.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.2,0.0,No,No,Normal conditions
+2022-11-16,SATANA,RED,350.0,2620,2070.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,27.0,0.0,No,No,Normal conditions
+2022-11-16,SINNER,RED,500.0,2620,2250.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,27.5,0.0,No,No,Normal conditions
+2022-11-16,NASIK,POLE,1200.0,2641,2100.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.4,0.0,No,No,Normal conditions
+2022-11-16,MANMAD,WHITE,760.0,1816,1700.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-16,LASALGAON(NIPHAD),RED,1100.0,2660,2411.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-16,UMRANE,RED,700.0,2712,1950.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,27.5,0.0,No,No,Normal conditions
+2022-11-16,LASALGAON,RED,1000.0,2860,2300.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,28.5,0.0,No,No,Normal conditions
+2022-11-16,SINNER,RED,500.0,2401,2050.0,,0,0,0,Krishna Ashtami,Ashlesha,16,11,2022,46,27.5,0.0,No,No,Normal conditions
+2022-11-17,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2500,2025.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,28.0,0.0,No,No,Normal conditions
+2022-11-17,SATANA,RED,300.0,2605,2095.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,26.0,0.0,No,No,Normal conditions
+2022-11-17,PIMPALGAON,POLE,500.0,2801,2250.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,28.0,0.0,No,No,Normal conditions
+2022-11-17,DEVALA,RED,800.0,2555,2150.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,28.2,0.0,No,No,Normal conditions
+2022-11-17,NASIK,POLE,1100.0,2500,2150.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,28.2,0.0,No,No,Normal conditions
+2022-11-17,MANMAD,RED,500.0,2651,2200.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,27.3,0.0,No,No,Normal conditions
+2022-11-17,NANDGAON,RED,200.0,2502,1750.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,27.8,0.0,No,No,Normal conditions
+2022-11-17,LASALGAON(VINCHUR),RED,1000.0,2552,2350.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,27.6,0.0,No,No,Normal conditions
+2022-11-17,YEOLA,RED,551.0,2426,2000.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,27.6,0.0,No,No,Normal conditions
+2022-11-17,NAMPUR,RED,300.0,2365,1800.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,27.9,0.0,No,No,Normal conditions
+2022-11-17,CHANDVAD,RED,800.0,2550,2180.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,26.4,0.0,No,No,Normal conditions
+2022-11-17,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2700,2450.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,28.1,0.0,No,No,Normal conditions
+2022-11-17,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,3005,2500.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,28.1,0.0,No,No,Normal conditions
+2022-11-17,SATANA,RED,450.0,2520,2180.0,,0,0,0,Krishna Ashtami,Magha,17,11,2022,46,26.0,0.0,No,No,Normal conditions
+2022-11-18,NASIK,POLE,1400.0,2800,2350.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.7,0.0,No,No,Normal conditions
+2022-11-18,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2811,2150.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.4,0.0,No,No,Normal conditions
+2022-11-18,DEVALA,RED,750.0,2550,2250.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,27.1,0.0,No,No,Normal conditions
+2022-11-18,UMRANE,RED,700.0,2811,2000.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,25.2,0.0,No,No,Normal conditions
+2022-11-18,KALVAN,RED,1100.0,2800,2150.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,25.8,0.0,No,No,Normal conditions
+2022-11-18,LASALGAON(NIPHAD),RED,1000.0,2601,2351.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.6,0.0,No,No,Normal conditions
+2022-11-18,LASALGAON(VINCHUR),RED,1000.0,2721,2350.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.6,0.0,No,No,Normal conditions
+2022-11-18,DINDORI(VANI),RED,2000.0,2850,2101.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.7,0.0,No,No,Normal conditions
+2022-11-18,SINNER,RED,500.0,2390,2150.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.0,0.0,No,No,Normal conditions
+2022-11-18,MANMAD,RED,500.0,2675,2100.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.5,0.0,No,No,Normal conditions
+2022-11-18,MANMAD,WHITE,1700.0,2000,1800.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.5,0.0,No,No,Normal conditions
+2022-11-18,NAMPUR,RED,300.0,2450,2100.0,,0,0,0,Krishna Navami,Purva Phalguni,18,11,2022,46,26.6,0.0,No,No,Normal conditions
+2022-11-19,PIMPALGAON,POLE,700.0,2862,2400.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,26.0,0.0,No,No,Normal conditions
+2022-11-19,LASALGAON,RED,1000.0,2951,2400.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,26.0,0.0,No,No,Normal conditions
+2022-11-19,LASALGAON(VINCHUR),RED,1200.0,2700,2450.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,26.0,0.0,No,No,Normal conditions
+2022-11-19,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2700,2500.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,26.2,0.0,No,No,Normal conditions
+2022-11-19,CHANDVAD,RED,1000.0,2691,2250.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,24.4,0.0,No,No,Normal conditions
+2022-11-19,YEOLA,RED,500.0,2581,2100.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,26.2,0.0,No,No,Normal conditions
+2022-11-19,MANMAD,RED,300.0,3000,2100.0,"Krishna Ekadashi, Kartik Ekadashi / Wari, Tulsi Vivah",0,1,0,Krishna Dashami,Uttara Phalguni,19,11,2022,46,25.5,0.0,No,No,Normal conditions
+2022-11-21,SATANA,RED,305.0,2535,2195.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,24.8,0.0,No,No,Normal conditions
+2022-11-21,UMRANE,RED,700.0,2728,1900.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,25.0,0.0,No,No,Normal conditions
+2022-11-21,PIMPALGAON,POLE,700.0,2725,2350.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,26.5,0.0,No,No,Normal conditions
+2022-11-21,KALVAN,RED,1100.0,3000,2200.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,25.7,0.0,No,No,Normal conditions
+2022-11-21,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2550,2100.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,26.2,0.0,No,No,Normal conditions
+2022-11-21,LASALGAON(NIPHAD),RED,1100.0,2711,2470.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,26.5,0.0,No,No,Normal conditions
+2022-11-21,NAMPUR,RED,200.0,2455,2100.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,26.5,0.0,No,No,Normal conditions
+2022-11-21,MANMAD,WHITE,1180.0,1811,1600.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,25.8,0.0,No,No,Normal conditions
+2022-11-21,DEVALA,RED,800.0,2580,2350.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,26.6,0.0,No,No,Normal conditions
+2022-11-21,SINNER,RED,500.0,2676,2350.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,25.4,0.0,No,No,Normal conditions
+2022-11-21,NASIK,POLE,1100.0,2501,2250.0,,0,0,0,Krishna Dwadashi,Chitra,21,11,2022,47,25.9,0.0,No,No,Normal conditions
+2022-11-22,LASALGAON,RED,1000.0,3000,2500.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.5,0.0,No,No,Normal conditions
+2022-11-22,NASIK,POLE,1611.0,3500,2500.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.4,0.0,No,No,Normal conditions
+2022-11-22,DINDORI(VANI),RED,1600.0,2962,2371.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,28.0,0.0,No,No,Normal conditions
+2022-11-22,MANMAD,RED,300.0,2480,1900.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.1,0.0,No,No,Normal conditions
+2022-11-22,LASALGAON,RED,1000.0,2631,2251.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.5,0.0,No,No,Normal conditions
+2022-11-22,LASALGAON(VINCHUR),RED,900.0,2901,2250.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.5,0.0,No,No,Normal conditions
+2022-11-22,YEOLA,RED,450.0,2451,1925.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.6,0.0,No,No,Normal conditions
+2022-11-22,PIMPALGAON,POLE,700.0,2660,2200.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.6,0.0,No,No,Normal conditions
+2022-11-22,MANMAD,WHITE,1000.0,1750,1550.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.1,0.0,No,No,Normal conditions
+2022-11-22,LASALGAON(NIPHAD),RED,1100.0,2551,2225.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.5,0.0,No,No,Normal conditions
+2022-11-22,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2400,2025.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,27.4,0.0,No,No,Normal conditions
+2022-11-22,CHANDVAD,RED,1200.0,2659,2080.0,Diwali / Narak Chaturdashi,0,0,0,Krishna Trayodashi,Swati,22,11,2022,47,25.8,0.0,No,No,Normal conditions
+2022-11-23,SATANA,RED,450.0,2400,2050.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,26.5,0.0,No,No,Normal conditions
+2022-11-23,DEVALA,RED,800.0,2305,2050.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.6,0.0,No,No,Normal conditions
+2022-11-23,LASALGAON(NIPHAD),RED,1100.0,2341,2031.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.6,0.0,No,No,Normal conditions
+2022-11-23,PIMPALGAON,POLE,700.0,2790,2100.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.6,0.0,No,No,Normal conditions
+2022-11-23,CHANDVAD,RED,1060.0,2500,2030.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,26.9,0.0,No,No,Normal conditions
+2022-11-23,NASIK,POLE,1400.0,2751,2300.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.3,0.0,No,No,Normal conditions
+2022-11-23,NANDGAON,RED,400.0,2290,1850.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.8,0.0,No,No,Normal conditions
+2022-11-23,KALVAN,RED,1100.0,2505,1951.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,27.6,0.0,No,No,Normal conditions
+2022-11-23,SHREE RAMESHWAR KRUSHI MARKET,RED,300.0,2500,1778.01,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.7,0.0,No,No,Normal conditions
+2022-11-23,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2400,2050.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.1,0.0,No,No,Normal conditions
+2022-11-23,SINNER,RED,500.0,2300,1950.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.1,0.0,No,No,Normal conditions
+2022-11-23,LASALGAON,RED,900.0,2471,2150.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.6,0.0,No,No,Normal conditions
+2022-11-23,LASALGAON(VINCHUR),RED,900.0,2425,2050.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.6,0.0,No,No,Normal conditions
+2022-11-23,UMRANE,RED,700.0,2473,1800.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,27.3,0.0,No,No,Normal conditions
+2022-11-23,YEOLA,RED,450.0,2352,1800.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.8,0.0,No,No,Normal conditions
+2022-11-23,NAMPUR,RED,300.0,2455,1800.0,"Diwali / Narak Chaturdashi, Champa Shashthi / Khandoba Festival begins",0,0,0,Krishna Chaturdashi,Vishakha,23,11,2022,47,28.5,0.0,No,No,Normal conditions
+2022-11-24,MANMAD,RED,400.0,2400,1900.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.0,0.0,No,No,Normal conditions
+2022-11-24,CHANDVAD,RED,1000.0,2275,1880.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,26.5,0.0,No,No,Normal conditions
+2022-11-24,MANMAD,RED,300.0,2550,1900.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.0,0.0,No,No,Normal conditions
+2022-11-24,KALVAN,RED,1000.0,2460,1901.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,27.3,0.0,No,No,Normal conditions
+2022-11-24,MANMAD,WHITE,300.0,1550,1100.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.0,0.0,No,No,Normal conditions
+2022-11-24,LASALGAON(NIPHAD),RED,1100.0,2300,1950.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.5,0.0,No,No,Normal conditions
+2022-11-24,UMRANE,RED,700.0,2316,1600.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,27.0,0.0,No,No,Normal conditions
+2022-11-24,LASALGAON(VINCHUR),RED,900.0,2500,2000.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.5,0.0,No,No,Normal conditions
+2022-11-24,DINDORI(VANI),RED,1400.0,2863,2251.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.8,0.0,No,No,Normal conditions
+2022-11-24,YEOLA,RED,300.0,2301,1825.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.5,0.0,No,No,Normal conditions
+2022-11-24,PIMPALGAON,POLE,500.0,2386,2000.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.5,0.0,No,No,Normal conditions
+2022-11-24,NAMPUR,OTHER,400.0,2350,2000.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.0,0.0,No,No,Normal conditions
+2022-11-24,NANDGAON,RED,200.0,2201,1850.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.5,0.0,No,No,Normal conditions
+2022-11-24,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2029,1750.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.2,0.0,No,No,Normal conditions
+2022-11-24,NASIK,POLE,1000.0,2411,1600.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,28.4,0.0,No,No,Normal conditions
+2022-11-24,SINNER,RED,500.0,2241,1850.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Anuradha,24,11,2022,47,27.9,0.0,No,No,Normal conditions
+2022-11-25,NAMPUR,RED,400.0,2350,2000.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.1,0.0,No,No,Normal conditions
+2022-11-25,SATANA,RED,250.0,2235,1910.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,27.0,0.0,No,No,Normal conditions
+2022-11-25,DEVALA,RED,700.0,2300,1950.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.0,0.0,No,No,Normal conditions
+2022-11-25,NASIK,POLE,900.0,2311,1511.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.5,0.0,No,No,Normal conditions
+2022-11-25,LASALGAON,RED,800.0,2453,2000.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.0,0.0,No,No,Normal conditions
+2022-11-25,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,1970,1675.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.0,0.0,No,No,Normal conditions
+2022-11-25,PIMPALGAON,POLE,600.0,2651,1950.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.1,0.0,No,No,Normal conditions
+2022-11-25,LASALGAON(VINCHUR),RED,900.0,2500,1950.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.0,0.0,No,No,Normal conditions
+2022-11-25,CHANDVAD,RED,852.0,2391,1980.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,27.8,0.0,No,No,Normal conditions
+2022-11-25,LASALGAON(NIPHAD),RED,1000.0,2248,1950.0,,0,0,0,Shukla Dwitiya,Jyeshtha,25,11,2022,47,29.0,0.0,No,No,Normal conditions
+2022-11-26,NASIK,POLE,1100.0,2700,1975.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,30.0,0.0,No,No,Normal conditions
+2022-11-26,LASALGAON,RED,800.0,2500,2000.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.4,0.0,No,No,Normal conditions
+2022-11-26,NAMPUR,RED,200.0,2075,1500.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.4,0.0,No,No,Normal conditions
+2022-11-26,SATANA,RED,450.0,2080,1715.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,27.6,0.0,No,No,Normal conditions
+2022-11-26,DINDORI(VANI),RED,1400.0,2700,2101.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.5,0.0,No,No,Normal conditions
+2022-11-26,LASALGAON(NIPHAD),RED,1000.0,2320,1850.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.4,0.0,No,No,Normal conditions
+2022-11-26,MANMAD,RED,400.0,2381,1800.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,28.9,0.0,No,No,Normal conditions
+2022-11-26,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,1900,1625.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.1,0.0,No,No,Normal conditions
+2022-11-26,LASALGAON,RED,700.0,2412,1951.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.4,0.0,No,No,Normal conditions
+2022-11-26,LASALGAON(VINCHUR),RED,900.0,2400,1850.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.4,0.0,No,No,Normal conditions
+2022-11-26,NASIK,POLE,900.0,2000,1500.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,30.0,0.0,No,No,Normal conditions
+2022-11-26,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,1100.0,2100,1550.0,,0,0,0,Shukla Tritiya,Mula,26,11,2022,47,29.6,0.0,No,No,Normal conditions
+2022-11-28,NANDGAON,RED,100.0,2000,1350.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Uttara Ashadha,28,11,2022,48,30.0,0.0,No,No,Normal conditions
+2022-11-28,KALVAN,RED,800.0,2295,1850.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Uttara Ashadha,28,11,2022,48,28.8,0.0,No,No,Normal conditions
+2022-11-28,PIMPALGAON,POLE,500.0,2401,1800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Uttara Ashadha,28,11,2022,48,29.1,0.0,No,No,Normal conditions
+2022-11-28,CHANDVAD,RED,600.0,2401,1750.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Uttara Ashadha,28,11,2022,48,27.8,0.0,No,No,Normal conditions
+2022-11-29,SINNER,RED,500.0,2191,1600.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,28.8,0.0,No,No,Normal conditions
+2022-11-29,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,1900,1600.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,28.6,0.0,No,No,Normal conditions
+2022-11-29,MANMAD,RED,300.0,2109,1800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,29.0,0.0,No,No,Normal conditions
+2022-11-29,LASALGAON,RED,801.0,2321,1780.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,28.9,0.0,No,No,Normal conditions
+2022-11-29,CHANDVAD,RED,300.0,2370,1670.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,27.4,0.0,No,No,Normal conditions
+2022-11-29,LASALGAON(VINCHUR),RED,900.0,2470,1750.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,28.9,0.0,No,No,Normal conditions
+2022-11-29,PIMPALGAON,POLE,500.0,2600,1800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,28.8,0.0,No,No,Normal conditions
+2022-11-29,YEOLA,RED,500.0,2300,1650.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,29.0,0.0,No,No,Normal conditions
+2022-11-29,DINDORI(VANI),RED,1600.0,2900,2081.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,28.9,0.0,No,No,Normal conditions
+2022-11-29,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,1500.0,2400,1750.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,29.0,0.0,No,No,Normal conditions
+2022-11-29,NASIK,POLE,1100.0,2700,2050.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shravana,29,11,2022,48,29.1,0.0,No,No,Normal conditions
+2022-11-30,MANMAD,WHITE,700.0,1401,1300.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.6,0.0,No,No,Normal conditions
+2022-11-30,LASALGAON(NIPHAD),RED,800.0,2145,1800.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.6,0.0,No,No,Normal conditions
+2022-11-30,YEOLA,RED,500.0,2401,1750.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.7,0.0,No,No,Normal conditions
+2022-11-30,SATANA,RED,550.0,2340,1925.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,26.8,0.0,No,No,Normal conditions
+2022-11-30,NASIK,POLE,1050.0,2300,1800.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.9,0.0,No,No,Normal conditions
+2022-11-30,LASALGAON(NIPHAD),RED,861.0,2230,1850.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.6,0.0,No,No,Normal conditions
+2022-11-30,DEVALA,RED,600.0,2460,2100.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,29.3,0.0,No,No,Normal conditions
+2022-11-30,LASALGAON(VINCHUR),RED,900.0,2352,1950.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.6,0.0,No,No,Normal conditions
+2022-11-30,SINNER,RED,500.0,2200,1700.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.3,0.0,No,No,Normal conditions
+2022-11-30,CHANDVAD,RED,700.0,2535,1780.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,27.2,0.0,No,No,Normal conditions
+2022-11-30,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2101,1700.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.4,0.0,No,No,Normal conditions
+2022-11-30,SHREE RAMESHWAR KRUSHI MARKET,RED,251.0,2600,1723.7,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.8,0.0,No,No,Normal conditions
+2022-11-30,KALVAN,RED,900.0,2701,2100.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.1,0.0,No,No,Normal conditions
+2022-11-30,LASALGAON,RED,900.0,2652,1900.0,,0,0,0,Shukla Saptami,Shatabhisha,30,11,2022,48,28.6,0.0,No,No,Normal conditions
+2022-12-01,DINDORI(VANI),RED,1300.0,2701,2051.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,28.1,0.0,No,No,Normal conditions
+2022-12-01,MANMAD,WHITE,760.0,1400,1225.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.8,0.0,No,No,Normal conditions
+2022-12-01,PIMPALGAON,POLE,600.0,2599,2150.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.9,0.0,No,No,Normal conditions
+2022-12-01,UMRANE,RED,700.0,2500,1800.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,26.7,0.0,No,No,Normal conditions
+2022-12-01,MANMAD,RED,300.0,2251,1800.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.8,0.0,No,No,Normal conditions
+2022-12-01,MALHARSHREE FARMERS PRODUCER CO LTD,RED,344.0,2210,1541.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.9,0.0,No,No,Normal conditions
+2022-12-01,SATANA,RED,350.0,2525,2100.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,26.0,0.0,No,No,Normal conditions
+2022-12-01,LASALGAON,RED,900.0,2780,2200.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.9,0.0,No,No,Normal conditions
+2022-12-01,MANMAD,WHITE,1000.0,1800,1500.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.8,0.0,No,No,Normal conditions
+2022-12-01,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,1750.0,2600,2150.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,28.2,0.0,No,No,Normal conditions
+2022-12-01,DEVALA,RED,650.0,2505,2250.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,28.6,0.0,No,No,Normal conditions
+2022-12-01,LASALGAON(VINCHUR),RED,1000.0,2652,2200.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.9,0.0,No,No,Normal conditions
+2022-12-01,DINDORI(VANI),RED,1651.0,2860,2111.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,28.1,0.0,No,No,Normal conditions
+2022-12-01,PIMPALGAON,POLE,700.0,2785,2300.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.9,0.0,No,No,Normal conditions
+2022-12-01,SINNER,RED,500.0,2475,2050.0,,0,0,0,Shukla Ashtami,Purva Bhadrapada,1,12,2022,48,27.6,0.0,No,No,Normal conditions
+2022-12-02,UMRANE,RED,700.0,2451,1900.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,27.5,0.0,No,No,Normal conditions
+2022-12-02,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2236,1750.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.7,0.0,No,No,Normal conditions
+2022-12-02,KALVAN,RED,1000.0,2600,2150.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.3,0.0,No,No,Normal conditions
+2022-12-02,NAMPUR,RED,300.0,2851,2200.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,29.3,0.0,No,No,Normal conditions
+2022-12-02,YEOLA,RED,500.0,2290,1850.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.5,0.0,No,No,Normal conditions
+2022-12-02,CHANDVAD,RED,800.0,2651,1980.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,27.2,0.0,No,No,Normal conditions
+2022-12-02,NASIK,POLE,1000.0,2451,1900.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,29.0,0.0,No,No,Normal conditions
+2022-12-02,MANMAD,RED,300.0,2450,2000.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.4,0.0,No,No,Normal conditions
+2022-12-02,LASALGAON(NIPHAD),RED,1000.0,2580,2200.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.8,0.0,No,No,Normal conditions
+2022-12-02,MANMAD,RED,500.0,3001,2200.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.4,0.0,No,No,Normal conditions
+2022-12-02,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2415,2100.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.7,0.0,No,No,Normal conditions
+2022-12-02,LASALGAON(VINCHUR),RED,1000.0,2952,2350.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.8,0.0,No,No,Normal conditions
+2022-12-02,DEVALA,RED,800.0,2545,2250.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,30.0,0.0,No,No,Normal conditions
+2022-12-02,MANMAD,WHITE,1000.0,1816,1700.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.4,0.0,No,No,Normal conditions
+2022-12-02,PIMPALGAON,POLE,750.0,2940,2300.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.6,0.0,No,No,Normal conditions
+2022-12-02,NASIK,POLE,1300.0,2851,2350.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,29.0,0.0,No,No,Normal conditions
+2022-12-02,UMRANE,RED,700.0,2751,1950.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,27.5,0.0,No,No,Normal conditions
+2022-12-02,SHREE RAMESHWAR KRUSHI MARKET,RED,500.0,3051,1944.64,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.9,0.0,No,No,Normal conditions
+2022-12-02,NAMPUR,RED,300.0,2685,2000.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,29.3,0.0,No,No,Normal conditions
+2022-12-02,YEOLA,RED,400.0,2480,2050.0,,0,0,0,Shukla Dashami,Uttara Bhadrapada,2,12,2022,48,28.5,0.0,No,No,Normal conditions
+2022-12-03,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2000.0,2900,2500.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.3,0.0,No,No,Normal conditions
+2022-12-03,SINNER,RED,500.0,2481,2150.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.0,0.0,No,No,Normal conditions
+2022-12-03,LASALGAON(NIPHAD),RED,1042.0,2510,2250.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.5,0.0,No,No,Normal conditions
+2022-12-03,CHANDVAD,RED,1000.0,2675,2180.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,28.0,0.0,No,No,Normal conditions
+2022-12-03,LASALGAON,RED,1000.0,2871,2351.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.5,0.0,No,No,Normal conditions
+2022-12-03,SHREE RAMESHWAR KRUSHI MARKET,RED,500.0,3131,2079.69,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.5,0.0,No,No,Normal conditions
+2022-12-03,LASALGAON,RED,1100.0,2860,2400.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.5,0.0,No,No,Normal conditions
+2022-12-03,SINNER,RED,500.0,2615,2250.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.0,0.0,No,No,Normal conditions
+2022-12-03,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2000.0,2900,2400.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.3,0.0,No,No,Normal conditions
+2022-12-03,NAMPUR,RED,300.0,2550,2000.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,29.8,0.0,No,No,Normal conditions
+2022-12-03,KALVAN,RED,1300.0,2850,2351.0,"Mokshada Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Revati,3,12,2022,48,28.7,0.0,No,No,Normal conditions
+2022-12-05,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2430,2200.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.2,0.1,No,No,Normal conditions
+2022-12-05,CHANDVAD,RED,1000.0,2726,2200.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,28.0,0.3,No,No,Normal conditions
+2022-12-05,PIMPALGAON,POLE,800.0,3001,2400.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.4,0.1,No,No,Normal conditions
+2022-12-05,MANMAD,WHITE,1531.0,2035,1850.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.0,0.0,No,No,Normal conditions
+2022-12-05,DEVALA,RED,795.0,2870,2350.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,30.3,0.2,No,No,Normal conditions
+2022-12-05,SHREE RAMESHWAR KRUSHI MARKET,OTHER,2012.0,2012,2012.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.7,0.1,No,No,Normal conditions
+2022-12-05,LASALGAON(NIPHAD),RED,1100.0,2700,2450.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.5,0.4,No,No,Normal conditions
+2022-12-05,DINDORI(VANI),RED,1850.0,3100,2450.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.5,0.1,No,No,Normal conditions
+2022-12-05,MANMAD,RED,500.0,3001,2100.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.0,0.0,No,No,Normal conditions
+2022-12-05,NASIK,POLE,1000.0,2701,2300.0,Dhanteras / Dhanvantari Jayanti,0,0,0,Shukla Trayodashi,Bharani,5,12,2022,49,29.5,0.2,No,No,Normal conditions
+2022-12-06,LASALGAON(VINCHUR),RED,1000.0,3011,2400.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,30.0,0.0,No,No,Normal conditions
+2022-12-06,LASALGAON(NIPHAD),RED,1160.0,2760,2551.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,30.0,0.0,No,No,Normal conditions
+2022-12-06,MANMAD,WHITE,1700.0,2260,2100.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,29.5,0.0,No,No,Normal conditions
+2022-12-06,CHANDVAD,RED,1201.0,2726,2280.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,28.6,0.0,No,No,Normal conditions
+2022-12-06,LASALGAON(VINCHUR),RED,1000.0,3050,2500.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,30.0,0.0,No,No,Normal conditions
+2022-12-06,KALVAN,RED,1100.0,2920,2401.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,29.5,0.0,No,No,Normal conditions
+2022-12-06,YEOLA,RED,500.0,2675,2200.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,30.0,0.0,No,No,Normal conditions
+2022-12-06,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,1200.0,3000,2500.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,30.5,0.0,No,No,Normal conditions
+2022-12-06,NAMPUR,RED,200.0,2805,2300.0,Narak Chaturdashi / Choti Diwali,0,0,0,Shukla Chaturdashi,Bharani,6,12,2022,49,31.0,0.0,No,No,Normal conditions
+2022-12-07,MANMAD,RED,500.0,2871,2200.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.0,0.0,No,No,Normal conditions
+2022-12-07,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2700,2300.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.8,0.0,No,No,Normal conditions
+2022-12-07,LASALGAON,RED,1100.0,2960,2500.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.6,0.0,No,No,Normal conditions
+2022-12-07,NASIK,POLE,1100.0,2655,2250.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.9,0.0,No,No,Normal conditions
+2022-12-07,PIMPALGAON,POLE,800.0,3065,2351.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,29.0,0.0,No,No,Normal conditions
+2022-12-07,SINNER,RED,500.0,2800,2350.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,27.7,0.0,No,No,Normal conditions
+2022-12-07,DEVALA,RED,900.0,2905,2500.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,29.0,0.0,No,No,Normal conditions
+2022-12-07,DINDORI(VANI),RED,1901.0,3043,2451.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,29.1,0.0,No,No,Normal conditions
+2022-12-07,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2649,2275.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.8,0.0,No,No,Normal conditions
+2022-12-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,1900.0,3100,2560.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.9,0.0,No,No,Normal conditions
+2022-12-07,MANMAD,RED,500.0,2610,2400.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.0,0.0,No,No,Normal conditions
+2022-12-07,LASALGAON(NIPHAD),RED,1000.0,2852,2500.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.6,0.0,No,No,Normal conditions
+2022-12-07,LASALGAON,RED,1000.0,3012,2500.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.6,0.0,No,No,Normal conditions
+2022-12-07,DINDORI(VANI),RED,1700.0,3050,2550.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,29.1,0.0,No,No,Normal conditions
+2022-12-07,NASIK,POLE,1000.0,2751,2300.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Narak Chaturdashi / Choti Diwali, Dattatreya Jayanti / Datta Jayanti",0,0,1,Shukla Chaturdashi,Krittika,7,12,2022,49,28.9,0.0,No,No,Normal conditions
+2022-12-08,YEOLA,RED,500.0,2701,2150.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.1,0.0,No,No,Normal conditions
+2022-12-08,PIMPALGAON,POLE,1151.0,3036,2400.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-08,MANMAD,WHITE,1800.0,2375,2100.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,26.4,0.0,No,No,Normal conditions
+2022-12-08,CHANDVAD,RED,1201.0,2764,2280.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,25.0,0.0,No,No,Normal conditions
+2022-12-08,LASALGAON(VINCHUR),RED,1000.0,3001,2450.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,26.9,0.0,No,No,Normal conditions
+2022-12-08,SHREE RAMESHWAR KRUSHI MARKET,RED,400.0,3161,2031.29,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-08,PIMPALGAON,POLE,1000.0,3122,2300.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-08,NASIK,POLE,1200.0,2700,2250.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.1,0.0,No,No,Normal conditions
+2022-12-08,MANMAD,WHITE,1352.0,2461,2200.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,26.4,0.0,No,No,Normal conditions
+2022-12-08,KALVAN,RED,1200.0,3051,3050.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,25.8,0.0,No,No,Normal conditions
+2022-12-08,LASALGAON(VINCHUR),RED,1000.0,2800,2400.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,26.9,0.0,No,No,Normal conditions
+2022-12-08,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2500,2000.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-08,YEOLA,RED,625.0,2726,2000.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.1,0.0,No,No,Normal conditions
+2022-12-08,NANDGAON,RED,200.0,2415,1750.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-08,DINDORI(VANI),RED,1650.0,3300,2525.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.3,0.0,No,No,Normal conditions
+2022-12-08,MANMAD,RED,500.0,2610,2100.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,26.4,0.0,No,No,Normal conditions
+2022-12-08,UMRANE,RED,700.0,2735,1900.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,25.5,0.0,No,No,Normal conditions
+2022-12-08,DEVALA,RED,700.0,2535,2250.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,27.1,0.0,No,No,Normal conditions
+2022-12-08,NAMPUR,RED,500.0,2695,2000.0,"Margashirsha Purnima / Dattatreya Jayanti, Guru Nanak Jayanti, Dattatreya Jayanti / Datta Jayanti, Padwa / Bali Pratipada",0,0,1,Shukla Purnima,Rohini,8,12,2022,49,26.7,0.0,No,No,Normal conditions
+2022-12-09,CHANDVAD,RED,1212.0,2781,2200.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,25.3,0.0,No,No,Normal conditions
+2022-12-09,SINNER,RED,500.0,2830,2400.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.0,0.0,No,No,Normal conditions
+2022-12-09,LASALGAON,RED,900.0,2912,2400.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-09,LASALGAON(NIPHAD),RED,1000.0,2750,2350.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-09,PIMPALGAON BASWANT(SAYKHEDA),RED,971.0,2500,2050.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.1,0.0,No,No,Normal conditions
+2022-12-09,MANMAD,RED,200.0,2711,2200.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.5,0.0,No,No,Normal conditions
+2022-12-09,UMRANE,RED,700.0,2770,1850.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.1,0.0,No,No,Normal conditions
+2022-12-09,SINNER,RED,500.0,2701,2200.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.0,0.0,No,No,Normal conditions
+2022-12-09,LASALGAON(VINCHUR),RED,1000.0,3001,2400.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-09,MANMAD,WHITE,785.0,2461,2100.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.5,0.0,No,No,Normal conditions
+2022-12-09,PIMPALGAON,POLE,990.0,3080,2350.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.9,0.0,No,No,Normal conditions
+2022-12-09,LASALGAON(NIPHAD),RED,1000.0,2620,2350.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-09,YEOLA,RED,400.0,2675,2000.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.8,0.0,No,No,Normal conditions
+2022-12-09,NASIK,POLE,1300.0,2601,2200.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.4,0.0,No,No,Normal conditions
+2022-12-09,LASALGAON,RED,1000.0,3000,2401.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,27.0,0.0,No,No,Normal conditions
+2022-12-09,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,1900.0,2900,2550.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.6,0.0,No,No,Normal conditions
+2022-12-09,NANDGAON,RED,235.0,2600,1850.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,28.0,0.0,No,No,Normal conditions
+2022-12-09,NAMPUR,RED,300.0,2400,1900.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.3,0.0,No,No,Normal conditions
+2022-12-09,DEVALA,RED,300.0,2555,2200.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.8,0.0,No,No,Normal conditions
+2022-12-09,DINDORI(VANI),RED,1500.0,3109,2401.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.7,0.0,No,No,Normal conditions
+2022-12-09,KALVAN,RED,1400.0,3100,2401.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,25.9,0.0,No,No,Normal conditions
+2022-12-09,CHANDVAD,RED,1090.0,2651,2070.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,25.3,0.0,No,No,Normal conditions
+2022-12-09,NASIK,POLE,1100.0,2701,2300.0,"Padwa / Bali Pratipada, Bhai Dooj / Bhau Beej / Yama Dwitiya",0,0,0,Krishna Pratipada,Mrigashira,9,12,2022,49,26.4,0.0,No,No,Normal conditions
+2022-12-10,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,RED,2100.0,2900,2660.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.1,0.0,No,No,Normal conditions
+2022-12-10,PIMPALGAON,POLE,951.0,3005,2300.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.6,0.0,No,No,Normal conditions
+2022-12-10,MANMAD,RED,200.0,2711,2300.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.4,0.0,No,No,Normal conditions
+2022-12-10,UMRANE,RED,900.0,2915,1900.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,26.4,0.0,No,No,Normal conditions
+2022-12-10,MANMAD,WHITE,600.0,2300,2151.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.4,0.0,No,No,Normal conditions
+2022-12-10,LASALGAON(VINCHUR),RED,1000.0,2840,2400.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.9,0.0,No,No,Normal conditions
+2022-12-10,YEOLA,RED,500.0,2789,2150.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,28.2,0.0,No,No,Normal conditions
+2022-12-10,NAMPUR,RED,200.0,2790,2400.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.3,0.0,No,No,Normal conditions
+2022-12-10,DINDORI(VANI),RED,1451.0,3300,2601.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.7,0.0,No,No,Normal conditions
+2022-12-10,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2551,2150.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.1,0.0,No,No,Normal conditions
+2022-12-10,CHANDVAD,RED,1200.0,2712,2200.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,25.7,0.0,No,No,Normal conditions
+2022-12-10,LASALGAON(NIPHAD),RED,1100.0,2810,2451.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.9,0.0,No,No,Normal conditions
+2022-12-10,DEVALA,RED,700.0,2630,2350.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.8,0.0,No,No,Normal conditions
+2022-12-10,NANDGAON,RED,210.0,2651,1850.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,28.0,0.0,No,No,Normal conditions
+2022-12-10,SINNER,RED,500.0,2790,2400.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,26.6,0.0,No,No,Normal conditions
+2022-12-10,LASALGAON,RED,1100.0,3019,2451.0,Bhai Dooj / Bhau Beej / Yama Dwitiya,0,0,0,Krishna Dwitiya,Ardra,10,12,2022,49,27.9,0.0,No,No,Normal conditions
+2022-12-12,NASIK,POLE,1200.0,3111,2600.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.6,0.3,No,No,Normal conditions
+2022-12-12,NANDGAON,RED,200.0,2725,2150.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,29.1,0.4,No,No,Normal conditions
+2022-12-12,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1212.0,1212,1212.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,29.0,1.0,No,No,Normal conditions
+2022-12-12,LASALGAON(NIPHAD),RED,1100.0,2925,2650.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.8,1.0,No,No,Normal conditions
+2022-12-12,DINDORI(VANI),RED,1501.0,3400,2651.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.6,0.6,No,No,Normal conditions
+2022-12-12,PIMPALGAON,POLE,1200.0,3040,2550.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.5,1.0,No,No,Normal conditions
+2022-12-12,MALHARSHREE FARMERS PRODUCER CO LTD,RED,877.0,2856,2212.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.8,1.0,No,No,Normal conditions
+2022-12-12,UMRANE,RED,900.0,3026,2000.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,27.5,1.1,No,No,Normal conditions
+2022-12-12,LASALGAON,RED,1000.0,3505,2700.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.8,1.0,No,No,Normal conditions
+2022-12-12,SINNER,RED,500.0,2935,2650.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.5,0.1,No,No,Normal conditions
+2022-12-12,SHREE RAMESHWAR KRUSHI MARKET,RED,500.0,3170,2200.7,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,29.0,1.0,No,No,Normal conditions
+2022-12-12,MANMAD,RED,200.0,2799,2400.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.5,0.8,No,No,Normal conditions
+2022-12-12,DEVALA,RED,1000.0,2840,2575.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,29.3,0.6,No,No,Normal conditions
+2022-12-12,NAMPUR,RED,500.0,3025,2400.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.7,0.3,No,No,Normal conditions
+2022-12-12,LASALGAON(VINCHUR),RED,1000.0,2920,2600.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.8,1.0,No,No,Normal conditions
+2022-12-12,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,3000,2400.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.6,0.4,No,No,Normal conditions
+2022-12-12,CHANDVAD,RED,1200.0,2800,2400.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,27.1,2.8,No,No,Normal conditions
+2022-12-12,SINNER,RED,500.0,2873,2450.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.5,0.1,No,No,Normal conditions
+2022-12-12,UMRANE,RED,900.0,2890,1950.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,27.5,1.1,No,No,Normal conditions
+2022-12-12,MANMAD,RED,200.0,2840,2200.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.5,0.8,No,No,Normal conditions
+2022-12-12,PIMPALGAON,POLE,1500.0,2899,2400.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.5,1.0,No,No,Normal conditions
+2022-12-12,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2750,2300.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.6,0.4,No,No,Normal conditions
+2022-12-12,YEOLA,RED,500.0,2870,2200.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.9,0.9,No,No,Normal conditions
+2022-12-12,LASALGAON,RED,1000.0,3029,2451.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.8,1.0,No,No,Normal conditions
+2022-12-12,LASALGAON(NIPHAD),RED,1000.0,2860,2600.0,,0,0,0,Krishna Chaturthi,Pushya,12,12,2022,50,28.8,1.0,No,No,Normal conditions
+2022-12-13,NAMPUR,RED,400.0,2430,1900.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.2,1.9,No,No,Normal conditions
+2022-12-13,NASIK,POLE,1200.0,3100,2450.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.1,0.3,No,No,Normal conditions
+2022-12-13,MANMAD,WHITE,1051.0,1861,1550.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,28.2,0.2,No,No,Normal conditions
+2022-12-13,KALVAN,RED,1300.0,2930,2210.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,28.7,0.2,No,No,Normal conditions
+2022-12-13,LASALGAON(VINCHUR),RED,1000.0,2900,2600.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.6,0.1,No,No,Normal conditions
+2022-12-13,NANDGAON,RED,200.0,2701,2150.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.7,0.4,No,No,Normal conditions
+2022-12-13,DEVALA,RED,900.0,2805,2550.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.5,0.3,No,No,Normal conditions
+2022-12-13,NASIK,POLE,900.0,2700,1900.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.1,0.3,No,No,Normal conditions
+2022-12-13,YEOLA,RED,300.0,2651,2050.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.5,0.8,No,No,Normal conditions
+2022-12-13,DINDORI(VANI),RED,1850.0,3551,2478.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.2,0.1,No,No,Normal conditions
+2022-12-13,MANMAD,RED,200.0,2900,2200.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,28.2,0.2,No,No,Normal conditions
+2022-12-13,CHANDVAD,RED,1001.0,2619,2220.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,27.8,0.8,No,No,Normal conditions
+2022-12-13,LASALGAON(NIPHAD),RED,1000.0,2716,2450.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.6,0.1,No,No,Normal conditions
+2022-12-13,LASALGAON,RED,1000.0,2781,2370.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.6,0.1,No,No,Normal conditions
+2022-12-13,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,2500,2150.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.0,0.0,No,No,Normal conditions
+2022-12-13,KALVAN,RED,800.0,2705,1805.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,28.7,0.2,No,No,Normal conditions
+2022-12-13,LASALGAON(VINCHUR),RED,1000.0,2700,2300.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.6,0.1,No,No,Normal conditions
+2022-12-13,PIMPALGAON,POLE,1250.0,2800,2201.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.1,0.2,No,No,Normal conditions
+2022-12-13,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2311,1900.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.0,0.0,No,No,Normal conditions
+2022-12-13,NASIK,POLE,1050.0,2500,1850.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.1,0.3,No,No,Normal conditions
+2022-12-13,MANMAD,WHITE,700.0,1880,1600.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,28.2,0.2,No,No,Normal conditions
+2022-12-13,PIMPALGAON,POLE,1100.0,2846,2200.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.1,0.2,No,No,Normal conditions
+2022-12-13,DINDORI(VANI),RED,1300.0,2811,1850.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.2,0.1,No,No,Normal conditions
+2022-12-13,CHANDVAD,RED,991.0,2556,2080.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,27.8,0.8,No,No,Normal conditions
+2022-12-13,NAMPUR,RED,250.0,2340,1750.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,29.2,1.9,No,No,Normal conditions
+2022-12-13,KALVAN,RED,750.0,2651,1700.0,,0,0,0,Krishna Panchami,Ashlesha,13,12,2022,50,28.7,0.2,No,No,Normal conditions
+2022-12-14,YEOLA,RED,300.0,2526,1850.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,30.2,6.7,No,Moderate,Good moisture
+2022-12-14,LASALGAON(NIPHAD),RED,1000.0,2431,2225.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,DEVALA,RED,750.0,2405,2100.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,30.8,3.1,No,No,Normal conditions
+2022-12-14,LASALGAON,RED,1000.0,2830,2200.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,MANMAD,RED,200.0,3051,2000.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.1,10.0,No,Moderate,Good moisture
+2022-12-14,SINNER,RED,500.0,2450,2100.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.3,6.8,No,Moderate,Good moisture
+2022-12-14,LASALGAON(VINCHUR),RED,900.0,2500,2200.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,UMRANE,RED,700.0,2413,1800.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,28.5,13.5,No,Moderate,Good moisture
+2022-12-14,LASALGAON,RED,700.0,2600,2100.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,DEVALA,RED,500.0,2350,1850.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,30.8,3.1,No,No,Normal conditions
+2022-12-14,LASALGAON(VINCHUR),RED,900.0,2402,2000.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,PIMPALGAON,POLE,1000.0,2651,2050.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.5,2.9,No,No,Normal conditions
+2022-12-14,SINNER,RED,500.0,2350,1900.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.3,6.8,No,Moderate,Good moisture
+2022-12-14,LASALGAON(NIPHAD),RED,800.0,2303,2075.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,NANDGAON,RED,200.0,2323,1850.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,30.8,2.1,No,No,Normal conditions
+2022-12-14,CHANDVAD,RED,800.0,2501,1850.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,28.2,10.7,No,Moderate,Good moisture
+2022-12-14,MANMAD,WHITE,500.0,1880,1600.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.1,10.0,No,Moderate,Good moisture
+2022-12-14,MANMAD,RED,200.0,2600,1900.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.1,10.0,No,Moderate,Good moisture
+2022-12-14,YEOLA,RED,400.0,2430,1750.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,30.2,6.7,No,Moderate,Good moisture
+2022-12-14,NASIK,POLE,1000.0,2511,1900.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,5.2,No,Moderate,Good moisture
+2022-12-14,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2156,1750.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.6,13.4,No,Moderate,Good moisture
+2022-12-14,NAMPUR,RED,300.0,2350,1650.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.8,10.5,No,Moderate,Good moisture
+2022-12-14,PIMPALGAON,POLE,900.0,2590,1750.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.5,2.9,No,No,Normal conditions
+2022-12-14,LASALGAON(NIPHAD),RED,900.0,2242,1925.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,LASALGAON,RED,900.0,2591,2000.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-14,LASALGAON(VINCHUR),RED,800.0,2151,1800.0,,0,0,0,Krishna Shashthi,Magha,14,12,2022,50,29.9,8.5,No,Moderate,Good moisture
+2022-12-15,MANMAD,RED,415.0,2400,1800.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.3,0.7,No,No,Normal conditions
+2022-12-15,NASIK,POLE,1200.0,2701,1800.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.8,0.4,No,No,Normal conditions
+2022-12-15,PIMPALGAON BASWANT(SAYKHEDA),RED,800.0,2011,1650.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.8,No,No,Normal conditions
+2022-12-15,LASALGAON(NIPHAD),RED,991.0,2070,1700.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.9,No,No,Normal conditions
+2022-12-15,CHANDVAD,RED,651.0,2322,1550.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.0,0.2,No,No,Normal conditions
+2022-12-15,KALVAN,RED,500.0,2255,1601.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.6,3.9,No,No,Normal conditions
+2022-12-15,NASIK,POLE,900.0,2451,1851.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.8,0.4,No,No,Normal conditions
+2022-12-15,MANMAD,RED,200.0,2500,1900.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.3,0.7,No,No,Normal conditions
+2022-12-15,DEVALA,RED,400.0,2300,1800.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.5,1.0,No,No,Normal conditions
+2022-12-15,LASALGAON,RED,700.0,2611,1900.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.9,No,No,Normal conditions
+2022-12-15,PIMPALGAON BASWANT(SAYKHEDA),RED,700.0,2000,1600.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.8,No,No,Normal conditions
+2022-12-15,LASALGAON(VINCHUR),RED,800.0,2425,1850.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.9,No,No,Normal conditions
+2022-12-15,PIMPALGAON,POLE,850.0,2525,1750.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.9,0.0,No,No,Normal conditions
+2022-12-15,NAMPUR,RED,150.0,2351,1400.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.0,0.4,No,No,Normal conditions
+2022-12-15,DINDORI(VANI),RED,1350.0,2831,2000.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.9,0.0,No,No,Normal conditions
+2022-12-15,MANMAD,WHITE,751.0,1600,1200.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.3,0.7,No,No,Normal conditions
+2022-12-15,LASALGAON(NIPHAD),RED,1700.0,3251,3062.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.9,No,No,Normal conditions
+2022-12-15,MANMAD,RED,600.0,3636,3300.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.3,0.7,No,No,Normal conditions
+2022-12-15,SHREE RAMESHWAR KRUSHI MARKET,RED,500.0,4500,2758.75,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.8,No,No,Normal conditions
+2022-12-15,KALVAN,OTHER,5000.0,6950,6000.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.6,3.9,No,No,Normal conditions
+2022-12-15,CHANDVAD,RED,1000.0,4326,3050.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.0,0.2,No,No,Normal conditions
+2022-12-15,LASALGAON,RED,1200.0,4600,3200.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.9,No,No,Normal conditions
+2022-12-15,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3585,3050.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.1,0.8,No,No,Normal conditions
+2022-12-15,SINNER,RED,500.0,3300,2850.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.5,1.2,No,No,Normal conditions
+2022-12-15,MANMAD,WHITE,1000.0,2850,2200.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.3,0.7,No,No,Normal conditions
+2022-12-15,NASIK,POLE,1200.0,4100,3400.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,28.8,0.4,No,No,Normal conditions
+2022-12-15,KALVAN,RED,1500.0,3900,3400.0,,0,0,0,Krishna Saptami,Purva Phalguni,15,12,2022,50,27.6,3.9,No,No,Normal conditions
+2022-12-16,YEOLA,RED,500.0,3531,2800.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.9,0.1,No,No,Normal conditions
+2022-12-16,PIMPALGAON,POLE,1000.0,4325,3250.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.5,0.0,No,No,Normal conditions
+2022-12-16,DINDORI(VANI),RED,2701.0,4300,3251.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.5,0.0,No,No,Normal conditions
+2022-12-16,NAMPUR,RED,500.0,3925,3000.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.4,0.2,No,No,Normal conditions
+2022-12-16,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1100.0,2700,1772.12,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.7,0.0,No,No,Normal conditions
+2022-12-16,MALHARSHREE FARMERS PRODUCER CO LTD,RED,982.0,3878,2287.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.6,0.0,No,No,Normal conditions
+2022-12-16,LASALGAON(VINCHUR),RED,1500.0,4200,3250.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.6,0.0,No,No,Normal conditions
+2022-12-16,DEVALA,RED,650.0,4375,3500.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,29.2,0.0,No,No,Normal conditions
+2022-12-16,SINNER,RED,500.0,3626,3325.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.5,0.0,No,No,Normal conditions
+2022-12-16,PIMPALGAON,OTHER,2700.0,5200,3300.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.5,0.0,No,No,Normal conditions
+2022-12-16,CHANDVAD,RED,1000.0,4520,3200.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,27.5,0.1,No,No,Normal conditions
+2022-12-16,DEVALA,RED,700.0,4300,3500.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,29.2,0.0,No,No,Normal conditions
+2022-12-16,NAMPUR,RED,300.0,3925,3200.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.4,0.2,No,No,Normal conditions
+2022-12-16,MANMAD,WHITE,1590.0,2951,2450.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.0,0.3,No,No,Normal conditions
+2022-12-16,KALVAN,RED,1800.0,4300,3000.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,27.9,0.6,No,No,Normal conditions
+2022-12-16,PIMPALGAON BASWANT(SAYKHEDA),RED,2000.0,3600,3200.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.5,0.0,No,No,Normal conditions
+2022-12-16,LASALGAON(VINCHUR),RED,2000.0,5001,3700.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.6,0.0,No,No,Normal conditions
+2022-12-16,YEOLA,RED,500.0,3901,3000.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.9,0.1,No,No,Normal conditions
+2022-12-16,NANDGAON,OTHER,250.0,3801,2550.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,29.6,0.0,No,No,Normal conditions
+2022-12-16,MANMAD,RED,500.0,3890,3300.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.0,0.3,No,No,Normal conditions
+2022-12-16,LASALGAON,RED,1100.0,5001,3600.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.6,0.0,No,No,Normal conditions
+2022-12-16,LASALGAON(NIPHAD),RED,1200.0,3200,3100.0,,0,0,0,Krishna Ashtami,Uttara Phalguni,16,12,2022,50,28.6,0.0,No,No,Normal conditions
+2022-12-17,DINDORI(VANI),RED,3000.0,4500,3551.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.9,0.1,No,No,Normal conditions
+2022-12-17,PIMPALGAON,POLE,1000.0,4651,3700.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.9,0.1,No,No,Normal conditions
+2022-12-17,KALVAN,OTHER,5000.0,7100,6000.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,27.9,0.0,No,No,Normal conditions
+2022-12-17,UMRANE,RED,1000.0,4300,3200.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,27.5,0.1,No,No,Normal conditions
+2022-12-17,MALHARSHREE FARMERS PRODUCER CO LTD,RED,1254.0,4843,3244.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.7,0.1,No,No,Normal conditions
+2022-12-17,NASIK,POLE,1200.0,4501,3500.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,29.0,0.0,No,No,Normal conditions
+2022-12-17,NASIK,POLE,1400.0,4801,3900.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,29.0,0.0,No,No,Normal conditions
+2022-12-17,SATANA,OTHER,2505.0,6650,5850.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,26.6,0.4,No,No,Normal conditions
+2022-12-17,PIMPALGAON,POLE,1000.0,4626,3650.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.9,0.1,No,No,Normal conditions
+2022-12-17,YEOLA,RED,700.0,4276,3400.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.8,0.3,No,No,Normal conditions
+2022-12-17,UMRANE,RED,1000.0,5000,4100.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,27.5,0.1,No,No,Normal conditions
+2022-12-17,LASALGAON(NIPHAD),RED,1200.0,3500,3200.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.7,0.1,No,No,Normal conditions
+2022-12-17,SATANA,RED,450.0,4295,3305.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,26.6,0.4,No,No,Normal conditions
+2022-12-17,CHANDVAD,RED,1500.0,4551,3360.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,27.1,0.2,No,No,Normal conditions
+2022-12-17,LASALGAON(VINCHUR),RED,2000.0,4552,3600.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.7,0.1,No,No,Normal conditions
+2022-12-17,DEVALA,RED,700.0,4250,3800.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,29.0,0.0,No,No,Normal conditions
+2022-12-17,MANMAD,RED,700.0,4301,3500.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,27.9,0.0,No,No,Normal conditions
+2022-12-17,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3711,3300.0,,0,0,0,Krishna Navami,Uttara Phalguni,17,12,2022,50,28.6,0.0,No,No,Normal conditions
+2022-12-19,NASIK,POLE,1500.0,4900,4000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.7,0.0,No,No,Normal conditions
+2022-12-19,NANDGAON,RED,200.0,4170,3350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,28.1,0.0,No,No,Normal conditions
+2022-12-19,LASALGAON(NIPHAD),RED,3000.0,3300,3225.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,SATANA,OTHER,1000.0,6500,5860.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,25.2,0.0,No,No,Normal conditions
+2022-12-19,PIMPALGAON,POLE,1000.0,4590,3700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,DEVALA,RED,500.0,4280,3800.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,SINNER,RED,1500.0,4230,3900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.2,0.0,No,No,Normal conditions
+2022-12-19,DINDORI(VANI),RED,3200.0,4730,4250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.6,0.0,No,No,Normal conditions
+2022-12-19,NAMPUR,RED,500.0,4155,3500.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-19,SATANA,RED,400.0,4240,3725.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,25.2,0.0,No,No,Normal conditions
+2022-12-19,LASALGAON(VINCHUR),RED,2000.0,4590,3750.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,MANMAD,RED,500.0,4175,3500.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-19,LASALGAON(NIPHAD),OTHER,2000.0,3000,3000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,MANMAD,WHITE,1821.0,3211,2595.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-19,LASALGAON,RED,1100.0,5200,3800.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,UMRANE,RED,1000.0,5011,4200.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.3,0.0,No,No,Normal conditions
+2022-12-19,PIMPALGAON,OTHER,3052.0,6300,4675.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,PIMPALGAON BASWANT(SAYKHEDA),RED,2000.0,3751,3250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.4,0.0,No,No,Normal conditions
+2022-12-19,KALVAN,OTHER,5000.0,7500,6500.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.5,0.0,No,No,Normal conditions
+2022-12-19,CHANDVAD,RED,1000.0,4600,3480.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,25.7,0.0,No,No,Normal conditions
+2022-12-19,KALVAN,RED,2000.0,4100,3600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.5,0.0,No,No,Normal conditions

@@ -1,0 +1,1001 @@
+Date,Market,Grade,Min Price (Rs./ Qtl),Max Price (Rs./Qtl),Modal Price (Rs./Qtl),Festival,is_amavasya,is_ekadashi,is_purnima,Tithi,Nakshatra,Day,Month,Year,Week,Temp Max (°C),Rain (mm),Heat Stress,Rain Alert,Agro Advisory
+2024-02-29,NANDGAON,OTHER,200.0,2490,1950.0,,0,0,0,Krishna Panchami,Chitra,29,2,2024,9,34.9,0.0,No,No,Normal conditions
+2024-02-29,MANMAD,OTHER,300.0,2391,2000.0,,0,0,0,Krishna Panchami,Chitra,29,2,2024,9,33.1,0.0,No,No,Normal conditions
+2024-02-29,PIMPALGAON,OTHER,950.0,3000,2300.0,,0,0,0,Krishna Panchami,Chitra,29,2,2024,9,33.7,0.0,No,No,Normal conditions
+2024-03-01,LASALGAON(VINCHUR),OTHER,700.0,2371,2100.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,NANDGAON,OTHER,200.0,2411,1750.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,36.1,1.6,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2400,1830.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,33.6,0.4,No,No,Normal conditions
+2024-03-01,CHANDVAD,OTHER,500.0,2346,1960.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,33.5,0.3,No,No,Normal conditions
+2024-03-01,MANMAD,OTHER,500.0,2224,1950.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,34.8,0.0,No,No,Normal conditions
+2024-03-01,LASALGAON(NIPHAD),OTHER,800.0,2199,2000.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,SINNER,OTHER,300.0,2180,1900.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,34.2,0.0,No,No,Normal conditions
+2024-03-01,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1100.0,2765,2100.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,35.0,0.0,No,No,Normal conditions
+2024-03-01,LASALGAON,OTHER,700.0,2381,2100.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,LASALGAON(VINCHUR),OTHER,550.0,2330,2000.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,NASIK,OTHER,600.0,2250,1850.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,34.0,0.0,No,No,Normal conditions
+2024-03-01,PIMPALGAON,OTHER,900.0,2700,2100.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,33.8,0.0,No,No,Normal conditions
+2024-03-01,NANDGAON,OTHER,200.0,2280,1850.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,36.1,1.6,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,CHANDVAD,OTHER,300.0,2411,1880.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,33.5,0.3,No,No,Normal conditions
+2024-03-01,YEOLA,OTHER,250.0,2291,1900.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,34.7,0.7,No,No,Normal conditions
+2024-03-01,DEVALA,OTHER,500.0,2300,2000.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-01,MANMAD,OTHER,300.0,2108,1920.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,34.8,0.0,No,No,Normal conditions
+2024-03-01,SATANA,OTHER,400.0,2295,1875.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,31.4,0.2,No,No,Normal conditions
+2024-03-01,NASIK,OTHER,500.0,2200,1800.0,,0,0,0,Krishna Shashthi,Swati,1,3,2024,9,34.0,0.0,No,No,Normal conditions
+2024-03-02,SINNER,OTHER,300.0,2200,1900.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,31.8,0.1,No,No,Normal conditions
+2024-03-02,PIMPALGAON,OTHER,850.0,2640,2150.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,31.4,0.0,No,No,Normal conditions
+2024-03-02,LASALGAON(VINCHUR),OTHER,500.0,2500,2000.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,33.3,0.0,No,No,Normal conditions
+2024-03-02,LASALGAON,OTHER,700.0,2300,2000.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,33.3,0.0,No,No,Normal conditions
+2024-03-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,2375,1860.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,30.9,0.5,No,No,Normal conditions
+2024-03-02,KALVAN,OTHER,500.0,2601,1900.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,31.3,0.1,No,No,Normal conditions
+2024-03-02,NANDGAON,OTHER,255.0,2323,1750.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,34.3,0.1,No,No,Normal conditions
+2024-03-02,LASALGAON(NIPHAD),OTHER,800.0,2251,2000.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,33.3,0.0,No,No,Normal conditions
+2024-03-02,LASALGAON(NIPHAD),OTHER,800.0,2302,2050.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,33.3,0.0,No,No,Normal conditions
+2024-03-02,PIMPALGAON,OTHER,900.0,2525,2050.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,31.4,0.0,No,No,Normal conditions
+2024-03-02,NASIK,OTHER,500.0,2400,1900.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,31.4,0.6,No,No,Normal conditions
+2024-03-02,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1100.0,2500,2100.0,,0,0,0,Krishna Shashthi,Vishakha,2,3,2024,9,32.8,0.0,No,No,Normal conditions
+2024-03-04,LASALGAON(VINCHUR),OTHER,500.0,2300,2050.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,600.0,2300,1875.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,29.5,0.0,No,No,Normal conditions
+2024-03-04,MANMAD,OTHER,350.0,2120,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.6,0.0,No,No,Normal conditions
+2024-03-04,CHANDVAD,OTHER,325.0,2351,1850.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.1,0.0,No,No,Normal conditions
+2024-03-04,YEOLA,OTHER,300.0,2276,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,LASALGAON,OTHER,600.0,2301,2051.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,KALVAN,OTHER,500.0,2665,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,29.6,0.0,No,No,Normal conditions
+2024-03-04,PIMPALGAON,OTHER,900.0,2623,2150.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,29.9,0.0,No,No,Normal conditions
+2024-03-04,SATANA,OTHER,450.0,2300,1950.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,27.3,0.0,No,No,Normal conditions
+2024-03-04,LASALGAON,OTHER,600.0,2455,2201.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,KALVAN,OTHER,600.0,2355,1800.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,29.6,0.0,No,No,Normal conditions
+2024-03-04,LASALGAON(NIPHAD),OTHER,700.0,2300,2000.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,UMRANE,OTHER,801.0,2250,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.2,0.0,No,No,Normal conditions
+2024-03-04,SINNER,OTHER,300.0,2224,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.7,0.0,No,No,Normal conditions
+2024-03-04,NANDGAON,OTHER,200.0,2355,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.1,0.0,No,No,Normal conditions
+2024-03-04,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,855.0,2225,1975.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2251,1850.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,29.5,0.0,No,No,Normal conditions
+2024-03-04,NASIK,OTHER,550.0,2400,2000.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.4,0.0,No,No,Normal conditions
+2024-03-04,LASALGAON(VINCHUR),OTHER,900.0,2352,2100.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-04,CHANDVAD,OTHER,480.0,2400,1930.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.1,0.0,No,No,Normal conditions
+2024-03-04,MANMAD,OTHER,300.0,2185,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.6,0.0,No,No,Normal conditions
+2024-03-04,NAMPUR,OTHER,200.0,2295,1900.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,30.2,0.0,No,No,Normal conditions
+2024-03-04,DEVALA,OTHER,400.0,2250,1950.0,,0,0,0,Krishna Ashtami,Jyeshtha,4,3,2024,10,31.0,0.0,No,No,Normal conditions
+2024-03-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2252,1950.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.1,0.0,No,No,Normal conditions
+2024-03-05,CHANDVAD,OTHER,401.0,2350,2030.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,32.2,0.0,No,No,Normal conditions
+2024-03-05,NANDGAON,OTHER,300.0,2336,1950.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.8,0.0,No,No,Normal conditions
+2024-03-05,SINNER,OTHER,300.0,2296,1950.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.5,0.0,No,No,Normal conditions
+2024-03-05,MANMAD,OTHER,300.0,2411,2000.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,32.6,0.0,No,No,Normal conditions
+2024-03-05,KALVAN,OTHER,400.0,2525,1800.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,32.7,0.0,No,No,Normal conditions
+2024-03-05,LASALGAON,OTHER,700.0,2500,2151.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-05,NASIK,OTHER,500.0,2511,2001.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,32.7,0.0,No,No,Normal conditions
+2024-03-05,SATANA,OTHER,405.0,2520,2100.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,30.0,0.0,No,No,Normal conditions
+2024-03-05,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1100.0,2650,2100.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.9,0.0,No,No,Normal conditions
+2024-03-05,YEOLA,OTHER,350.0,2261,1950.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,32.2,0.0,No,No,Normal conditions
+2024-03-05,PIMPALGAON,OTHER,800.0,2592,2100.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.0,0.0,No,No,Normal conditions
+2024-03-05,DEVALA,OTHER,500.0,2450,2150.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,34.2,0.0,No,No,Normal conditions
+2024-03-05,SHREE RAMESHWAR KRUSHI MARKET,OTHER,251.0,2500,1921.28,,0,0,0,Krishna Navami,Mula,5,3,2024,10,34.1,0.0,No,No,Normal conditions
+2024-03-05,LASALGAON(VINCHUR),OTHER,900.0,2560,2200.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-05,LASALGAON(NIPHAD),OTHER,900.0,2311,2050.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-05,LASALGAON(VINCHUR),OTHER,900.0,2511,2100.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-05,NASIK,OTHER,600.0,2501,2051.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,32.7,0.0,No,No,Normal conditions
+2024-03-05,LASALGAON(NIPHAD),OTHER,900.0,2230,2000.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-05,LASALGAON(VINCHUR),OTHER,800.0,2360,2150.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-05,SATANA,OTHER,600.0,2700,2250.0,,0,0,0,Krishna Navami,Mula,5,3,2024,10,30.0,0.0,No,No,Normal conditions
+2024-03-06,NAMPUR,OTHER,300.0,2600,2200.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-06,MANMAD,OTHER,500.0,2425,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.3,0.0,No,No,Normal conditions
+2024-03-06,CHANDVAD,OTHER,300.0,2324,2050.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.3,0.0,No,No,Normal conditions
+2024-03-06,LASALGAON(VINCHUR),OTHER,800.0,2490,2100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,34.1,0.0,No,No,Normal conditions
+2024-03-06,NANDGAON,OTHER,200.0,2381,1950.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,34.8,0.0,No,No,Normal conditions
+2024-03-06,NASIK,OTHER,400.0,2151,1700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.9,0.0,No,No,Normal conditions
+2024-03-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2301,2025.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.1,0.0,No,No,Normal conditions
+2024-03-06,SINNER,OTHER,300.0,2249,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.8,0.0,No,No,Normal conditions
+2024-03-06,PIMPALGAON,OTHER,400.0,2656,2150.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.5,0.0,No,No,Normal conditions
+2024-03-06,MANMAD,OTHER,350.0,2321,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.3,0.0,No,No,Normal conditions
+2024-03-06,LASALGAON(NIPHAD),OTHER,1000.0,2231,2050.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,34.1,0.0,No,No,Normal conditions
+2024-03-06,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1100.0,3005,2100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.8,0.0,No,No,Normal conditions
+2024-03-06,PIMPALGAON,OTHER,700.0,3001,2201.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.5,0.0,No,No,Normal conditions
+2024-03-06,NASIK,OTHER,450.0,2351,1900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.9,0.0,No,No,Normal conditions
+2024-03-06,LASALGAON,OTHER,600.0,2421,2050.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,34.1,0.0,No,No,Normal conditions
+2024-03-06,CHANDVAD,OTHER,200.0,2461,1980.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.3,0.0,No,No,Normal conditions
+2024-03-06,KALVAN,OTHER,500.0,2760,2200.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,32.4,0.0,No,No,Normal conditions
+2024-03-06,LASALGAON(VINCHUR),OTHER,1000.0,2405,2100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,34.1,0.0,No,No,Normal conditions
+2024-03-06,YEOLA,OTHER,200.0,2351,1900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.9,0.0,No,No,Normal conditions
+2024-03-06,LASALGAON(NIPHAD),OTHER,800.0,2352,2100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,34.1,0.0,No,No,Normal conditions
+2024-03-06,NAMPUR,OTHER,300.0,2375,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-06,MANMAD,OTHER,400.0,2375,2000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.3,0.0,No,No,Normal conditions
+2024-03-06,YEOLA,OTHER,250.0,2346,1900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Ashadha,6,3,2024,10,33.9,0.0,No,No,Normal conditions
+2024-03-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,2385,2010.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.5,0.0,No,No,Normal conditions
+2024-03-07,CHANDVAD,OTHER,200.0,2400,2150.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.0,0.0,No,No,Normal conditions
+2024-03-07,PIMPALGAON,OTHER,400.0,2799,2250.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.6,0.0,No,No,Normal conditions
+2024-03-07,UMRANE,OTHER,851.0,2551,2050.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.6,0.0,No,No,Normal conditions
+2024-03-07,SATANA,OTHER,500.0,2510,2100.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,29.5,0.0,No,No,Normal conditions
+2024-03-07,DEVALA,OTHER,500.0,2430,2075.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,33.9,0.0,No,No,Normal conditions
+2024-03-07,SINNER,OTHER,300.0,2426,2150.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,33.0,0.0,No,No,Normal conditions
+2024-03-07,LASALGAON,OTHER,700.0,2450,2150.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,34.0,0.0,No,No,Normal conditions
+2024-03-07,LASALGAON(VINCHUR),OTHER,1000.0,2575,2175.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,34.0,0.0,No,No,Normal conditions
+2024-03-07,NANDGAON,OTHER,200.0,2400,1850.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,33.0,0.0,No,No,Normal conditions
+2024-03-07,NASIK,OTHER,500.0,2601,2050.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.8,0.0,No,No,Normal conditions
+2024-03-07,KALVAN,OTHER,500.0,2460,2101.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,31.9,0.0,No,No,Normal conditions
+2024-03-07,LASALGAON(VINCHUR),OTHER,1000.0,2480,2250.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,34.0,0.0,No,No,Normal conditions
+2024-03-07,NANDGAON,OTHER,200.0,2511,2150.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,33.0,0.0,No,No,Normal conditions
+2024-03-07,SINNER,OTHER,300.0,2520,2150.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,33.0,0.0,No,No,Normal conditions
+2024-03-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2600,2000.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.5,0.0,No,No,Normal conditions
+2024-03-07,SATANA,OTHER,550.0,2655,2150.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,29.5,0.0,No,No,Normal conditions
+2024-03-07,LASALGAON,OTHER,800.0,2521,2280.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,34.0,0.0,No,No,Normal conditions
+2024-03-07,CHANDVAD,OTHER,200.0,2463,2180.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,32.0,0.0,No,No,Normal conditions
+2024-03-07,LASALGAON(NIPHAD),OTHER,800.0,2471,2250.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,34.0,0.0,No,No,Normal conditions
+2024-03-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1050.0,3005,2300.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Uttara Ashadha,7,3,2024,10,33.7,0.0,No,No,Normal conditions
+2024-03-08,UMRANE,OTHER,801.0,2700,2200.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Shravana,8,3,2024,10,32.2,0.0,No,No,Normal conditions
+2024-03-08,PIMPALGAON,OTHER,700.0,2955,2350.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Shravana,8,3,2024,10,32.6,0.0,No,No,Normal conditions
+2024-03-08,MANMAD,OTHER,500.0,2569,2100.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Shravana,8,3,2024,10,32.8,0.0,No,No,Normal conditions
+2024-03-08,DEVALA,OTHER,225.0,2555,2100.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Shravana,8,3,2024,10,34.0,0.0,No,No,Normal conditions
+2024-03-08,YEOLA,OTHER,300.0,2450,2000.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Shravana,8,3,2024,10,33.5,0.0,No,No,Normal conditions
+2024-03-08,SHREE RAMESHWAR KRUSHI MARKET,OTHER,204.0,2700,2028.38,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Shravana,8,3,2024,10,33.8,0.0,No,No,Normal conditions
+2024-03-09,KALVAN,OTHER,600.0,2900,2350.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,33.3,0.0,No,No,Normal conditions
+2024-03-09,NASIK,OTHER,600.0,2651,2000.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,34.8,0.0,No,No,Normal conditions
+2024-03-09,PIMPALGAON,OTHER,500.0,2864,2350.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,33.4,0.0,No,No,Normal conditions
+2024-03-09,MANMAD,OTHER,500.0,2701,2250.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,34.2,0.0,No,No,Normal conditions
+2024-03-09,YEOLA,OTHER,400.0,2511,2250.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,34.4,0.0,No,No,Normal conditions
+2024-03-09,SINNER,OTHER,300.0,2542,2250.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,33.9,0.0,No,No,Normal conditions
+2024-03-09,SATANA,OTHER,600.0,2735,2285.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,30.6,0.0,No,No,Normal conditions
+2024-03-09,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1050.0,3005,2400.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-09,KALVAN,OTHER,500.0,2830,2001.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,33.3,0.0,No,No,Normal conditions
+2024-03-09,LASALGAON,OTHER,900.0,2601,2280.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,34.8,0.0,No,No,Normal conditions
+2024-03-09,SINNER,OTHER,300.0,2433,2200.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,33.9,0.0,No,No,Normal conditions
+2024-03-09,CHANDVAD,OTHER,1000.0,2525,2160.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,33.3,0.0,No,No,Normal conditions
+2024-03-09,MANMAD,OTHER,500.0,2470,2200.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,34.2,0.0,No,No,Normal conditions
+2024-03-09,LASALGAON(VINCHUR),OTHER,1000.0,2401,2200.0,"Phalguna Amavasya, Maha Shivratri",1,0,0,Krishna Chaturdashi,Dhanishtha,9,3,2024,10,34.8,0.0,No,No,Normal conditions
+2024-03-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,700.0,2580,2100.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.3,0.0,No,No,Normal conditions
+2024-03-11,YEOLA,OTHER,300.0,2385,2100.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-11,PIMPALGAON,OTHER,700.0,2856,2350.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-11,DEVALA,OTHER,240.0,3000,2225.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,UMRANE,OTHER,1011.0,2751,2200.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-11,NASIK,OTHER,500.0,3000,2250.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-11,LASALGAON(NIPHAD),OTHER,700.0,2550,2250.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,2550,2150.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.3,0.0,No,No,Normal conditions
+2024-03-11,PIMPALGAON,OTHER,400.0,2900,2350.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-11,LASALGAON(NIPHAD),OTHER,800.0,2324,2170.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,1000.0,2900,2450.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,NASIK,OTHER,500.0,2851,1900.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-11,LASALGAON,OTHER,800.0,2409,2170.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,YEOLA,OTHER,250.0,2425,2000.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-11,CHANDVAD,OTHER,1081.0,2500,2160.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-11,KALVAN,OTHER,500.0,2750,1950.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,33.7,0.0,No,No,Normal conditions
+2024-03-11,MANMAD,OTHER,500.0,2700,2250.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-11,LASALGAON(VINCHUR),OTHER,1000.0,2512,2150.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,CHANDVAD,OTHER,1400.0,2601,2260.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-11,DEVALA,OTHER,200.0,2680,2250.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,LASALGAON(NIPHAD),OTHER,700.0,2353,2150.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,LASALGAON,OTHER,900.0,2500,2301.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-11,MANMAD,OTHER,500.0,2711,2400.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-11,YEOLA,OTHER,500.0,2500,2200.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-11,KALVAN,OTHER,450.0,2625,1901.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,33.7,0.0,No,No,Normal conditions
+2024-03-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,2698,2100.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.3,0.0,No,No,Normal conditions
+2024-03-11,PIMPALGAON,OTHER,750.0,2951,2400.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-11,NASIK,OTHER,600.0,2551,1800.0,,0,0,0,Shukla Pratipada,Uttara Bhadrapada,11,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-12,NAMPUR,OTHER,300.0,2951,2300.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,34.9,0.0,No,No,Normal conditions
+2024-03-12,SATANA,OTHER,650.0,2700,2275.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,31.1,0.0,No,No,Normal conditions
+2024-03-12,SINNER,OTHER,300.0,2450,2250.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,LASALGAON(VINCHUR),OTHER,1500.0,2752,2400.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,NASIK,OTHER,500.0,2451,1650.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.0,0.0,No,No,Normal conditions
+2024-03-12,SHREE RAMESHWAR KRUSHI MARKET,OTHER,151.0,2401,1805.47,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,SINNER,OTHER,200.0,2149,1850.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,MANMAD,OTHER,500.0,2300,2000.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,DEVALA,OTHER,500.0,2415,1900.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,36.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,565.0,2356,1835.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,2201,1850.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-12,UMRANE,OTHER,851.0,2400,1880.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,34.3,0.0,No,No,Normal conditions
+2024-03-12,KALVAN,OTHER,300.0,2510,1900.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-12,LASALGAON,OTHER,800.0,2323,2075.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,YEOLA,OTHER,350.0,2300,1850.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,CHANDVAD,OTHER,1000.0,2161,1800.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,34.4,0.0,No,No,Normal conditions
+2024-03-12,LASALGAON(NIPHAD),OTHER,800.0,2401,2051.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,LASALGAON(VINCHUR),OTHER,1000.0,2201,2025.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,NANDGAON,OTHER,200.0,2201,1750.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-12,SATANA,OTHER,475.0,2305,1875.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,31.1,0.0,No,No,Normal conditions
+2024-03-12,PIMPALGAON,OTHER,700.0,2656,1950.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-12,NAMPUR,OTHER,300.0,2500,2000.0,Maghi Ganesh Jayanti,0,0,0,Shukla Dwitiya,Revati,12,3,2024,11,34.9,0.0,No,No,Normal conditions
+2024-03-13,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,900.0,2510,1950.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,500.0,2121,1675.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,32.9,0.0,No,No,Normal conditions
+2024-03-13,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,490.0,1800,1480.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,NANDGAON,OTHER,100.0,2075,1600.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-13,PIMPALGAON,OTHER,400.0,2400,1801.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,33.3,0.0,No,No,Normal conditions
+2024-03-13,NAMPUR,OTHER,300.0,2250,1800.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,33.9,0.0,No,No,Normal conditions
+2024-03-13,LASALGAON,OTHER,700.0,2170,1860.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,LASALGAON(NIPHAD),OTHER,500.0,2000,1800.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,CHANDVAD,OTHER,1067.0,2122,1780.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,32.8,0.0,No,No,Normal conditions
+2024-03-13,NASIK,OTHER,600.0,2401,1600.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,33.2,0.0,No,No,Normal conditions
+2024-03-13,SINNER,OTHER,300.0,1925,1700.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,33.6,0.0,No,No,Normal conditions
+2024-03-13,YEOLA,OTHER,300.0,2020,1650.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,UMRANE,OTHER,751.0,2102,1600.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,33.2,0.0,No,No,Normal conditions
+2024-03-13,SATANA,OTHER,500.0,2100,1725.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,30.1,0.0,No,No,Normal conditions
+2024-03-13,LASALGAON(VINCHUR),OTHER,1000.0,1950,1800.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,DEVALA,OTHER,650.0,2005,1800.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,35.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-13,SHREE RAMESHWAR KRUSHI MARKET,OTHER,300.0,2155,1611.98,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-13,MANMAD,OTHER,500.0,1971,1600.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.1,0.0,No,No,Normal conditions
+2024-03-13,NASIK,OTHER,500.0,2301,1550.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,33.2,0.0,No,No,Normal conditions
+2024-03-13,LASALGAON(VINCHUR),OTHER,1000.0,1975,1800.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,490.0,1780,1510.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-13,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,800.0,2410,1900.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-13,SATANA,OTHER,600.0,2170,1775.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,30.1,0.0,No,No,Normal conditions
+2024-03-13,DEVALA,OTHER,405.0,2000,1750.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Ashwini,13,3,2024,11,35.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-14,CHANDVAD,OTHER,1001.0,2070,1750.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.4,0.0,No,No,Normal conditions
+2024-03-14,LASALGAON(NIPHAD),OTHER,500.0,1918,1751.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,SINNER,OTHER,300.0,2250,1700.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.3,0.0,No,No,Normal conditions
+2024-03-14,PIMPALGAON,OTHER,700.0,2511,1901.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.5,0.0,No,No,Normal conditions
+2024-03-14,UMRANE,OTHER,701.0,2140,1700.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.3,0.0,No,No,Normal conditions
+2024-03-14,NAMPUR,OTHER,300.0,2500,1800.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.2,0.0,No,No,Normal conditions
+2024-03-14,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,2200,1574.96,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.7,0.0,No,No,Normal conditions
+2024-03-14,LASALGAON,OTHER,500.0,2030,1700.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,MANMAD,OTHER,500.0,2105,1800.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.7,0.0,No,No,Normal conditions
+2024-03-14,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,2000,1675.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.2,0.0,No,No,Normal conditions
+2024-03-14,NANDGAON,OTHER,150.0,2222,1650.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-14,DEVALA,OTHER,300.0,2251,1750.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,34.8,0.0,No,No,Normal conditions
+2024-03-14,MANMAD,OTHER,500.0,2051,1750.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.7,0.0,No,No,Normal conditions
+2024-03-14,LASALGAON,OTHER,700.0,2095,1725.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,UMRANE,OTHER,850.0,2121,1700.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.3,0.0,No,No,Normal conditions
+2024-03-14,SINNER,OTHER,300.0,1847,1650.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.3,0.0,No,No,Normal conditions
+2024-03-14,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,800.0,2400,1800.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,LASALGAON(VINCHUR),OTHER,1000.0,2100,1775.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,CHANDVAD,OTHER,1100.0,2021,1750.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.4,0.0,No,No,Normal conditions
+2024-03-14,NASIK,OTHER,600.0,2252,1450.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.0,0.0,No,No,Normal conditions
+2024-03-14,PIMPALGAON,OTHER,500.0,2400,1900.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.5,0.0,No,No,Normal conditions
+2024-03-14,NAMPUR,OTHER,250.0,2300,1750.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.2,0.0,No,No,Normal conditions
+2024-03-14,LASALGAON(NIPHAD),OTHER,500.0,2200,1811.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,450.0,1877,1460.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-14,NANDGAON,OTHER,125.0,2051,1650.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-14,DINDORI,OTHER,1201.0,1888,1600.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,32.3,0.0,No,No,Normal conditions
+2024-03-14,SATANA,OTHER,550.0,2155,1750.0,Rang Panchami,0,0,0,Shukla Panchami,Bharani,14,3,2024,11,29.2,0.0,No,No,Normal conditions
+2024-03-15,YEOLA,OTHER,400.0,2000,1700.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,33.9,0.0,No,No,Normal conditions
+2024-03-15,DINDORI(VANI),OTHER,1600.0,2324,1900.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.5,0.0,No,No,Normal conditions
+2024-03-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,1920,1650.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.6,0.0,No,No,Normal conditions
+2024-03-15,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,800.0,2105,1800.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,34.1,0.0,No,No,Normal conditions
+2024-03-15,DINDORI,OTHER,1337.0,1790,1602.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.5,0.0,No,No,Normal conditions
+2024-03-15,MANMAD,OTHER,500.0,1860,1600.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-15,YEOLA,OTHER,400.0,1861,1525.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,33.9,0.0,No,No,Normal conditions
+2024-03-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,1900,1500.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.6,0.0,No,No,Normal conditions
+2024-03-15,NASIK,OTHER,450.0,1851,1250.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,33.5,0.0,No,No,Normal conditions
+2024-03-15,LASALGAON(NIPHAD),OTHER,500.0,1717,1550.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-15,KALVAN,OTHER,300.0,2155,1301.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.9,0.0,No,No,Normal conditions
+2024-03-15,LASALGAON(VINCHUR),OTHER,1000.0,2000,1650.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-15,PIMPALGAON,OTHER,500.0,2351,1750.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.7,0.0,No,No,Normal conditions
+2024-03-15,DINDORI(VANI),OTHER,1400.0,2222,1800.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.5,0.0,No,No,Normal conditions
+2024-03-15,LASALGAON,OTHER,701.0,1911,1675.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-15,LASALGAON(VINCHUR),OTHER,1000.0,1752,1550.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-15,DEVALA,OTHER,150.0,2100,1570.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,1711,1425.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.6,0.0,No,No,Normal conditions
+2024-03-15,MANMAD,OTHER,300.0,1675,1400.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,33.8,0.0,No,No,Normal conditions
+2024-03-15,DINDORI,OTHER,1255.0,1700,1414.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,32.5,0.0,No,No,Normal conditions
+2024-03-15,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,385.0,1677,1210.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,34.2,0.0,No,No,Normal conditions
+2024-03-15,NANDGAON,OTHER,200.0,1800,1350.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-15,YEOLA,OTHER,300.0,1699,1400.0,Ellora-Ajanta Festival,0,0,0,Shukla Shashthi,Krittika,15,3,2024,11,33.9,0.0,No,No,Normal conditions
+2024-03-16,SINNER,OTHER,100.0,2050,1400.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-16,NAMPUR,OTHER,100.0,2005,1400.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-16,NASIK,OTHER,500.0,2001,1350.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,34.7,0.0,No,No,Normal conditions
+2024-03-16,LASALGAON,OTHER,700.0,1761,1551.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-16,DINDORI(VANI),OTHER,1350.0,2061,1650.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,33.9,0.0,No,No,Normal conditions
+2024-03-16,UMRANE,OTHER,551.0,1823,1450.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,34.4,0.0,No,No,Normal conditions
+2024-03-16,CHANDVAD,OTHER,690.0,1861,1420.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,34.0,0.0,No,No,Normal conditions
+2024-03-16,SATANA,OTHER,350.0,1975,1525.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,31.6,0.0,No,No,Normal conditions
+2024-03-16,KALVAN,OTHER,350.0,2100,1350.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,34.0,0.0,No,No,Normal conditions
+2024-03-16,PIMPALGAON,OTHER,500.0,2200,1600.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,34.5,0.0,No,No,Normal conditions
+2024-03-16,LASALGAON(NIPHAD),OTHER,500.0,1751,1600.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-16,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,2001,1425.02,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-16,NANDGAON,OTHER,111.0,1741,1250.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-16,LASALGAON,OTHER,700.0,1852,1500.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-16,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,385.0,1510,1145.0,,0,0,0,Shukla Saptami,Rohini,16,3,2024,11,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,SINNER,OTHER,100.0,1551,1375.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.2,0.0,No,No,Normal conditions
+2024-03-18,DINDORI(VANI),OTHER,1200.0,2000,1600.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-18,PIMPALGAON,OTHER,400.0,2275,1500.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-18,SATANA,OTHER,300.0,1900,1450.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,31.0,0.0,No,No,Normal conditions
+2024-03-18,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,1626,1300.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-18,YEOLA,OTHER,400.0,1700,1400.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,MANMAD,OTHER,500.0,1630,1450.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,LASALGAON(NIPHAD),OTHER,500.0,1612,1350.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,NAMPUR,OTHER,100.0,2000,1300.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.5,0.0,No,No,Normal conditions
+2024-03-18,UMRANE,OTHER,551.0,1812,1450.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.0,0.0,No,No,Normal conditions
+2024-03-18,DEVALA,OTHER,330.0,1705,1475.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,CHANDVAD,OTHER,530.0,1836,1380.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.9,0.0,No,No,Normal conditions
+2024-03-18,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,800.0,2200,1800.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-18,KALVAN,OTHER,300.0,2100,1300.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.6,0.0,No,No,Normal conditions
+2024-03-18,DINDORI,OTHER,1295.0,1675,1436.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-18,NASIK,OTHER,375.0,1751,1200.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.2,0.0,No,No,Normal conditions
+2024-03-18,LASALGAON(VINCHUR),OTHER,900.0,1711,1451.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,SHREE RAMESHWAR KRUSHI MARKET,OTHER,242.0,1951,1343.79,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-18,SINNER,OTHER,100.0,1501,1300.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.2,0.0,No,No,Normal conditions
+2024-03-18,UMRANE,OTHER,501.0,1600,1250.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.0,0.0,No,No,Normal conditions
+2024-03-18,NAMPUR,OTHER,100.0,1900,1450.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,34.5,0.0,No,No,Normal conditions
+2024-03-18,SATANA,OTHER,250.0,1875,1375.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,31.0,0.0,No,No,Normal conditions
+2024-03-18,PIMPALGAON,OTHER,350.0,2100,1400.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-18,LASALGAON,OTHER,500.0,1745,1370.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,LASALGAON(VINCHUR),OTHER,600.0,1641,1350.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,NANDGAON,OTHER,200.0,1760,1250.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,DEVALA,OTHER,150.0,1630,1375.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-18,MANMAD,OTHER,300.0,1599,1300.0,"Ram Navami, Amalaki Ekadashi",0,0,0,Shukla Navami,Ardra,18,3,2024,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-19,LASALGAON(NIPHAD),OTHER,500.0,1400,1270.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-19,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,381.0,1510,1105.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-19,NASIK,OTHER,400.0,1801,1250.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.9,0.0,No,No,Normal conditions
+2024-03-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1500,1250.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-19,KALVAN,OTHER,250.0,2100,1151.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.2,0.0,No,No,Normal conditions
+2024-03-19,DINDORI,OTHER,990.0,1551,1150.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-19,CHANDVAD,OTHER,600.0,1792,1350.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.2,0.0,No,No,Normal conditions
+2024-03-19,YEOLA,OTHER,300.0,1550,1300.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.7,0.0,No,No,Normal conditions
+2024-03-19,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,700.0,2100,1700.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.7,0.0,No,No,Normal conditions
+2024-03-19,DINDORI(VANI),OTHER,1200.0,1911,1551.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-19,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1800,1275.94,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.8,0.0,No,No,Normal conditions
+2024-03-19,MANMAD,OTHER,200.0,1599,1250.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.2,0.0,No,No,Normal conditions
+2024-03-19,NAMPUR,OTHER,100.0,2100,1500.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.2,0.0,No,No,Normal conditions
+2024-03-19,UMRANE,OTHER,751.0,1570,1300.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.5,0.0,No,No,Normal conditions
+2024-03-19,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,365.0,1455,1095.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-19,NANDGAON,OTHER,100.0,1670,1250.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.8,0.0,No,No,Normal conditions
+2024-03-19,SATANA,OTHER,300.0,1870,1350.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,31.0,0.0,No,No,Normal conditions
+2024-03-19,DEVALA,OTHER,150.0,1570,1350.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-19,LASALGAON,OTHER,600.0,2700,1370.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-19,SINNER,OTHER,100.0,1465,1250.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.9,0.0,No,No,Normal conditions
+2024-03-19,NASIK,OTHER,400.0,1751,1150.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.9,0.0,No,No,Normal conditions
+2024-03-19,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1800,1258.04,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.8,0.0,No,No,Normal conditions
+2024-03-19,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,620.0,2050,1450.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,34.7,0.0,No,No,Normal conditions
+2024-03-19,CHANDVAD,OTHER,601.0,1800,1310.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.2,0.0,No,No,Normal conditions
+2024-03-19,LASALGAON(VINCHUR),OTHER,600.0,1600,1300.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-19,PIMPALGAON,OTHER,350.0,2351,1350.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.5,0.0,No,No,Normal conditions
+2024-03-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1440,1100.0,"Kamada Ekadashi, Amalaki Ekadashi",0,1,0,Shukla Dashami,Punarvasu,19,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-20,DINDORI(VANI),OTHER,1100.0,1851,1450.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.6,0.0,No,No,Normal conditions
+2024-03-20,DINDORI,OTHER,910.0,1505,1210.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.6,0.0,No,No,Normal conditions
+2024-03-20,LASALGAON(NIPHAD),OTHER,501.0,1320,1200.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.9,0.0,No,No,Normal conditions
+2024-03-20,KALVAN,OTHER,250.0,2000,1101.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-20,SINNER,OTHER,100.0,1356,1100.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.3,0.0,No,No,Normal conditions
+2024-03-20,DEVALA,OTHER,100.0,1500,1250.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.8,0.0,No,No,Normal conditions
+2024-03-20,NANDGAON,OTHER,100.0,1576,1150.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.5,0.0,No,No,Normal conditions
+2024-03-20,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1341,1030.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.0,0.0,No,No,Normal conditions
+2024-03-20,NASIK,OTHER,350.0,1651,1100.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-20,MANMAD,OTHER,250.0,1670,1200.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.7,0.0,No,No,Normal conditions
+2024-03-20,CHANDVAD,OTHER,452.0,1729,1250.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.2,0.0,No,No,Normal conditions
+2024-03-20,LASALGAON(VINCHUR),OTHER,500.0,1605,1300.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.9,0.0,No,No,Normal conditions
+2024-03-20,YEOLA,OTHER,300.0,1500,1200.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.3,0.0,No,No,Normal conditions
+2024-03-20,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,550.0,2000,1500.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-20,PIMPALGAON,OTHER,350.0,2111,1350.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-20,DINDORI,OTHER,975.0,1405,1180.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.6,0.0,No,No,Normal conditions
+2024-03-20,SATANA,OTHER,200.0,1805,1275.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,32.1,0.0,No,No,Normal conditions
+2024-03-20,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1800,1181.91,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.9,0.0,No,No,Normal conditions
+2024-03-20,DINDORI(VANI),OTHER,1000.0,1800,1350.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,33.6,0.0,No,No,Normal conditions
+2024-03-20,LASALGAON,OTHER,600.0,2758,1350.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.9,0.0,No,No,Normal conditions
+2024-03-20,NAMPUR,OTHER,100.0,2005,1500.0,Kamada Ekadashi,0,1,0,Shukla Ekadashi,Pushya,20,3,2024,12,34.4,0.0,No,No,Normal conditions
+2024-03-21,KALVAN,OTHER,200.0,1920,1100.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.6,0.0,No,No,Normal conditions
+2024-03-21,UMRANE,OTHER,501.0,1500,1200.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.0,0.0,No,No,Normal conditions
+2024-03-21,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,290.0,1410,1040.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,LASALGAON(NIPHAD),OTHER,500.0,1500,1250.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,NASIK,OTHER,350.0,1400,950.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,LASALGAON(NIPHAD),OTHER,400.0,1325,1150.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,PIMPALGAON,OTHER,350.0,2781,1300.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.6,0.0,No,No,Normal conditions
+2024-03-21,LASALGAON(VINCHUR),OTHER,500.0,1612,1250.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,500.0,1875,1400.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1401,1040.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,LASALGAON,OTHER,600.0,2781,1275.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,YEOLA,OTHER,250.0,1451,1100.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.7,0.0,No,No,Normal conditions
+2024-03-21,MANMAD,OTHER,300.0,1588,1250.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.0,0.0,No,No,Normal conditions
+2024-03-21,LASALGAON,OTHER,600.0,2761,1280.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,DEVALA,OTHER,100.0,1515,1250.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,SHREE RAMESHWAR KRUSHI MARKET,OTHER,221.0,1800,1148.11,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,CHANDVAD,OTHER,400.0,1652,1225.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-21,KALVAN,OTHER,300.0,1700,1000.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.6,0.0,No,No,Normal conditions
+2024-03-21,DINDORI(VANI),OTHER,1000.0,1740,1350.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1414,1050.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,LASALGAON(NIPHAD),OTHER,400.0,1383,1151.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,SINNER,OTHER,100.0,1311,1150.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,DINDORI,OTHER,956.0,1371,1151.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.0,0.0,No,No,Normal conditions
+2024-03-21,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,305.0,1465,1045.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,PIMPALGAON,OTHER,350.0,2750,1350.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.6,0.0,No,No,Normal conditions
+2024-03-21,LASALGAON(VINCHUR),OTHER,500.0,1623,1250.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,UMRANE,OTHER,501.0,1521,1200.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,34.0,0.0,No,No,Normal conditions
+2024-03-21,NASIK,OTHER,300.0,1501,1000.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-21,LASALGAON(VINCHUR),OTHER,500.0,1605,1250.0,,0,0,0,Shukla Dwadashi,Ashlesha,21,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,UMRANE,OTHER,501.0,1400,1250.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,DEVALA,OTHER,100.0,1645,1175.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1801,1160.21,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,SATANA,OTHER,150.0,1685,1175.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-22,CHANDVAD,OTHER,400.0,1751,1250.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,MANMAD,OTHER,200.0,1470,1100.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,NANDGAON,OTHER,100.0,1551,1150.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1412,1075.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,PIMPALGAON,OTHER,350.0,2760,1400.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,SINNER,OTHER,100.0,1320,1150.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,DINDORI,OTHER,900.0,1396,1111.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,450.0,2000,1500.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,LASALGAON,OTHER,500.0,2741,1260.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,LASALGAON(NIPHAD),OTHER,400.0,1371,1200.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,DINDORI(VANI),OTHER,1000.0,1831,1425.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,YEOLA,OTHER,200.0,1391,1100.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,NASIK,OTHER,450.0,1601,1100.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,NAMPUR,OTHER,100.0,1850,1250.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,KALVAN,OTHER,200.0,1875,1050.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,DINDORI(VANI),OTHER,1000.0,1801,1400.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,SATANA,OTHER,225.0,1715,1200.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,33.8,0.0,No,No,Normal conditions
+2024-03-22,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,245.0,1375,1105.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-22,NAMPUR,OTHER,100.0,1755,1250.0,,0,0,0,Shukla Trayodashi,Magha,22,3,2024,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,500.0,1925,1450.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,SINNER,OTHER,100.0,1400,1150.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1701,1128.22,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,YEOLA,OTHER,200.0,1436,1200.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,NANDGAON,OTHER,100.0,1600,1150.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,KALVAN,OTHER,200.0,1835,1051.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,DINDORI,OTHER,950.0,1365,1185.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1400,1100.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,LASALGAON(NIPHAD),OTHER,411.0,1400,1200.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,LASALGAON,OTHER,600.0,2761,1325.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,MANMAD,OTHER,200.0,1575,1200.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,UMRANE,OTHER,501.0,1501,1250.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,35.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,PIMPALGAON,OTHER,350.0,2752,1400.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,NASIK,OTHER,400.0,1651,1050.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-23,DEVALA,OTHER,100.0,1455,1150.0,Shimga (Holi eve),0,0,0,Shukla Trayodashi,Purva Phalguni,23,3,2024,12,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-25,LASALGAON(VINCHUR),OTHER,600.0,1604,1300.0,"Chaitra Purnima / Hanuman Jayanti, Holi",0,0,1,Shukla Purnima,Uttara Phalguni,25,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-25,CHANDVAD,OTHER,401.0,1712,1260.0,"Chaitra Purnima / Hanuman Jayanti, Holi",0,0,1,Shukla Purnima,Uttara Phalguni,25,3,2024,13,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-25,LASALGAON(VINCHUR),OTHER,600.0,1626,1300.0,"Chaitra Purnima / Hanuman Jayanti, Holi",0,0,1,Shukla Purnima,Uttara Phalguni,25,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-25,NANDGAON,OTHER,100.0,1485,1050.0,"Chaitra Purnima / Hanuman Jayanti, Holi",0,0,1,Shukla Purnima,Uttara Phalguni,25,3,2024,13,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-25,CHANDVAD,OTHER,412.0,1752,1200.0,"Chaitra Purnima / Hanuman Jayanti, Holi",0,0,1,Shukla Purnima,Uttara Phalguni,25,3,2024,13,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,MANMAD,OTHER,200.0,1550,1200.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1352,1030.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,260.0,1360,1085.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,SINNER,OTHER,100.0,1347,1100.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,DINDORI(VANI),OTHER,1000.0,1740,1325.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,DEVALA,OTHER,50.0,1550,1250.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,NAMPUR,OTHER,100.0,1850,1300.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,PIMPALGAON,OTHER,350.0,2706,1300.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,400.0,1900,1400.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1702,1097.06,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,KALVAN,OTHER,200.0,1800,1000.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,NASIK,OTHER,300.0,1351,950.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,LASALGAON(NIPHAD),OTHER,400.0,1370,1151.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,LASALGAON,OTHER,600.0,2711,1301.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,UMRANE,OTHER,701.0,1500,1250.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,DINDORI,OTHER,951.0,1353,1175.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,DEVALA,OTHER,235.0,1625,1050.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,LASALGAON(NIPHAD),OTHER,400.0,1350,1151.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-26,SATANA,OTHER,150.0,1775,1150.0,Holi,0,0,0,Krishna Pratipada,Hasta,26,3,2024,13,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,PIMPALGAON,OTHER,300.0,2701,1300.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,YEOLA,OTHER,200.0,1421,1050.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,600.0,1705,1200.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1702,1075.19,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,KALVAN,OTHER,200.0,1800,1100.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,DINDORI(VANI),OTHER,1000.0,1800,1350.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,NANDGAON,OTHER,100.0,1552,1050.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,NAMPUR,OTHER,100.0,1825,1100.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,MANMAD,OTHER,200.0,1590,1150.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,NASIK,OTHER,300.0,1411,900.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,CHANDVAD,OTHER,425.0,1799,1150.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,UMRANE,OTHER,751.0,1700,1350.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,37.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,LASALGAON,OTHER,500.0,1634,1251.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,SINNER,OTHER,200.0,1345,1050.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,LASALGAON(VINCHUR),OTHER,500.0,1602,1250.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1351,1025.0,,0,0,0,Krishna Dwitiya,Chitra,27,3,2024,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,DINDORI,OTHER,931.0,1401,1255.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,365.0,1280,995.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,KALVAN,OTHER,400.0,1705,1150.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,400.0,1800,1350.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,LASALGAON,OTHER,500.0,2701,1251.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,NASIK,OTHER,300.0,1301,1000.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,LASALGAON(VINCHUR),OTHER,500.0,1601,1250.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,MANMAD,OTHER,150.0,1460,1100.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,DINDORI,OTHER,900.0,1455,1150.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,LASALGAON(NIPHAD),OTHER,400.0,1400,1100.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,DINDORI(VANI),OTHER,1000.0,1800,1300.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,SHREE RAMESHWAR KRUSHI MARKET,OTHER,290.0,1555,1040.13,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,39.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-28,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1274,950.0,,0,0,0,Krishna Tritiya,Swati,28,3,2024,13,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-29,CHANDVAD,OTHER,400.0,1661,1100.0,Good Friday,0,0,0,Krishna Chaturthi,Vishakha,29,3,2024,13,37.0,0.9,Yes,No,Irrigation needed | Heat stress risk
+2024-03-29,PIMPALGAON,OTHER,400.0,2701,1300.0,Good Friday,0,0,0,Krishna Chaturthi,Vishakha,29,3,2024,13,37.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-03-29,NANDGAON,OTHER,100.0,1519,1050.0,Good Friday,0,0,0,Krishna Chaturthi,Vishakha,29,3,2024,13,38.2,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-03-29,NASIK,OTHER,400.0,1401,1100.0,Good Friday,0,0,0,Krishna Chaturthi,Vishakha,29,3,2024,13,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-29,KALVAN,OTHER,200.0,1800,1011.0,Good Friday,0,0,0,Krishna Chaturthi,Vishakha,29,3,2024,13,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-29,SATANA,OTHER,200.0,1655,1200.0,Good Friday,0,0,0,Krishna Chaturthi,Vishakha,29,3,2024,13,34.7,0.0,No,No,Normal conditions
+2024-03-30,SINNER,OTHER,100.0,1256,1050.0,,0,0,0,Krishna Panchami,Anuradha,30,3,2024,13,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-30,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,350.0,1380,1007.0,,0,0,0,Krishna Panchami,Anuradha,30,3,2024,13,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-03-30,LASALGAON(NIPHAD),OTHER,400.0,1351,1100.0,,0,0,0,Krishna Panchami,Anuradha,30,3,2024,13,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-01,DINDORI,OTHER,750.0,1380,1150.0,,0,0,0,Krishna Saptami,Mula,1,4,2024,14,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-02,DEVALA,OTHER,250.0,1700,1250.0,,0,0,0,Krishna Ashtami,Purva Ashadha,2,4,2024,14,41.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-03,YEOLA,OTHER,300.0,1436,1100.0,,0,0,0,Krishna Navami,Uttara Ashadha,3,4,2024,14,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-03,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1800,1104.1,,0,0,0,Krishna Navami,Uttara Ashadha,3,4,2024,14,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-04,MANMAD,OTHER,200.0,1523,1150.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Shravana,4,4,2024,14,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-04,NAMPUR,OTHER,100.0,1675,1100.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Shravana,4,4,2024,14,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-05,DINDORI(VANI),OTHER,1100.0,1800,1400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Dhanishtha,5,4,2024,14,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-05,LASALGAON(VINCHUR),OTHER,500.0,1600,1250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Dhanishtha,5,4,2024,14,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-05,CHANDVAD,OTHER,352.0,1606,1080.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Dhanishtha,5,4,2024,14,37.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1360,1050.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Dhanishtha,5,4,2024,14,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-06,LASALGAON,OTHER,500.0,1661,1270.0,,0,0,0,Krishna Dwadashi,Shatabhisha,6,4,2024,14,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-06,PIMPALGAON,OTHER,400.0,2622,1350.0,,0,0,0,Krishna Dwadashi,Shatabhisha,6,4,2024,14,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-08,NANDGAON,OTHER,100.0,1486,1150.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,8,4,2024,15,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-08,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,500.0,1850,1400.0,"Chaitra Amavasya, Gudi Padwa",1,0,0,Krishna Amavasya,Uttara Bhadrapada,8,4,2024,15,37.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-09,MANMAD,OTHER,200.0,1600,1275.0,Gudi Padwa,0,0,0,Shukla Pratipada,Revati,9,4,2024,15,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-12,DEVALA,OTHER,250.0,1500,1250.0,Rang Panchami,0,0,0,Shukla Chaturthi,Rohini,12,4,2024,15,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-12,KALVAN,OTHER,200.0,1710,1000.0,Rang Panchami,0,0,0,Shukla Chaturthi,Rohini,12,4,2024,15,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-13,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,2000,1168.7,Rang Panchami,0,0,0,Shukla Panchami,Mrigashira,13,4,2024,15,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-13,CHANDVAD,OTHER,500.0,1631,1220.0,Rang Panchami,0,0,0,Shukla Panchami,Mrigashira,13,4,2024,15,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-13,NAMPUR,OTHER,100.0,1750,1200.0,Rang Panchami,0,0,0,Shukla Panchami,Mrigashira,13,4,2024,15,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,SINNER,OTHER,100.0,1340,1075.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,PIMPALGAON,OTHER,400.0,2613,1350.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,YEOLA,OTHER,300.0,1450,1200.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,375.0,1385,1045.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,NASIK,OTHER,400.0,1451,1150.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,LASALGAON(VINCHUR),OTHER,500.0,1651,1300.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-15,DINDORI(VANI),OTHER,1100.0,1951,1450.0,,0,0,0,Shukla Saptami,Punarvasu,15,4,2024,16,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-18,DINDORI,OTHER,901.0,1500,1275.0,Mohini Ekadashi,0,1,0,Shukla Dashami,Ashlesha,18,4,2024,16,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,LASALGAON(NIPHAD),OTHER,500.0,1501,1200.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,SATANA,OTHER,225.0,1725,1225.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,450.0,1420,1100.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,LASALGAON,OTHER,700.0,2711,1401.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,PIMPALGAON,OTHER,400.0,2611,1450.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,2000,1245.69,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,YEOLA,OTHER,300.0,1505,1200.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,395.0,1435,1025.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,450.0,1451,1125.0,Mohini Ekadashi,0,1,0,Shukla Ekadashi,Magha,19,4,2024,16,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-20,NAMPUR,OTHER,100.0,1795,1150.0,,0,0,0,Shukla Dwadashi,Purva Phalguni,20,4,2024,16,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-20,DINDORI,OTHER,970.0,1471,1250.0,,0,0,0,Shukla Dwadashi,Purva Phalguni,20,4,2024,16,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-20,LASALGAON(VINCHUR),OTHER,600.0,1700,1375.0,,0,0,0,Shukla Dwadashi,Purva Phalguni,20,4,2024,16,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,KALVAN,OTHER,200.0,1845,1000.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,36.0,0.7,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,SINNER,OTHER,100.0,1350,1100.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,CHANDVAD,OTHER,500.0,1818,1350.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,36.8,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,DINDORI(VANI),OTHER,1100.0,1910,1500.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,NANDGAON,OTHER,100.0,1540,1150.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,39.2,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,MANMAD,OTHER,200.0,1566,1250.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,DEVALA,OTHER,240.0,1500,1250.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,39.5,0.6,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,CHANDVAD,OTHER,350.0,1771,1230.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,36.8,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,SATANA,OTHER,200.0,1655,1225.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,33.3,0.2,No,No,Normal conditions
+2024-04-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,1450,1150.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,35.9,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,LASALGAON(VINCHUR),OTHER,600.0,1682,1350.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-22,KALVAN,OTHER,200.0,1900,1100.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Chaturdashi,Hasta,22,4,2024,17,36.0,0.7,Yes,No,Irrigation needed | Heat stress risk
+2024-04-23,LASALGAON,OTHER,700.0,2601,1351.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Chitra,23,4,2024,17,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-23,SINNER,OTHER,100.0,1391,1100.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Chitra,23,4,2024,17,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-23,PIMPALGAON,OTHER,400.0,2601,1400.0,"Vaishakha Purnima / Buddha Purnima, Buddha Purnima",0,0,1,Shukla Purnima,Chitra,23,4,2024,17,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-24,MANMAD,OTHER,200.0,1600,1275.0,,0,0,0,Krishna Pratipada,Swati,24,4,2024,17,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-24,NANDGAON,OTHER,100.0,1617,1250.0,,0,0,0,Krishna Pratipada,Swati,24,4,2024,17,39.0,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-04-24,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1851,1195.98,,0,0,0,Krishna Pratipada,Swati,24,4,2024,17,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-24,DEVALA,OTHER,100.0,1650,1350.0,,0,0,0,Krishna Pratipada,Swati,24,4,2024,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-24,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,310.0,1395,1005.0,,0,0,0,Krishna Pratipada,Swati,24,4,2024,17,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-24,UMRANE,OTHER,701.0,1651,1260.0,,0,0,0,Krishna Pratipada,Swati,24,4,2024,17,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-25,DINDORI(VANI),OTHER,1000.0,1811,1400.0,,0,0,0,Krishna Pratipada,Vishakha,25,4,2024,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-25,NASIK,OTHER,400.0,1451,1000.0,,0,0,0,Krishna Pratipada,Vishakha,25,4,2024,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-25,LASALGAON(NIPHAD),OTHER,500.0,1426,1300.0,,0,0,0,Krishna Pratipada,Vishakha,25,4,2024,17,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-25,DINDORI,OTHER,900.0,1500,1300.0,,0,0,0,Krishna Pratipada,Vishakha,25,4,2024,17,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-25,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,700.0,1900,1450.0,,0,0,0,Krishna Pratipada,Vishakha,25,4,2024,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-25,SATANA,OTHER,200.0,1765,1250.0,,0,0,0,Krishna Pratipada,Vishakha,25,4,2024,17,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-26,LASALGAON(NIPHAD),OTHER,500.0,1600,1325.0,,0,0,0,Krishna Dwitiya,Anuradha,26,4,2024,17,38.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-04-26,DINDORI,OTHER,921.0,1550,1375.0,,0,0,0,Krishna Dwitiya,Anuradha,26,4,2024,17,37.6,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-04-26,NASIK,OTHER,300.0,1401,900.0,,0,0,0,Krishna Dwitiya,Anuradha,26,4,2024,17,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-26,NANDGAON,OTHER,125.0,1700,1150.0,,0,0,0,Krishna Dwitiya,Anuradha,26,4,2024,17,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-26,LASALGAON(VINCHUR),OTHER,500.0,1600,1325.0,,0,0,0,Krishna Dwitiya,Anuradha,26,4,2024,17,38.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-04-27,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,600.0,1730,1450.0,,0,0,0,Krishna Tritiya,Jyeshtha,27,4,2024,17,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-27,LASALGAON,OTHER,600.0,2501,1320.0,,0,0,0,Krishna Tritiya,Jyeshtha,27,4,2024,17,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-27,PIMPALGAON,OTHER,400.0,2580,1350.0,,0,0,0,Krishna Tritiya,Jyeshtha,27,4,2024,17,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-27,SHREE RAMESHWAR KRUSHI MARKET,OTHER,151.0,2100,1123.29,,0,0,0,Krishna Tritiya,Jyeshtha,27,4,2024,17,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-27,YEOLA,OTHER,250.0,1524,1200.0,,0,0,0,Krishna Tritiya,Jyeshtha,27,4,2024,17,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,SINNER,OTHER,200.0,1401,1150.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,MANMAD,OTHER,200.0,1551,1200.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,CHANDVAD,OTHER,300.0,1600,1120.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1456,1075.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,LASALGAON(VINCHUR),OTHER,500.0,1565,1350.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,41.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,DINDORI,OTHER,900.0,1285,1050.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,DINDORI(VANI),OTHER,1000.0,1851,1450.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,YEOLA,OTHER,200.0,1451,1050.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,42.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,650.0,1905,1500.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,41.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,PIMPALGAON,OTHER,300.0,2580,1300.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,NASIK,OTHER,350.0,1375,900.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,LASALGAON,OTHER,600.0,2511,1350.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,41.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-29,MANMAD,OTHER,150.0,1425,1100.0,,0,0,0,Krishna Panchami,Purva Ashadha,29,4,2024,18,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1800,1104.82,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,NASIK,OTHER,400.0,1351,850.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,LASALGAON,OTHER,500.0,2601,1301.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,LASALGAON(VINCHUR),OTHER,500.0,1552,1250.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,DINDORI,OTHER,900.0,1411,1015.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,DEVALA,OTHER,100.0,1700,1250.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,SINNER,OTHER,200.0,1357,1100.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,NANDGAON,OTHER,100.0,1651,1150.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,41.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,NAMPUR,OTHER,100.0,1650,1000.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,39.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-04-30,CHANDVAD,OTHER,290.0,1650,1100.0,,0,0,0,Krishna Shashthi,Uttara Ashadha,30,4,2024,18,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,2201,1050.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,LASALGAON(NIPHAD),OTHER,500.0,1391,1150.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,MANMAD,OTHER,200.0,1502,1100.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,KALVAN,OTHER,200.0,1875,1001.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,345.0,1420,1010.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,SATANA,OTHER,250.0,1800,1275.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,PIMPALGAON,OTHER,300.0,2570,1300.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,DINDORI(VANI),OTHER,1000.0,1871,1425.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,UMRANE,OTHER,551.0,1660,1280.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-02,LASALGAON(NIPHAD),OTHER,500.0,1500,1170.0,,0,0,0,Krishna Navami,Dhanishtha,2,5,2024,18,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-03,SINNER,OTHER,200.0,1363,1100.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Shatabhisha,3,5,2024,18,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-03,UMRANE,OTHER,551.0,2000,1200.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Shatabhisha,3,5,2024,18,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-03,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1800,1140.43,Krishna Ekadashi,0,1,0,Krishna Dashami,Shatabhisha,3,5,2024,18,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-03,DEVALA,OTHER,150.0,1670,1250.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Shatabhisha,3,5,2024,18,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,CHANDVAD,OTHER,401.0,1639,1180.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,MANMAD,OTHER,200.0,1554,1100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,620.0,1880,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,39.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,NANDGAON,OTHER,100.0,1626,1150.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,41.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,PIMPALGAON,OTHER,300.0,2552,1300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,LASALGAON,OTHER,500.0,2301,1301.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,NASIK,OTHER,450.0,1501,1000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,DINDORI(VANI),OTHER,1000.0,1780,1350.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,NAMPUR,OTHER,100.0,1650,1100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-04,YEOLA,OTHER,250.0,1486,1100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Purva Bhadrapada,4,5,2024,18,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,DINDORI,OTHER,900.0,1401,1251.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,SATANA,OTHER,225.0,1675,1240.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,34.7,0.0,No,No,Normal conditions
+2024-05-06,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,380.0,1450,1055.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,KALVAN,OTHER,150.0,1735,900.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,LASALGAON(VINCHUR),OTHER,500.0,1562,1250.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,375.0,1332,1025.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,36.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,SHREE RAMESHWAR KRUSHI MARKET,OTHER,211.0,2001,1153.45,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,38.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,LASALGAON,OTHER,500.0,2600,1270.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,NANDGAON,OTHER,100.0,1630,1050.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,318.0,1378,995.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,KALVAN,OTHER,250.0,1850,1200.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,37.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,MANMAD,OTHER,200.0,1680,1200.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,CHANDVAD,OTHER,391.0,1676,1250.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,DEVALA,OTHER,100.0,1750,1250.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,UMRANE,OTHER,501.0,1560,1230.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-06,DINDORI(VANI),OTHER,1000.0,1780,1400.0,,0,0,0,Krishna Trayodashi,Revati,6,5,2024,19,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,PIMPALGAON,OTHER,300.0,2555,1300.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1350,1025.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,SATANA,OTHER,200.0,1675,1250.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,YEOLA,OTHER,200.0,1501,1050.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,NASIK,OTHER,350.0,1300,950.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,LASALGAON(VINCHUR),OTHER,500.0,1701,1250.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,600.0,1700,1400.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,DINDORI,OTHER,900.0,1487,1200.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,LASALGAON(NIPHAD),OTHER,451.0,1501,1200.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,NAMPUR,OTHER,100.0,1615,1100.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,SINNER,OTHER,100.0,1330,1100.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1360,1000.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,LASALGAON(VINCHUR),OTHER,500.0,1526,1300.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,DINDORI(VANI),OTHER,900.0,1800,1425.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,38.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-07,SATANA,OTHER,200.0,1680,1200.0,Vaishakha Amavasya,1,0,0,Krishna Chaturdashi,Ashwini,7,5,2024,19,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,CHANDVAD,OTHER,450.0,1617,1100.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,NASIK,OTHER,400.0,1351,1000.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,317.0,1460,1025.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,KALVAN,OTHER,200.0,1775,950.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,DEVALA,OTHER,100.0,1640,1200.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,PIMPALGAON,OTHER,300.0,2511,1300.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,SHREE RAMESHWAR KRUSHI MARKET,OTHER,101.0,1702,1083.9,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,NAMPUR,OTHER,100.0,1550,1000.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,LASALGAON(NIPHAD),OTHER,400.0,1501,1200.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,NANDGAON,OTHER,150.0,1558,1150.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,DINDORI,OTHER,900.0,1361,1151.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,LASALGAON,OTHER,500.0,1690,1251.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,UMRANE,OTHER,701.0,1600,1350.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,MANMAD,OTHER,200.0,1700,1150.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,SINNER,OTHER,100.0,1476,1100.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-08,NANDGAON,OTHER,200.0,1565,850.0,Vaishakha Amavasya,1,0,0,Krishna Amavasya,Bharani,8,5,2024,19,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,DINDORI(VANI),OTHER,800.0,1741,1400.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,LASALGAON(VINCHUR),OTHER,450.0,2100,1300.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,SINNER,OTHER,100.0,1300,1100.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,37.0,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,UMRANE,OTHER,701.0,1645,1400.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,DINDORI,OTHER,800.0,1550,1300.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,MANMAD,OTHER,200.0,1600,1150.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,38.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1350,950.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,390.0,1485,1100.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,CHANDVAD,OTHER,400.0,1600,1050.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,SATANA,OTHER,150.0,1675,1225.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,35.1,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,DEVALA,OTHER,100.0,1670,1200.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,40.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,NASIK,OTHER,300.0,1301,900.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,37.0,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-09,YEOLA,OTHER,300.0,1536,1150.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Krittika,9,5,2024,19,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-10,LASALGAON(NIPHAD),OTHER,400.0,1500,1200.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,38.1,14.1,Yes,Moderate,Good moisture
+2024-05-10,SHREE RAMESHWAR KRUSHI MARKET,OTHER,111.0,2200,1046.26,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,37.8,5.5,Yes,Moderate,Good moisture
+2024-05-10,PIMPALGAON,OTHER,300.0,2522,1300.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,37.0,5.5,Yes,Moderate,Good moisture
+2024-05-10,LASALGAON,OTHER,600.0,2601,1340.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,38.1,14.1,Yes,Moderate,Good moisture
+2024-05-10,NAMPUR,OTHER,100.0,1555,1000.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,37.9,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-10,CHANDVAD,OTHER,400.0,1718,1060.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,37.4,1.9,Yes,No,Irrigation needed | Heat stress risk
+2024-05-10,NAMPUR,OTHER,100.0,1605,1100.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,37.9,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1451,1000.0,Parashurama Jayanti,0,0,0,Shukla Tritiya,Rohini,10,5,2024,19,36.2,4.2,Yes,No,Normal conditions
+2024-05-11,DINDORI(VANI),OTHER,1000.0,1730,1325.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,38.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,LASALGAON(NIPHAD),OTHER,400.0,1400,1150.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,YEOLA,OTHER,250.0,1521,1050.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,NASIK,OTHER,400.0,1451,1150.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,38.7,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,PIMPALGAON,OTHER,300.0,2500,1300.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,LASALGAON(VINCHUR),OTHER,500.0,1577,1250.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,LASALGAON,OTHER,600.0,2601,1340.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,MANMAD,OTHER,200.0,1600,1250.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,KALVAN,OTHER,300.0,1805,1100.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,280.0,1477,1057.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-11,DINDORI,OTHER,900.0,1535,1350.0,,0,0,0,Shukla Chaturthi,Mrigashira,11,5,2024,19,38.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-13,CHANDVAD,OTHER,300.0,1701,1200.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,33.3,0.9,No,No,Normal conditions
+2024-05-13,SATANA,OTHER,200.0,1665,1275.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,32.2,1.1,No,No,Normal conditions
+2024-05-13,PIMPALGAON,OTHER,300.0,2522,1400.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,35.1,2.3,Yes,No,Normal conditions
+2024-05-13,UMRANE,OTHER,501.0,1750,1350.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,33.0,3.3,No,No,Normal conditions
+2024-05-13,NAMPUR,OTHER,100.0,1770,1100.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,35.5,1.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-13,LASALGAON(NIPHAD),OTHER,500.0,1451,1150.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,34.8,0.1,No,No,Normal conditions
+2024-05-13,MANMAD,OTHER,200.0,1650,1300.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,34.8,0.1,No,No,Normal conditions
+2024-05-13,DINDORI(VANI),OTHER,1100.0,1852,1470.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,34.5,1.7,No,No,Normal conditions
+2024-05-13,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,2160,1112.48,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,35.3,1.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-13,LASALGAON,OTHER,600.0,2701,1370.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,34.8,0.1,No,No,Normal conditions
+2024-05-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,350.0,1403,1130.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,33.5,3.9,No,No,Normal conditions
+2024-05-13,YEOLA,OTHER,200.0,1500,1100.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,35.6,2.4,Yes,No,Normal conditions
+2024-05-13,NASIK,OTHER,250.0,1500,1000.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,34.3,0.6,No,No,Normal conditions
+2024-05-13,LASALGAON(VINCHUR),OTHER,400.0,1600,1275.0,,0,0,0,Shukla Shashthi,Punarvasu,13,5,2024,20,34.8,0.1,No,No,Normal conditions
+2024-05-14,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,355.0,1410,1040.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,38.7,1.9,Yes,No,Irrigation needed | Heat stress risk
+2024-05-14,NASIK,OTHER,350.0,1800,1100.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,38.0,1.5,Yes,No,Irrigation needed | Heat stress risk
+2024-05-14,YEOLA,OTHER,150.0,1625,1150.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,38.8,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-14,SATANA,OTHER,150.0,1695,1300.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,34.5,0.0,No,No,Normal conditions
+2024-05-14,NANDGAON,OTHER,120.0,1580,1250.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,38.8,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-14,CHANDVAD,OTHER,300.0,1625,1250.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-14,DINDORI,OTHER,900.0,1521,1300.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-14,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1426,1120.0,,0,0,0,Shukla Saptami,Pushya,14,5,2024,20,37.2,1.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,MANMAD,OTHER,200.0,1581,1200.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,36.5,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,KALVAN,OTHER,300.0,1910,1150.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,36.9,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,PIMPALGAON,OTHER,300.0,2501,1350.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,UMRANE,OTHER,501.0,1600,1275.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,35.8,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,DEVALA,OTHER,100.0,1705,1150.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,37.8,0.9,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,NAMPUR,OTHER,100.0,1720,1200.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,DINDORI(VANI),OTHER,1200.0,1904,1500.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,SINNER,OTHER,100.0,1466,1200.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,600.0,1920,1450.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,LASALGAON(VINCHUR),OTHER,400.0,1605,1275.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1951,1076.9,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,LASALGAON(NIPHAD),OTHER,500.0,1601,1250.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-15,LASALGAON,OTHER,600.0,2611,1360.0,,0,0,0,Shukla Ashtami,Ashlesha,15,5,2024,20,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,NANDGAON,OTHER,100.0,1500,1251.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,40.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,DINDORI,OTHER,900.0,1581,1351.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,36.9,0.9,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,NAMPUR,OTHER,100.0,1680,1100.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,LASALGAON(NIPHAD),OTHER,500.0,1532,1250.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,LASALGAON,OTHER,600.0,2611,1351.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,SINNER,OTHER,300.0,1451,1250.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,36.0,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,CHANDVAD,OTHER,401.0,1626,1260.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,36.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,DEVALA,OTHER,100.0,1705,1500.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,40.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,MANMAD,OTHER,200.0,1534,1200.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,38.8,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,350.0,1477,1080.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,DINDORI(VANI),OTHER,1000.0,1840,1400.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,36.9,0.9,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,UMRANE,OTHER,1000.0,1711,1400.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,36.4,0.5,Yes,No,Irrigation needed | Heat stress risk
+2024-05-16,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1451,1125.0,,0,0,0,Shukla Ashtami,Magha,16,5,2024,20,37.2,1.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,LASALGAON(VINCHUR),OTHER,500.0,1580,1300.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,SATANA,OTHER,200.0,1710,1350.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,PIMPALGAON,OTHER,300.0,2481,1350.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,36.7,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,SHREE RAMESHWAR KRUSHI MARKET,OTHER,151.0,1801,1120.31,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,38.5,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,NASIK,OTHER,400.0,1750,1200.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,KALVAN,OTHER,200.0,2000,1011.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,YEOLA,OTHER,300.0,1526,1200.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,39.2,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,DEVALA,OTHER,200.0,1675,1400.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,40.0,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,385.0,1450,1035.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,KALVAN,OTHER,200.0,1905,1000.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,38.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,SINNER,OTHER,300.0,1425,1200.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,37.3,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,PIMPALGAON,OTHER,400.0,2480,1400.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,36.7,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,DINDORI(VANI),OTHER,1000.0,1855,1550.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-17,LASALGAON(VINCHUR),OTHER,500.0,1620,1350.0,,0,0,0,Shukla Navami,Purva Phalguni,17,5,2024,20,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,NASIK,OTHER,450.0,2100,1200.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,39.5,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1480,1100.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,38.6,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,LASALGAON(NIPHAD),OTHER,500.0,1500,1300.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,LASALGAON,OTHER,600.0,1640,1300.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,UMRANE,OTHER,1000.0,1851,1400.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,36.6,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,NAMPUR,OTHER,100.0,1755,1150.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,CHANDVAD,OTHER,500.0,1630,1400.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,36.9,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,NANDGAON,OTHER,125.0,1547,1250.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,40.0,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-18,DINDORI,OTHER,1001.0,1506,1351.0,"Nirjala Ekadashi, Vat Savitri Puja",0,1,0,Shukla Dashami,Uttara Phalguni,18,5,2024,20,37.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,SHREE RAMESHWAR KRUSHI MARKET,OTHER,200.0,1821,1200.17,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,42.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,MANMAD,OTHER,300.0,1775,1300.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,41.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,SATANA,OTHER,350.0,1785,1325.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,SATANA,OTHER,200.0,1840,1215.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,DINDORI,OTHER,951.0,1590,1351.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,LASALGAON(VINCHUR),OTHER,600.0,1901,1400.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,42.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,NANDGAON,OTHER,200.0,1700,1250.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,42.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,SHREE RAMESHWAR KRUSHI MARKET,OTHER,151.0,2121,1317.04,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,42.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,DINDORI(VANI),OTHER,1000.0,1751,1485.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,300.0,1414,1099.42,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,42.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,SINNER,OTHER,300.0,1426,1100.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,40.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,NASIK,OTHER,400.0,1800,1250.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,40.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-21,NAMPUR,OTHER,100.0,1900,1200.0,,0,0,0,Shukla Trayodashi,Swati,21,5,2024,21,41.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,DEVALA,OTHER,250.0,1720,1400.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,43.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,LASALGAON,OTHER,700.0,2651,1460.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,42.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,YEOLA,OTHER,300.0,1587,1325.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,42.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,380.0,1425,1020.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,42.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,KALVAN,OTHER,200.0,1850,1001.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,39.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,CHANDVAD,OTHER,480.0,1700,1300.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1500,1125.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,PIMPALGAON,OTHER,400.0,2401,1400.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,LASALGAON(NIPHAD),OTHER,500.0,1700,1350.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,42.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,LASALGAON(NIPHAD),OTHER,500.0,1428,1300.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,42.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,LASALGAON,OTHER,700.0,2601,1400.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,42.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,PIMPALGAON,OTHER,350.0,2402,1425.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,40.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-22,NASIK,OTHER,400.0,2151,1250.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Chaturdashi,Swati,22,5,2024,21,40.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1430,1075.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,380.0,1415,1140.53,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,41.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,DINDORI,OTHER,800.0,1350,1251.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,YEOLA,OTHER,300.0,1571,1350.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,42.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,LASALGAON(VINCHUR),OTHER,500.0,1600,1351.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,42.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,DINDORI(VANI),OTHER,1100.0,1777,1424.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,CHANDVAD,OTHER,400.0,1653,1350.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,YEOLA,OTHER,301.0,1553,1300.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,42.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,LASALGAON,OTHER,700.0,2511,1425.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,42.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,SATANA,OTHER,300.0,1890,1350.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-23,SINNER,OTHER,300.0,1436,1150.0,"Jyeshtha Purnima / Vat Purnima, Vat Purnima",0,0,1,Shukla Purnima,Vishakha,23,5,2024,21,39.6,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,1501,1100.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,CHANDVAD,OTHER,400.0,1730,1370.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,DINDORI,OTHER,750.0,1556,1201.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,NANDGAON,OTHER,100.0,2121,1350.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,42.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,DEVALA,OTHER,350.0,1700,1400.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,42.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,LASALGAON(NIPHAD),OTHER,500.0,1515,1271.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,DINDORI(VANI),OTHER,1200.0,1811,1400.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,MANMAD,OTHER,400.0,1600,1200.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,40.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,NASIK,OTHER,600.0,2001,1000.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,LASALGAON(VINCHUR),OTHER,500.0,1501,1351.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,PIMPALGAON,OTHER,400.0,2301,1500.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,KALVAN,OTHER,500.0,2005,1250.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,CHANDVAD,OTHER,300.0,1400,950.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-24,DINDORI,OTHER,600.0,1401,1101.0,,0,0,0,Krishna Pratipada,Anuradha,24,5,2024,21,39.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,LASALGAON,OTHER,600.0,2501,1325.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,LASALGAON(VINCHUR),OTHER,500.0,2100,1351.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,LASALGAON(NIPHAD),OTHER,500.0,1399,1251.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,NASIK,OTHER,400.0,1451,850.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,37.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,YEOLA,OTHER,400.0,1507,1250.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,39.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,NANDGAON,OTHER,210.0,1520,1150.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,41.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,SINNER,OTHER,300.0,1400,1050.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,NAMPUR,OTHER,100.0,1800,1000.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,38.9,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,SATANA,OTHER,200.0,1795,1150.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,34.7,0.0,No,No,Normal conditions
+2024-05-25,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1320,1050.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-25,CHANDVAD,OTHER,300.0,1580,1230.0,,0,0,0,Krishna Dwitiya,Jyeshtha,25,5,2024,21,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,DINDORI,OTHER,751.0,1371,1151.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,34.5,0.0,No,No,Normal conditions
+2024-05-27,LASALGAON(NIPHAD),OTHER,400.0,2001,1250.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,MANMAD,OTHER,263.0,1701,1200.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,PIMPALGAON,OTHER,300.0,2000,1250.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,34.9,0.0,No,No,Normal conditions
+2024-05-27,LASALGAON,OTHER,600.0,2370,1280.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,KALVAN,OTHER,200.0,1775,1000.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,DEVALA,OTHER,250.0,1600,1250.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,39.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,DINDORI(VANI),OTHER,800.0,1700,1300.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,34.5,0.0,No,No,Normal conditions
+2024-05-27,NANDGAON,OTHER,215.0,1436,1150.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,40.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,CHANDVAD,OTHER,300.0,1540,1150.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,UMRANE,OTHER,501.0,1340,1040.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,35.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,DINDORI,OTHER,651.0,1261,1001.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,34.5,0.0,No,No,Normal conditions
+2024-05-27,LASALGAON(NIPHAD),OTHER,525.0,1700,1200.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,LASALGAON,OTHER,600.0,2301,1201.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-27,MANMAD,OTHER,300.0,1700,1100.0,,0,0,0,Krishna Chaturthi,Purva Ashadha,27,5,2024,22,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,SATANA,OTHER,200.0,1695,1030.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,33.7,0.0,No,No,Normal conditions
+2024-05-28,DEVALA,OTHER,250.0,1470,1100.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,LASALGAON(VINCHUR),OTHER,400.0,1400,1175.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,KALVAN,OTHER,200.0,1625,900.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1155,875.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,SINNER,OTHER,100.0,1250,950.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,34.6,0.0,No,No,Normal conditions
+2024-05-28,NASIK,OTHER,325.0,1301,700.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,PIMPALGAON,OTHER,300.0,1990,1150.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,NAMPUR,OTHER,100.0,1605,1000.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,SATANA,OTHER,150.0,1675,1015.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,33.7,0.0,No,No,Normal conditions
+2024-05-28,KALVAN,OTHER,150.0,1600,850.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,DEVALA,OTHER,250.0,1465,1075.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-28,DINDORI(VANI),OTHER,800.0,1818,1320.0,,0,0,0,Krishna Panchami,Uttara Ashadha,28,5,2024,22,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,CHANDVAD,OTHER,301.0,1431,1000.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,LASALGAON(VINCHUR),OTHER,500.0,1440,1100.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,SINNER,OTHER,100.0,1152,900.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,34.5,0.0,No,No,Normal conditions
+2024-05-29,NASIK,OTHER,350.0,1401,750.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,34.8,0.0,No,No,Normal conditions
+2024-05-29,MANMAD,OTHER,200.0,1300,975.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,NAMPUR,OTHER,100.0,1700,1100.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,37.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,DINDORI,OTHER,601.0,1173,851.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,34.9,0.0,No,No,Normal conditions
+2024-05-29,NANDGAON,OTHER,100.0,1711,950.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,39.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,PIMPALGAON,OTHER,200.0,2001,1150.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,YEOLA,OTHER,300.0,1249,1000.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,UMRANE,OTHER,501.0,1330,1000.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1230,850.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,34.8,0.0,No,No,Normal conditions
+2024-05-29,LASALGAON,OTHER,500.0,2152,1151.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,LASALGAON(NIPHAD),OTHER,300.0,1321,1051.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-29,DINDORI(VANI),OTHER,600.0,1601,1200.0,,0,0,0,Krishna Shashthi,Shravana,29,5,2024,22,34.9,0.0,No,No,Normal conditions
+2024-05-30,LASALGAON(VINCHUR),OTHER,400.0,1440,1000.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,YEOLA,OTHER,200.0,1162,850.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,38.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,PIMPALGAON,OTHER,200.0,1899,1050.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,NASIK,OTHER,400.0,1401,800.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,1100,800.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,LASALGAON(NIPHAD),OTHER,352.0,1300,952.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,CHANDVAD,OTHER,400.0,1464,980.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,MANMAD,OTHER,175.0,1201,875.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,37.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,LASALGAON,OTHER,500.0,2151,1050.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,LASALGAON(VINCHUR),OTHER,350.0,1400,1051.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,UMRANE,OTHER,401.0,1200,900.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.2,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,CHANDVAD,OTHER,400.0,1626,950.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.6,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,LASALGAON,OTHER,500.0,2101,1100.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-30,NASIK,OTHER,400.0,1350,800.0,,0,0,0,Krishna Saptami,Dhanishtha,30,5,2024,22,36.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,MANMAD,OTHER,100.0,1175,850.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,38.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,LASALGAON(NIPHAD),OTHER,451.0,1200,851.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,NANDGAON,OTHER,100.0,1511,850.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,DEVALA,OTHER,150.0,1305,900.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,YEOLA,OTHER,251.0,1151,825.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,39.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,PIMPALGAON BASWANT(SAYKHEDA),OTHER,300.0,1200,825.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,PIMPALGAON,OTHER,200.0,1970,1051.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,SINNER,OTHER,300.0,1160,800.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,DINDORI,OTHER,501.0,1000,851.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,UMRANE,OTHER,401.0,1200,950.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,DEVALA,OTHER,200.0,1305,900.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,40.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,LASALGAON(VINCHUR),OTHER,350.0,1376,950.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,PIMPALGAON,OTHER,250.0,1980,1001.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,DINDORI(VANI),OTHER,600.0,1631,1100.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,1180,760.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,36.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-05-31,LASALGAON(NIPHAD),OTHER,300.0,1111,750.0,,0,0,0,Krishna Ashtami,Purva Bhadrapada,31,5,2024,22,38.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,LASALGAON,OTHER,400.0,2100,1001.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,38.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,YEOLA,OTHER,200.0,1131,825.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,39.1,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,NAMPUR,OTHER,100.0,1545,850.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,DINDORI,OTHER,501.0,1100,851.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,MANMAD,OTHER,100.0,1201,850.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,NANDGAON,OTHER,120.0,1313,750.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,39.7,0.1,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,NASIK,OTHER,350.0,1301,750.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,36.4,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,CHANDVAD,OTHER,300.0,1500,950.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,36.8,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,SINNER,OTHER,100.0,1041,750.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,36.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,KALVAN,OTHER,150.0,1650,811.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,36.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-01,MANMAD,OTHER,125.0,1276,875.0,,0,0,0,Krishna Navami,Uttara Bhadrapada,1,6,2024,22,38.0,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-03,SATANA,OTHER,100.0,1625,850.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,33.3,7.7,No,Moderate,Good moisture
+2024-06-03,LASALGAON(NIPHAD),OTHER,300.0,1053,780.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,37.8,1.3,Yes,No,Irrigation needed | Heat stress risk
+2024-06-03,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,1100,750.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,36.0,2.5,Yes,No,Normal conditions
+2024-06-03,DEVALA,OTHER,150.0,1275,875.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,38.8,4.9,Yes,No,Normal conditions
+2024-06-03,NAMPUR,OTHER,100.0,1500,850.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,38.5,10.7,Yes,Moderate,Good moisture
+2024-06-03,NASIK,OTHER,300.0,1275,725.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,35.1,2.4,Yes,No,Normal conditions
+2024-06-03,DINDORI(VANI),OTHER,600.0,1535,1025.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,37.0,4.5,Yes,No,Normal conditions
+2024-06-03,LASALGAON,OTHER,400.0,2051,1050.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,37.8,1.3,Yes,No,Irrigation needed | Heat stress risk
+2024-06-03,NANDGAON,OTHER,102.0,1251,651.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,39.2,9.3,Yes,Moderate,Good moisture
+2024-06-03,YEOLA,OTHER,200.0,1066,800.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,38.8,4.9,Yes,No,Normal conditions
+2024-06-03,KALVAN,OTHER,150.0,1675,801.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,36.0,9.3,Yes,Moderate,Good moisture
+2024-06-03,PIMPALGAON,OTHER,200.0,2000,950.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,36.8,0.6,Yes,No,Irrigation needed | Heat stress risk
+2024-06-03,CHANDVAD,OTHER,350.0,1500,850.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,37.1,4.2,Yes,No,Normal conditions
+2024-06-03,DINDORI,OTHER,551.0,1201,851.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,37.0,4.5,Yes,No,Normal conditions
+2024-06-03,UMRANE,OTHER,401.0,1201,811.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,36.8,0.3,Yes,No,Irrigation needed | Heat stress risk
+2024-06-03,LASALGAON(VINCHUR),OTHER,350.0,1300,900.0,,0,0,0,Krishna Dwadashi,Ashwini,3,6,2024,23,37.8,1.3,Yes,No,Irrigation needed | Heat stress risk
+2024-06-04,SINNER,OTHER,200.0,1100,800.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,32.2,10.1,No,Moderate,Good moisture
+2024-06-04,DEVALA,OTHER,150.0,1400,850.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,37.5,0.8,Yes,No,Irrigation needed | Heat stress risk
+2024-06-04,SATANA,OTHER,100.0,1675,850.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,31.7,1.1,No,No,Normal conditions
+2024-06-04,NASIK,OTHER,300.0,1251,700.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,33.3,6.6,No,Moderate,Good moisture
+2024-06-04,LASALGAON(NIPHAD),OTHER,300.0,1100,751.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,37.0,1.9,Yes,No,Irrigation needed | Heat stress risk
+2024-06-04,LASALGAON,RED,400.0,1951,1060.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,37.0,1.9,Yes,No,Irrigation needed | Heat stress risk
+2024-06-04,DINDORI,OTHER,500.0,1126,751.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,33.6,3.3,No,No,Normal conditions
+2024-06-04,PIMPALGAON,OTHER,200.0,1980,900.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,34.2,2.0,No,No,Normal conditions
+2024-06-04,KALVAN,OTHER,200.0,1550,801.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,34.0,0.8,No,No,Normal conditions
+2024-06-04,NANDGAON,OTHER,101.0,1100,650.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,37.5,1.9,Yes,No,Irrigation needed | Heat stress risk
+2024-06-04,SINNER,OTHER,100.0,806,600.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,32.2,10.1,No,Moderate,Good moisture
+2024-06-04,CHANDVAD,OTHER,300.0,1525,700.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,34.5,2.0,No,No,Normal conditions
+2024-06-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,900,675.0,Shani Jayanti,0,0,0,Krishna Trayodashi,Bharani,4,6,2024,23,32.9,4.4,No,No,Normal conditions
+2024-06-05,LASALGAON(VINCHUR),OTHER,300.0,1300,850.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,36.0,1.6,Yes,No,Irrigation needed | Heat stress risk
+2024-06-05,UMRANE,OTHER,351.0,1200,800.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,34.7,2.0,No,No,Normal conditions
+2024-06-05,MANMAD,OTHER,100.0,1276,875.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,35.5,3.5,Yes,No,Normal conditions
+2024-06-05,DINDORI(VANI),OTHER,500.0,1402,875.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,33.3,2.5,No,No,Normal conditions
+2024-06-05,NAMPUR,OTHER,100.0,1500,750.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,36.1,0.8,Yes,No,Irrigation needed | Heat stress risk
+2024-06-05,LASALGAON,OTHER,400.0,1951,1060.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,36.0,1.6,Yes,No,Irrigation needed | Heat stress risk
+2024-06-05,PIMPALGAON,OTHER,200.0,1640,950.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,34.2,1.5,No,No,Normal conditions
+2024-06-05,UMRANE,OTHER,355.0,1200,800.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,34.7,2.0,No,No,Normal conditions
+2024-06-05,CHANDVAD,OTHER,200.0,1452,700.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,34.8,1.8,No,No,Normal conditions
+2024-06-05,SATANA,OTHER,100.0,1660,825.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,32.2,0.4,No,No,Normal conditions
+2024-06-05,LASALGAON(VINCHUR),OTHER,400.0,1400,951.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,36.0,1.6,Yes,No,Irrigation needed | Heat stress risk
+2024-06-05,NAMPUR,OTHER,100.0,1380,750.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,36.1,0.8,Yes,No,Irrigation needed | Heat stress risk
+2024-06-05,KALVAN,OTHER,150.0,1350,800.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,34.5,2.1,No,No,Normal conditions
+2024-06-05,YEOLA,OTHER,200.0,1006,750.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,36.0,3.5,Yes,No,Normal conditions
+2024-06-05,SINNER,OTHER,100.0,914,600.0,"Jyeshtha Amavasya, Shani Jayanti",1,0,0,Krishna Chaturdashi,Krittika,5,6,2024,23,32.3,2.1,No,No,Normal conditions
+2024-06-06,LASALGAON,OTHER,500.0,1701,1051.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.0,1.2,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,NASIK,OTHER,350.0,1301,750.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,35.3,0.9,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,DINDORI,OTHER,451.0,925,675.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,35.0,0.7,No,No,Normal conditions
+2024-06-06,MANMAD,OTHER,100.0,1112,750.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,36.0,0.7,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,LASALGAON(NIPHAD),OTHER,300.0,1031,700.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.0,1.2,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,DINDORI(VANI),OTHER,500.0,1551,875.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,35.0,0.7,No,No,Normal conditions
+2024-06-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,1105,700.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,34.6,2.3,No,No,Normal conditions
+2024-06-06,DEVALA,OTHER,100.0,1205,800.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.7,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,NANDGAON,OTHER,125.0,1071,650.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,SURAGANA,OTHER,210.0,903,442.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,34.2,0.4,No,No,Normal conditions
+2024-06-06,LASALGAON,OTHER,400.0,1325,1000.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.0,1.2,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,NASIK,OTHER,400.0,1300,700.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,35.3,0.9,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,DINDORI(VANI),OTHER,500.0,1551,951.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,35.0,0.7,No,No,Normal conditions
+2024-06-06,LASALGAON(VINCHUR),OTHER,400.0,1300,950.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.0,1.2,Yes,No,Irrigation needed | Heat stress risk
+2024-06-06,LASALGAON(NIPHAD),OTHER,300.0,1238,751.0,Jyeshtha Amavasya,1,0,0,Krishna Amavasya,Rohini,6,6,2024,23,37.0,1.2,Yes,No,Irrigation needed | Heat stress risk
+2024-06-07,PIMPALGAON,OTHER,200.0,1617,850.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.8,15.8,Yes,Moderate,Good moisture
+2024-06-07,YEOLA,OTHER,150.0,1081,700.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.1,4.9,Yes,No,Normal conditions
+2024-06-07,MANMAD,OTHER,101.0,1056,750.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,37.5,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-06-07,MANMAD,OTHER,100.0,1255,800.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,37.5,0.4,Yes,No,Irrigation needed | Heat stress risk
+2024-06-07,SINNER,OTHER,100.0,902,600.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,34.0,7.0,No,Moderate,Good moisture
+2024-06-07,SATANA,OTHER,150.0,1700,740.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,34.5,1.8,No,No,Normal conditions
+2024-06-07,PIMPALGAON,OTHER,200.0,1650,900.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.8,15.8,Yes,Moderate,Good moisture
+2024-06-07,NASIK,OTHER,350.0,1201,750.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,35.0,6.2,No,Moderate,Good moisture
+2024-06-07,KALVAN,OTHER,200.0,1200,701.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.9,0.2,Yes,No,Irrigation needed | Heat stress risk
+2024-06-07,DINDORI(VANI),OTHER,500.0,1690,901.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,35.8,15.1,Yes,Moderate,Good moisture
+2024-06-07,CHANDVAD,OTHER,200.0,1250,700.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.6,1.9,Yes,No,Irrigation needed | Heat stress risk
+2024-06-07,DEVALA,OTHER,100.0,1270,800.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,39.0,2.6,Yes,No,Normal conditions
+2024-06-07,PIMPALGAON BASWANT(SAYKHEDA),OTHER,175.0,1050,680.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,34.9,7.7,No,Moderate,Good moisture
+2024-06-07,LASALGAON(NIPHAD),OTHER,300.0,1011,700.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.3,4.8,Yes,No,Normal conditions
+2024-06-07,YEOLA,OTHER,200.0,996,750.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.1,4.9,Yes,No,Normal conditions
+2024-06-07,LASALGAON(VINCHUR),OTHER,400.0,1452,900.0,Parashurama Jayanti,0,0,0,Shukla Pratipada,Mrigashira,7,6,2024,23,36.3,4.8,Yes,No,Normal conditions
+2024-06-08,LASALGAON,OTHER,300.0,1400,900.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,34.0,0.0,No,No,Normal conditions
+2024-06-08,SATANA,OTHER,50.0,1535,760.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,30.3,0.1,No,No,Normal conditions
+2024-06-08,DINDORI,OTHER,500.0,1150,831.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,31.5,0.1,No,No,Normal conditions
+2024-06-08,NANDGAON,OTHER,101.0,1100,650.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2024-06-08,KALVAN,OTHER,150.0,1300,800.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,32.0,0.0,No,No,Normal conditions
+2024-06-08,PIMPALGAON,OTHER,200.0,3001,950.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,32.5,0.1,No,No,Normal conditions
+2024-06-08,YEOLA,OTHER,300.0,1051,750.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,33.6,0.2,No,No,Normal conditions
+2024-06-08,CHANDVAD,OTHER,200.0,1400,650.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,32.8,0.3,No,No,Normal conditions
+2024-06-08,LASALGAON,OTHER,300.0,1351,870.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,34.0,0.0,No,No,Normal conditions
+2024-06-08,DEVALA,OTHER,100.0,1335,850.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,34.6,0.1,No,No,Normal conditions
+2024-06-08,SINNER,OTHER,100.0,960,675.0,Parashurama Jayanti,0,0,0,Shukla Dwitiya,Ardra,8,6,2024,23,32.0,0.0,No,No,Normal conditions
+2024-06-10,LASALGAON(NIPHAD),OTHER,351.0,1225,751.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,32.6,10.9,No,Moderate,Good moisture
+2024-06-10,NASIK,OTHER,300.0,1301,700.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,29.3,14.7,No,Moderate,Good moisture
+2024-06-10,DINDORI(VANI),OTHER,500.0,1599,875.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,29.6,14.1,No,Moderate,Good moisture
+2024-06-10,NAMPUR,OTHER,100.0,1300,700.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,33.0,8.5,No,Moderate,Good moisture
+2024-06-10,LASALGAON(VINCHUR),OTHER,250.0,1501,850.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,32.6,10.9,No,Moderate,Good moisture
+2024-06-10,MANMAD,OTHER,100.0,1275,820.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,32.0,7.4,No,Moderate,Good moisture
+2024-06-10,SINNER,OTHER,100.0,900,600.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,30.1,14.0,No,Moderate,Good moisture
+2024-06-10,DINDORI,OTHER,500.0,1220,851.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,29.6,14.1,No,Moderate,Good moisture

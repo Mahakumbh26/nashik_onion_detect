@@ -1,0 +1,1001 @@
+Date,Market,Grade,Min Price (Rs./ Qtl),Max Price (Rs./Qtl),Modal Price (Rs./Qtl),Festival,is_amavasya,is_ekadashi,is_purnima,Tithi,Nakshatra,Day,Month,Year,Week,Temp Max (°C),Rain (mm),Heat Stress,Rain Alert,Agro Advisory
+2022-12-19,MANMAD,WHITE,1561.0,2590,1900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-19,PIMPALGAON,OTHER,3201.0,6352,4251.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,NASIK,POLE,1500.0,4801,3900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.7,0.0,No,No,Normal conditions
+2022-12-19,NAMPUR,RED,500.0,3895,3400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-19,LASALGAON(NIPHAD),RED,3221.0,3600,3400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-19,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3700,3275.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,27.4,0.0,No,No,Normal conditions
+2022-12-19,MANMAD,RED,480.0,3981,3400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Chitra,19,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-20,DINDORI(VANI),RED,2826.0,4280,3671.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-20,LASALGAON,RED,1200.0,5100,3700.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-20,LASALGAON(VINCHUR),RED,2000.0,4500,3800.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-20,SATANA,OTHER,2080.0,6550,5855.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,26.1,0.0,No,No,Normal conditions
+2022-12-20,SATANA,RED,650.0,4800,3775.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,26.1,0.0,No,No,Normal conditions
+2022-12-20,CHANDVAD,RED,1325.0,4650,3380.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,26.8,0.0,No,No,Normal conditions
+2022-12-20,KALVAN,OTHER,2300.0,6800,5400.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.7,0.0,No,No,Normal conditions
+2022-12-20,UMRANE,RED,1000.0,5311,4150.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.0,0.0,No,No,Normal conditions
+2022-12-20,DEVALA,RED,560.0,4310,3700.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.9,0.0,No,No,Normal conditions
+2022-12-20,PIMPALGAON,POLE,1600.0,4800,3850.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.8,0.0,No,No,Normal conditions
+2022-12-20,NANDGAON,RED,500.0,4001,2150.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-20,YEOLA,RED,500.0,4085,3250.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.2,0.0,No,No,Normal conditions
+2022-12-20,SINNER,RED,1200.0,3930,3675.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.5,0.0,No,No,Normal conditions
+2022-12-20,PIMPALGAON,POLE,1400.0,4752,3850.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.8,0.0,No,No,Normal conditions
+2022-12-20,NASIK,POLE,1100.0,3901,3250.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-20,LASALGAON(NIPHAD),RED,2800.0,3350,3200.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-20,MANMAD,RED,385.0,4000,3400.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.0,0.0,No,No,Normal conditions
+2022-12-20,CHANDVAD,RED,500.0,4650,3400.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,26.8,0.0,No,No,Normal conditions
+2022-12-20,YEOLA,RED,500.0,4101,3200.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.2,0.0,No,No,Normal conditions
+2022-12-20,PIMPALGAON,OTHER,4000.0,5600,4600.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.8,0.0,No,No,Normal conditions
+2022-12-20,DINDORI(VANI),RED,2826.0,4280,3671.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-20,MANMAD,WHITE,1250.0,2100,2000.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.0,0.0,No,No,Normal conditions
+2022-12-20,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,4000,3300.0,,0,0,0,Krishna Dwadashi,Swati,20,12,2022,51,28.0,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON(NIPHAD),OTHER,3251.0,3251,3251.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON,RED,1400.0,5400,3851.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON(VINCHUR),RED,2000.0,4111,3700.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,MANMAD,WHITE,1500.0,2450,1900.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.7,0.0,No,No,Normal conditions
+2022-12-21,SINNER,RED,500.0,4060,3550.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-21,KALVAN,OTHER,2000.0,6305,5800.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.6,0.0,No,No,Normal conditions
+2022-12-21,PIMPALGAON,OTHER,3300.0,4851,4500.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.6,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON(NIPHAD),RED,2000.0,3300,3100.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON,RED,1100.0,5641,3800.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3560,3100.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,SATANA,RED,750.0,4275,3300.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,27.4,0.0,No,No,Normal conditions
+2022-12-21,PIMPALGAON,POLE,1000.0,4851,3800.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.6,0.0,No,No,Normal conditions
+2022-12-21,DEVALA,RED,400.0,3895,3400.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,30.0,0.0,No,No,Normal conditions
+2022-12-21,CHANDVAD,RED,1200.0,5000,3350.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,27.5,0.0,No,No,Normal conditions
+2022-12-21,NANDGAON,RED,200.0,3900,3250.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,29.8,0.0,No,No,Normal conditions
+2022-12-21,MALHARSHREE FARMERS PRODUCER CO LTD,RED,2256.0,4910,4354.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,SATANA,OTHER,2400.0,6775,6015.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,27.4,0.0,No,No,Normal conditions
+2022-12-21,DINDORI(VANI),RED,2800.0,4161,3640.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.6,0.0,No,No,Normal conditions
+2022-12-21,MANMAD,RED,400.0,4530,3550.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.7,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON(NIPHAD),OTHER,2500.0,2500,2500.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,YEOLA,RED,400.0,4026,3250.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,29.0,0.0,No,No,Normal conditions
+2022-12-21,LASALGAON(VINCHUR),RED,2000.0,4811,3800.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-21,UMRANE,RED,1000.0,5500,4000.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,27.7,0.0,No,No,Normal conditions
+2022-12-21,MANMAD,RED,400.0,3999,1800.0,,0,0,0,Krishna Trayodashi,Vishakha,21,12,2022,51,28.7,0.0,No,No,Normal conditions
+2022-12-22,LASALGAON,RED,1000.0,5590,3551.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-22,SINNER,RED,500.0,4060,3550.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.4,0.0,No,No,Normal conditions
+2022-12-22,KALVAN,OTHER,3200.0,7025,6200.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.3,0.0,No,No,Normal conditions
+2022-12-22,LASALGAON(NIPHAD),OTHER,2525.0,3800,3800.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-22,LASALGAON(VINCHUR),RED,1500.0,4100,3600.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-22,DEVALA,RED,405.0,3905,3400.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,30.6,0.0,No,No,Normal conditions
+2022-12-22,SHREE RAMESHWAR KRUSHI MARKET,RED,300.0,5512,2942.03,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.3,0.0,No,No,Normal conditions
+2022-12-22,YEOLA,RED,500.0,3941,2900.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.3,0.0,No,No,Normal conditions
+2022-12-22,DINDORI(VANI),RED,2800.0,4444,3551.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-22,SATANA,RED,650.0,4525,3460.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-22,PIMPALGAON,POLE,1200.0,4799,3700.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-22,NANDGAON,RED,400.0,4000,2750.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,30.2,0.0,No,No,Normal conditions
+2022-12-22,PIMPALGAON,OTHER,2200.0,4790,3601.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-22,SHREE RAMESHWAR KRUSHI MARKET,OTHER,752.0,5212,3522.99,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.3,0.0,No,No,Normal conditions
+2022-12-22,LASALGAON(NIPHAD),RED,2400.0,2825,2600.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-22,CHANDVAD,RED,1100.0,4322,3200.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-22,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,3670,2725.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-22,NAMPUR,RED,500.0,3955,3400.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.8,0.0,No,No,Normal conditions
+2022-12-22,SATANA,OTHER,2500.0,6955,5565.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,27.9,0.0,No,No,Normal conditions
+2022-12-22,UMRANE,OTHER,2000.0,5902,5000.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,28.2,0.0,No,No,Normal conditions
+2022-12-22,LASALGAON,OTHER,1100.0,5400,3500.0,Paush Amavasya,1,0,0,Krishna Chaturdashi,Jyeshtha,22,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-23,DEVALA,RED,405.0,4210,3400.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,31.0,0.0,No,No,Normal conditions
+2022-12-23,UMRANE,OTHER,1500.0,5240,4500.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.2,0.0,No,No,Normal conditions
+2022-12-23,LASALGAON(NIPHAD),RED,2400.0,3000,2900.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.8,0.0,No,No,Normal conditions
+2022-12-23,PIMPALGAON,OTHER,3500.0,6651,6180.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-23,PIMPALGAON,POLE,1000.0,4451,3500.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.1,0.0,No,No,Normal conditions
+2022-12-23,MANMAD,RED,400.0,4315,3300.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-23,MALHARSHREE FARMERS PRODUCER CO LTD,RED,1410.0,4650,3855.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.8,0.0,No,No,Normal conditions
+2022-12-23,CHANDVAD,RED,1500.0,4400,3250.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.1,0.0,No,No,Normal conditions
+2022-12-23,DINDORI(VANI),RED,3001.0,4200,3651.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.9,0.0,No,No,Normal conditions
+2022-12-23,LASALGAON(VINCHUR),RED,1500.0,4100,3700.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.8,0.0,No,No,Normal conditions
+2022-12-23,KALVAN,OTHER,4000.0,6000,5500.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.7,0.0,No,No,Normal conditions
+2022-12-23,MANMAD,WHITE,1250.0,2500,2252.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-23,SINNER,RED,500.0,4000,3775.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-23,YEOLA,RED,600.0,4051,3300.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.2,0.0,No,No,Normal conditions
+2022-12-23,NAMPUR,RED,500.0,3960,3400.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.9,0.0,No,No,Normal conditions
+2022-12-23,NANDGAON,RED,100.0,3600,2650.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,30.4,0.0,No,No,Normal conditions
+2022-12-23,SATANA,RED,750.0,4300,3800.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,26.8,0.0,No,No,Normal conditions
+2022-12-23,UMRANE,RED,1000.0,5040,4000.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.2,0.0,No,No,Normal conditions
+2022-12-23,LASALGAON,RED,1100.0,5400,3500.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.8,0.0,No,No,Normal conditions
+2022-12-23,NASIK,POLE,1100.0,4201,3800.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,29.5,0.0,No,No,Normal conditions
+2022-12-23,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,3517,3101.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.8,0.0,No,No,Normal conditions
+2022-12-23,SATANA,OTHER,3005.0,6795,6150.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,26.8,0.0,No,No,Normal conditions
+2022-12-23,DINDORI(VANI),RED,3001.0,4200,3651.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.9,0.0,No,No,Normal conditions
+2022-12-23,CHANDVAD,RED,1000.0,5051,3080.0,"Paush Amavasya, Champa Shashthi / Khandoba Festival begins",1,0,0,Krishna Amavasya,Mula,23,12,2022,51,28.1,0.0,No,No,Normal conditions
+2022-12-24,MANMAD,RED,500.0,4180,3500.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.7,0.0,No,No,Normal conditions
+2022-12-24,SATANA,RED,550.0,4325,3865.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,25.2,0.0,No,No,Normal conditions
+2022-12-24,LASALGAON(VINCHUR),RED,1500.0,4100,3600.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.2,0.0,No,No,Normal conditions
+2022-12-24,LASALGAON(NIPHAD),OTHER,4000.0,4555,4555.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.2,0.0,No,No,Normal conditions
+2022-12-24,UMRANE,RED,1500.0,4751,4100.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.6,0.0,No,No,Normal conditions
+2022-12-24,LASALGAON,RED,1200.0,5352,3751.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.2,0.0,No,No,Normal conditions
+2022-12-24,NASIK,POLE,1600.0,4451,3850.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.2,0.0,No,No,Normal conditions
+2022-12-24,SATANA,OTHER,1205.0,6865,6200.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,25.2,0.0,No,No,Normal conditions
+2022-12-24,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,3701,3350.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.6,0.0,No,No,Normal conditions
+2022-12-24,LASALGAON(NIPHAD),RED,2680.0,3541,3370.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.2,0.0,No,No,Normal conditions
+2022-12-24,DEVALA,RED,525.0,4255,3600.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.9,0.0,No,No,Normal conditions
+2022-12-24,NANDGAON,RED,100.0,3799,2550.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.0,0.0,No,No,Normal conditions
+2022-12-24,PIMPALGAON,OTHER,3200.0,6080,5600.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.8,0.0,No,No,Normal conditions
+2022-12-24,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5400.0,6350,6250.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.6,0.0,No,No,Normal conditions
+2022-12-24,SINNER,RED,500.0,3821,3100.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.0,0.0,No,No,Normal conditions
+2022-12-24,UMRANE,OTHER,2000.0,5051,4100.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.6,0.0,No,No,Normal conditions
+2022-12-24,PIMPALGAON,POLE,1000.0,4599,3600.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.8,0.0,No,No,Normal conditions
+2022-12-24,NAMPUR,RED,500.0,4105,3000.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,27.0,0.0,No,No,Normal conditions
+2022-12-24,MANMAD,WHITE,900.0,3300,2800.0,Champa Shashthi / Khandoba Festival begins,0,0,0,Shukla Pratipada,Purva Ashadha,24,12,2022,51,26.7,0.0,No,No,Normal conditions
+2022-12-26,SATANA,OTHER,1405.0,6805,5735.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,26.6,0.0,No,No,Normal conditions
+2022-12-26,KALVAN,OTHER,3000.0,7100,5850.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,28.3,0.0,No,No,Normal conditions
+2022-12-26,SINNER,RED,500.0,3851,3200.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-26,LASALGAON(NIPHAD),RED,1401.0,3553,3400.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-26,SATANA,RED,800.0,4155,3565.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,26.6,0.0,No,No,Normal conditions
+2022-12-26,YEOLA,RED,600.0,3882,2900.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-26,CHANDVAD,RED,1000.0,5360,3350.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,27.8,0.0,No,No,Normal conditions
+2022-12-26,DEVALA,RED,1200.0,3800,3500.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,30.3,0.0,No,No,Normal conditions
+2022-12-26,MANMAD,RED,400.0,4360,3800.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-26,PIMPALGAON,OTHER,4000.0,6300,5711.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-26,PIMPALGAON BASWANT(SAYKHEDA),RED,1100.0,3801,3300.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-26,DEVALA,OTHER,2500.0,4805,3500.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,30.3,0.0,No,No,Normal conditions
+2022-12-26,LASALGAON(VINCHUR),RED,1500.0,4000,3700.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-26,PIMPALGAON,POLE,1500.0,5300,3800.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-26,NANDGAON,RED,100.0,4475,2650.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,30.0,0.0,No,No,Normal conditions
+2022-12-26,LASALGAON,RED,1000.0,5455,3700.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-26,NAMPUR,RED,500.0,4300,3000.0,,0,0,0,Shukla Chaturthi,Shravana,26,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-27,LASALGAON(NIPHAD),OTHER,4200.0,4700,4301.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-27,DINDORI(VANI),RED,2801.0,4081,3601.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-27,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5500.0,6505,6205.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,30.1,0.0,No,No,Normal conditions
+2022-12-27,LASALGAON,OTHER,1000.0,5455,3700.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-27,NASIK,POLE,1500.0,4501,4000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-27,PIMPALGAON,POLE,2100.0,5395,4000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-27,MANMAD,RED,750.0,4600,4000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-27,PIMPALGAON,OTHER,2501.0,6752,6001.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-27,YEOLA,RED,700.0,4026,3250.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-27,NASIK,POLE,1600.0,4650,4200.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-27,KALVAN,OTHER,2600.0,6700,5850.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,28.8,0.0,No,No,Normal conditions
+2022-12-27,LASALGAON(NIPHAD),RED,3056.0,3500,3468.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-27,SINNER,RED,1500.0,5900,4700.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-27,DEVALA,OTHER,2000.0,6450,5800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,30.4,0.0,No,No,Normal conditions
+2022-12-27,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5400.0,6905,6500.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,30.1,0.0,No,No,Normal conditions
+2022-12-27,YEOLA,RED,900.0,4376,3600.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-27,NASIK,POLE,1800.0,4511,3850.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Panchami,Dhanishtha,27,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-28,UMRANE,OTHER,2000.0,6100,5500.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-28,DEVALA,RED,1400.0,4250,3800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-28,PIMPALGAON,POLE,2500.0,5590,4100.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-28,SATANA,OTHER,1025.0,6645,6100.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,27.4,0.0,No,No,Normal conditions
+2022-12-28,LASALGAON,RED,1500.0,5500,4300.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,MANMAD,WHITE,2201.0,3190,2201.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.6,0.0,No,No,Normal conditions
+2022-12-28,LASALGAON(NIPHAD),OTHER,3000.0,5501,4740.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,CHANDVAD,RED,900.0,5801,3800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.2,0.0,No,No,Normal conditions
+2022-12-28,UMRANE,RED,1500.0,6300,5000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-28,PIMPALGAON,OTHER,3001.0,6260,5800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-28,DINDORI(VANI),RED,3501.0,4511,4100.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.3,0.0,No,No,Normal conditions
+2022-12-28,SATANA,RED,605.0,4450,3575.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,27.4,0.0,No,No,Normal conditions
+2022-12-28,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,3240,2800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-28,MANMAD,RED,1000.0,4441,4000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.6,0.0,No,No,Normal conditions
+2022-12-28,LASALGAON(NIPHAD),RED,2800.0,3351,3351.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,NASIK,POLE,2100.0,4701,4100.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-28,KALVAN,OTHER,3500.0,6410,5800.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-28,LASALGAON(VINCHUR),RED,2000.0,4711,4100.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5300.0,7000,6505.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,PIMPALGAON,OTHER,3500.0,6500,5700.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-28,UMRANE,OTHER,2000.0,6068,5500.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-28,PIMPALGAON,POLE,2400.0,5400,3900.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-28,DEVALA,OTHER,2500.0,6550,6000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-28,CHANDVAD,RED,2525.0,5325,3460.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.2,0.0,No,No,Normal conditions
+2022-12-28,LASALGAON,RED,1500.0,5399,4100.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,NAMPUR,OTHER,3500.0,6505,5000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.3,0.0,No,No,Normal conditions
+2022-12-28,UMRANE,RED,1500.0,6100,4500.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-28,LASALGAON(NIPHAD),OTHER,3000.0,5301,5261.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-28,NANDGAON,RED,500.0,4340,3450.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-28,DEVALA,RED,1400.0,4400,4000.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-28,SINNER,RED,1500.0,5701,4600.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-28,PIMPALGAON BASWANT(SAYKHEDA),RED,1051.0,4135,3150.0,Champa Shashthi / Khandoba Festival (main day),0,0,0,Shukla Shashthi,Shatabhisha,28,12,2022,52,28.9,0.0,No,No,Normal conditions
+2022-12-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2300.0,5200,4011.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.7,0.0,No,No,Normal conditions
+2022-12-29,SATANA,RED,545.0,3995,3555.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,28.1,0.0,No,No,Normal conditions
+2022-12-29,SATANA,OTHER,2005.0,6660,6250.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,28.1,0.0,No,No,Normal conditions
+2022-12-29,DINDORI(VANI),RED,3875.0,4501,4001.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-29,MANMAD,WHITE,2000.0,3100,2000.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-29,CHANDVAD,OTHER,2525.0,4551,4000.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,28.6,0.0,No,No,Normal conditions
+2022-12-29,MANMAD,RED,600.0,4360,3651.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-29,YEOLA,RED,811.0,4391,3300.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-29,YEOLA,OTHER,1900.0,5801,4600.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-29,NAMPUR,RED,500.0,4860,3000.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.5,0.0,No,No,Normal conditions
+2022-12-29,MANMAD,WHITE,2551.0,3270,3161.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3100.0,5900,5400.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.7,0.0,No,No,Normal conditions
+2022-12-29,PIMPALGAON BASWANT(SAYKHEDA),RED,1500.0,4000,2750.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.7,0.0,No,No,Normal conditions
+2022-12-29,CHANDVAD,OTHER,1353.0,5670,5000.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,28.6,0.0,No,No,Normal conditions
+2022-12-29,NAMPUR,OTHER,3000.0,6000,5300.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.5,0.0,No,No,Normal conditions
+2022-12-29,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5200.0,6705,6000.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.5,0.0,No,No,Normal conditions
+2022-12-29,DEVALA,OTHER,2000.0,6500,5500.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.7,0.0,No,No,Normal conditions
+2022-12-29,PIMPALGAON,POLE,2200.0,5553,4100.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.0,0.0,No,No,Normal conditions
+2022-12-29,KALVAN,OTHER,3000.0,6605,5800.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-29,LASALGAON,OTHER,3040.0,5200,4700.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-29,MALHARSHREE FARMERS PRODUCER CO LTD,RED,2410.0,5154,4581.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-29,DEVALA,RED,1300.0,4295,3650.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.7,0.0,No,No,Normal conditions
+2022-12-29,NANDGAON,RED,200.0,4151,2950.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.4,0.0,No,No,Normal conditions
+2022-12-29,DINDORI(VANI),RED,2511.0,4551,3941.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-29,NANDGAON,OTHER,3251.0,4301,3850.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.4,0.0,No,No,Normal conditions
+2022-12-29,CHANDVAD,RED,1851.0,5371,3450.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,28.6,0.0,No,No,Normal conditions
+2022-12-29,UMRANE,OTHER,2000.0,6110,5500.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-29,NAMPUR,RED,500.0,4605,3000.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.5,0.0,No,No,Normal conditions
+2022-12-29,LASALGAON,RED,1000.0,5350,4100.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-29,NASIK,POLE,2300.0,5001,4300.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.3,0.0,No,No,Normal conditions
+2022-12-29,PIMPALGAON,OTHER,3600.0,6371,5851.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,30.0,0.0,No,No,Normal conditions
+2022-12-29,UMRANE,RED,1500.0,6350,4500.0,,0,0,0,Shukla Saptami,Purva Bhadrapada,29,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-30,LASALGAON(NIPHAD),OTHER,3000.0,4901,4800.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,LASALGAON(VINCHUR),RED,2000.0,4300,3900.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,MANMAD,RED,600.0,5000,4400.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,SINNER,RED,1500.0,5990,4941.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-30,LASALGAON(VINCHUR),RED,2000.0,4541,4100.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,NASIK,POLE,2000.0,4801,4200.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,30.1,0.0,No,No,Normal conditions
+2022-12-30,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,6000,5600.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,30.4,0.0,No,No,Normal conditions
+2022-12-30,LASALGAON(NIPHAD),OTHER,3000.0,5455,5025.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,YEOLA,OTHER,2001.0,5776,4700.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-30,KALVAN,OTHER,2300.0,6305,5500.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-30,MANMAD,RED,500.0,4370,3600.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,LASALGAON,RED,1000.0,5411,3900.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,DEVALA,OTHER,2000.0,6400,6000.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,31.1,0.0,No,No,Normal conditions
+2022-12-30,DINDORI(VANI),RED,3610.0,4850,4300.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3300.0,5799,5641.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.5,0.0,No,No,Normal conditions
+2022-12-30,CHANDVAD,RED,1000.0,5401,3500.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-30,SATANA,OTHER,1550.0,6295,5705.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,28.3,0.0,No,No,Normal conditions
+2022-12-30,YEOLA,RED,500.0,3976,3000.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.9,0.0,No,No,Normal conditions
+2022-12-30,SHREE RAMESHWAR KRUSHI MARKET,RED,300.0,6600,3452.69,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,30.1,0.0,No,No,Normal conditions
+2022-12-30,SINNER,RED,1500.0,4700,4000.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.6,0.0,No,No,Normal conditions
+2022-12-30,LASALGAON,OTHER,3091.0,5652,5252.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,29.8,0.0,No,No,Normal conditions
+2022-12-30,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1000.0,6230,5105.76,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,30.1,0.0,No,No,Normal conditions
+2022-12-30,PIMPALGAON,OTHER,3500.0,6451,5700.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,30.0,0.0,No,No,Normal conditions
+2022-12-30,SATANA,RED,405.0,4400,3600.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,28.3,0.0,No,No,Normal conditions
+2022-12-30,PIMPALGAON,POLE,2301.0,5800,4300.0,,0,0,0,Shukla Ashtami,Uttara Bhadrapada,30,12,2022,52,30.0,0.0,No,No,Normal conditions
+2022-12-31,DEVALA,RED,1300.0,4120,3700.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,28.5,0.0,No,No,Normal conditions
+2022-12-31,LASALGAON(NIPHAD),RED,3100.0,3100,3100.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,DINDORI(VANI),OTHER,3500.0,5050,4600.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,28.8,0.0,No,No,Normal conditions
+2022-12-31,LASALGAON,RED,1500.0,5415,4000.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,CHANDVAD,OTHER,4000.0,5380,4800.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,27.9,0.0,No,No,Normal conditions
+2022-12-31,PIMPALGAON BASWANT(SAYKHEDA),RED,801.0,4000,3126.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,28.3,0.0,No,No,Normal conditions
+2022-12-31,NASIK,POLE,1900.0,5000,4000.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-31,LASALGAON(VINCHUR),OTHER,2200.0,4002,3525.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,YEOLA,RED,500.0,4050,2900.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.1,0.0,No,No,Normal conditions
+2022-12-31,YEOLA,OTHER,500.0,5561,3900.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.1,0.0,No,No,Normal conditions
+2022-12-31,PIMPALGAON,OTHER,3400.0,6180,5650.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,MANMAD,RED,500.0,4000,3500.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,28.1,0.0,No,No,Normal conditions
+2022-12-31,PIMPALGAON BASWANT(SAYKHEDA),OTHER,1700.0,5751,5100.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,28.3,0.0,No,No,Normal conditions
+2022-12-31,LASALGAON(NIPHAD),OTHER,2200.0,5399,5100.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,PIMPALGAON,POLE,2300.0,5613,4250.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,NASIK,OTHER,4000.0,5301,5000.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.2,0.0,No,No,Normal conditions
+2022-12-31,LASALGAON(VINCHUR),RED,2000.0,4501,4000.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2022-12-31,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,4900.0,6200,5700.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.4,0.0,No,No,Normal conditions
+2022-12-31,LASALGAON,OTHER,2000.0,5599,3700.0,,0,0,0,Shukla Navami,Revati,31,12,2022,52,29.0,0.0,No,No,Normal conditions
+2023-01-02,CHANDVAD,RED,1801.0,4801,3700.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-02,LASALGAON,OTHER,3360.0,5500,4601.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-02,KALVAN,OTHER,2400.0,6500,5411.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.0,0.0,No,No,Normal conditions
+2023-01-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2800.0,5800,5301.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.4,0.0,No,No,Normal conditions
+2023-01-02,LASALGAON(NIPHAD),OTHER,2501.0,5281,4901.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-02,DEVALA,OTHER,1600.0,5800,5000.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.0,0.0,No,No,Normal conditions
+2023-01-02,NASIK,OTHER,4500.0,5501,5100.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,28.4,0.0,No,No,Normal conditions
+2023-01-02,PIMPALGAON BASWANT(SAYKHEDA),RED,2053.0,3345,2665.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.4,0.0,No,No,Normal conditions
+2023-01-02,YEOLA,RED,500.0,4000,2800.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.8,0.0,No,No,Normal conditions
+2023-01-02,LASALGAON(VINCHUR),RED,2000.0,4860,4100.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-02,SINNER,RED,1000.0,5300,4550.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.7,0.0,No,No,Normal conditions
+2023-01-02,NASIK,POLE,1200.0,5150,4450.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,28.4,0.0,No,No,Normal conditions
+2023-01-02,MANMAD,RED,500.0,3700,3100.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,26.6,0.0,No,No,Normal conditions
+2023-01-02,SATANA,OTHER,1005.0,6195,5690.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,25.6,0.0,No,No,Normal conditions
+2023-01-02,PIMPALGAON,POLE,2200.0,5601,4200.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-02,SHREE RAMESHWAR KRUSHI MARKET,RED,300.0,6500,3365.36,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-02,LASALGAON,RED,1500.0,5402,4400.0,"Saphala Ekadashi, Mokshada Ekadashi / Gita Jayanti",0,1,0,Shukla Ekadashi,Bharani,2,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-03,SHREE RAMESHWAR KRUSHI MARKET,OTHER,600.0,6270,5175.67,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.8,0.0,No,No,Normal conditions
+2023-01-03,UMRANE,OTHER,2000.0,6571,5500.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,26.9,0.0,No,No,Normal conditions
+2023-01-03,CHANDVAD,OTHER,1661.0,5301,4800.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,26.7,0.0,No,No,Normal conditions
+2023-01-03,DEVALA,RED,1200.0,4020,3500.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-03,SATANA,RED,345.0,4951,3400.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,25.5,0.0,No,No,Normal conditions
+2023-01-03,UMRANE,RED,2000.0,6600,5000.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,26.9,0.0,No,No,Normal conditions
+2023-01-03,PIMPALGAON,OTHER,3700.0,6415,5800.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.5,0.0,No,No,Normal conditions
+2023-01-03,CHANDVAD,RED,1000.0,5076,3550.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,26.7,0.0,No,No,Normal conditions
+2023-01-03,YEOLA,OTHER,500.0,5400,4600.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.8,0.0,No,No,Normal conditions
+2023-01-03,LASALGAON(VINCHUR),RED,1500.0,4550,4000.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.7,0.0,No,No,Normal conditions
+2023-01-03,MANMAD,RED,500.0,3900,3400.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.5,0.0,No,No,Normal conditions
+2023-01-03,LASALGAON,OTHER,2781.0,5400,5001.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.7,0.0,No,No,Normal conditions
+2023-01-03,NAMPUR,OTHER,3000.0,6000,4500.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,28.2,0.0,No,No,Normal conditions
+2023-01-03,SATANA,OTHER,2005.0,6200,5550.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,25.5,0.0,No,No,Normal conditions
+2023-01-03,NAMPUR,RED,200.0,4405,2550.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,28.2,0.0,No,No,Normal conditions
+2023-01-03,SATANA,RED,100.0,3850,3300.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,25.5,0.0,No,No,Normal conditions
+2023-01-03,DINDORI(VANI),RED,3536.0,5100,4750.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.5,0.0,No,No,Normal conditions
+2023-01-03,NASIK,POLE,1100.0,5100,4400.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,28.5,0.0,No,No,Normal conditions
+2023-01-03,LASALGAON(NIPHAD),OTHER,2500.0,5370,4800.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,27.7,0.0,No,No,Normal conditions
+2023-01-03,NANDGAON,RED,200.0,4310,2950.0,,0,0,0,Shukla Dwadashi,Krittika,3,1,2023,1,28.3,0.0,No,No,Normal conditions
+2023-01-04,YEOLA,OTHER,1225.0,5700,4700.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.3,0.0,No,No,Normal conditions
+2023-01-04,UMRANE,RED,1000.0,6641,4100.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,24.2,0.0,No,No,Normal conditions
+2023-01-04,DEVALA,RED,1400.0,4350,3700.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,24.8,0.0,No,No,Normal conditions
+2023-01-04,NASIK,OTHER,4800.0,5801,5400.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,27.0,0.0,No,No,Normal conditions
+2023-01-04,NANDGAON,OTHER,1501.0,4770,4450.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,24.5,0.0,No,No,Normal conditions
+2023-01-04,UMRANE,OTHER,1500.0,5900,4500.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,24.2,0.0,No,No,Normal conditions
+2023-01-04,PIMPALGAON,OTHER,3100.0,6301,5700.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,25.9,0.0,No,No,Normal conditions
+2023-01-04,CHANDVAD,RED,1502.0,5601,3300.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,23.2,0.0,No,No,Normal conditions
+2023-01-04,PIMPALGAON,POLE,2200.0,5896,4100.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,25.9,0.0,No,No,Normal conditions
+2023-01-04,KALVAN,OTHER,2400.0,6400,5400.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,24.3,0.0,No,No,Normal conditions
+2023-01-04,DEVALA,OTHER,1800.0,5525,5000.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,24.8,0.0,No,No,Normal conditions
+2023-01-04,YEOLA,RED,600.0,3852,2500.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.3,0.0,No,No,Normal conditions
+2023-01-04,LASALGAON,RED,1100.0,5455,4500.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-04,SINNER,RED,2000.0,5300,4475.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.1,0.0,No,No,Normal conditions
+2023-01-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,4800.0,5651,5125.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-04,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,6000,5365.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.5,0.0,No,No,Normal conditions
+2023-01-04,PIMPALGAON BASWANT(SAYKHEDA),RED,1000.0,4061,3001.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-04,CHANDVAD,OTHER,1725.0,5556,5000.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,23.2,0.0,No,No,Normal conditions
+2023-01-04,LASALGAON(VINCHUR),OTHER,3500.0,4811,4640.0,,0,0,0,Shukla Trayodashi,Rohini,4,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-05,PIMPALGAON,OTHER,2400.0,6700,5400.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,26.8,0.0,No,No,Normal conditions
+2023-01-05,SATANA,RED,100.0,3800,3050.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,24.0,0.0,No,No,Normal conditions
+2023-01-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2800.0,5481,4850.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,26.9,0.0,No,No,Normal conditions
+2023-01-05,SATANA,OTHER,1305.0,6010,5465.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,24.0,0.0,No,No,Normal conditions
+2023-01-05,LASALGAON,OTHER,2700.0,5601,5000.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,26.4,0.3,No,No,Normal conditions
+2023-01-05,UMRANE,OTHER,1500.0,5300,4500.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,25.4,0.0,No,No,Normal conditions
+2023-01-05,NASIK,POLE,1400.0,4800,4250.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-05,KALVAN,OTHER,2200.0,6105,5350.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-05,DEVALA,OTHER,1700.0,5650,5000.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,27.2,0.0,No,No,Normal conditions
+2023-01-05,NASIK,OTHER,4600.0,5600,5200.0,Paush Purnima,0,0,1,Shukla Chaturdashi,Mrigashira,5,1,2023,1,27.6,0.0,No,No,Normal conditions
+2023-01-06,DEVALA,RED,1300.0,4265,3700.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.9,0.2,No,No,Normal conditions
+2023-01-06,LASALGAON(VINCHUR),RED,1500.0,4815,3650.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.2,No,No,Normal conditions
+2023-01-06,LASALGAON(NIPHAD),OTHER,2601.0,5581,4871.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.2,No,No,Normal conditions
+2023-01-06,PIMPALGAON,POLE,2000.0,5054,3800.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.1,No,No,Normal conditions
+2023-01-06,SINNER,RED,1500.0,5401,4550.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.5,0.0,No,No,Normal conditions
+2023-01-06,MANMAD,RED,300.0,4000,2751.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.1,0.5,No,No,Normal conditions
+2023-01-06,LASALGAON,RED,1500.0,5601,4700.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.2,No,No,Normal conditions
+2023-01-06,UMRANE,RED,1000.0,6101,4000.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,25.5,0.3,No,No,Normal conditions
+2023-01-06,PIMPALGAON,OTHER,1900.0,6290,5550.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.1,No,No,Normal conditions
+2023-01-06,DEVALA,OTHER,1700.0,5605,5000.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.9,0.2,No,No,Normal conditions
+2023-01-06,NAMPUR,OTHER,1500.0,7051,5505.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.5,0.6,No,No,Normal conditions
+2023-01-06,YEOLA,OTHER,1500.0,5891,4900.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.2,No,No,Normal conditions
+2023-01-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2700.0,5671,4791.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.5,0.0,No,No,Normal conditions
+2023-01-06,LASALGAON(VINCHUR),RED,2000.0,4900,4000.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.2,No,No,Normal conditions
+2023-01-06,DINDORI(VANI),OTHER,4200.0,5400,5000.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.5,0.0,No,No,Normal conditions
+2023-01-06,LASALGAON,RED,2000.0,5556,4300.0,"Paush Purnima, Feast of Three Kings (Christians)",0,0,1,Shukla Purnima,Ardra,6,1,2023,1,26.4,0.2,No,No,Normal conditions
+2023-01-07,UMRANE,OTHER,2000.0,5626,4800.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.0,0.0,No,No,Normal conditions
+2023-01-07,LASALGAON(NIPHAD),OTHER,3000.0,5500,4901.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.6,0.0,No,No,Normal conditions
+2023-01-07,LASALGAON,OTHER,3600.0,5555,4500.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.6,0.0,No,No,Normal conditions
+2023-01-07,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,6200,5600.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,27.0,0.0,No,No,Normal conditions
+2023-01-07,KALVAN,OTHER,1500.0,6210,5300.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.2,0.0,No,No,Normal conditions
+2023-01-07,CHANDVAD,RED,200.0,5801,3050.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,25.6,0.0,No,No,Normal conditions
+2023-01-07,NASIK,POLE,1500.0,5000,4500.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,27.0,0.0,No,No,Normal conditions
+2023-01-07,SHREE RAMESHWAR KRUSHI MARKET,OTHER,300.0,6000,4508.32,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.6,0.1,No,No,Normal conditions
+2023-01-07,DEVALA,RED,1300.0,4550,3700.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.9,0.0,No,No,Normal conditions
+2023-01-07,NASIK,OTHER,4900.0,5801,5500.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,27.0,0.0,No,No,Normal conditions
+2023-01-07,YEOLA,RED,500.0,4050,2300.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.6,0.0,No,No,Normal conditions
+2023-01-07,CHANDVAD,OTHER,501.0,5600,3161.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,25.6,0.0,No,No,Normal conditions
+2023-01-07,SATANA,OTHER,1100.0,5775,5215.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,24.5,0.0,No,No,Normal conditions
+2023-01-07,PIMPALGAON,POLE,1900.0,5080,4000.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.5,0.0,No,No,Normal conditions
+2023-01-07,LASALGAON(VINCHUR),OTHER,2500.0,4700,4100.0,,0,0,0,Krishna Pratipada,Punarvasu,7,1,2023,1,26.6,0.0,No,No,Normal conditions
+2023-01-10,MANMAD,RED,500.0,3840,2800.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.6,0.0,No,No,Normal conditions
+2023-01-10,UMRANE,RED,1000.0,6001,4500.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.0,0.0,No,No,Normal conditions
+2023-01-10,SHREE RAMESHWAR KRUSHI MARKET,RED,200.0,6500,2763.6,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,27.0,0.0,No,No,Normal conditions
+2023-01-10,LASALGAON(NIPHAD),RED,1700.0,2152,2152.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-10,SINNER,RED,1500.0,5651,4525.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-10,LASALGAON(NIPHAD),OTHER,3300.0,5685,5200.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-10,MANMAD,RED,500.0,4176,3500.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.6,0.0,No,No,Normal conditions
+2023-01-10,PIMPALGAON,POLE,2000.0,5100,3900.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,27.0,0.0,No,No,Normal conditions
+2023-01-10,LASALGAON(VINCHUR),OTHER,2500.0,4200,4100.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-10,CHANDVAD,RED,1001.0,5641,3050.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,25.4,0.0,No,No,Normal conditions
+2023-01-10,MANMAD,OTHER,2160.0,4020,2600.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.6,0.0,No,No,Normal conditions
+2023-01-10,CHANDVAD,OTHER,2000.0,5555,5200.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,25.4,0.0,No,No,Normal conditions
+2023-01-10,PIMPALGAON,OTHER,2800.0,6390,5600.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,27.0,0.0,No,No,Normal conditions
+2023-01-10,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,5900,5455.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,27.0,0.0,No,No,Normal conditions
+2023-01-10,LASALGAON(VINCHUR),RED,1500.0,4701,3500.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-10,NASIK,OTHER,4700.0,5601,5200.0,,0,0,0,Krishna Tritiya,Ashlesha,10,1,2023,2,27.0,0.0,No,No,Normal conditions
+2023-01-11,NASIK,POLE,1000.0,4800,4500.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,29.4,0.0,No,No,Normal conditions
+2023-01-11,DINDORI(VANI),OTHER,4300.0,5000,4701.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2600.0,5353,4700.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.3,0.0,No,No,Normal conditions
+2023-01-11,KALVAN,OTHER,2000.0,5900,5000.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.3,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON,RED,1600.0,4900,4500.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON,OTHER,2900.0,4905,4700.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,YEOLA,OTHER,1500.0,5790,4800.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.0,0.0,No,No,Normal conditions
+2023-01-11,SINNER,RED,1500.0,5376,4525.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.3,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON(VINCHUR),RED,2500.0,4911,4200.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,KALVAN,OTHER,1700.0,6305,5200.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.3,0.0,No,No,Normal conditions
+2023-01-11,YEOLA,OTHER,2850.0,6026,5050.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.0,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON,OTHER,3091.0,5870,5200.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,NASIK,POLE,1100.0,4200,3800.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,29.4,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON(NIPHAD),OTHER,3300.0,5800,5275.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3501.0,5300,4795.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.3,0.0,No,No,Normal conditions
+2023-01-11,NAMPUR,OTHER,3000.0,6025,5200.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,29.1,0.0,No,No,Normal conditions
+2023-01-11,PIMPALGAON,POLE,1500.0,4860,4051.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.6,0.0,No,No,Normal conditions
+2023-01-11,NASIK,OTHER,4500.0,5655,5000.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,29.4,0.0,No,No,Normal conditions
+2023-01-11,DINDORI(VANI),OTHER,4200.0,5500,5000.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,PIMPALGAON,OTHER,2800.0,6899,5400.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.6,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON,RED,1501.0,5262,4300.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,DEVALA,RED,1200.0,4400,3600.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,29.9,0.0,No,No,Normal conditions
+2023-01-11,UMRANE,RED,1000.0,6565,4700.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,27.7,0.0,No,No,Normal conditions
+2023-01-11,LASALGAON(NIPHAD),OTHER,3111.0,5925,5601.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.5,0.0,No,No,Normal conditions
+2023-01-11,PIMPALGAON,OTHER,2900.0,6900,5500.0,,0,0,0,Krishna Chaturthi,Magha,11,1,2023,2,28.6,0.0,No,No,Normal conditions
+2023-01-12,CHANDVAD,RED,1000.0,5800,3250.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,26.7,0.0,No,No,Normal conditions
+2023-01-12,NAMPUR,OTHER,2000.0,5790,5200.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.8,0.0,No,No,Normal conditions
+2023-01-12,SINNER,RED,1500.0,5886,4976.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-12,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3000.0,5535,5000.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,26.4,0.0,No,No,Normal conditions
+2023-01-12,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,6105,5600.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.5,0.0,No,No,Normal conditions
+2023-01-12,LASALGAON,OTHER,3200.0,6080,5651.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.5,0.0,No,No,Normal conditions
+2023-01-12,YEOLA,OTHER,1700.0,6100,4900.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.2,0.0,No,No,Normal conditions
+2023-01-12,PIMPALGAON,POLE,1400.0,4751,3700.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.1,0.0,No,No,Normal conditions
+2023-01-12,SATANA,OTHER,1000.0,5925,5280.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,25.1,0.0,No,No,Normal conditions
+2023-01-12,DEVALA,OTHER,1500.0,5800,5000.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,28.1,0.0,No,No,Normal conditions
+2023-01-12,UMRANE,OTHER,2000.0,5701,5450.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,26.8,0.0,No,No,Normal conditions
+2023-01-12,NASIK,POLE,1500.0,4500,3800.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.2,0.0,No,No,Normal conditions
+2023-01-12,KALVAN,OTHER,2000.0,6300,5300.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-12,DINDORI(VANI),OTHER,3800.0,4100,4000.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,26.9,0.0,No,No,Normal conditions
+2023-01-12,NASIK,OTHER,4500.0,6000,5301.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.2,0.0,No,No,Normal conditions
+2023-01-12,LASALGAON,RED,2000.0,5871,4500.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.5,0.0,No,No,Normal conditions
+2023-01-12,MANMAD,RED,881.0,4601,3900.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.2,0.0,No,No,Normal conditions
+2023-01-12,LASALGAON(VINCHUR),OTHER,3100.0,5555,4825.0,,0,0,0,Krishna Panchami,Purva Phalguni,12,1,2023,2,27.5,0.0,No,No,Normal conditions
+2023-01-13,LASALGAON(VINCHUR),RED,2000.0,5452,4500.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,26.2,0.0,No,No,Normal conditions
+2023-01-13,NASIK,POLE,3000.0,5100,4400.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,25.8,0.0,No,No,Normal conditions
+2023-01-13,MANMAD,RED,500.0,4700,4000.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,26.4,0.0,No,No,Normal conditions
+2023-01-13,NANDGAON,OTHER,1699.0,5300,4950.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,28.0,0.0,No,No,Normal conditions
+2023-01-13,DINDORI(VANI),OTHER,4000.0,5731,5421.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,24.9,0.0,No,No,Normal conditions
+2023-01-13,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2587.0,5589,4614.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,26.2,0.0,No,No,Normal conditions
+2023-01-13,SINNER,RED,2000.0,6003,4900.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,25.8,0.0,No,No,Normal conditions
+2023-01-13,PIMPALGAON,OTHER,3100.0,7031,5600.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,25.4,0.0,No,No,Normal conditions
+2023-01-13,NANDGAON,RED,335.0,4641,2950.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,28.0,0.0,No,No,Normal conditions
+2023-01-13,UMRANE,RED,1500.0,4801,4100.0,,0,0,0,Krishna Shashthi,Uttara Phalguni,13,1,2023,2,25.1,0.0,No,No,Normal conditions
+2023-01-14,LASALGAON,RED,2000.0,5391,4600.0,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,26.4,0.0,No,No,Normal conditions
+2023-01-14,KALVAN,OTHER,2000.0,6650,5500.0,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,26.0,0.0,No,No,Normal conditions
+2023-01-14,SHREE RAMESHWAR KRUSHI MARKET,OTHER,500.0,6001,5119.86,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,26.4,0.0,No,No,Normal conditions
+2023-01-14,YEOLA,OTHER,1700.0,6000,4800.0,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,26.2,0.0,No,No,Normal conditions
+2023-01-14,NASIK,OTHER,4800.0,6100,5501.0,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,26.6,0.0,No,No,Normal conditions
+2023-01-14,LASALGAON,OTHER,3701.0,6271,5700.0,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,26.4,0.0,No,No,Normal conditions
+2023-01-14,DEVALA,RED,1000.0,4240,3300.0,Makar Sankranti / Til-Gul,0,0,0,Krishna Saptami,Hasta,14,1,2023,2,25.8,0.0,No,No,Normal conditions
+2023-01-16,CHANDVAD,RED,1051.0,5900,3400.0,,0,0,0,Krishna Navami,Swati,16,1,2023,3,27.6,0.0,No,No,Normal conditions
+2023-01-17,CHANDVAD,OTHER,1700.0,5859,5400.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,27.9,0.0,No,No,Normal conditions
+2023-01-17,MANMAD,OTHER,2502.0,5000,2502.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.6,0.0,No,No,Normal conditions
+2023-01-17,LASALGAON(VINCHUR),OTHER,2500.0,5590,5000.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.7,0.0,No,No,Normal conditions
+2023-01-17,DEVALA,OTHER,1500.0,5410,5000.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,29.0,0.0,No,No,Normal conditions
+2023-01-17,LASALGAON(VINCHUR),RED,2000.0,5200,4200.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.7,0.0,No,No,Normal conditions
+2023-01-17,SHREE RAMESHWAR KRUSHI MARKET,RED,200.0,6601,3221.87,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.9,0.0,No,No,Normal conditions
+2023-01-17,NAMPUR,OTHER,3000.0,5740,5200.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,29.4,0.0,No,No,Normal conditions
+2023-01-17,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,5725,5250.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.6,0.0,No,No,Normal conditions
+2023-01-17,PIMPALGAON,POLE,1700.0,4500,3500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.4,0.0,No,No,Normal conditions
+2023-01-17,UMRANE,OTHER,1500.0,5700,5100.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.0,0.0,No,No,Normal conditions
+2023-01-17,SATANA,OTHER,1000.0,5810,5415.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,27.1,0.0,No,No,Normal conditions
+2023-01-17,LASALGAON(NIPHAD),OTHER,3400.0,6150,5600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.7,0.0,No,No,Normal conditions
+2023-01-17,UMRANE,OTHER,1500.0,5757,5200.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.0,0.0,No,No,Normal conditions
+2023-01-17,PIMPALGAON,POLE,1300.0,4552,3800.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.4,0.0,No,No,Normal conditions
+2023-01-17,DINDORI(VANI),OTHER,3100.0,4150,3500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.4,0.0,No,No,Normal conditions
+2023-01-17,SATANA,OTHER,2000.0,6375,5460.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,27.1,0.0,No,No,Normal conditions
+2023-01-17,LASALGAON(VINCHUR),OTHER,2500.0,5000,4501.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Vishakha,17,1,2023,3,28.7,0.0,No,No,Normal conditions
+2023-01-18,NANDGAON,RED,301.0,4551,3850.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Anuradha,18,1,2023,3,29.3,0.0,No,No,Normal conditions
+2023-01-18,LASALGAON(VINCHUR),RED,2000.0,5011,4300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Anuradha,18,1,2023,3,28.8,0.0,No,No,Normal conditions
+2023-01-18,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,6505,5500.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Anuradha,18,1,2023,3,28.9,0.0,No,No,Normal conditions
+2023-01-18,UMRANE,RED,1500.0,5700,4100.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Anuradha,18,1,2023,3,27.9,0.0,No,No,Normal conditions
+2023-01-18,DEVALA,RED,1100.0,4260,3500.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Anuradha,18,1,2023,3,28.9,0.0,No,No,Normal conditions
+2023-01-19,DEVALA,OTHER,1500.0,5500,5000.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,30.6,0.0,No,No,Normal conditions
+2023-01-19,LASALGAON,RED,1300.0,5200,4100.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,30.4,0.0,No,No,Normal conditions
+2023-01-19,LASALGAON,OTHER,4000.0,6061,5851.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,30.4,0.0,No,No,Normal conditions
+2023-01-19,KALVAN,OTHER,2400.0,6500,5501.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,29.2,0.0,No,No,Normal conditions
+2023-01-19,CHANDVAD,RED,1011.0,5600,3550.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,28.4,0.0,No,No,Normal conditions
+2023-01-19,CHANDVAD,OTHER,2800.0,5515,5200.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,28.4,0.0,No,No,Normal conditions
+2023-01-19,NANDGAON,OTHER,711.0,5550,3250.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,30.5,0.0,No,No,Normal conditions
+2023-01-19,LASALGAON(NIPHAD),OTHER,3200.0,5821,5500.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,30.4,0.0,No,No,Normal conditions
+2023-01-19,PIMPALGAON,OTHER,3200.0,6731,5600.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Jyeshtha,19,1,2023,3,30.0,0.0,No,No,Normal conditions
+2023-01-20,MANMAD,OTHER,2251.0,4492,3200.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,29.1,0.0,No,No,Normal conditions
+2023-01-20,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3650.0,5921,5350.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,28.9,0.0,No,No,Normal conditions
+2023-01-20,SINNER,RED,1000.0,5460,4350.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,29.5,0.0,No,No,Normal conditions
+2023-01-20,MANMAD,RED,500.0,4365,3500.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,29.1,0.0,No,No,Normal conditions
+2023-01-20,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,4700.0,6705,5505.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,29.9,0.0,No,No,Normal conditions
+2023-01-20,UMRANE,OTHER,2000.0,5151,4500.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,28.8,0.0,No,No,Normal conditions
+2023-01-20,DEVALA,RED,1100.0,4075,3000.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,30.1,0.0,No,No,Normal conditions
+2023-01-20,PIMPALGAON,POLE,2000.0,4500,4000.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,29.6,0.0,No,No,Normal conditions
+2023-01-20,YEOLA,OTHER,2000.0,5851,4700.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,29.6,0.0,No,No,Normal conditions
+2023-01-20,LASALGAON(VINCHUR),RED,2000.0,5052,4300.0,Maha Shivratri,0,0,0,Krishna Trayodashi,Mula,20,1,2023,3,30.1,0.0,No,No,Normal conditions
+2023-01-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3701.0,5800,5400.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,28.6,0.0,No,No,Normal conditions
+2023-01-21,NANDGAON,OTHER,1868.0,4950,4650.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,29.9,0.0,No,No,Normal conditions
+2023-01-21,LASALGAON,OTHER,3301.0,6071,5600.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,29.5,0.0,No,No,Normal conditions
+2023-01-21,DEVALA,OTHER,1700.0,5405,5000.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,30.0,0.0,No,No,Normal conditions
+2023-01-21,LASALGAON(VINCHUR),OTHER,3000.0,5590,5300.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,29.5,0.0,No,No,Normal conditions
+2023-01-21,KALVAN,OTHER,2000.0,6400,5100.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,28.2,0.0,No,No,Normal conditions
+2023-01-21,NASIK,POLE,3600.0,5500,4800.0,Magha Amavasya,1,0,0,Krishna Amavasya,Purva Ashadha,21,1,2023,3,28.7,0.0,No,No,Normal conditions
+2023-01-23,NASIK,OTHER,5000.0,6451,5900.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-23,LASALGAON(NIPHAD),OTHER,3801.0,5700,5501.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-23,SATANA,OTHER,2105.0,6360,5570.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,25.5,0.0,No,No,Normal conditions
+2023-01-23,LASALGAON,RED,1500.0,4600,3600.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-23,UMRANE,RED,1500.0,5101,4100.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,26.9,0.0,No,No,Normal conditions
+2023-01-23,NANDGAON,RED,652.0,4600,3750.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,29.3,0.0,No,No,Normal conditions
+2023-01-23,PIMPALGAON,OTHER,3300.0,7151,5700.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-23,CHANDVAD,RED,1100.0,5000,3400.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,26.6,0.0,No,No,Normal conditions
+2023-01-23,SINNER,RED,1000.0,5801,4750.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.1,0.0,No,No,Normal conditions
+2023-01-23,MANMAD,OTHER,2660.0,4521,4301.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-23,MANMAD,RED,500.0,4551,3800.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-23,CHANDVAD,OTHER,1200.0,5695,4710.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,26.6,0.0,No,No,Normal conditions
+2023-01-23,LASALGAON(NIPHAD),OTHER,3900.0,4700,4700.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-23,PIMPALGAON,OTHER,3450.0,7000,5800.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-23,CHANDVAD,RED,1101.0,4875,3100.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,26.6,0.0,No,No,Normal conditions
+2023-01-23,LASALGAON,OTHER,3000.0,6101,5500.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-23,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5000.0,6505,6000.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.5,0.0,No,No,Normal conditions
+2023-01-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3800.0,5752,5450.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-23,LASALGAON,RED,1000.0,4301,3501.0,,0,0,0,Shukla Dwitiya,Dhanishtha,23,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-24,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,5552.0,5555,5553.37,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,30.0,0.0,No,No,Normal conditions
+2023-01-24,PIMPALGAON,POLE,3100.0,4226,4000.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,28.2,0.0,No,No,Normal conditions
+2023-01-24,YEOLA,OTHER,1675.0,6101,5000.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,30.3,0.0,No,No,Normal conditions
+2023-01-24,LASALGAON(NIPHAD),OTHER,3200.0,6100,5700.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,29.9,0.0,No,No,Normal conditions
+2023-01-24,MANMAD,OTHER,2700.0,5150,4900.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,29.7,0.0,No,No,Normal conditions
+2023-01-24,MANMAD,RED,500.0,4381,3600.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,29.7,0.0,No,No,Normal conditions
+2023-01-24,NASIK,POLE,3100.0,5300,4500.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-24,LASALGAON(VINCHUR),OTHER,3000.0,6000,5550.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,29.9,0.0,No,No,Normal conditions
+2023-01-24,CHANDVAD,OTHER,2001.0,5950,4880.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,28.5,0.0,No,No,Normal conditions
+2023-01-24,LASALGAON(VINCHUR),RED,2000.0,4500,3650.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,29.9,0.0,No,No,Normal conditions
+2023-01-24,KALVAN,OTHER,3500.0,6601,5811.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,27.4,0.0,No,No,Normal conditions
+2023-01-24,NASIK,OTHER,4500.0,6251,6000.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-24,LASALGAON(NIPHAD),OTHER,3000.0,6150,5550.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,29.9,0.0,No,No,Normal conditions
+2023-01-24,DEVALA,OTHER,1500.0,6000,5700.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Shatabhisha,24,1,2023,4,31.0,0.0,No,No,Normal conditions
+2023-01-25,SINNER,RED,2000.0,6301,5950.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.0,0.3,No,No,Normal conditions
+2023-01-25,MANMAD,RED,650.0,4664,4000.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,25.7,0.5,No,No,Normal conditions
+2023-01-25,YEOLA,OTHER,2200.0,6251,5600.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,26.6,0.0,No,No,Normal conditions
+2023-01-25,NASIK,POLE,3500.0,5500,5000.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.1,0.0,No,No,Normal conditions
+2023-01-25,NASIK,OTHER,4100.0,6501,5800.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.1,0.0,No,No,Normal conditions
+2023-01-25,CHANDVAD,OTHER,1503.0,6300,6000.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,26.6,0.0,No,No,Normal conditions
+2023-01-25,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,3000.0,5725,5429.5,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,28.1,0.0,No,No,Normal conditions
+2023-01-25,PIMPALGAON,OTHER,3300.0,6800,5850.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-25,DINDORI(VANI),OTHER,4500.0,6272,5701.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-25,DEVALA,RED,300.0,4100,3650.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.0,0.8,No,No,Normal conditions
+2023-01-25,UMRANE,OTHER,2000.0,5575,4900.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,27.4,0.1,No,No,Normal conditions
+2023-01-25,LASALGAON(VINCHUR),RED,2000.0,4901,3750.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-25,LASALGAON,OTHER,3301.0,5885,5600.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-25,MANMAD,OTHER,1800.0,5500,5300.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,25.7,0.5,No,No,Normal conditions
+2023-01-25,KALVAN,OTHER,3500.0,6600,6001.0,"Maghi Ganesh Jayanti, Vasant Panchami",0,0,0,Shukla Chaturthi,Purva Bhadrapada,25,1,2023,4,26.8,0.0,No,No,Normal conditions
+2023-01-27,LASALGAON,RED,2111.0,4600,3501.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.8,0.0,No,No,Normal conditions
+2023-01-27,UMRANE,RED,1500.0,5270,4100.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-27,SHREE RAMESHWAR KRUSHI MARKET,RED,300.0,6001,2549.66,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.8,0.0,No,No,Normal conditions
+2023-01-27,CHANDVAD,RED,1200.0,5500,3600.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,28.0,0.0,No,No,Normal conditions
+2023-01-27,SATANA,OTHER,3005.0,6325,5875.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,26.5,0.0,No,No,Normal conditions
+2023-01-27,SHREE RAMESHWAR KRUSHI MARKET,OTHER,500.0,6501,5005.74,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.8,0.0,No,No,Normal conditions
+2023-01-27,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,3210.0,5609,5244.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.8,0.0,No,No,Normal conditions
+2023-01-27,PIMPALGAON,POLE,1551.0,4425,4000.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.5,0.0,No,No,Normal conditions
+2023-01-27,LASALGAON(VINCHUR),OTHER,3000.0,6300,5725.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.8,0.0,No,No,Normal conditions
+2023-01-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,4000.0,6005,5500.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.1,0.0,No,No,Normal conditions
+2023-01-27,MANMAD,OTHER,4892.0,5402,5280.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.5,0.0,No,No,Normal conditions
+2023-01-27,DINDORI(VANI),OTHER,3601.0,6460,5701.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.2,0.0,No,No,Normal conditions
+2023-01-27,LASALGAON(NIPHAD),OTHER,3000.0,6100,5800.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.8,0.0,No,No,Normal conditions
+2023-01-27,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5700.0,7000,6005.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,30.0,0.1,No,No,Normal conditions
+2023-01-27,UMRANE,RED,1500.0,6000,4500.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-27,UMRANE,OTHER,2000.0,6100,5700.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,28.6,0.0,No,No,Normal conditions
+2023-01-27,PIMPALGAON,POLE,2200.0,4801,4100.0,,0,0,0,Shukla Shashthi,Revati,27,1,2023,4,29.5,0.0,No,No,Normal conditions
+2023-01-28,SATANA,OTHER,2300.0,6900,6005.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,27.5,0.0,No,No,Normal conditions
+2023-01-28,MANMAD,RED,900.0,4555,4000.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,29.4,0.0,No,No,Normal conditions
+2023-01-28,LASALGAON,OTHER,3000.0,6000,5800.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,30.1,0.0,No,No,Normal conditions
+2023-01-28,KALVAN,OTHER,3500.0,6675,5800.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,29.4,0.0,No,No,Normal conditions
+2023-01-28,PIMPALGAON BASWANT(SAYKHEDA),OTHER,4000.0,6001,5700.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,29.9,0.0,No,No,Normal conditions
+2023-01-28,CHANDVAD,OTHER,2000.0,6001,5680.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,28.3,0.0,No,No,Normal conditions
+2023-01-28,CHANDVAD,RED,1201.0,4999,3500.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,28.3,0.0,No,No,Normal conditions
+2023-01-28,DEVALA,OTHER,1700.0,6100,5800.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,30.8,0.0,No,No,Normal conditions
+2023-01-28,YEOLA,OTHER,2500.0,6391,5700.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,29.7,0.0,No,No,Normal conditions
+2023-01-28,SINNER,RED,2000.0,6101,5800.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,29.5,0.0,No,No,Normal conditions
+2023-01-28,LASALGAON(VINCHUR),OTHER,3000.0,5900,5600.0,,0,0,0,Shukla Saptami,Ashwini,28,1,2023,4,30.1,0.0,No,No,Normal conditions
+2023-01-30,NANDGAON,OTHER,1900.0,5826,5350.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,29.5,0.2,No,No,Normal conditions
+2023-01-30,LASALGAON,RED,2001.0,4800,4151.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.5,0.0,No,No,Normal conditions
+2023-01-30,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2647.0,5678,5125.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.5,0.0,No,No,Normal conditions
+2023-01-30,DEVALA,RED,500.0,4005,3600.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,29.1,0.1,No,No,Normal conditions
+2023-01-30,PIMPALGAON,OTHER,3200.0,6750,5800.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,27.6,0.0,No,No,Normal conditions
+2023-01-30,LASALGAON(VINCHUR),RED,2500.0,4360,4000.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.5,0.0,No,No,Normal conditions
+2023-01-30,NANDGAON,RED,100.0,5051,3050.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,29.5,0.2,No,No,Normal conditions
+2023-01-30,LASALGAON(VINCHUR),OTHER,3000.0,5850,5501.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.5,0.0,No,No,Normal conditions
+2023-01-30,LASALGAON,RED,1700.0,4401,4000.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.5,0.0,No,No,Normal conditions
+2023-01-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3500.0,6076,5600.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.1,0.3,No,No,Normal conditions
+2023-01-30,MANMAD,OTHER,3125.0,5075,4800.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.0,0.1,No,No,Normal conditions
+2023-01-30,UMRANE,OTHER,2000.0,5858,5400.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,27.4,0.3,No,No,Normal conditions
+2023-01-30,NAMPUR,OTHER,2000.0,6065,5500.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.0,0.6,No,No,Normal conditions
+2023-01-30,NANDGAON,RED,350.0,4299,3650.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,29.5,0.2,No,No,Normal conditions
+2023-01-30,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,OTHER,5300.0,6205,5900.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.9,0.2,No,No,Normal conditions
+2023-01-30,LASALGAON,OTHER,3951.0,5656,5400.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.5,0.0,No,No,Normal conditions
+2023-01-30,SINNER,RED,2000.0,6155,6000.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,28.1,0.4,No,No,Normal conditions
+2023-01-30,PIMPALGAON,OTHER,3100.0,6195,5550.0,,0,0,0,Shukla Navami,Krittika,30,1,2023,5,27.6,0.0,No,No,Normal conditions
+2023-01-31,NANDGAON,OTHER,1801.0,5799,5450.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,27.5,0.1,No,No,Normal conditions
+2023-01-31,CHANDVAD,OTHER,2151.0,5700,5300.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,25.7,0.3,No,No,Normal conditions
+2023-01-31,MANMAD,RED,700.0,4500,3500.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,26.4,0.0,No,No,Normal conditions
+2023-01-31,CHANDVAD,RED,1001.0,4511,3300.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,25.7,0.3,No,No,Normal conditions
+2023-01-31,PIMPALGAON,POLE,1600.0,4725,3500.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,27.6,0.0,No,No,Normal conditions
+2023-01-31,LASALGAON(NIPHAD),OTHER,3000.0,6501,5600.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,27.9,0.0,No,No,Normal conditions
+2023-01-31,UMRANE,RED,1500.0,5151,4500.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,26.1,0.5,No,No,Normal conditions
+2023-01-31,LASALGAON(VINCHUR),RED,2000.0,4500,4000.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,27.9,0.0,No,No,Normal conditions
+2023-01-31,DINDORI(VANI),OTHER,3700.0,4901,4101.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,27.7,0.0,No,No,Normal conditions
+2023-01-31,MANMAD,RED,1000.0,4500,3500.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,26.4,0.0,No,No,Normal conditions
+2023-01-31,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3701.0,5696,5000.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,28.0,0.0,No,No,Normal conditions
+2023-01-31,CHANDVAD,OTHER,1000.0,5500,5230.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,25.7,0.3,No,No,Normal conditions
+2023-01-31,NANDGAON,OTHER,1770.0,5060,4850.0,Paush Putrada Ekadashi,0,1,0,Shukla Dashami,Rohini,31,1,2023,5,27.5,0.1,No,No,Normal conditions
+2023-02-02,PIMPALGAON,OTHER,3200.0,6052,5251.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.2,0.0,No,No,Normal conditions
+2023-02-02,MANMAD,OTHER,2350.0,4642,4476.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,27.0,0.0,No,No,Normal conditions
+2023-02-02,NANDGAON,RED,1300.0,4102,4050.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.2,0.0,No,No,Normal conditions
+2023-02-02,NAMPUR,OTHER,2000.0,5795,5400.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,27.3,0.0,No,No,Normal conditions
+2023-02-02,SINNER,RED,2000.0,5611,5200.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.0,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON,RED,2452.0,4511,4000.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,CHANDVAD,RED,1041.0,4570,3310.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,26.2,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON(NIPHAD),OTHER,2601.0,5550,5200.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON(VINCHUR),OTHER,2500.0,5701,5400.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON,OTHER,3525.0,5520,5351.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON,RED,1400.0,3800,3321.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,PIMPALGAON,OTHER,2600.0,5460,4600.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.2,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON(VINCHUR),OTHER,2500.0,5040,4711.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON,OTHER,2751.0,5300,4770.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,LASALGAON(VINCHUR),OTHER,2000.0,4501,4350.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,28.9,0.0,No,No,Normal conditions
+2023-02-02,NASIK,POLE,2700.0,4500,4000.0,,0,0,0,Shukla Dwadashi,Ardra,2,2,2023,5,29.0,0.0,No,No,Normal conditions
+2023-02-03,NASIK,OTHER,4100.0,5151,4900.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,NASIK,OTHER,3300.0,5000,4250.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,NASIK,POLE,1500.0,3800,3100.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,NASIK,POLE,1600.0,4100,3400.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,NASIK,OTHER,3600.0,5011,4550.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,NASIK,OTHER,3500.0,5001,4500.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,KALVAN,OTHER,2000.0,5745,4651.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,27.5,0.0,No,No,Normal conditions
+2023-02-03,NASIK,POLE,1500.0,4150,3450.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,LASALGAON(NIPHAD),OTHER,2300.0,4600,4451.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,LASALGAON(VINCHUR),OTHER,2000.0,4600,4350.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,SATANA,OTHER,1100.0,5100,4425.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,26.1,0.0,No,No,Normal conditions
+2023-02-03,NASIK,OTHER,3800.0,5000,4650.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.1,0.0,No,No,Normal conditions
+2023-02-03,MANMAD,RED,500.0,3400,2700.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,27.5,0.0,No,No,Normal conditions
+2023-02-03,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4000.0,5100,4455.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,29.0,0.0,No,No,Normal conditions
+2023-02-03,SATANA,OTHER,1100.0,5000,4385.0,,0,0,0,Shukla Trayodashi,Punarvasu,3,2,2023,5,26.1,0.0,No,No,Normal conditions
+2023-02-04,LASALGAON(NIPHAD),OTHER,2300.0,5500,4400.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,29.8,0.0,No,No,Normal conditions
+2023-02-04,CHANDVAD,OTHER,1501.0,4900,4250.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,27.1,0.0,No,No,Normal conditions
+2023-02-04,SINNER,OTHER,1500.0,4400,4250.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,28.8,0.0,No,No,Normal conditions
+2023-02-04,NASIK,POLE,2200.0,4200,3750.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,29.8,0.0,No,No,Normal conditions
+2023-02-04,LASALGAON(VINCHUR),OTHER,2000.0,4451,4300.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,29.8,0.0,No,No,Normal conditions
+2023-02-04,PIMPALGAON,OTHER,2500.0,5000,4500.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,29.5,0.0,No,No,Normal conditions
+2023-02-04,NANDGAON,OTHER,200.0,4400,3950.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,29.4,0.0,No,No,Normal conditions
+2023-02-04,CHANDVAD,RED,500.0,3250,2250.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,27.1,0.0,No,No,Normal conditions
+2023-02-04,MANMAD,OTHER,1700.0,4451,4000.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,28.0,0.0,No,No,Normal conditions
+2023-02-04,KALVAN,OTHER,1800.0,5775,4300.0,"Magha Purnima / Maghi, Maghi Purnima",0,0,1,Shukla Chaturdashi,Punarvasu,4,2,2023,5,28.0,0.0,No,No,Normal conditions
+2023-02-06,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4300.0,5300,4600.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.9,0.0,No,No,Normal conditions
+2023-02-06,LASALGAON,OTHER,3900.0,4800,4400.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,31.3,0.0,No,No,Normal conditions
+2023-02-06,MANMAD,OTHER,1760.0,4425,4200.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,29.9,0.0,No,No,Normal conditions
+2023-02-06,CHANDVAD,RED,625.0,3401,3401.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,29.5,0.0,No,No,Normal conditions
+2023-02-06,YEOLA,OTHER,1800.0,4851,4100.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,31.1,0.0,No,No,Normal conditions
+2023-02-06,LASALGAON(VINCHUR),OTHER,2000.0,4616,4400.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,31.3,0.0,No,No,Normal conditions
+2023-02-06,CHANDVAD,OTHER,2301.0,4940,4100.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,29.5,0.0,No,No,Normal conditions
+2023-02-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2300.0,4800,4360.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.0,0.0,No,No,Normal conditions
+2023-02-06,PIMPALGAON,OTHER,2500.0,4952,4400.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.6,0.0,No,No,Normal conditions
+2023-02-06,KALVAN,OTHER,2500.0,5600,4600.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,29.4,0.0,No,No,Normal conditions
+2023-02-06,NASIK,POLE,2500.0,4800,4100.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.4,0.0,No,No,Normal conditions
+2023-02-06,NASIK,OTHER,4200.0,5150,4850.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.4,0.0,No,No,Normal conditions
+2023-02-06,NAMPUR,OTHER,1000.0,4800,4400.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.7,0.0,No,No,Normal conditions
+2023-02-06,DINDORI(VANI),OTHER,3801.0,4871,4225.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,30.3,0.0,No,No,Normal conditions
+2023-02-06,MANMAD,RED,700.0,3300,2771.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,29.9,0.0,No,No,Normal conditions
+2023-02-06,LASALGAON,RED,901.0,3716,3501.0,,0,0,0,Krishna Pratipada,Ashlesha,6,2,2023,6,31.3,0.0,No,No,Normal conditions
+2023-02-07,NASIK,POLE,2200.0,4200,3700.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,30.0,0.0,No,No,Normal conditions
+2023-02-07,UMRANE,OTHER,1500.0,4715,4100.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,28.9,0.0,No,No,Normal conditions
+2023-02-07,DEVALA,OTHER,1600.0,4900,4550.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,28.8,0.0,No,No,Normal conditions
+2023-02-07,KALVAN,OTHER,2100.0,5300,4201.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,28.4,0.0,No,No,Normal conditions
+2023-02-07,SATANA,OTHER,860.0,4860,4405.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,27.5,0.0,No,No,Normal conditions
+2023-02-07,SINNER,OTHER,1500.0,4751,4600.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,29.0,0.0,No,No,Normal conditions
+2023-02-07,MANMAD,OTHER,1710.0,4655,4331.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,27.8,0.0,No,No,Normal conditions
+2023-02-07,PIMPALGAON,OTHER,2700.0,5151,4450.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,29.8,0.0,No,No,Normal conditions
+2023-02-07,YEOLA,OTHER,1100.0,4772,4200.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,29.4,0.0,No,No,Normal conditions
+2023-02-07,LASALGAON(NIPHAD),OTHER,2300.0,4600,4400.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,30.2,0.0,No,No,Normal conditions
+2023-02-07,CHANDVAD,RED,501.0,2601,2000.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,27.8,0.0,No,No,Normal conditions
+2023-02-07,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2847.0,4605,4188.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,30.2,0.0,No,No,Normal conditions
+2023-02-07,NASIK,OTHER,4000.0,5151,4750.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,30.0,0.0,No,No,Normal conditions
+2023-02-07,NAMPUR,OTHER,2000.0,4770,4300.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,29.3,0.0,No,No,Normal conditions
+2023-02-07,LASALGAON(VINCHUR),OTHER,2000.0,4531,4350.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,30.2,0.0,No,No,Normal conditions
+2023-02-07,DINDORI(VANI),OTHER,3901.0,5022,4751.0,,0,0,0,Krishna Dwitiya,Magha,7,2,2023,6,29.3,0.0,No,No,Normal conditions
+2023-02-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4801,4500.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.0,0.0,No,No,Normal conditions
+2023-02-08,MANMAD,RED,600.0,3160,2500.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,29.0,0.0,No,No,Normal conditions
+2023-02-08,CHANDVAD,OTHER,1200.0,4926,4380.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,29.0,0.0,No,No,Normal conditions
+2023-02-08,LASALGAON,OTHER,3701.0,4841,4451.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,LASALGAON,RED,1476.0,3111,2352.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,LASALGAON(VINCHUR),OTHER,2000.0,5001,4500.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,LASALGAON(NIPHAD),OTHER,2500.0,4750,4600.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,KALVAN,OTHER,2000.0,5200,4250.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,30.0,0.0,No,No,Normal conditions
+2023-02-08,CHANDVAD,OTHER,2670.0,4951,4400.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,29.0,0.0,No,No,Normal conditions
+2023-02-08,MANMAD,RED,870.0,3460,2200.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,29.0,0.0,No,No,Normal conditions
+2023-02-08,LASALGAON,OTHER,3800.0,4871,4600.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,DEVALA,OTHER,1500.0,5000,4600.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,29.5,0.0,No,No,Normal conditions
+2023-02-08,NANDGAON,OTHER,2300.0,4721,4350.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,30.1,0.0,No,No,Normal conditions
+2023-02-08,LASALGAON,RED,1555.0,3900,3451.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,PIMPALGAON,OTHER,2000.0,5162,4600.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-08,UMRANE,OTHER,1500.0,4816,4200.0,,0,0,0,Krishna Tritiya,Purva Phalguni,8,2,2023,6,30.2,0.0,No,No,Normal conditions
+2023-02-09,SINNER,OTHER,1500.0,4873,4700.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.2,0.0,No,No,Normal conditions
+2023-02-09,SATANA,OTHER,1205.0,5025,4515.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,31.0,0.0,No,No,Normal conditions
+2023-02-09,DINDORI(VANI),OTHER,4000.0,5152,4751.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.0,0.0,No,No,Normal conditions
+2023-02-09,NAMPUR,OTHER,2000.0,4960,4300.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.6,0.0,No,No,Normal conditions
+2023-02-09,NASIK,POLE,1600.0,3851,3300.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,33.0,0.0,No,No,Normal conditions
+2023-02-09,YEOLA,OTHER,1500.0,4700,4200.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.1,0.0,No,No,Normal conditions
+2023-02-09,MANMAD,OTHER,2215.0,4500,4331.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,31.5,0.0,No,No,Normal conditions
+2023-02-09,NASIK,OTHER,3600.0,5000,4475.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,33.0,0.0,No,No,Normal conditions
+2023-02-09,CHANDVAD,RED,501.0,2601,2000.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,31.0,0.0,No,No,Normal conditions
+2023-02-09,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3000.0,4925,4600.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.2,0.0,No,No,Normal conditions
+2023-02-09,DEVALA,OTHER,1500.0,4905,4600.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.3,0.0,No,No,Normal conditions
+2023-02-09,LASALGAON,RED,2000.0,3031,2102.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-09,DINDORI(VANI),OTHER,4400.0,5005,4651.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.0,0.0,No,No,Normal conditions
+2023-02-09,LASALGAON(VINCHUR),OTHER,2500.0,4721,4550.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-09,PIMPALGAON,OTHER,2750.0,5151,4600.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.2,0.0,No,No,Normal conditions
+2023-02-09,LASALGAON,OTHER,3800.0,4851,4600.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-09,KALVAN,OTHER,1900.0,5000,4201.0,,0,0,0,Krishna Chaturthi,Uttara Phalguni,9,2,2023,6,31.8,0.0,No,No,Normal conditions
+2023-02-10,MANMAD,OTHER,2700.0,4751,4400.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-10,LASALGAON(NIPHAD),OTHER,2300.0,4700,4600.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.8,0.0,No,No,Normal conditions
+2023-02-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,3000.0,4900,4650.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,32.9,0.0,No,No,Normal conditions
+2023-02-10,CHANDVAD,OTHER,2500.0,4900,4470.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,32.2,0.0,No,No,Normal conditions
+2023-02-10,MANMAD,RED,900.0,3821,3200.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-10,CHANDVAD,RED,1100.0,3000,2500.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,32.2,0.0,No,No,Normal conditions
+2023-02-10,NASIK,OTHER,3850.0,5051,4500.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.8,0.0,No,No,Normal conditions
+2023-02-10,SINNER,OTHER,1500.0,4828,4700.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,32.7,0.0,No,No,Normal conditions
+2023-02-10,YEOLA,OTHER,1900.0,5000,4600.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.0,0.0,No,No,Normal conditions
+2023-02-10,NASIK,POLE,1800.0,4050,3400.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.8,0.0,No,No,Normal conditions
+2023-02-10,SATANA,OTHER,1100.0,5090,4505.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,30.9,0.0,No,No,Normal conditions
+2023-02-10,NANDGAON,OTHER,1500.0,4865,4450.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,34.1,0.0,No,No,Normal conditions
+2023-02-10,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2104.0,4677,4214.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.8,0.0,No,No,Normal conditions
+2023-02-10,NAMPUR,OTHER,2000.0,5005,4300.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.7,0.0,No,No,Normal conditions
+2023-02-10,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4405.0,5500,4925.0,,0,0,0,Krishna Chaturthi,Hasta,10,2,2023,6,33.9,0.0,No,No,Normal conditions
+2023-02-11,UMRANE,OTHER,1500.0,4775,4100.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,32.4,0.0,No,No,Normal conditions
+2023-02-11,SINNER,OTHER,1500.0,4765,4450.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,32.3,0.0,No,No,Normal conditions
+2023-02-11,NASIK,OTHER,3800.0,5001,4450.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-11,NASIK,POLE,2000.0,4200,3500.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,32.8,0.0,No,No,Normal conditions
+2023-02-11,CHANDVAD,OTHER,3200.0,4949,4630.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,31.9,0.0,No,No,Normal conditions
+2023-02-11,LASALGAON(NIPHAD),OTHER,2500.0,4501,4351.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,33.7,0.0,No,No,Normal conditions
+2023-02-11,DEVALA,OTHER,1700.0,5000,4650.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,33.8,0.0,No,No,Normal conditions
+2023-02-11,KALVAN,OTHER,2000.0,5400,4150.0,,0,0,0,Krishna Panchami,Chitra,11,2,2023,6,32.0,0.0,No,No,Normal conditions
+2023-02-13,MANMAD,OTHER,2026.0,4445,4300.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,29.1,0.0,No,No,Normal conditions
+2023-02-13,LASALGAON(VINCHUR),OTHER,2000.0,4700,4500.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.0,0.0,No,No,Normal conditions
+2023-02-13,UMRANE,OTHER,1500.0,4891,4300.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,29.2,0.0,No,No,Normal conditions
+2023-02-13,LASALGAON,RED,1520.0,2600,2525.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.0,0.0,No,No,Normal conditions
+2023-02-13,NANDGAON,OTHER,600.0,4760,4350.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,30.1,0.0,No,No,Normal conditions
+2023-02-13,SATANA,OTHER,1005.0,4990,4465.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,28.1,0.0,No,No,Normal conditions
+2023-02-13,PIMPALGAON,OTHER,2700.0,5230,4500.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,30.9,0.0,No,No,Normal conditions
+2023-02-13,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4405.0,5505,4815.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.5,0.0,No,No,Normal conditions
+2023-02-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4800,4300.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.0,0.0,No,No,Normal conditions
+2023-02-13,LASALGAON,OTHER,3980.0,4871,4550.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.0,0.0,No,No,Normal conditions
+2023-02-13,MANMAD,RED,2350.0,3400,3136.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,29.1,0.0,No,No,Normal conditions
+2023-02-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4680,4250.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.0,0.0,No,No,Normal conditions
+2023-02-13,LASALGAON,RED,1400.0,2976,2701.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.0,0.0,No,No,Normal conditions
+2023-02-13,UMRANE,OTHER,1000.0,4675,3950.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,29.2,0.0,No,No,Normal conditions
+2023-02-13,NASIK,POLE,1100.0,3600,3200.0,,0,0,0,Krishna Saptami,Vishakha,13,2,2023,7,31.4,0.0,No,No,Normal conditions
+2023-02-14,SINNER,OTHER,1500.0,4519,4350.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.7,0.0,No,No,Normal conditions
+2023-02-14,YEOLA,OTHER,1300.0,4501,4001.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.2,0.0,No,No,Normal conditions
+2023-02-14,SATANA,OTHER,1050.0,5010,4365.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,28.8,0.0,No,No,Normal conditions
+2023-02-14,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4100.0,5500,4600.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.5,0.0,No,No,Normal conditions
+2023-02-14,CHANDVAD,OTHER,1200.0,4751,4330.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,29.1,0.0,No,No,Normal conditions
+2023-02-14,LASALGAON(VINCHUR),OTHER,2000.0,4501,4100.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.6,0.0,No,No,Normal conditions
+2023-02-14,DINDORI(VANI),OTHER,3500.0,4523,4250.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.3,0.0,No,No,Normal conditions
+2023-02-14,MANMAD,RED,1769.0,3240,2621.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.0,0.0,No,No,Normal conditions
+2023-02-14,DEVALA,OTHER,1600.0,4550,4350.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.3,0.0,No,No,Normal conditions
+2023-02-14,NAMPUR,OTHER,2000.0,4905,4500.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.8,0.0,No,No,Normal conditions
+2023-02-14,NANDGAON,OTHER,551.0,4455,4150.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.8,0.0,No,No,Normal conditions
+2023-02-14,NASIK,OTHER,3000.0,4500,4250.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.8,0.0,No,No,Normal conditions
+2023-02-14,MANMAD,OTHER,2250.0,4300,4000.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.0,0.0,No,No,Normal conditions
+2023-02-14,LASALGAON(NIPHAD),OTHER,2200.0,5500,4251.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.6,0.0,No,No,Normal conditions
+2023-02-14,KALVAN,OTHER,2000.0,5100,4150.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,30.5,0.0,No,No,Normal conditions
+2023-02-14,PIMPALGAON,OTHER,2500.0,5386,4351.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.5,0.0,No,No,Normal conditions
+2023-02-14,LASALGAON,OTHER,3400.0,4433,4250.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.6,0.0,No,No,Normal conditions
+2023-02-14,LASALGAON(NIPHAD),OTHER,2300.0,4500,4300.0,,0,0,0,Krishna Ashtami,Anuradha,14,2,2023,7,31.6,0.0,No,No,Normal conditions
+2023-02-15,CHANDVAD,OTHER,1000.0,4401,4050.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,30.6,0.0,No,No,Normal conditions
+2023-02-15,MANMAD,OTHER,1913.0,3701,3492.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,31.4,0.0,No,No,Normal conditions
+2023-02-15,KALVAN,OTHER,1000.0,5005,4050.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,31.7,0.0,No,No,Normal conditions
+2023-02-15,LASALGAON,OTHER,3100.0,4457,4000.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,32.8,0.0,No,No,Normal conditions
+2023-02-15,LASALGAON(NIPHAD),OTHER,2200.0,4300,4051.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,32.8,0.0,No,No,Normal conditions
+2023-02-15,MANMAD,RED,2501.0,2701,2700.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,31.4,0.0,No,No,Normal conditions
+2023-02-15,NASIK,OTHER,3200.0,4500,4200.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,33.2,0.0,No,No,Normal conditions
+2023-02-15,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,3900.0,5100,4300.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,33.5,0.0,No,No,Normal conditions
+2023-02-15,YEOLA,OTHER,1500.0,4535,3850.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,32.7,0.0,No,No,Normal conditions
+2023-02-15,PIMPALGAON,OTHER,2501.0,5252,4300.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,32.8,0.0,No,No,Normal conditions
+2023-02-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4410,4200.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,32.9,0.0,No,No,Normal conditions
+2023-02-15,DINDORI(VANI),OTHER,3800.0,4655,4335.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,33.0,0.0,No,No,Normal conditions
+2023-02-15,NASIK,POLE,1000.0,3900,3400.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,33.2,0.0,No,No,Normal conditions
+2023-02-15,LASALGAON(VINCHUR),OTHER,2000.0,4290,4000.0,,0,0,0,Krishna Navami,Jyeshtha,15,2,2023,7,32.8,0.0,No,No,Normal conditions
+2023-02-16,LASALGAON,RED,2001.0,3140,2401.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.5,0.0,No,No,Normal conditions
+2023-02-16,KALVAN,OTHER,2100.0,4700,4000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,32.6,0.0,No,No,Normal conditions
+2023-02-16,CHANDVAD,OTHER,2100.0,4550,4250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,31.6,0.0,No,No,Normal conditions
+2023-02-16,MANMAD,OTHER,1799.0,4030,3600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,32.3,0.0,No,No,Normal conditions
+2023-02-16,NASIK,POLE,1100.0,3650,3200.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.8,0.0,No,No,Normal conditions
+2023-02-16,PIMPALGAON,OTHER,2500.0,5156,4300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.5,0.0,No,No,Normal conditions
+2023-02-16,SHREE RAMESHWAR KRUSHI MARKET,OTHER,500.0,4800,3956.38,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.8,0.0,No,No,Normal conditions
+2023-02-16,NASIK,OTHER,3600.0,4511,4150.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.8,0.0,No,No,Normal conditions
+2023-02-16,UMRANE,OTHER,1000.0,4451,3900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,32.2,0.0,No,No,Normal conditions
+2023-02-16,NANDGAON,OTHER,500.0,4250,3750.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.0,0.0,No,No,Normal conditions
+2023-02-16,NAMPUR,OTHER,1600.0,4500,4000.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.2,0.0,No,No,Normal conditions
+2023-02-16,YEOLA,OTHER,1700.0,4580,3900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.2,0.0,No,No,Normal conditions
+2023-02-16,SATANA,OTHER,1000.0,5005,4225.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,31.5,0.0,No,No,Normal conditions
+2023-02-16,SINNER,OTHER,1000.0,4300,4175.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,32.3,0.0,No,No,Normal conditions
+2023-02-16,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2400.0,4500,4180.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Mula,16,2,2023,7,33.4,0.0,No,No,Normal conditions
+2023-02-17,SHREE RAMESHWAR KRUSHI MARKET,RED,600.0,3535,2425.26,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,34.0,0.0,No,No,Normal conditions
+2023-02-17,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2214.0,4267,3874.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.7,0.0,No,No,Normal conditions
+2023-02-17,MANMAD,RED,1213.0,1213,1213.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,32.2,0.0,No,No,Normal conditions
+2023-02-17,LASALGAON,OTHER,3400.0,4400,3975.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.7,0.0,No,No,Normal conditions
+2023-02-17,LASALGAON,RED,2323.0,2951,2591.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.7,0.0,No,No,Normal conditions
+2023-02-17,LASALGAON(NIPHAD),OTHER,2400.0,4351,4000.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.7,0.0,No,No,Normal conditions
+2023-02-17,DINDORI(VANI),OTHER,3800.0,4546,4131.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.9,0.0,No,No,Normal conditions
+2023-02-17,DEVALA,OTHER,1400.0,4350,4200.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.2,0.0,No,No,Normal conditions
+2023-02-17,LASALGAON(VINCHUR),OTHER,2000.0,4415,4000.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.7,0.0,No,No,Normal conditions
+2023-02-17,PIMPALGAON,OTHER,2500.0,4926,4200.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.8,0.0,No,No,Normal conditions
+2023-02-17,NANDGAON,OTHER,901.0,4185,3750.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,33.0,0.0,No,No,Normal conditions
+2023-02-17,KALVAN,OTHER,1400.0,5030,4001.0,Maha Shivratri,0,0,0,Krishna Dwadashi,Purva Ashadha,17,2,2023,7,32.8,0.0,No,No,Normal conditions
+2023-02-18,MANMAD,RED,1400.0,2223,1400.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Uttara Ashadha,18,2,2023,7,31.9,0.0,No,No,Normal conditions
+2023-02-18,NASIK,POLE,1300.0,3800,3500.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Uttara Ashadha,18,2,2023,7,33.0,0.0,No,No,Normal conditions
+2023-02-18,YEOLA,OTHER,1001.0,4490,3700.0,"Maha Shivratri, Maha Shivaratri",0,0,0,Krishna Trayodashi,Uttara Ashadha,18,2,2023,7,33.1,0.0,No,No,Normal conditions
+2023-02-20,MANMAD,OTHER,2150.0,3999,3600.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,33.5,0.0,No,No,Normal conditions
+2023-02-20,UMRANE,OTHER,1000.0,4400,3800.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,33.5,0.0,No,No,Normal conditions
+2023-02-20,NASIK,OTHER,3400.0,4600,4250.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-20,DINDORI(VANI),OTHER,3501.0,4690,4211.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,34.0,0.0,No,No,Normal conditions
+2023-02-20,NAMPUR,OTHER,1500.0,4505,3000.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-20,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2465.0,4208,3652.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,34.7,0.0,No,No,Normal conditions
+2023-02-20,SINNER,OTHER,1000.0,4250,4150.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,34.0,0.0,No,No,Normal conditions
+2023-02-20,SATANA,OTHER,1005.0,4925,4180.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,33.0,0.0,No,No,Normal conditions
+2023-02-20,LASALGAON(VINCHUR),OTHER,2000.0,4451,4050.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,34.7,0.0,No,No,Normal conditions
+2023-02-20,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2411.0,4500,4175.0,Phalguna Amavasya,1,0,0,Krishna Amavasya,Dhanishtha,20,2,2023,8,33.7,0.0,No,No,Normal conditions
+2023-02-21,LASALGAON(NIPHAD),OTHER,2300.0,4511,4151.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,DEVALA,OTHER,1500.0,4500,4250.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-02-21,LASALGAON,RED,1500.0,3253,3000.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,LASALGAON,OTHER,3300.0,4391,4000.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,CHANDVAD,OTHER,1300.0,4576,3800.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-21,NASIK,OTHER,3500.0,4450,4100.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-21,UMRANE,OTHER,1000.0,4371,3750.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-21,LASALGAON,OTHER,3200.0,4500,4000.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,LASALGAON(VINCHUR),OTHER,2000.0,4401,4050.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,SATANA,OTHER,1205.0,4900,4280.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,32.3,0.0,No,No,Normal conditions
+2023-02-21,NAMPUR,OTHER,1000.0,4405,4000.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,LASALGAON(NIPHAD),OTHER,2300.0,4501,4131.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.0,0.0,No,No,Normal conditions
+2023-02-21,DEVALA,OTHER,1700.0,4400,4150.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-02-21,NASIK,POLE,1050.0,3600,3100.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4401,4100.0,,0,0,0,Shukla Pratipada,Shatabhisha,21,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-22,LASALGAON,RED,1951.0,3690,3581.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-22,SINNER,OTHER,1000.0,4391,4220.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.5,0.0,No,No,Normal conditions
+2023-02-22,NANDGAON,OTHER,880.0,3962,3650.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-22,MANMAD,RED,1100.0,2751,2551.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-22,DINDORI(VANI),OTHER,3500.0,4740,4391.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-22,YEOLA,OTHER,1400.0,4326,3700.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.3,0.0,No,No,Normal conditions
+2023-02-22,PIMPALGAON,OTHER,2000.0,4799,4150.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-22,CHANDVAD,OTHER,1500.0,4450,3980.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.5,0.0,No,No,Normal conditions
+2023-02-22,KALVAN,OTHER,1600.0,5000,4001.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.6,0.0,No,No,Normal conditions
+2023-02-22,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,3800.0,5105,4200.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.6,0.0,No,No,Normal conditions
+2023-02-22,MANMAD,OTHER,1950.0,4171,3700.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-22,LASALGAON,RED,1400.0,3351,3000.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-22,NASIK,POLE,1100.0,3700,3300.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.2,0.0,No,No,Normal conditions
+2023-02-22,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4000.0,5100,4200.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.6,0.0,No,No,Normal conditions
+2023-02-22,LASALGAON(NIPHAD),OTHER,2400.0,4400,4051.0,Maghi Ganesh Jayanti,0,0,0,Shukla Tritiya,Uttara Bhadrapada,22,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-23,DEVALA,OTHER,1600.0,4501,4150.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,34.3,0.0,No,No,Normal conditions
+2023-02-23,MANMAD,OTHER,1942.0,4261,3920.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.0,0.0,No,No,Normal conditions
+2023-02-23,SATANA,OTHER,1500.0,5050,4405.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,32.2,0.0,No,No,Normal conditions
+2023-02-23,NASIK,OTHER,3600.0,4550,4250.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,34.0,0.0,No,No,Normal conditions
+2023-02-23,PIMPALGAON,OTHER,2000.0,4730,4100.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.6,0.0,No,No,Normal conditions
+2023-02-23,DINDORI(VANI),OTHER,3200.0,4832,4516.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.5,0.0,No,No,Normal conditions
+2023-02-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2400.0,4301,4000.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.3,0.0,No,No,Normal conditions
+2023-02-23,NAMPUR,OTHER,1000.0,4510,4000.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,34.3,0.0,No,No,Normal conditions
+2023-02-23,SINNER,OTHER,1000.0,4169,3950.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.5,0.0,No,No,Normal conditions
+2023-02-23,UMRANE,OTHER,1500.0,4500,3800.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.3,0.0,No,No,Normal conditions
+2023-02-23,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2645.0,4213,3817.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-23,KALVAN,OTHER,1800.0,5150,4050.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.4,0.0,No,No,Normal conditions
+2023-02-23,CHANDVAD,OTHER,2000.0,4450,4030.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.0,0.0,No,No,Normal conditions
+2023-02-23,MANMAD,RED,951.0,2751,1301.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,33.0,0.0,No,No,Normal conditions
+2023-02-23,NANDGAON,OTHER,700.0,4126,3750.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,34.3,0.0,No,No,Normal conditions
+2023-02-23,LASALGAON(VINCHUR),OTHER,2000.0,4390,4000.0,"Maghi Ganesh Jayanti, Rang Panchami",0,0,0,Shukla Chaturthi,Revati,23,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-24,LASALGAON,OTHER,3052.0,4500,4000.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-24,MANMAD,OTHER,2023.0,4260,3900.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,32.7,0.0,No,No,Normal conditions
+2023-02-24,LASALGAON(VINCHUR),OTHER,2000.0,4451,4250.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-24,PIMPALGAON,OTHER,2650.0,4700,4350.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,33.7,0.0,No,No,Normal conditions
+2023-02-24,NASIK,POLE,1300.0,3600,3200.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,33.7,0.0,No,No,Normal conditions
+2023-02-24,CHANDVAD,OTHER,1700.0,4699,4230.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,32.5,0.0,No,No,Normal conditions
+2023-02-24,LASALGAON(NIPHAD),OTHER,2200.0,4501,4350.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-24,DEVALA,OTHER,1350.0,4465,4250.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,34.0,0.0,No,No,Normal conditions
+2023-02-24,NASIK,OTHER,3800.0,4650,4200.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,33.7,0.0,No,No,Normal conditions
+2023-02-24,SATANA,OTHER,900.0,4830,4285.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,32.2,0.0,No,No,Normal conditions
+2023-02-24,YEOLA,OTHER,1000.0,4421,3800.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,34.2,0.0,No,No,Normal conditions
+2023-02-24,NANDGAON,OTHER,661.0,4155,3850.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,33.8,0.0,No,No,Normal conditions
+2023-02-24,DINDORI(VANI),OTHER,3191.0,4752,4290.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,33.4,0.0,No,No,Normal conditions
+2023-02-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4459,4125.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,33.4,0.0,No,No,Normal conditions
+2023-02-24,NAMPUR,OTHER,1200.0,4400,4000.0,Rang Panchami,0,0,0,Shukla Panchami,Ashwini,24,2,2023,8,34.0,0.0,No,No,Normal conditions
+2023-02-25,KALVAN,OTHER,2000.0,5000,4100.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,33.1,0.0,No,No,Normal conditions
+2023-02-25,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4000.0,5100,4355.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,34.3,0.0,No,No,Normal conditions
+2023-02-25,MANMAD,RED,1745.0,3110,1745.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,32.8,0.0,No,No,Normal conditions
+2023-02-25,LASALGAON,OTHER,3601.0,4761,4351.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-25,UMRANE,OTHER,1500.0,4550,3900.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,33.2,0.0,No,No,Normal conditions
+2023-02-25,LASALGAON,RED,2271.0,3852,3080.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-25,SINNER,OTHER,1500.0,4403,4250.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,32.8,0.0,No,No,Normal conditions
+2023-02-25,LASALGAON(NIPHAD),OTHER,2301.0,4053,3900.0,,0,0,0,Shukla Shashthi,Bharani,25,2,2023,8,34.5,0.0,No,No,Normal conditions
+2023-02-27,DINDORI(VANI),OTHER,3650.0,4900,4506.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2625.0,4600,4300.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-27,LASALGAON(VINCHUR),OTHER,2000.0,4301,4000.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-27,LASALGAON,RED,1100.0,3641,3100.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-27,NASIK,POLE,1000.0,4000,3200.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.5,0.0,No,No,Normal conditions
+2023-02-27,LASALGAON(NIPHAD),RED,4000.0,4000,4000.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-27,MANMAD,OTHER,2600.0,4100,3900.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-27,LASALGAON(NIPHAD),OTHER,2200.0,4400,4200.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-27,NASIK,OTHER,3600.0,4450,4100.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.5,0.0,No,No,Normal conditions
+2023-02-27,MANMAD,RED,1101.0,5151,3000.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-27,LASALGAON,OTHER,3552.0,4372,4200.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-27,PIMPALGAON,OTHER,2500.0,5000,4200.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-27,LASALGAON,RED,2001.0,3791,3000.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-27,YEOLA,OTHER,1501.0,4389,3900.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.6,0.0,No,No,Normal conditions
+2023-02-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2400.0,4500,4250.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-27,DEVALA,OTHER,1100.0,4450,4250.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,34.5,0.0,No,No,Normal conditions
+2023-02-27,SINNER,OTHER,1500.0,4525,4400.0,,0,0,0,Shukla Ashtami,Rohini,27,2,2023,9,33.3,0.0,No,No,Normal conditions
+2023-02-28,LASALGAON(NIPHAD),OTHER,2200.0,4700,4500.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,34.3,0.0,No,No,Normal conditions
+2023-02-28,NASIK,POLE,1200.0,3800,3000.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-28,PIMPALGAON,OTHER,2700.0,4951,4400.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.2,0.0,No,No,Normal conditions
+2023-02-28,CHANDVAD,OTHER,2203.0,4400,4160.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.5,0.0,No,No,Normal conditions
+2023-02-28,LASALGAON,OTHER,3500.0,4485,4351.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,34.3,0.0,No,No,Normal conditions
+2023-02-28,DINDORI(VANI),OTHER,3700.0,4676,4275.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.1,0.0,No,No,Normal conditions
+2023-02-28,MANMAD,OTHER,1508.0,4108,3900.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.5,0.0,No,No,Normal conditions
+2023-02-28,SATANA,OTHER,1500.0,4820,4350.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,32.5,0.0,No,No,Normal conditions
+2023-02-28,KALVAN,OTHER,1800.0,4810,4050.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.4,0.0,No,No,Normal conditions
+2023-02-28,UMRANE,OTHER,1500.0,4680,4100.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.0,0.0,No,No,Normal conditions
+2023-02-28,NASIK,OTHER,3400.0,4551,3850.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,34.0,0.0,No,No,Normal conditions
+2023-02-28,LASALGAON(VINCHUR),OTHER,2000.0,4311,4200.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,34.3,0.0,No,No,Normal conditions
+2023-02-28,NAMPUR,OTHER,1700.0,4405,4000.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-02-28,KALVAN,OTHER,1500.0,5050,4050.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,33.4,0.0,No,No,Normal conditions
+2023-02-28,NANDGAON,OTHER,900.0,4211,3850.0,Amalaki Ekadashi,0,0,0,Shukla Navami,Mrigashira,28,2,2023,9,35.2,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-01,PIMPALGAON,OTHER,2500.0,5061,4300.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,32.8,0.0,No,No,Normal conditions
+2023-03-01,LASALGAON,OTHER,3000.0,4353,4200.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.8,0.0,No,No,Normal conditions
+2023-03-01,YEOLA,OTHER,1500.0,4290,3800.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,33.8,0.0,No,No,Normal conditions
+2023-03-01,LASALGAON(VINCHUR),OTHER,2000.0,4444,4100.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.8,0.0,No,No,Normal conditions
+2023-03-01,LASALGAON(NIPHAD),OTHER,2000.0,4291,4100.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.8,0.0,No,No,Normal conditions
+2023-03-01,SATANA,OTHER,1000.0,4630,4150.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,31.5,0.0,No,No,Normal conditions
+2023-03-01,SHREE RAMESHWAR KRUSHI MARKET,RED,311.0,3100,2296.45,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-01,NAMPUR,OTHER,1500.0,4380,4000.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-01,SHREE RAMESHWAR KRUSHI MARKET,OTHER,500.0,4701,3841.64,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-01,MANMAD,OTHER,2330.0,4051,3700.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,32.2,0.0,No,No,Normal conditions
+2023-03-01,DINDORI(VANI),OTHER,3000.0,4500,3920.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,32.8,0.0,No,No,Normal conditions
+2023-03-01,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2500.0,4327,4180.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,33.4,0.0,No,No,Normal conditions
+2023-03-01,NASIK,OTHER,3500.0,4601,4100.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,33.2,0.0,No,No,Normal conditions
+2023-03-01,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,3881.0,4251,4127.49,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-01,UMRANE,OTHER,1500.0,4486,3850.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,32.5,0.0,No,No,Normal conditions
+2023-03-01,CHANDVAD,OTHER,1000.0,4296,4100.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,31.9,0.0,No,No,Normal conditions
+2023-03-01,SINNER,OTHER,1000.0,4300,4200.0,Amalaki Ekadashi,0,0,0,Shukla Dashami,Mrigashira,1,3,2023,9,32.3,0.0,No,No,Normal conditions
+2023-03-02,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,3900.0,5000,4500.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.0,0.0,No,No,Normal conditions
+2023-03-02,DEVALA,OTHER,1200.0,4475,4180.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.6,0.0,No,No,Normal conditions
+2023-03-02,UMRANE,OTHER,1500.0,4310,3800.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,32.1,0.0,No,No,Normal conditions
+2023-03-02,KALVAN,OTHER,1500.0,5000,4000.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,33.3,0.0,No,No,Normal conditions
+2023-03-02,NASIK,OTHER,3300.0,4450,4000.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.0,0.0,No,No,Normal conditions
+2023-03-02,LASALGAON(VINCHUR),OTHER,2000.0,4400,4250.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-02,CHANDVAD,OTHER,1425.0,4451,4150.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,31.7,0.0,No,No,Normal conditions
+2023-03-02,MANKAMNESHWAR FARMAR PRODUCER COLTD SANCHALIT MANK,OTHER,2001.0,4202,4076.57,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.3,0.0,No,No,Normal conditions
+2023-03-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2400.0,4381,4150.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,33.6,0.0,No,No,Normal conditions
+2023-03-02,DINDORI(VANI),OTHER,3011.0,4500,3851.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,33.3,0.0,No,No,Normal conditions
+2023-03-02,SATANA,OTHER,1100.0,4575,3975.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,31.3,0.0,No,No,Normal conditions
+2023-03-02,YEOLA,OTHER,700.0,4181,3600.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,35.0,0.0,No,No,Normal conditions
+2023-03-02,SINNER,OTHER,1000.0,4228,4125.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,32.3,0.0,No,No,Normal conditions
+2023-03-02,NAMPUR,OTHER,1500.0,4180,3700.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,33.8,0.0,No,No,Normal conditions
+2023-03-02,LASALGAON,OTHER,3540.0,4400,4300.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-02,NANDGAON,OTHER,851.0,4199,3850.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.0,0.0,No,No,Normal conditions
+2023-03-02,DEVALA,OTHER,1000.0,4500,4225.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Ardra,2,3,2023,9,34.6,0.0,No,No,Normal conditions
+2023-03-03,MALHARSHREE FARMERS PRODUCER CO LTD,OTHER,2145.0,4287,3852.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-03,LASALGAON(NIPHAD),OTHER,2000.0,4353,4200.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-03,PIMPALGAON,OTHER,2000.0,5351,4150.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,34.5,0.0,No,No,Normal conditions
+2023-03-03,MANMAD,OTHER,2287.0,4101,3976.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,33.7,0.0,No,No,Normal conditions
+2023-03-03,KALVAN,OTHER,1500.0,5100,3900.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,33.5,0.0,No,No,Normal conditions
+2023-03-03,NASIK,OTHER,3800.0,5050,4350.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,34.3,0.0,No,No,Normal conditions
+2023-03-03,NASIK,POLE,1100.0,3600,2900.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,34.3,0.0,No,No,Normal conditions
+2023-03-03,LASALGAON(NIPHAD),OTHER,2500.0,4350,4250.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-03,KALVAN,OTHER,1500.0,5100,4100.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,33.5,0.0,No,No,Normal conditions
+2023-03-03,PIMPALGAON,OTHER,1000.0,5501,4500.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,34.5,0.0,No,No,Normal conditions
+2023-03-03,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2000.0,4575,4300.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,34.1,0.0,No,No,Normal conditions
+2023-03-03,SHIVSIDDHA GOVIND PRODUCER COMPANY LIMITED SANCHAL,LOCAL,4100.0,5100,4550.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,34.2,0.0,No,No,Normal conditions
+2023-03-03,LASALGAON(NIPHAD),OTHER,2601.0,4591,4370.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,35.3,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-03,YEOLA,OTHER,1501.0,4526,4100.0,Jaya Ekadashi,0,1,0,Shukla Ekadashi,Punarvasu,3,3,2023,9,35.0,0.0,No,No,Normal conditions
+2023-03-04,DINDORI(VANI),OTHER,3900.0,4800,4350.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,34.7,0.0,No,No,Normal conditions
+2023-03-04,LASALGAON,OTHER,3400.0,4551,4351.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-04,NASIK,POLE,1500.0,3200,2500.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,35.0,0.0,No,No,Normal conditions
+2023-03-04,CHANDVAD,OTHER,2000.0,4570,4330.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,33.7,0.0,No,No,Normal conditions
+2023-03-04,MANMAD,OTHER,1305.0,4400,4000.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,34.3,0.0,No,No,Normal conditions
+2023-03-04,LASALGAON(VINCHUR),OTHER,2000.0,4651,4400.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,35.5,0.0,Yes,No,Irrigation needed | Heat stress risk
+2023-03-04,NASIK,OTHER,3500.0,4750,4350.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,35.0,0.0,No,No,Normal conditions
+2023-03-04,DINDORI(VANI),OTHER,4000.0,4900,4450.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,34.7,0.0,No,No,Normal conditions
+2023-03-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2000.0,4800,4450.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,34.7,0.0,No,No,Normal conditions
+2023-03-04,NAMPUR,OTHER,1500.0,4570,4000.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,35.2,0.4,Yes,No,Irrigation needed | Heat stress risk
+2023-03-04,CHANDVAD,OTHER,2001.0,4725,4550.0,,0,0,0,Shukla Dwadashi,Pushya,4,3,2023,9,33.7,0.0,No,No,Normal conditions
+2023-03-06,LASALGAON(VINCHUR),OTHER,2000.0,4800,4500.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.1,1.8,No,No,Normal conditions
+2023-03-06,NANDGAON,OTHER,400.0,4600,4150.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,30.5,2.7,No,No,Normal conditions
+2023-03-06,UMRANE,OTHER,1500.0,4851,4100.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,30.3,2.0,No,No,Normal conditions
+2023-03-06,NASIK,OTHER,3200.0,4250,3800.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,30.0,1.8,No,No,Normal conditions
+2023-03-06,SINNER,OTHER,1500.0,4611,4475.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,30.5,1.0,No,No,Normal conditions
+2023-03-06,SHREE RAMESHWAR KRUSHI MARKET,OTHER,1002.0,5100,4212.43,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.2,0.9,No,No,Normal conditions
+2023-03-06,SHREE RAMESHWAR KRUSHI MARKET,RED,1525.0,4201,3252.42,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.2,0.9,No,No,Normal conditions
+2023-03-06,PIMPALGAON,OTHER,2500.0,5260,4600.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.4,1.8,No,No,Normal conditions
+2023-03-06,YEOLA,OTHER,1401.0,4680,4300.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.1,5.7,No,Moderate,Good moisture
+2023-03-06,LASALGAON(NIPHAD),OTHER,2600.0,4851,4525.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.1,1.8,No,No,Normal conditions
+2023-03-06,DEVALA,OTHER,1550.0,5000,4675.0,"Phalguna Purnima / Holi, Shimga (Holi eve), Holi",0,0,1,Shukla Chaturdashi,Magha,6,3,2023,10,31.7,1.4,No,No,Normal conditions
+2023-03-07,SATANA,OTHER,1000.0,4785,4370.0,"Phalguna Purnima / Holi, Holi",0,0,1,Shukla Purnima,Purva Phalguni,7,3,2023,10,28.2,1.9,No,No,Normal conditions
+2023-03-07,LASALGAON,OTHER,3980.0,4811,4520.0,"Phalguna Purnima / Holi, Holi",0,0,1,Shukla Purnima,Purva Phalguni,7,3,2023,10,29.0,3.1,No,No,Normal conditions
+2023-03-07,MANMAD,OTHER,1553.0,4327,3900.0,"Phalguna Purnima / Holi, Holi",0,0,1,Shukla Purnima,Purva Phalguni,7,3,2023,10,28.8,2.6,No,No,Normal conditions
+2023-03-07,LASALGAON(VINCHUR),OTHER,2000.0,4630,4350.0,"Phalguna Purnima / Holi, Holi",0,0,1,Shukla Purnima,Purva Phalguni,7,3,2023,10,29.0,3.1,No,No,Normal conditions
+2023-03-08,CHANDVAD,OTHER,2305.0,4770,4530.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,30.2,1.9,No,No,Normal conditions
+2023-03-08,NASIK,POLE,2500.0,3600,3150.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.6,0.0,No,No,Normal conditions
+2023-03-08,MANMAD,OTHER,2263.0,4501,4246.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,29.6,0.2,No,No,Normal conditions
+2023-03-08,KALVAN,OTHER,1500.0,5000,4900.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.5,0.1,No,No,Normal conditions
+2023-03-08,PIMPALGAON,OTHER,2500.0,4899,4400.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.4,0.0,No,No,Normal conditions
+2023-03-08,NAMPUR,OTHER,1500.0,4500,4000.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.5,0.0,No,No,Normal conditions
+2023-03-08,YEOLA,OTHER,1412.0,4450,3800.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.6,0.0,No,No,Normal conditions
+2023-03-08,SINNER,OTHER,2200.0,4601,4478.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,30.2,0.1,No,No,Normal conditions
+2023-03-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,2400.0,4500,4250.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.1,0.0,No,No,Normal conditions
+2023-03-08,SHREE RAMESHWAR KRUSHI MARKET,RED,1000.0,3300,2304.52,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.9,0.0,No,No,Normal conditions
+2023-03-08,UMRANE,OTHER,1500.0,5001,4300.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.1,0.0,No,No,Normal conditions
+2023-03-08,DEVALA,OTHER,1000.0,4500,4280.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.3,0.0,No,No,Normal conditions
+2023-03-08,NANDGAON,OTHER,1486.0,4590,4150.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.8,0.0,No,No,Normal conditions
+2023-03-08,LASALGAON,OTHER,3200.0,4720,4500.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.2,0.0,No,No,Normal conditions
+2023-03-08,SATANA,OTHER,1105.0,4700,4350.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,29.6,0.0,No,No,Normal conditions
+2023-03-08,NASIK,OTHER,3500.0,4450,4200.0,Holi,0,0,0,Krishna Pratipada,Uttara Phalguni,8,3,2023,10,31.6,0.0,No,No,Normal conditions
+2023-03-09,SHREE RAMESHWAR KRUSHI MARKET,OTHER,412.0,4900,4026.98,,0,0,0,Krishna Dwitiya,Hasta,9,3,2023,10,32.7,0.0,No,No,Normal conditions
+2023-03-09,LASALGAON(NIPHAD),OTHER,2600.0,4811,4475.0,,0,0,0,Krishna Dwitiya,Hasta,9,3,2023,10,31.8,0.0,No,No,Normal conditions
+2023-03-09,LASALGAON(NIPHAD),OTHER,2500.0,4400,4200.0,,0,0,0,Krishna Dwitiya,Hasta,9,3,2023,10,31.8,0.0,No,No,Normal conditions
+2023-03-09,CHANDVAD,OTHER,1152.0,4375,3980.0,,0,0,0,Krishna Dwitiya,Hasta,9,3,2023,10,30.4,0.0,No,No,Normal conditions

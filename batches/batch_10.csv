@@ -1,0 +1,1001 @@
+Date,Market,Grade,Min Price (Rs./ Qtl),Max Price (Rs./Qtl),Modal Price (Rs./Qtl),Festival,is_amavasya,is_ekadashi,is_purnima,Tithi,Nakshatra,Day,Month,Year,Week,Temp Max (°C),Rain (mm),Heat Stress,Rain Alert,Agro Advisory
+2024-06-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,950,700.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,29.2,11.4,No,Moderate,Good moisture
+2024-06-10,SATANA,OTHER,50.0,1375,750.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,29.4,10.5,No,Moderate,Good moisture
+2024-06-10,YEOLA,OTHER,300.0,1068,800.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,32.8,9.3,No,Moderate,Good moisture
+2024-06-10,LASALGAON(VINCHUR),OTHER,400.0,1351,900.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,32.6,10.9,No,Moderate,Good moisture
+2024-06-10,DEVALA,OTHER,100.0,1100,800.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,34.2,7.1,No,Moderate,Good moisture
+2024-06-10,CHANDVAD,OTHER,200.0,1303,680.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,32.2,8.7,No,Moderate,Good moisture
+2024-06-10,NASIK,OTHER,275.0,1201,675.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,29.3,14.7,No,Moderate,Good moisture
+2024-06-10,PIMPALGAON,OTHER,200.0,2700,1100.0,,0,0,0,Shukla Chaturthi,Pushya,10,6,2024,24,31.0,14.4,No,Moderate,Good moisture
+2024-06-11,NANDGAON,OTHER,100.0,1076,650.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,31.2,15.3,No,Moderate,Good moisture
+2024-06-11,LASALGAON(NIPHAD),OTHER,300.0,1111,751.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.0,11.1,No,Moderate,Good moisture
+2024-06-11,KALVAN,OTHER,150.0,1205,701.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.8,1.4,No,No,Normal conditions
+2024-06-11,MANMAD,OTHER,110.0,1300,850.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,31.2,20.0,No,Moderate,Good moisture
+2024-06-11,LASALGAON,OTHER,500.0,1700,1001.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.0,11.1,No,Moderate,Good moisture
+2024-06-11,DINDORI(VANI),OTHER,500.0,1425,850.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,30.9,2.4,No,No,Normal conditions
+2024-06-11,PIMPALGAON,OTHER,200.0,2550,1100.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,31.4,3.2,No,No,Normal conditions
+2024-06-11,LASALGAON(VINCHUR),OTHER,400.0,1201,850.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.0,11.1,No,Moderate,Good moisture
+2024-06-11,SINNER,OTHER,100.0,900,650.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,28.5,5.5,No,Moderate,Good moisture
+2024-06-11,LASALGAON,OTHER,400.0,1200,800.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.0,11.1,No,Moderate,Good moisture
+2024-06-11,NANDGAON,OTHER,100.0,1091,651.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,31.2,15.3,No,Moderate,Good moisture
+2024-06-11,MANMAD,OTHER,110.0,1200,820.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,31.2,20.0,No,Moderate,Good moisture
+2024-06-11,DINDORI(VANI),OTHER,500.0,1552,931.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,30.9,2.4,No,No,Normal conditions
+2024-06-11,NAMPUR,OTHER,100.0,1300,700.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.2,2.9,No,No,Normal conditions
+2024-06-11,KALVAN,OTHER,200.0,1400,751.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,32.8,1.4,No,No,Normal conditions
+2024-06-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,1055,810.0,,0,0,0,Shukla Panchami,Ashlesha,11,6,2024,24,30.6,1.2,No,No,Normal conditions
+2024-06-12,SATANA,OTHER,50.0,1375,755.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,30.3,1.6,No,No,Normal conditions
+2024-06-12,UMRANE,OTHER,351.0,1201,870.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,30.9,1.9,No,No,Normal conditions
+2024-06-12,LASALGAON(NIPHAD),OTHER,300.0,1300,811.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,30.9,5.7,No,Moderate,Good moisture
+2024-06-12,DINDORI,OTHER,451.0,1352,851.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,30.2,1.2,No,No,Normal conditions
+2024-06-12,DEVALA,OTHER,100.0,1110,750.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,33.8,2.5,No,No,Normal conditions
+2024-06-12,NASIK,OTHER,300.0,1301,700.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,30.3,1.9,No,No,Normal conditions
+2024-06-12,CHANDVAD,OTHER,350.0,1500,700.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,31.0,4.6,No,No,Normal conditions
+2024-06-12,NAMPUR,OTHER,100.0,1245,900.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,33.7,0.8,No,No,Normal conditions
+2024-06-12,LASALGAON,OTHER,400.0,1801,1000.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,30.9,5.7,No,Moderate,Good moisture
+2024-06-12,SINNER,OTHER,100.0,936,600.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,28.9,1.2,No,No,Normal conditions
+2024-06-12,YEOLA,OTHER,200.0,1027,750.0,,0,0,0,Shukla Shashthi,Magha,12,6,2024,24,31.5,4.7,No,No,Normal conditions
+2024-06-13,DINDORI(VANI),OTHER,500.0,1501,925.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,30.0,2.9,No,No,Normal conditions
+2024-06-13,DINDORI,OTHER,500.0,1250,851.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,30.0,2.9,No,No,Normal conditions
+2024-06-13,LASALGAON(NIPHAD),OTHER,300.0,1112,751.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,31.5,2.5,No,No,Normal conditions
+2024-06-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,230.0,1090,780.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,29.8,6.2,No,Moderate,Good moisture
+2024-06-13,UMRANE,OTHER,400.0,1200,850.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,30.8,3.3,No,No,Normal conditions
+2024-06-13,KALVAN,OTHER,150.0,1600,851.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,30.7,3.1,No,No,Normal conditions
+2024-06-13,NANDGAON,OTHER,100.0,1080,650.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,33.1,6.7,No,Moderate,Good moisture
+2024-06-13,DEVALA,OTHER,125.0,1205,850.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,33.8,4.3,No,No,Normal conditions
+2024-06-13,SATANA,OTHER,175.0,1255,715.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,28.8,4.1,No,No,Normal conditions
+2024-06-13,CHANDVAD,OTHER,300.0,1430,780.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,31.2,8.6,No,Moderate,Good moisture
+2024-06-13,MANMAD,OTHER,110.0,1170,810.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,31.8,3.4,No,No,Normal conditions
+2024-06-13,LASALGAON(VINCHUR),OTHER,351.0,1351,951.0,,0,0,0,Shukla Saptami,Purva Phalguni,13,6,2024,24,31.5,2.5,No,No,Normal conditions
+2024-06-14,NASIK,OTHER,375.0,1250,775.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,29.0,0.9,No,No,Normal conditions
+2024-06-14,PIMPALGAON,OTHER,200.0,2300,1050.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.5,1.4,No,No,Normal conditions
+2024-06-14,CHANDVAD,OTHER,211.0,1432,760.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.5,7.4,No,Moderate,Good moisture
+2024-06-14,LASALGAON(NIPHAD),OTHER,311.0,1001,700.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,32.1,3.0,No,No,Normal conditions
+2024-06-14,LASALGAON(VINCHUR),OTHER,300.0,1280,850.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,32.1,3.0,No,No,Normal conditions
+2024-06-14,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,1040,740.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.1,4.0,No,No,Normal conditions
+2024-06-14,LASALGAON,OTHER,400.0,1380,930.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,32.1,3.0,No,No,Normal conditions
+2024-06-14,YEOLA,OTHER,200.0,1064,800.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,32.2,5.3,No,Moderate,Good moisture
+2024-06-14,MANMAD,OTHER,100.0,1199,750.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.6,4.0,No,No,Normal conditions
+2024-06-14,DINDORI(VANI),OTHER,500.0,1415,850.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.3,1.6,No,No,Normal conditions
+2024-06-14,PIMPALGAON,OTHER,200.0,1601,950.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.5,1.4,No,No,Normal conditions
+2024-06-14,MANMAD,OTHER,110.0,1201,800.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,31.6,4.0,No,No,Normal conditions
+2024-06-14,LASALGAON(VINCHUR),OTHER,301.0,1301,950.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,32.1,3.0,No,No,Normal conditions
+2024-06-14,LASALGAON(NIPHAD),OTHER,351.0,1100,700.0,,0,0,0,Shukla Ashtami,Uttara Phalguni,14,6,2024,24,32.1,3.0,No,No,Normal conditions
+2024-06-15,CHANDVAD,OTHER,200.0,1319,680.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,32.0,4.0,No,No,Normal conditions
+2024-06-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,1025,680.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,31.5,1.5,No,No,Normal conditions
+2024-06-15,DINDORI(VANI),OTHER,500.0,1600,875.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,31.9,0.9,No,No,Normal conditions
+2024-06-15,YEOLA,OTHER,200.0,1112,800.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,32.5,4.5,No,No,Normal conditions
+2024-06-15,SINNER,OTHER,100.0,935,600.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,30.6,2.2,No,No,Normal conditions
+2024-06-15,LASALGAON,OTHER,400.0,1381,975.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,32.7,5.2,No,Moderate,Good moisture
+2024-06-15,DEVALA,OTHER,100.0,1200,775.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,33.2,3.1,No,No,Normal conditions
+2024-06-15,KALVAN,OTHER,200.0,1100,751.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,32.3,1.8,No,No,Normal conditions
+2024-06-15,PIMPALGAON,OTHER,200.0,1665,900.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,32.0,1.7,No,No,Normal conditions
+2024-06-15,NASIK,OTHER,350.0,1351,800.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,31.0,4.4,No,No,Normal conditions
+2024-06-15,DINDORI,OTHER,500.0,1170,715.0,,0,0,0,Shukla Navami,Uttara Phalguni,15,6,2024,24,31.9,0.9,No,No,Normal conditions
+2024-06-16,SATANA,OTHER,200.0,1300,715.0,,0,0,0,Shukla Dashami,Hasta,16,6,2024,24,31.0,6.9,No,Moderate,Good moisture
+2024-06-17,LASALGAON(VINCHUR),OTHER,300.0,1241,800.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari, Bakrid",0,1,0,Shukla Ekadashi,Chitra,17,6,2024,25,34.0,7.8,No,Moderate,Good moisture
+2024-06-17,PIMPALGAON,OTHER,200.0,1870,901.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari, Bakrid",0,1,0,Shukla Ekadashi,Chitra,17,6,2024,25,33.3,5.6,No,Moderate,Good moisture
+2024-06-17,MANMAD,OTHER,110.0,1176,700.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari, Bakrid",0,1,0,Shukla Ekadashi,Chitra,17,6,2024,25,32.5,4.1,No,No,Normal conditions
+2024-06-17,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,960,700.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari, Bakrid",0,1,0,Shukla Ekadashi,Chitra,17,6,2024,25,32.6,16.6,No,Moderate,Good moisture
+2024-06-17,LASALGAON,OTHER,300.0,1441,925.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari, Bakrid",0,1,0,Shukla Ekadashi,Chitra,17,6,2024,25,34.0,7.8,No,Moderate,Good moisture
+2024-06-18,LASALGAON(NIPHAD),OTHER,400.0,1100,700.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,32.0,11.5,No,Moderate,Good moisture
+2024-06-18,YEOLA,OTHER,200.0,1100,800.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,32.6,6.5,No,Moderate,Good moisture
+2024-06-18,DINDORI(VANI),OTHER,400.0,1560,850.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,30.5,7.5,No,Moderate,Good moisture
+2024-06-18,SINNER,OTHER,200.0,951,600.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,30.0,5.2,No,Moderate,Good moisture
+2024-06-18,CHANDVAD,OTHER,200.0,1331,680.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,31.5,5.0,No,No,Normal conditions
+2024-06-18,KALVAN,OTHER,150.0,1550,851.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,30.7,15.3,No,Moderate,Good moisture
+2024-06-18,NASIK,OTHER,300.0,1451,800.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,29.2,6.4,No,Moderate,Good moisture
+2024-06-18,DEVALA,OTHER,100.0,1075,775.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,33.8,6.5,No,Moderate,Good moisture
+2024-06-18,PIMPALGAON,OTHER,200.0,1700,1001.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,30.9,5.8,No,Moderate,Good moisture
+2024-06-18,SATANA,OTHER,110.0,1280,675.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,29.2,8.3,No,Moderate,Good moisture
+2024-06-18,LASALGAON,OTHER,400.0,1451,1000.0,"Devshayani Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Swati,18,6,2024,25,32.0,11.5,No,Moderate,Good moisture
+2024-06-19,KALVAN,OTHER,125.0,1450,801.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,31.3,5.6,No,Moderate,Good moisture
+2024-06-19,SINNER,OTHER,100.0,849,600.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,28.3,5.3,No,Moderate,Good moisture
+2024-06-19,DEVALA,OTHER,100.0,1200,800.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,33.1,8.1,No,Moderate,Good moisture
+2024-06-19,MANMAD,OTHER,110.0,1176,750.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,30.6,1.8,No,No,Normal conditions
+2024-06-19,LASALGAON(NIPHAD),OTHER,400.0,1000,751.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,30.5,1.5,No,No,Normal conditions
+2024-06-19,DINDORI,OTHER,551.0,1051,750.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,29.5,8.7,No,Moderate,Good moisture
+2024-06-19,DINDORI(VANI),OTHER,400.0,1572,851.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,29.5,8.7,No,Moderate,Good moisture
+2024-06-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,960,700.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,29.3,5.4,No,Moderate,Good moisture
+2024-06-19,YEOLA,OTHER,250.0,1090,850.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,30.6,7.4,No,Moderate,Good moisture
+2024-06-19,LASALGAON(VINCHUR),OTHER,350.0,1300,950.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,30.5,1.5,No,No,Normal conditions
+2024-06-19,NASIK,OTHER,350.0,1401,750.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,28.0,2.6,No,No,Normal conditions
+2024-06-19,CHANDVAD,OTHER,200.0,1335,780.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,30.5,2.2,No,No,Normal conditions
+2024-06-19,SINNER,OTHER,100.0,897,650.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,28.3,5.3,No,Moderate,Good moisture
+2024-06-19,SATANA,OTHER,150.0,1370,725.0,,0,0,0,Shukla Dwadashi,Vishakha,19,6,2024,25,29.1,3.0,No,No,Normal conditions
+2024-06-20,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,910,750.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,28.0,4.0,No,No,Normal conditions
+2024-06-20,CHANDVAD,OTHER,200.0,1252,800.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,28.8,2.4,No,No,Normal conditions
+2024-06-20,PIMPALGAON,OTHER,200.0,2156,1051.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,28.4,3.3,No,No,Normal conditions
+2024-06-20,MANMAD,OTHER,200.0,1181,810.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,29.5,0.8,No,No,Normal conditions
+2024-06-20,DEVALA,OTHER,100.0,1100,800.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,31.4,7.5,No,Moderate,Good moisture
+2024-06-20,NANDGAON,OTHER,100.0,1001,500.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,31.6,6.8,No,Moderate,Good moisture
+2024-06-20,KALVAN,OTHER,200.0,1420,800.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,29.1,2.7,No,No,Normal conditions
+2024-06-20,LASALGAON(NIPHAD),OTHER,400.0,1251,825.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,30.0,4.8,No,No,Normal conditions
+2024-06-20,DINDORI(VANI),OTHER,500.0,1575,850.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,27.9,2.8,No,No,Normal conditions
+2024-06-20,LASALGAON,OTHER,400.0,1301,900.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,30.0,4.8,No,No,Normal conditions
+2024-06-20,NASIK,OTHER,325.0,1275,700.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,27.5,6.8,No,Moderate,Good moisture
+2024-06-20,DINDORI,OTHER,500.0,1240,750.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,27.9,2.8,No,No,Normal conditions
+2024-06-20,LASALGAON(VINCHUR),OTHER,350.0,1301,875.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,30.0,4.8,No,No,Normal conditions
+2024-06-20,DINDORI(VANI),OTHER,500.0,1600,950.0,,0,0,0,Shukla Trayodashi,Anuradha,20,6,2024,25,27.9,2.8,No,No,Normal conditions
+2024-06-21,CHANDVAD,OTHER,200.0,1252,800.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,30.8,0.7,No,No,Normal conditions
+2024-06-21,PIMPALGAON,OTHER,200.0,2200,1021.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,30.3,1.4,No,No,Normal conditions
+2024-06-21,NASIK,OTHER,225.0,1011,475.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,29.6,2.3,No,No,Normal conditions
+2024-06-21,SINNER,OTHER,100.0,1083,700.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,29.5,0.7,No,No,Normal conditions
+2024-06-21,LASALGAON,OTHER,451.0,1500,1050.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,31.9,2.7,No,No,Normal conditions
+2024-06-21,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,1045,775.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,30.1,1.8,No,No,Normal conditions
+2024-06-21,DINDORI,OTHER,400.0,1163,701.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,30.1,2.2,No,No,Normal conditions
+2024-06-21,LASALGAON(VINCHUR),OTHER,350.0,1351,950.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,31.9,2.7,No,No,Normal conditions
+2024-06-21,YEOLA,OTHER,300.0,1151,800.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,31.9,0.8,No,No,Normal conditions
+2024-06-21,DEVALA,OTHER,100.0,1230,900.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,33.0,0.7,No,No,Normal conditions
+2024-06-21,MANMAD,OTHER,180.0,1151,700.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,31.8,2.2,No,No,Normal conditions
+2024-06-21,LASALGAON(NIPHAD),OTHER,400.0,1130,811.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,31.9,2.7,No,No,Normal conditions
+2024-06-21,KALVAN,OTHER,150.0,1600,851.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,31.1,1.2,No,No,Normal conditions
+2024-06-21,SATANA,OTHER,200.0,1370,815.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Chaturdashi,Jyeshtha,21,6,2024,25,29.0,1.9,No,No,Normal conditions
+2024-06-22,NANDGAON,OTHER,100.0,1199,550.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,33.2,18.2,No,Moderate,Good moisture
+2024-06-22,NAMPUR,OTHER,100.0,1280,700.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,32.8,2.2,No,No,Normal conditions
+2024-06-22,DINDORI(VANI),OTHER,350.0,1600,850.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,30.6,1.1,No,No,Normal conditions
+2024-06-22,CHANDVAD,OTHER,204.0,1325,650.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,31.3,1.9,No,No,Normal conditions
+2024-06-22,NASIK,OTHER,250.0,1075,525.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,30.2,0.8,No,No,Normal conditions
+2024-06-22,YEOLA,OTHER,100.0,1026,650.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,32.0,4.3,No,No,Normal conditions
+2024-06-22,LASALGAON,OTHER,400.0,1601,860.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,32.1,1.3,No,No,Normal conditions
+2024-06-22,LASALGAON(VINCHUR),OTHER,300.0,1123,750.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,32.1,1.3,No,No,Normal conditions
+2024-06-22,PIMPALGAON,OTHER,200.0,2001,821.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,30.9,3.2,No,No,Normal conditions
+2024-06-22,MANMAD,OTHER,140.0,1154,600.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,31.6,8.1,No,Moderate,Good moisture
+2024-06-22,LASALGAON(NIPHAD),OTHER,300.0,971,700.0,"Ashadha Purnima / Guru Purnima, Guru Purnima",0,0,1,Shukla Purnima,Mula,22,6,2024,25,32.1,1.3,No,No,Normal conditions
+2024-06-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,160.0,915,600.0,,0,0,0,Krishna Dwitiya,Purva Ashadha,23,6,2024,25,29.5,31.9,No,Heavy,Heavy rain expected
+2024-06-24,LASALGAON(VINCHUR),OTHER,400.0,1127,775.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.8,37.0,No,Heavy,Heavy rain expected
+2024-06-24,SINNER,OTHER,100.0,871,600.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.0,25.7,No,Heavy,Heavy rain expected
+2024-06-24,NASIK,OTHER,300.0,1150,550.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,29.6,19.8,No,Moderate,Good moisture
+2024-06-24,YEOLA,OTHER,100.0,980,650.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.6,26.6,No,Heavy,Heavy rain expected
+2024-06-24,CHANDVAD,OTHER,211.0,1376,600.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,29.6,32.3,No,Heavy,Heavy rain expected
+2024-06-24,DINDORI(VANI),OTHER,350.0,1560,851.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.2,15.6,No,Moderate,Good moisture
+2024-06-24,MANMAD,OTHER,100.0,1091,600.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,29.1,34.2,No,Heavy,Heavy rain expected
+2024-06-24,PIMPALGAON,OTHER,200.0,1690,800.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.5,19.3,No,Moderate,Good moisture
+2024-06-24,NANDGAON,OTHER,100.0,1041,500.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.6,37.9,No,Heavy,Heavy rain expected
+2024-06-24,DEVALA,OTHER,100.0,1100,800.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,31.1,42.5,No,Heavy,Heavy rain expected
+2024-06-24,SATANA,OTHER,100.0,1340,765.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,29.2,23.6,No,Heavy,Heavy rain expected
+2024-06-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,150.0,955,580.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,29.5,17.9,No,Moderate,Good moisture
+2024-06-24,LASALGAON(NIPHAD),OTHER,300.0,1051,700.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.8,37.0,No,Heavy,Heavy rain expected
+2024-06-24,LASALGAON,OTHER,300.0,1340,800.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,30.8,37.0,No,Heavy,Heavy rain expected
+2024-06-24,SATANA,OTHER,100.0,1475,750.0,,0,0,0,Krishna Tritiya,Uttara Ashadha,24,6,2024,26,29.2,23.6,No,Heavy,Heavy rain expected
+2024-06-25,CHANDVAD,OTHER,100.0,1382,650.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,30.9,11.2,No,Moderate,Good moisture
+2024-06-25,PIMPALGAON,OTHER,200.0,1675,701.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.0,12.1,No,Moderate,Good moisture
+2024-06-25,YEOLA,OTHER,100.0,967,650.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,32.5,6.3,No,Moderate,Good moisture
+2024-06-25,NASIK,OTHER,250.0,1000,500.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,30.5,10.5,No,Moderate,Good moisture
+2024-06-25,LASALGAON(VINCHUR),OTHER,500.0,1100,800.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.5,4.1,No,No,Normal conditions
+2024-06-25,KALVAN,OTHER,150.0,1500,650.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,32.6,9.4,No,Moderate,Good moisture
+2024-06-25,SINNER,OTHER,100.0,770,550.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.2,8.3,No,Moderate,Good moisture
+2024-06-25,LASALGAON(NIPHAD),OTHER,351.0,1001,651.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.5,4.1,No,No,Normal conditions
+2024-06-25,NAMPUR,OTHER,100.0,1351,650.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,32.8,13.5,No,Moderate,Good moisture
+2024-06-25,DEVALA,OTHER,100.0,1120,800.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,32.9,12.3,No,Moderate,Good moisture
+2024-06-25,LASALGAON,OTHER,400.0,1245,830.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.5,4.1,No,No,Normal conditions
+2024-06-25,NANDGAON,OTHER,100.0,1067,525.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,32.7,4.2,No,No,Normal conditions
+2024-06-25,MANMAD,OTHER,100.0,1212,710.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.2,8.9,No,Moderate,Good moisture
+2024-06-25,DINDORI,OTHER,300.0,1051,675.0,,0,0,0,Krishna Chaturthi,Shravana,25,6,2024,26,31.4,8.6,No,Moderate,Good moisture
+2024-06-26,PIMPALGAON BASWANT(SAYKHEDA),OTHER,180.0,725,520.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,30.8,9.6,No,Moderate,Good moisture
+2024-06-26,DINDORI(VANI),OTHER,300.0,1455,750.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,30.4,17.7,No,Moderate,Good moisture
+2024-06-26,YEOLA,OTHER,150.0,926,650.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,31.3,4.1,No,No,Normal conditions
+2024-06-26,KALVAN,OTHER,150.0,1445,650.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,31.6,1.5,No,No,Normal conditions
+2024-06-26,NAMPUR,OTHER,100.0,1405,700.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,31.9,3.1,No,No,Normal conditions
+2024-06-26,DEVALA,OTHER,100.0,980,800.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,32.2,5.2,No,Moderate,Good moisture
+2024-06-26,LASALGAON(NIPHAD),OTHER,421.0,1201,640.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,31.5,11.2,No,Moderate,Good moisture
+2024-06-26,DINDORI,OTHER,300.0,1025,650.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,30.4,17.7,No,Moderate,Good moisture
+2024-06-26,LASALGAON(VINCHUR),OTHER,500.0,1240,825.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,31.5,11.2,No,Moderate,Good moisture
+2024-06-26,CHANDVAD,OTHER,200.0,1314,720.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,30.1,2.7,No,No,Normal conditions
+2024-06-26,SINNER,OTHER,100.0,791,550.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,30.8,33.8,No,Heavy,Heavy rain expected
+2024-06-26,LASALGAON,OTHER,400.0,1262,850.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,31.5,11.2,No,Moderate,Good moisture
+2024-06-26,NASIK,OTHER,200.0,951,550.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,29.6,6.3,No,Moderate,Good moisture
+2024-06-26,SATANA,OTHER,100.0,1265,735.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,29.9,2.7,No,No,Normal conditions
+2024-06-26,DINDORI(VANI),OTHER,300.0,1414,825.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,30.4,17.7,No,Moderate,Good moisture
+2024-06-26,NANDGAON,OTHER,50.0,1051,511.0,,0,0,0,Krishna Panchami,Dhanishtha,26,6,2024,26,32.0,5.2,No,Moderate,Good moisture
+2024-06-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,885,625.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.6,14.7,No,Moderate,Good moisture
+2024-06-27,MANMAD,OTHER,100.0,1199,700.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.9,2.2,No,No,Normal conditions
+2024-06-27,PIMPALGAON,OTHER,225.0,1575,701.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.5,8.7,No,Moderate,Good moisture
+2024-06-27,MANMAD,OTHER,100.0,1152,600.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.9,2.2,No,No,Normal conditions
+2024-06-27,KALVAN,OTHER,100.0,1400,600.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,29.1,12.8,No,Moderate,Good moisture
+2024-06-27,LASALGAON,OTHER,400.0,1217,860.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,30.3,10.4,No,Moderate,Good moisture
+2024-06-27,LASALGAON(NIPHAD),OTHER,311.0,826,700.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,30.3,10.4,No,Moderate,Good moisture
+2024-06-27,NASIK,OTHER,250.0,1151,675.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.0,8.5,No,Moderate,Good moisture
+2024-06-27,DEVALA,OTHER,100.0,1050,800.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,31.1,6.6,No,Moderate,Good moisture
+2024-06-27,CHANDVAD,OTHER,100.0,1329,750.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.5,3.6,No,No,Normal conditions
+2024-06-27,LASALGAON(VINCHUR),OTHER,350.0,1200,825.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,30.3,10.4,No,Moderate,Good moisture
+2024-06-27,DINDORI(VANI),OTHER,300.0,1450,750.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.5,13.1,No,Moderate,Good moisture
+2024-06-27,DINDORI,OTHER,300.0,1000,655.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.5,13.1,No,Moderate,Good moisture
+2024-06-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,900,615.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.6,14.7,No,Moderate,Good moisture
+2024-06-27,SATANA,OTHER,100.0,1280,700.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.5,11.3,No,Moderate,Good moisture
+2024-06-27,NANDGAON,OTHER,111.0,1008,550.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,30.5,6.2,No,Moderate,Good moisture
+2024-06-27,NAMPUR,OTHER,100.0,1270,700.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,30.1,2.8,No,No,Normal conditions
+2024-06-27,PIMPALGAON,OTHER,196.0,1550,710.0,,0,0,0,Krishna Shashthi,Shatabhisha,27,6,2024,26,28.5,8.7,No,Moderate,Good moisture
+2024-06-28,SINNER,OTHER,100.0,822,550.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,27.4,2.2,No,No,Normal conditions
+2024-06-28,DINDORI,OTHER,300.0,1000,650.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,28.1,10.0,No,Moderate,Good moisture
+2024-06-28,MANMAD,OTHER,100.0,1251,600.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,27.6,1.2,No,No,Normal conditions
+2024-06-28,PIMPALGAON,OTHER,200.0,1700,700.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,28.0,8.0,No,Moderate,Good moisture
+2024-06-28,PIMPALGAON BASWANT(SAYKHEDA),OTHER,155.0,800,500.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,28.1,11.7,No,Moderate,Good moisture
+2024-06-28,LASALGAON(NIPHAD),OTHER,375.0,1100,651.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,27.9,2.2,No,No,Normal conditions
+2024-06-28,NAMPUR,OTHER,100.0,1380,700.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,29.3,2.5,No,No,Normal conditions
+2024-06-28,DEVALA,OTHER,100.0,1015,800.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,29.5,1.5,No,No,Normal conditions
+2024-06-28,DINDORI(VANI),OTHER,300.0,1401,725.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,28.1,10.0,No,Moderate,Good moisture
+2024-06-28,SINNER,OTHER,100.0,826,500.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,27.4,2.2,No,No,Normal conditions
+2024-06-28,LASALGAON(VINCHUR),OTHER,350.0,1145,800.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,27.9,2.2,No,No,Normal conditions
+2024-06-28,NANDGAON,OTHER,100.0,1100,550.0,,0,0,0,Krishna Saptami,Purva Bhadrapada,28,6,2024,26,29.4,2.7,No,No,Normal conditions
+2024-06-29,NASIK,OTHER,300.0,1200,750.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,28.2,2.6,No,No,Normal conditions
+2024-06-29,LASALGAON,OTHER,400.0,1231,850.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.3,1.1,No,No,Normal conditions
+2024-06-29,KALVAN,OTHER,100.0,1500,650.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.4,0.4,No,No,Normal conditions
+2024-06-29,LASALGAON(NIPHAD),OTHER,300.0,826,620.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.3,1.1,No,No,Normal conditions
+2024-06-29,DINDORI(VANI),OTHER,300.0,1595,800.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,29.7,1.9,No,No,Normal conditions
+2024-06-29,LASALGAON(VINCHUR),OTHER,400.0,1152,800.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.3,1.1,No,No,Normal conditions
+2024-06-29,CHANDVAD,OTHER,100.0,1252,550.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.0,0.9,No,No,Normal conditions
+2024-06-29,LASALGAON,OTHER,300.0,1200,825.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.3,1.1,No,No,Normal conditions
+2024-06-29,NASIK,OTHER,200.0,1100,600.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,28.2,2.6,No,No,Normal conditions
+2024-06-29,PIMPALGAON,OTHER,200.0,1651,700.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,29.8,1.7,No,No,Normal conditions
+2024-06-29,MANMAD,OTHER,161.0,1133,600.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.5,0.6,No,No,Normal conditions
+2024-06-29,KALVAN,OTHER,100.0,1500,700.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,30.4,0.4,No,No,Normal conditions
+2024-06-29,YEOLA,OTHER,150.0,1000,700.0,,0,0,0,Krishna Ashtami,Uttara Bhadrapada,29,6,2024,26,31.1,1.3,No,No,Normal conditions
+2024-07-01,PIMPALGAON BASWANT(SAYKHEDA),OTHER,175.0,815,520.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.6,11.3,No,Moderate,Good moisture
+2024-07-01,LASALGAON(NIPHAD),OTHER,300.0,853,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,29.0,2.8,No,No,Normal conditions
+2024-07-01,KALVAN,OTHER,100.0,1100,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,28.3,3.6,No,No,Normal conditions
+2024-07-01,NASIK,OTHER,250.0,1300,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,26.0,11.3,No,Moderate,Good moisture
+2024-07-01,MANMAD,OTHER,100.0,1122,500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,28.9,2.0,No,No,Normal conditions
+2024-07-01,CHANDVAD,OTHER,100.0,1249,550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.4,7.0,No,Moderate,Good moisture
+2024-07-01,SATANA,OTHER,70.0,1095,685.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,26.9,9.3,No,Moderate,Good moisture
+2024-07-01,NANDGAON,OTHER,50.0,950,475.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,30.6,2.0,No,No,Normal conditions
+2024-07-01,LASALGAON,OTHER,300.0,1212,760.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,29.0,2.8,No,No,Normal conditions
+2024-07-01,DEVALA,OTHER,100.0,1065,750.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,30.9,2.4,No,No,Normal conditions
+2024-07-01,LASALGAON(VINCHUR),OTHER,300.0,1100,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,29.0,2.8,No,No,Normal conditions
+2024-07-01,YEOLA,OTHER,150.0,857,650.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,30.1,2.5,No,No,Normal conditions
+2024-07-01,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,835,560.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.6,11.3,No,Moderate,Good moisture
+2024-07-01,PIMPALGAON,OTHER,200.0,1696,750.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.8,9.3,No,Moderate,Good moisture
+2024-07-01,DINDORI(VANI),OTHER,300.0,1578,800.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.8,9.9,No,Moderate,Good moisture
+2024-07-01,NANDGAON,OTHER,80.0,868,450.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,30.6,2.0,No,No,Normal conditions
+2024-07-01,NASIK,OTHER,200.0,1350,550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,26.0,11.3,No,Moderate,Good moisture
+2024-07-01,PIMPALGAON,OTHER,200.0,1676,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.8,9.3,No,Moderate,Good moisture
+2024-07-01,LASALGAON,OTHER,251.0,1201,675.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,29.0,2.8,No,No,Normal conditions
+2024-07-01,DINDORI,OTHER,300.0,1170,550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,27.8,9.9,No,Moderate,Good moisture
+2024-07-01,DEVALA,OTHER,100.0,1075,750.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Bharani,1,7,2024,27,30.9,2.4,No,No,Normal conditions
+2024-07-02,LASALGAON(NIPHAD),OTHER,350.0,821,551.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.8,4.5,No,No,Normal conditions
+2024-07-02,SINNER,OTHER,100.0,738,450.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.8,5.0,No,No,Normal conditions
+2024-07-02,LASALGAON(VINCHUR),OTHER,350.0,1100,675.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.8,4.5,No,No,Normal conditions
+2024-07-02,MANMAD,OTHER,100.0,1150,550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.6,3.0,No,No,Normal conditions
+2024-07-02,SATANA,OTHER,100.0,1085,665.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,26.8,11.9,No,Moderate,Good moisture
+2024-07-02,YEOLA,OTHER,100.0,899,650.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,29.3,3.4,No,No,Normal conditions
+2024-07-02,KALVAN,OTHER,100.0,1300,650.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.5,5.4,No,Moderate,Good moisture
+2024-07-02,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,665,560.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.8,7.8,No,Moderate,Good moisture
+2024-07-02,CHANDVAD,OTHER,100.0,1199,550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.8,3.9,No,No,Normal conditions
+2024-07-02,MANMAD,OTHER,100.0,1076,550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.6,3.0,No,No,Normal conditions
+2024-07-02,DEVALA,OTHER,100.0,1065,750.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,30.4,1.1,No,No,Normal conditions
+2024-07-02,DINDORI,OTHER,350.0,1146,600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.9,9.0,No,Moderate,Good moisture
+2024-07-02,CHANDVAD,OTHER,100.0,1300,580.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.8,3.9,No,No,Normal conditions
+2024-07-02,SATANA,OTHER,100.0,1055,650.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,26.8,11.9,No,Moderate,Good moisture
+2024-07-02,PIMPALGAON,OTHER,200.0,1800,900.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.0,8.7,No,Moderate,Good moisture
+2024-07-02,NASIK,OTHER,300.0,1150,700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.2,6.9,No,Moderate,Good moisture
+2024-07-02,LASALGAON(NIPHAD),OTHER,300.0,799,541.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,28.8,4.5,No,No,Normal conditions
+2024-07-02,DINDORI(VANI),OTHER,300.0,1599,800.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Krittika,2,7,2024,27,27.9,9.0,No,Moderate,Good moisture
+2024-07-03,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,845,580.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,27.9,3.1,No,No,Normal conditions
+2024-07-03,LASALGAON,OTHER,251.0,1201,700.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.4,2.3,No,No,Normal conditions
+2024-07-03,SINNER,OTHER,100.0,751,450.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,27.8,0.8,No,No,Normal conditions
+2024-07-03,NANDGAON,OTHER,70.0,901,450.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,30.3,0.4,No,No,Normal conditions
+2024-07-03,LASALGAON(VINCHUR),OTHER,300.0,1100,700.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.4,2.3,No,No,Normal conditions
+2024-07-03,KALVAN,OTHER,200.0,1000,600.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.9,1.7,No,No,Normal conditions
+2024-07-03,NAMPUR,OTHER,100.0,1355,700.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,29.3,1.7,No,No,Normal conditions
+2024-07-03,YEOLA,OTHER,200.0,970,700.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,30.0,0.7,No,No,Normal conditions
+2024-07-03,LASALGAON(NIPHAD),OTHER,300.0,819,550.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.4,2.3,No,No,Normal conditions
+2024-07-03,NASIK,OTHER,250.0,1100,650.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,27.3,3.3,No,No,Normal conditions
+2024-07-03,LASALGAON(VINCHUR),OTHER,400.0,1100,775.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.4,2.3,No,No,Normal conditions
+2024-07-03,NANDGAON,OTHER,50.0,981,400.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,30.3,0.4,No,No,Normal conditions
+2024-07-03,PIMPALGAON,OTHER,200.0,1790,951.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.0,4.0,No,No,Normal conditions
+2024-07-03,LASALGAON,OTHER,300.0,1126,700.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.4,2.3,No,No,Normal conditions
+2024-07-03,DEVALA,OTHER,100.0,1165,750.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,30.3,0.4,No,No,Normal conditions
+2024-07-03,PIMPALGAON BASWANT(SAYKHEDA),OTHER,175.0,855,600.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,27.9,3.1,No,No,Normal conditions
+2024-07-03,MANMAD,OTHER,100.0,912,500.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,28.7,1.1,No,No,Normal conditions
+2024-07-03,NAMPUR,OTHER,100.0,1100,700.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,29.3,1.7,No,No,Normal conditions
+2024-07-03,SINNER,OTHER,100.0,771,500.0,,0,0,0,Krishna Dwadashi,Rohini,3,7,2024,27,27.8,0.8,No,No,Normal conditions
+2024-07-04,CHANDVAD,OTHER,200.0,1252,600.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,28.4,1.3,No,No,Normal conditions
+2024-07-04,SATANA,OTHER,100.0,995,600.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,26.4,2.9,No,No,Normal conditions
+2024-07-04,YEOLA,OTHER,100.0,898,600.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,29.9,2.4,No,No,Normal conditions
+2024-07-04,LASALGAON(NIPHAD),OTHER,300.0,811,525.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,28.6,2.8,No,No,Normal conditions
+2024-07-04,MANMAD,OTHER,100.0,900,400.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,29.1,1.2,No,No,Normal conditions
+2024-07-04,DEVALA,OTHER,100.0,1055,750.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,31.5,1.9,No,No,Normal conditions
+2024-07-04,NANDGAON,OTHER,60.0,945,355.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,31.3,1.9,No,No,Normal conditions
+2024-07-04,SINNER,OTHER,100.0,741,450.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,27.5,1.3,No,No,Normal conditions
+2024-07-04,KALVAN,OTHER,100.0,1165,600.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,28.3,1.2,No,No,Normal conditions
+2024-07-04,LASALGAON(VINCHUR),OTHER,350.0,1116,750.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,28.6,2.8,No,No,Normal conditions
+2024-07-04,DINDORI,OTHER,450.0,1301,650.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,27.6,2.6,No,No,Normal conditions
+2024-07-04,PIMPALGAON BASWANT(SAYKHEDA),OTHER,160.0,745,570.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,27.5,2.4,No,No,Normal conditions
+2024-07-04,PIMPALGAON,OTHER,200.0,1731,951.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,27.8,3.3,No,No,Normal conditions
+2024-07-04,NASIK,OTHER,300.0,1075,650.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,26.8,3.9,No,No,Normal conditions
+2024-07-04,DINDORI(VANI),OTHER,300.0,1571,811.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,27.6,2.6,No,No,Normal conditions
+2024-07-04,NAMPUR,OTHER,100.0,1210,650.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,29.6,0.9,No,No,Normal conditions
+2024-07-04,LASALGAON,OTHER,400.0,1216,800.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,28.6,2.8,No,No,Normal conditions
+2024-07-04,PIMPALGAON,OTHER,200.0,1616,800.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,27.8,3.3,No,No,Normal conditions
+2024-07-04,YEOLA,OTHER,100.0,801,550.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,29.9,2.4,No,No,Normal conditions
+2024-07-04,LASALGAON,OTHER,300.0,1215,700.0,Shani Jayanti,0,0,0,Krishna Chaturdashi,Mrigashira,4,7,2024,27,28.6,2.8,No,No,Normal conditions
+2024-07-05,CHANDVAD,OTHER,100.0,1275,400.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,28.6,2.7,No,No,Normal conditions
+2024-07-05,MANMAD,OTHER,100.0,901,425.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,1.8,No,No,Normal conditions
+2024-07-05,LASALGAON(VINCHUR),OTHER,300.0,1261,700.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,3.1,No,No,Normal conditions
+2024-07-05,LASALGAON(NIPHAD),OTHER,325.0,797,500.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,3.1,No,No,Normal conditions
+2024-07-05,MANMAD,OTHER,100.0,900,450.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,1.8,No,No,Normal conditions
+2024-07-05,NAMPUR,OTHER,100.0,1365,700.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,30.1,1.5,No,No,Normal conditions
+2024-07-05,LASALGAON(VINCHUR),OTHER,350.0,1126,700.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,3.1,No,No,Normal conditions
+2024-07-05,PIMPALGAON,OTHER,200.0,1626,750.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,28.2,6.7,No,Moderate,Good moisture
+2024-07-05,NASIK,OTHER,200.0,1000,600.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,26.6,5.3,No,Moderate,Good moisture
+2024-07-05,LASALGAON,OTHER,400.0,1200,751.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,3.1,No,No,Normal conditions
+2024-07-05,LASALGAON(NIPHAD),OTHER,300.0,799,601.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,3.1,No,No,Normal conditions
+2024-07-05,YEOLA,OTHER,100.0,870,550.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,30.4,2.0,No,No,Normal conditions
+2024-07-05,DINDORI,OTHER,400.0,1151,775.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,27.6,8.7,No,Moderate,Good moisture
+2024-07-05,NASIK,OTHER,200.0,900,600.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,26.6,5.3,No,Moderate,Good moisture
+2024-07-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,175.0,665,445.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,27.4,8.4,No,Moderate,Good moisture
+2024-07-05,NAMPUR,OTHER,100.0,1305,700.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,30.1,1.5,No,No,Normal conditions
+2024-07-05,MANMAD,OTHER,100.0,953,500.0,Ashadha Amavasya,1,0,0,Krishna Amavasya,Ardra,5,7,2024,27,29.1,1.8,No,No,Normal conditions
+2024-07-06,DEVALA,OTHER,100.0,960,700.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,28.2,6.7,No,Moderate,Good moisture
+2024-07-06,LASALGAON(NIPHAD),OTHER,351.0,762,561.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,27.2,12.5,No,Moderate,Good moisture
+2024-07-06,YEOLA,OTHER,100.0,920,600.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,28.5,8.9,No,Moderate,Good moisture
+2024-07-06,LASALGAON,OTHER,300.0,1201,725.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,27.2,12.5,No,Moderate,Good moisture
+2024-07-06,DINDORI,OTHER,400.0,1135,760.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,26.0,11.2,No,Moderate,Good moisture
+2024-07-06,LASALGAON(VINCHUR),OTHER,350.0,1118,700.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,27.2,12.5,No,Moderate,Good moisture
+2024-07-06,SATANA,OTHER,100.0,1080,650.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,24.1,19.4,No,Moderate,Good moisture
+2024-07-06,PIMPALGAON,OTHER,200.0,1500,800.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,26.4,15.1,No,Moderate,Good moisture
+2024-07-06,KALVAN,OTHER,200.0,1300,650.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,26.0,17.2,No,Moderate,Good moisture
+2024-07-06,NANDGAON,OTHER,50.0,900,350.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,28.6,6.7,No,Moderate,Good moisture
+2024-07-06,CHANDVAD,OTHER,200.0,1217,550.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,26.4,4.4,No,No,Normal conditions
+2024-07-06,DINDORI(VANI),OTHER,400.0,1540,811.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,26.0,11.2,No,Moderate,Good moisture
+2024-07-06,NASIK,OTHER,200.0,800,600.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,26.3,15.2,No,Moderate,Good moisture
+2024-07-06,MANMAD,OTHER,100.0,981,510.0,,0,0,0,Shukla Pratipada,Punarvasu,6,7,2024,27,27.2,5.5,No,Moderate,Good moisture
+2024-07-07,PIMPALGAON,OTHER,200.0,1651,840.0,Jagannath Rath Yatra,0,0,0,Shukla Dwitiya,Pushya,7,7,2024,27,28.8,2.9,No,No,Normal conditions
+2024-07-08,YEOLA,OTHER,200.0,831,650.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,29.2,18.3,No,Moderate,Good moisture
+2024-07-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,790,580.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.6,16.2,No,Moderate,Good moisture
+2024-07-08,LASALGAON,OTHER,300.0,1190,700.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,28.5,10.6,No,Moderate,Good moisture
+2024-07-08,UMRANE,OTHER,401.0,950,700.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.6,14.2,No,Moderate,Good moisture
+2024-07-08,SATANA,OTHER,100.0,1055,650.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,26.7,7.4,No,Moderate,Good moisture
+2024-07-08,DEVALA,OTHER,100.0,1070,700.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,29.7,15.2,No,Moderate,Good moisture
+2024-07-08,KALVAN,OTHER,200.0,1305,651.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,29.1,7.5,No,Moderate,Good moisture
+2024-07-08,LASALGAON(NIPHAD),OTHER,351.0,861,550.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,28.5,10.6,No,Moderate,Good moisture
+2024-07-08,DINDORI,OTHER,401.0,1041,600.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.9,14.5,No,Moderate,Good moisture
+2024-07-08,LASALGAON(VINCHUR),OTHER,350.0,1100,750.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,28.5,10.6,No,Moderate,Good moisture
+2024-07-08,NAMPUR,OTHER,100.0,1105,600.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,29.5,5.6,No,Moderate,Good moisture
+2024-07-08,SINNER,OTHER,100.0,775,450.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.7,4.8,No,No,Normal conditions
+2024-07-08,NANDGAON,OTHER,50.0,916,375.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,29.4,31.5,No,Heavy,Heavy rain expected
+2024-07-08,CHANDVAD,OTHER,200.0,1350,550.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,28.0,14.3,No,Moderate,Good moisture
+2024-07-08,DINDORI(VANI),OTHER,400.0,1501,801.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.9,14.5,No,Moderate,Good moisture
+2024-07-08,NASIK,OTHER,300.0,1000,650.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.7,6.2,No,Moderate,Good moisture
+2024-07-08,UMRANE,OTHER,351.0,1025,750.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.6,14.2,No,Moderate,Good moisture
+2024-07-08,PIMPALGAON,OTHER,350.0,1640,800.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,27.9,13.7,No,Moderate,Good moisture
+2024-07-08,NAMPUR,OTHER,100.0,1070,550.0,,0,0,0,Shukla Tritiya,Ashlesha,8,7,2024,28,29.5,5.6,No,Moderate,Good moisture
+2024-07-09,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,805,575.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.1,12.9,No,Moderate,Good moisture
+2024-07-09,LASALGAON,OTHER,300.0,1190,715.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.3,12.0,No,Moderate,Good moisture
+2024-07-09,DINDORI(VANI),OTHER,400.0,1600,851.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,29.7,13.0,No,Moderate,Good moisture
+2024-07-09,SATANA,OTHER,100.0,1005,650.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,28.0,20.2,No,Heavy,Heavy rain expected
+2024-07-09,DEVALA,OTHER,100.0,870,700.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,31.2,20.7,No,Heavy,Heavy rain expected
+2024-07-09,KALVAN,OTHER,200.0,1300,600.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.3,12.7,No,Moderate,Good moisture
+2024-07-09,NANDGAON,OTHER,50.0,866,380.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.5,18.5,No,Moderate,Good moisture
+2024-07-09,SINNER,OTHER,100.0,611,500.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.0,42.7,No,Heavy,Heavy rain expected
+2024-07-09,DINDORI,OTHER,400.0,676,650.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,29.7,13.0,No,Moderate,Good moisture
+2024-07-09,CHANDVAD,OTHER,200.0,1318,550.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,28.6,28.1,No,Heavy,Heavy rain expected
+2024-07-09,LASALGAON(VINCHUR),OTHER,300.0,1100,700.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.3,12.0,No,Moderate,Good moisture
+2024-07-09,MANMAD,OTHER,100.0,933,650.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,29.5,29.5,No,Heavy,Heavy rain expected
+2024-07-09,LASALGAON(NIPHAD),OTHER,301.0,725,560.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.3,12.0,No,Moderate,Good moisture
+2024-07-09,NASIK,OTHER,300.0,1100,650.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,29.5,24.7,No,Heavy,Heavy rain expected
+2024-07-09,UMRANE,OTHER,451.0,1055,700.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,28.8,15.6,No,Moderate,Good moisture
+2024-07-09,NANDGAON,OTHER,97.0,900,450.0,,0,0,0,Shukla Chaturthi,Ashlesha,9,7,2024,28,30.5,18.5,No,Moderate,Good moisture
+2024-07-10,DINDORI(VANI),OTHER,400.0,1601,861.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.4,6.6,No,Moderate,Good moisture
+2024-07-10,DINDORI,OTHER,415.0,1155,700.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.4,6.6,No,Moderate,Good moisture
+2024-07-10,CHANDVAD,OTHER,200.0,1081,550.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.4,5.0,No,No,Normal conditions
+2024-07-10,SINNER,OTHER,100.0,765,475.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.5,1.0,No,No,Normal conditions
+2024-07-10,DEVALA,OTHER,100.0,1045,750.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,31.1,3.5,No,No,Normal conditions
+2024-07-10,LASALGAON,OTHER,400.0,1231,810.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.0,4.9,No,No,Normal conditions
+2024-07-10,PIMPALGAON,OTHER,200.0,1800,900.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.4,5.3,No,Moderate,Good moisture
+2024-07-10,MANMAD,OTHER,150.0,1001,650.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.4,1.8,No,No,Normal conditions
+2024-07-10,KALVAN,OTHER,100.0,1370,601.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.3,4.9,No,No,Normal conditions
+2024-07-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,175.0,800,600.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,27.8,7.2,No,Moderate,Good moisture
+2024-07-10,LASALGAON(NIPHAD),OTHER,311.0,818,650.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.0,4.9,No,No,Normal conditions
+2024-07-10,LASALGAON(VINCHUR),OTHER,400.0,1140,750.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.0,4.9,No,No,Normal conditions
+2024-07-10,PIMPALGAON,OTHER,200.0,1766,900.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.4,5.3,No,Moderate,Good moisture
+2024-07-10,NANDGAON,OTHER,75.0,801,450.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,30.8,1.7,No,No,Normal conditions
+2024-07-10,LASALGAON(NIPHAD),OTHER,321.0,853,651.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.0,4.9,No,No,Normal conditions
+2024-07-10,CHANDVAD,OTHER,200.0,1158,600.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,28.4,5.0,No,No,Normal conditions
+2024-07-10,LASALGAON,OTHER,400.0,1201,800.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.0,4.9,No,No,Normal conditions
+2024-07-10,YEOLA,OTHER,150.0,931,650.0,,0,0,0,Shukla Chaturthi,Magha,10,7,2024,28,29.7,6.6,No,Moderate,Good moisture
+2024-07-11,MANMAD,OTHER,100.0,933,700.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,28.0,5.4,No,Moderate,Good moisture
+2024-07-11,LASALGAON(VINCHUR),OTHER,350.0,1110,750.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.1,16.0,No,Moderate,Good moisture
+2024-07-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,850,605.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,26.2,31.6,No,Heavy,Heavy rain expected
+2024-07-11,CHANDVAD,OTHER,200.0,1099,550.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.2,9.9,No,Moderate,Good moisture
+2024-07-11,YEOLA,OTHER,150.0,920,650.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,28.4,21.2,No,Heavy,Heavy rain expected
+2024-07-11,NASIK,OTHER,300.0,1050,600.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,26.5,26.1,No,Heavy,Heavy rain expected
+2024-07-11,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,850,600.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,26.2,31.6,No,Heavy,Heavy rain expected
+2024-07-11,NANDGAON,OTHER,100.0,829,500.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,29.5,5.0,No,No,Normal conditions
+2024-07-11,MANMAD,OTHER,101.0,902,700.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,28.0,5.4,No,Moderate,Good moisture
+2024-07-11,LASALGAON(VINCHUR),OTHER,300.0,1030,750.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.1,16.0,No,Moderate,Good moisture
+2024-07-11,PIMPALGAON,OTHER,200.0,1751,850.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,25.8,23.7,No,Heavy,Heavy rain expected
+2024-07-11,LASALGAON(NIPHAD),OTHER,300.0,820,641.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.1,16.0,No,Moderate,Good moisture
+2024-07-11,DINDORI(VANI),OTHER,400.0,1432,850.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,26.0,31.7,No,Heavy,Heavy rain expected
+2024-07-11,LASALGAON,OTHER,400.0,1201,770.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.1,16.0,No,Moderate,Good moisture
+2024-07-11,SINNER,OTHER,100.0,776,550.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.6,8.0,No,Moderate,Good moisture
+2024-07-11,DEVALA,OTHER,100.0,1125,775.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,29.9,4.7,No,No,Normal conditions
+2024-07-11,CHANDVAD,OTHER,200.0,985,550.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.2,9.9,No,Moderate,Good moisture
+2024-07-11,LASALGAON(NIPHAD),OTHER,400.0,770,600.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,27.1,16.0,No,Moderate,Good moisture
+2024-07-11,SATANA,OTHER,100.0,955,665.0,,0,0,0,Shukla Panchami,Purva Phalguni,11,7,2024,28,26.6,9.1,No,Moderate,Good moisture
+2024-07-12,PIMPALGAON,OTHER,200.0,1702,800.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,27.4,16.0,No,Moderate,Good moisture
+2024-07-12,SINNER,OTHER,100.0,860,550.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,26.8,5.0,No,No,Normal conditions
+2024-07-12,LASALGAON(VINCHUR),OTHER,350.0,1054,750.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,28.1,17.3,No,Moderate,Good moisture
+2024-07-12,DINDORI(VANI),OTHER,400.0,1217,800.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,27.5,13.6,No,Moderate,Good moisture
+2024-07-12,YEOLA,OTHER,150.0,898,600.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,29.1,9.8,No,Moderate,Good moisture
+2024-07-12,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,760,485.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,26.8,23.7,No,Heavy,Heavy rain expected
+2024-07-12,LASALGAON,OTHER,400.0,1195,800.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,28.1,17.3,No,Moderate,Good moisture
+2024-07-12,MANMAD,OTHER,101.0,768,550.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,28.5,9.3,No,Moderate,Good moisture
+2024-07-12,DINDORI,OTHER,400.0,1140,750.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,27.5,13.6,No,Moderate,Good moisture
+2024-07-12,NASIK,OTHER,300.0,950,600.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,26.4,14.0,No,Moderate,Good moisture
+2024-07-12,KALVAN,OTHER,100.0,885,501.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,28.1,8.2,No,Moderate,Good moisture
+2024-07-12,NANDGAON,OTHER,90.0,852,450.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,30.0,13.5,No,Moderate,Good moisture
+2024-07-12,PIMPALGAON,OTHER,200.0,1700,850.0,,0,0,0,Shukla Shashthi,Uttara Phalguni,12,7,2024,28,27.4,16.0,No,Moderate,Good moisture
+2024-07-13,SATANA,OTHER,100.0,980,710.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,23.7,33.7,No,Heavy,Heavy rain expected
+2024-07-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,215.0,855,610.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,24.6,41.0,No,Heavy,Heavy rain expected
+2024-07-13,SINNER,OTHER,100.0,867,550.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,25.1,28.9,No,Heavy,Heavy rain expected
+2024-07-13,DEVALA,OTHER,100.0,1060,750.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,27.8,36.6,No,Heavy,Heavy rain expected
+2024-07-13,MANMAD,OTHER,101.0,907,690.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,26.0,28.7,No,Heavy,Heavy rain expected
+2024-07-13,NASIK,OTHER,250.0,950,650.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,25.6,46.9,No,Heavy,Heavy rain expected
+2024-07-13,YEOLA,OTHER,200.0,902,650.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,25.9,22.0,No,Heavy,Heavy rain expected
+2024-07-13,LASALGAON(NIPHAD),OTHER,301.0,755,600.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,26.3,28.2,No,Heavy,Heavy rain expected
+2024-07-13,CHANDVAD,OTHER,201.0,1150,600.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,24.9,36.0,No,Heavy,Heavy rain expected
+2024-07-13,LASALGAON(VINCHUR),OTHER,350.0,1077,700.0,,0,0,0,Shukla Saptami,Hasta,13,7,2024,28,26.3,28.2,No,Heavy,Heavy rain expected
+2024-07-14,LASALGAON,OTHER,300.0,1230,751.0,,0,0,0,Shukla Ashtami,Chitra,14,7,2024,28,29.4,3.5,No,No,Normal conditions
+2024-07-15,CHANDVAD,OTHER,200.0,1012,600.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.0,2.0,No,No,Normal conditions
+2024-07-15,DEVALA,OTHER,150.0,1150,750.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,29.6,6.5,No,Moderate,Good moisture
+2024-07-15,MANMAD,OTHER,101.0,925,710.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.5,5.4,No,Moderate,Good moisture
+2024-07-15,SATANA,OTHER,150.0,1050,700.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,26.5,2.1,No,No,Normal conditions
+2024-07-15,NANDGAON,OTHER,100.0,750,475.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.6,9.9,No,Moderate,Good moisture
+2024-07-15,SINNER,OTHER,100.0,758,550.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,27.8,2.7,No,No,Normal conditions
+2024-07-15,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,875,575.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,27.9,2.7,No,No,Normal conditions
+2024-07-15,KALVAN,OTHER,150.0,1201,651.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.5,0.8,No,No,Normal conditions
+2024-07-15,UMRANE,OTHER,401.0,951,775.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.1,2.0,No,No,Normal conditions
+2024-07-15,PIMPALGAON,OTHER,350.0,1700,800.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.2,1.8,No,No,Normal conditions
+2024-07-15,NASIK,OTHER,300.0,900,600.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,27.6,3.2,No,No,Normal conditions
+2024-07-15,LASALGAON(NIPHAD),OTHER,400.0,800,650.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,29.0,1.4,No,No,Normal conditions
+2024-07-15,LASALGAON(VINCHUR),OTHER,350.0,1036,750.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,29.0,1.4,No,No,Normal conditions
+2024-07-15,LASALGAON,OTHER,300.0,1195,760.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,29.0,1.4,No,No,Normal conditions
+2024-07-15,NAMPUR,OTHER,100.0,1200,700.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.8,2.5,No,No,Normal conditions
+2024-07-15,UMRANE,OTHER,351.0,951,700.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.1,2.0,No,No,Normal conditions
+2024-07-15,PIMPALGAON,OTHER,200.0,1685,800.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.2,1.8,No,No,Normal conditions
+2024-07-15,DINDORI(VANI),OTHER,500.0,1470,850.0,,0,0,0,Shukla Navami,Swati,15,7,2024,29,28.2,2.2,No,No,Normal conditions
+2024-07-16,CHANDVAD,OTHER,271.0,1111,600.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,28.9,14.8,No,Moderate,Good moisture
+2024-07-16,MANMAD,OTHER,101.0,995,710.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,30.2,9.8,No,Moderate,Good moisture
+2024-07-16,YEOLA,OTHER,200.0,922,650.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,30.6,5.7,No,Moderate,Good moisture
+2024-07-16,NAMPUR,OTHER,100.0,1250,700.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,29.6,9.0,No,Moderate,Good moisture
+2024-07-16,DINDORI,OTHER,501.0,1227,775.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,29.5,9.8,No,Moderate,Good moisture
+2024-07-16,SINNER,OTHER,100.0,811,550.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,30.4,10.2,No,Moderate,Good moisture
+2024-07-16,LASALGAON,OTHER,400.0,1232,770.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,31.0,11.3,No,Moderate,Good moisture
+2024-07-16,NASIK,OTHER,300.0,1050,755.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,28.9,3.7,No,No,Normal conditions
+2024-07-16,LASALGAON(NIPHAD),OTHER,400.0,851,650.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,31.0,11.3,No,Moderate,Good moisture
+2024-07-16,DEVALA,OTHER,100.0,1250,775.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,31.7,13.2,No,Moderate,Good moisture
+2024-07-16,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,870,615.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,29.3,7.6,No,Moderate,Good moisture
+2024-07-16,LASALGAON(VINCHUR),OTHER,350.0,1121,750.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Dashami,Vishakha,16,7,2024,29,31.0,11.3,No,Moderate,Good moisture
+2024-07-17,SATANA,OTHER,100.0,1095,750.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari, Muharram",0,1,0,Shukla Ekadashi,Anuradha,17,7,2024,29,27.8,6.1,No,Moderate,Good moisture
+2024-07-17,NANDGAON,OTHER,50.0,862,500.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari, Muharram",0,1,0,Shukla Ekadashi,Anuradha,17,7,2024,29,29.4,16.4,No,Moderate,Good moisture
+2024-07-17,MANMAD,OTHER,100.0,931,770.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari, Muharram",0,1,0,Shukla Ekadashi,Anuradha,17,7,2024,29,28.3,4.7,No,No,Normal conditions
+2024-07-17,YEOLA,OTHER,150.0,950,700.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari, Muharram",0,1,0,Shukla Ekadashi,Anuradha,17,7,2024,29,29.0,8.7,No,Moderate,Good moisture
+2024-07-18,LASALGAON,OTHER,400.0,1174,751.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.8,5.9,No,Moderate,Good moisture
+2024-07-18,DINDORI(VANI),OTHER,500.0,1401,820.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.6,5.8,No,Moderate,Good moisture
+2024-07-18,CHANDVAD,OTHER,300.0,1125,750.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.1,5.4,No,Moderate,Good moisture
+2024-07-18,NANDGAON,OTHER,50.0,871,550.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,28.5,5.0,No,No,Normal conditions
+2024-07-18,LASALGAON(NIPHAD),OTHER,300.0,1000,711.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.8,5.9,No,Moderate,Good moisture
+2024-07-18,NASIK,OTHER,350.0,1450,700.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,26.1,5.8,No,Moderate,Good moisture
+2024-07-18,LASALGAON(VINCHUR),OTHER,350.0,1020,700.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.8,5.9,No,Moderate,Good moisture
+2024-07-18,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,845,590.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.0,7.0,No,Moderate,Good moisture
+2024-07-18,PIMPALGAON,OTHER,350.0,1730,850.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.6,6.1,No,Moderate,Good moisture
+2024-07-18,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,810,600.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.0,7.0,No,Moderate,Good moisture
+2024-07-18,LASALGAON,OTHER,300.0,1168,770.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.8,5.9,No,Moderate,Good moisture
+2024-07-18,LASALGAON(NIPHAD),OTHER,401.0,900,700.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.8,5.9,No,Moderate,Good moisture
+2024-07-18,PIMPALGAON,OTHER,281.0,1820,850.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.6,6.1,No,Moderate,Good moisture
+2024-07-18,YEOLA,OTHER,100.0,891,700.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.9,3.4,No,No,Normal conditions
+2024-07-18,MANMAD,OTHER,101.0,949,750.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,27.6,5.2,No,Moderate,Good moisture
+2024-07-18,SINNER,OTHER,100.0,1013,650.0,,0,0,0,Shukla Dwadashi,Jyeshtha,18,7,2024,29,26.5,2.1,No,No,Normal conditions
+2024-07-19,NASIK,OTHER,300.0,950,650.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,26.0,9.8,No,Moderate,Good moisture
+2024-07-19,LASALGAON(VINCHUR),OTHER,400.0,1031,730.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.7,1.7,No,No,Normal conditions
+2024-07-19,LASALGAON(VINCHUR),OTHER,450.0,1011,700.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.7,1.7,No,No,Normal conditions
+2024-07-19,NASIK,OTHER,300.0,1000,600.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,26.0,9.8,No,Moderate,Good moisture
+2024-07-19,LASALGAON(NIPHAD),OTHER,300.0,799,675.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.7,1.7,No,No,Normal conditions
+2024-07-19,PIMPALGAON,OTHER,250.0,1611,800.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.9,2.7,No,No,Normal conditions
+2024-07-19,MANMAD,OTHER,101.0,931,770.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,28.0,3.8,No,No,Normal conditions
+2024-07-19,SATANA,OTHER,100.0,1030,775.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,26.6,2.1,No,No,Normal conditions
+2024-07-19,CHANDVAD,OTHER,301.0,996,730.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.5,1.9,No,No,Normal conditions
+2024-07-19,LASALGAON,OTHER,400.0,1166,800.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.7,1.7,No,No,Normal conditions
+2024-07-19,KALVAN,OTHER,100.0,900,501.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,28.3,0.7,No,No,Normal conditions
+2024-07-19,UMRANE,OTHER,351.0,875,700.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.0,3.3,No,No,Normal conditions
+2024-07-19,SINNER,OTHER,100.0,791,575.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,26.5,4.9,No,No,Normal conditions
+2024-07-19,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,825,575.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,27.2,4.8,No,No,Normal conditions
+2024-07-19,YEOLA,OTHER,100.0,890,600.0,,0,0,0,Shukla Trayodashi,Mula,19,7,2024,29,28.1,3.3,No,No,Normal conditions
+2024-07-20,DEVALA,OTHER,100.0,1200,750.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,28.6,1.0,No,No,Normal conditions
+2024-07-20,LASALGAON,OTHER,400.0,1140,775.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,27.0,3.4,No,No,Normal conditions
+2024-07-20,CHANDVAD,OTHER,250.0,1016,700.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,26.4,2.2,No,No,Normal conditions
+2024-07-20,YEOLA,OTHER,150.0,876,600.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,27.6,3.0,No,No,Normal conditions
+2024-07-20,DINDORI(VANI),OTHER,500.0,1313,750.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,26.6,5.2,No,Moderate,Good moisture
+2024-07-20,DINDORI,OTHER,600.0,1025,775.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,26.6,5.2,No,Moderate,Good moisture
+2024-07-20,SINNER,OTHER,100.0,731,500.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,26.2,3.8,No,No,Normal conditions
+2024-07-20,SATANA,OTHER,100.0,1070,725.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,25.6,1.5,No,No,Normal conditions
+2024-07-20,NASIK,OTHER,300.0,1051,750.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,26.3,4.8,No,No,Normal conditions
+2024-07-20,LASALGAON(VINCHUR),OTHER,400.0,1031,700.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,27.0,3.4,No,No,Normal conditions
+2024-07-20,LASALGAON(NIPHAD),OTHER,300.0,861,700.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Purva Ashadha,20,7,2024,29,27.0,3.4,No,No,Normal conditions
+2024-07-21,MANMAD,OTHER,101.0,934,760.0,"Shravana Purnima / Raksha Bandhan, Narali Purnima / Coconut Festival",0,0,1,Shukla Purnima,Uttara Ashadha,21,7,2024,29,27.0,10.9,No,Moderate,Good moisture
+2024-07-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,830,610.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.1,19.1,No,Moderate,Good moisture
+2024-07-22,PIMPALGAON,OTHER,200.0,1556,800.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.7,21.5,No,Heavy,Heavy rain expected
+2024-07-22,DEVALA,OTHER,100.0,1075,650.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,26.0,43.0,No,Heavy,Heavy rain expected
+2024-07-22,NAMPUR,OTHER,100.0,1000,700.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,25.4,31.3,No,Heavy,Heavy rain expected
+2024-07-22,DINDORI,OTHER,517.0,986,731.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.5,18.8,No,Moderate,Good moisture
+2024-07-22,LASALGAON,OTHER,300.0,1111,725.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.9,23.0,No,Heavy,Heavy rain expected
+2024-07-22,NASIK,OTHER,250.0,925,600.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.0,22.2,No,Heavy,Heavy rain expected
+2024-07-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,855,600.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.1,19.1,No,Moderate,Good moisture
+2024-07-22,PIMPALGAON,OTHER,311.0,1496,800.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.7,21.5,No,Heavy,Heavy rain expected
+2024-07-22,SINNER,OTHER,100.0,831,500.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.5,14.8,No,Moderate,Good moisture
+2024-07-22,DEVALA,OTHER,100.0,1100,675.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,26.0,43.0,No,Heavy,Heavy rain expected
+2024-07-22,DINDORI(VANI),OTHER,400.0,1217,750.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.5,18.8,No,Moderate,Good moisture
+2024-07-22,MANMAD,OTHER,101.0,815,650.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,25.0,34.2,No,Heavy,Heavy rain expected
+2024-07-22,NAMPUR,OTHER,100.0,945,700.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,25.4,31.3,No,Heavy,Heavy rain expected
+2024-07-22,LASALGAON(VINCHUR),OTHER,300.0,851,650.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.9,23.0,No,Heavy,Heavy rain expected
+2024-07-22,CHANDVAD,OTHER,200.0,1025,570.0,,0,0,0,Krishna Pratipada,Shravana,22,7,2024,30,24.4,27.2,No,Heavy,Heavy rain expected
+2024-07-23,LASALGAON(NIPHAD),OTHER,300.0,901,700.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.9,19.0,No,Moderate,Good moisture
+2024-07-23,SATANA,OTHER,100.0,1100,745.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,23.5,20.2,No,Heavy,Heavy rain expected
+2024-07-23,DINDORI,OTHER,551.0,930,735.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,20.2,No,Heavy,Heavy rain expected
+2024-07-23,LASALGAON,OTHER,400.0,981,680.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.9,19.0,No,Moderate,Good moisture
+2024-07-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,855,560.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,21.9,No,Heavy,Heavy rain expected
+2024-07-23,LASALGAON(VINCHUR),OTHER,400.0,1001,600.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.9,19.0,No,Moderate,Good moisture
+2024-07-23,YEOLA,OTHER,150.0,794,550.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.5,19.6,No,Moderate,Good moisture
+2024-07-23,DINDORI(VANI),OTHER,300.0,1070,775.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,20.2,No,Heavy,Heavy rain expected
+2024-07-23,LASALGAON,OTHER,400.0,981,860.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.9,19.0,No,Moderate,Good moisture
+2024-07-23,MANMAD,OTHER,200.0,800,650.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,19.6,No,Moderate,Good moisture
+2024-07-23,NASIK,OTHER,200.0,950,600.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,21.1,No,Heavy,Heavy rain expected
+2024-07-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,855,575.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,21.9,No,Heavy,Heavy rain expected
+2024-07-23,PIMPALGAON,OTHER,300.0,1330,800.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.5,22.0,No,Heavy,Heavy rain expected
+2024-07-23,NANDGAON,OTHER,100.0,751,450.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,25.6,26.7,No,Heavy,Heavy rain expected
+2024-07-23,LASALGAON(VINCHUR),OTHER,450.0,1001,700.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.9,19.0,No,Moderate,Good moisture
+2024-07-23,DINDORI,OTHER,450.0,801,621.0,,0,0,0,Krishna Dwitiya,Dhanishtha,23,7,2024,30,24.4,20.2,No,Heavy,Heavy rain expected
+2024-07-24,NASIK,OTHER,300.0,1000,650.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.3,39.1,No,Heavy,Heavy rain expected
+2024-07-24,SATANA,OTHER,100.0,1025,650.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,23.1,29.2,No,Heavy,Heavy rain expected
+2024-07-24,DEVALA,OTHER,100.0,1030,675.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,26.2,30.1,No,Heavy,Heavy rain expected
+2024-07-24,LASALGAON(NIPHAD),OTHER,300.0,781,630.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.0,34.9,No,Heavy,Heavy rain expected
+2024-07-24,LASALGAON,OTHER,300.0,920,700.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.0,34.9,No,Heavy,Heavy rain expected
+2024-07-24,DINDORI(VANI),OTHER,400.0,1100,850.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.2,39.6,No,Heavy,Heavy rain expected
+2024-07-24,DINDORI(VANI),OTHER,400.0,1156,701.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.2,39.6,No,Heavy,Heavy rain expected
+2024-07-24,NANDGAON,OTHER,100.0,750,450.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,25.1,30.6,No,Heavy,Heavy rain expected
+2024-07-24,UMRANE,RED,200.0,500,425.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,23.4,33.0,No,Heavy,Heavy rain expected
+2024-07-24,SATANA,OTHER,75.0,1000,675.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,23.1,29.2,No,Heavy,Heavy rain expected
+2024-07-24,YEOLA,OTHER,100.0,844,575.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.0,33.8,No,Heavy,Heavy rain expected
+2024-07-24,DEVALA,OTHER,100.0,1040,700.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,26.2,30.1,No,Heavy,Heavy rain expected
+2024-07-24,PIMPALGAON BASWANT(SAYKHEDA),OTHER,210.0,870,590.0,,0,0,0,Krishna Tritiya,Shatabhisha,24,7,2024,30,24.1,48.0,No,Heavy,Heavy rain expected
+2024-07-25,LASALGAON(NIPHAD),OTHER,300.0,751,611.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.6,20.6,No,Heavy,Heavy rain expected
+2024-07-25,LASALGAON,OTHER,300.0,1100,610.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.6,20.6,No,Heavy,Heavy rain expected
+2024-07-25,SINNER,OTHER,100.0,795,500.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.0,38.2,No,Heavy,Heavy rain expected
+2024-07-25,NAMPUR,OTHER,100.0,880,700.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,26.1,5.9,No,Moderate,Good moisture
+2024-07-25,NASIK,OTHER,300.0,900,700.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.2,29.6,No,Heavy,Heavy rain expected
+2024-07-25,MANMAD,RED,100.0,540,400.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,25.5,12.3,No,Moderate,Good moisture
+2024-07-25,DINDORI,OTHER,400.0,831,575.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.2,15.0,No,Moderate,Good moisture
+2024-07-25,CHANDVAD,OTHER,350.0,1025,600.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,25.0,8.1,No,Moderate,Good moisture
+2024-07-25,MANMAD,OTHER,101.0,833,680.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,25.5,12.3,No,Moderate,Good moisture
+2024-07-25,LASALGAON(VINCHUR),OTHER,400.0,990,650.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.6,20.6,No,Heavy,Heavy rain expected
+2024-07-25,UMRANE,OTHER,401.0,870,635.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.6,12.2,No,Moderate,Good moisture
+2024-07-25,PIMPALGAON,OTHER,200.0,1395,800.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,24.5,16.1,No,Moderate,Good moisture
+2024-07-25,KALVAN,OTHER,150.0,1100,601.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,25.5,5.5,No,Moderate,Good moisture
+2024-07-25,NAMPUR,OTHER,100.0,910,700.0,,0,0,0,Krishna Panchami,Purva Bhadrapada,25,7,2024,30,26.1,5.9,No,Moderate,Good moisture
+2024-07-26,UMRANE,RED,301.0,600,500.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,26.9,6.8,No,Moderate,Good moisture
+2024-07-26,CHANDVAD,RED,235.0,951,550.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,27.3,2.8,No,No,Normal conditions
+2024-07-26,MANMAD,RED,100.0,617,500.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,27.7,1.1,No,No,Normal conditions
+2024-07-26,LASALGAON(VINCHUR),OTHER,350.0,880,600.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,27.4,4.4,No,No,Normal conditions
+2024-07-26,NASIK,OTHER,300.0,900,600.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,25.9,6.6,No,Moderate,Good moisture
+2024-07-26,NANDGAON,OTHER,100.0,731,400.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,29.0,1.7,No,No,Normal conditions
+2024-07-26,DEVALA,OTHER,125.0,910,675.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,29.4,1.3,No,No,Normal conditions
+2024-07-26,DINDORI(VANI),OTHER,400.0,1121,700.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,25.8,6.0,No,Moderate,Good moisture
+2024-07-26,UMRANE,OTHER,301.0,927,650.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,26.9,6.8,No,Moderate,Good moisture
+2024-07-26,LASALGAON,OTHER,300.0,961,620.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,27.4,4.4,No,No,Normal conditions
+2024-07-26,KALVAN,OTHER,100.0,1035,550.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,26.9,3.2,No,No,Normal conditions
+2024-07-26,DINDORI,OTHER,430.0,902,685.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,25.8,6.0,No,Moderate,Good moisture
+2024-07-26,PIMPALGAON,OTHER,225.0,1401,800.0,,0,0,0,Krishna Shashthi,Uttara Bhadrapada,26,7,2024,30,26.4,4.8,No,No,Normal conditions
+2024-07-27,SINNER,OTHER,100.0,686,500.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,25.4,5.7,No,Moderate,Good moisture
+2024-07-27,LASALGAON(NIPHAD),OTHER,321.0,808,600.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,26.9,5.7,No,Moderate,Good moisture
+2024-07-27,NASIK,POLE,120.0,400,300.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,25.4,7.2,No,Moderate,Good moisture
+2024-07-27,CHANDVAD,OTHER,100.0,300,200.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,26.2,4.7,No,No,Normal conditions
+2024-07-27,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,850,580.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,24.9,7.0,No,Moderate,Good moisture
+2024-07-27,SATANA,OTHER,100.0,920,690.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,24.1,11.5,No,Moderate,Good moisture
+2024-07-27,MANMAD,OTHER,101.0,786,640.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,27.0,4.5,No,No,Normal conditions
+2024-07-27,LASALGAON(VINCHUR),OTHER,450.0,923,600.0,Krishna Janmashtami,0,0,0,Krishna Saptami,Revati,27,7,2024,30,26.9,5.7,No,Moderate,Good moisture
+2024-07-28,PIMPALGAON,OTHER,250.0,1478,850.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Ashwini,28,7,2024,30,25.6,24.6,No,Heavy,Heavy rain expected
+2024-07-29,NANDGAON,OTHER,100.0,726,450.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,28.0,4.5,No,No,Normal conditions
+2024-07-29,NAMPUR,OTHER,100.0,900,700.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,28.8,6.1,No,Moderate,Good moisture
+2024-07-29,DINDORI,OTHER,517.0,915,720.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,26.7,3.8,No,No,Normal conditions
+2024-07-29,LASALGAON,RED,200.0,471,340.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.0,6.0,No,Moderate,Good moisture
+2024-07-29,SATANA,OTHER,150.0,885,600.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,25.6,4.0,No,No,Normal conditions
+2024-07-29,CHANDVAD,OTHER,235.0,1000,550.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.3,4.4,No,No,Normal conditions
+2024-07-29,DINDORI(VANI),OTHER,400.0,1200,700.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,26.7,3.8,No,No,Normal conditions
+2024-07-29,YEOLA,OTHER,150.0,841,650.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.1,16.0,No,Moderate,Good moisture
+2024-07-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,900,590.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,26.5,4.2,No,No,Normal conditions
+2024-07-29,SINNER,OTHER,100.0,801,600.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,26.4,5.9,No,Moderate,Good moisture
+2024-07-29,LASALGAON,OTHER,400.0,980,640.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.0,6.0,No,Moderate,Good moisture
+2024-07-29,LASALGAON(NIPHAD),OTHER,371.0,911,670.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.0,6.0,No,Moderate,Good moisture
+2024-07-29,MANMAD,RED,100.0,621,500.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.5,3.8,No,No,Normal conditions
+2024-07-29,NASIK,OTHER,350.0,1051,750.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,26.4,18.0,No,Moderate,Good moisture
+2024-07-29,MANMAD,OTHER,101.0,760,600.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.5,3.8,No,No,Normal conditions
+2024-07-29,KALVAN,OTHER,100.0,1120,550.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.7,5.0,No,No,Normal conditions
+2024-07-29,LASALGAON(NIPHAD),OTHER,400.0,870,691.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,27.0,6.0,No,Moderate,Good moisture
+2024-07-29,PIMPALGAON,OTHER,225.0,1381,800.0,,0,0,0,Krishna Navami,Bharani,29,7,2024,31,26.8,3.9,No,No,Normal conditions
+2024-07-30,LASALGAON(VINCHUR),OTHER,400.0,890,650.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.5,3.7,No,No,Normal conditions
+2024-07-30,NASIK,OTHER,350.0,1051,750.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.1,3.6,No,No,Normal conditions
+2024-07-30,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,805,575.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.5,3.7,No,No,Normal conditions
+2024-07-30,LASALGAON,OTHER,400.0,1051,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.5,3.7,No,No,Normal conditions
+2024-07-30,LASALGAON,RED,211.0,532,456.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.5,3.7,No,No,Normal conditions
+2024-07-30,CHANDVAD,OTHER,300.0,1085,550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.8,21.5,No,Heavy,Heavy rain expected
+2024-07-30,LASALGAON(NIPHAD),OTHER,400.0,869,671.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.5,3.7,No,No,Normal conditions
+2024-07-30,LASALGAON(VINCHUR),OTHER,300.0,901,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.5,3.7,No,No,Normal conditions
+2024-07-30,DEVALA,OTHER,100.0,985,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,30.4,13.7,No,Moderate,Good moisture
+2024-07-30,MANMAD,OTHER,101.0,719,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.4,7.3,No,Moderate,Good moisture
+2024-07-30,SATANA,OTHER,150.0,950,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.0,7.5,No,Moderate,Good moisture
+2024-07-30,SINNER,OTHER,100.0,750,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.4,2.1,No,No,Normal conditions
+2024-07-30,YEOLA,OTHER,150.0,934,650.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.8,1.9,No,No,Normal conditions
+2024-07-30,PIMPALGAON,OTHER,200.0,1381,800.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.4,4.7,No,No,Normal conditions
+2024-07-30,YEOLA,OTHER,100.0,825,650.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,28.8,1.9,No,No,Normal conditions
+2024-07-30,SINNER,OTHER,100.0,795,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.4,2.1,No,No,Normal conditions
+2024-07-30,SATANA,OTHER,150.0,900,710.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.0,7.5,No,Moderate,Good moisture
+2024-07-30,NASIK,OTHER,300.0,900,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Krittika,30,7,2024,31,27.1,3.6,No,No,Normal conditions
+2024-07-31,LASALGAON(VINCHUR),OTHER,300.0,931,675.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,MANMAD,OTHER,101.0,778,600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,UMRANE,RED,151.0,570,400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.6,3.1,No,No,Normal conditions
+2024-07-31,NANDGAON,RED,100.0,300,250.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,29.5,6.8,No,Moderate,Good moisture
+2024-07-31,LASALGAON,RED,200.0,440,300.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,LASALGAON(NIPHAD),OTHER,300.0,871,640.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,PIMPALGAON,OTHER,253.0,1401,850.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.5,4.1,No,No,Normal conditions
+2024-07-31,LASALGAON,OTHER,300.0,1100,660.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,DEVALA,OTHER,155.0,965,700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,30.5,3.8,No,No,Normal conditions
+2024-07-31,MANMAD,RED,100.0,561,400.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,NANDGAON,OTHER,100.0,800,550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,29.5,6.8,No,Moderate,Good moisture
+2024-07-31,KALVAN,OTHER,100.0,1150,651.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.6,3.3,No,No,Normal conditions
+2024-07-31,DINDORI,OTHER,546.0,870,725.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.2,4.5,No,No,Normal conditions
+2024-07-31,YEOLA,OTHER,150.0,875,700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,5.8,No,Moderate,Good moisture
+2024-07-31,LASALGAON(VINCHUR),RED,300.0,650,550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,NASIK,OTHER,500.0,951,760.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.1,8.6,No,Moderate,Good moisture
+2024-07-31,NASIK,POLE,100.0,500,450.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.1,8.6,No,Moderate,Good moisture
+2024-07-31,LASALGAON,OTHER,300.0,1052,651.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,28.5,3.9,No,No,Normal conditions
+2024-07-31,DINDORI(VANI),OTHER,600.0,1175,851.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Rohini,31,7,2024,31,27.2,4.5,No,No,Normal conditions
+2024-08-04,NANDGAON,OTHER,75.0,833,500.0,"Shravana Amavasya, Bail Pola / Pithori Amavasya",1,0,0,Krishna Amavasya,Pushya,4,8,2024,31,26.8,6.0,No,Moderate,Good moisture
+2024-08-05,DINDORI,OTHER,570.0,986,745.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,1.7,No,No,Normal conditions
+2024-08-05,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,800,600.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.0,1.8,No,No,Normal conditions
+2024-08-05,LASALGAON,RED,254.0,512,451.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.5,2.8,No,No,Normal conditions
+2024-08-05,MANMAD,RED,100.0,644,500.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.8,1.0,No,No,Normal conditions
+2024-08-05,PIMPALGAON,OTHER,230.0,1400,850.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.2,4.9,No,No,Normal conditions
+2024-08-05,LASALGAON(VINCHUR),OTHER,350.0,960,675.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.5,2.8,No,No,Normal conditions
+2024-08-05,SINNER,OTHER,100.0,770,550.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.2,2.3,No,No,Normal conditions
+2024-08-05,LASALGAON(NIPHAD),OTHER,311.0,856,650.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.5,2.8,No,No,Normal conditions
+2024-08-05,SATANA,RED,50.0,565,420.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,3.8,No,No,Normal conditions
+2024-08-05,CHANDVAD,RED,100.0,476,300.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,1.1,No,No,Normal conditions
+2024-08-05,MANMAD,OTHER,101.0,740,610.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.8,1.0,No,No,Normal conditions
+2024-08-05,DEVALA,OTHER,150.0,870,725.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,28.2,0.3,No,No,Normal conditions
+2024-08-05,SATANA,OTHER,75.0,945,730.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,3.8,No,No,Normal conditions
+2024-08-05,KALVAN,OTHER,120.0,1140,650.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,27.4,1.7,No,No,Normal conditions
+2024-08-05,CHANDVAD,OTHER,200.0,925,530.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,1.1,No,No,Normal conditions
+2024-08-05,MANMAD,RED,100.0,563,480.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.8,1.0,No,No,Normal conditions
+2024-08-05,DINDORI,OTHER,595.0,991,750.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,1.7,No,No,Normal conditions
+2024-08-05,CHANDVAD,OTHER,252.0,954,550.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,1.1,No,No,Normal conditions
+2024-08-05,LASALGAON(VINCHUR),RED,300.0,770,550.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.5,2.8,No,No,Normal conditions
+2024-08-05,CHANDVAD,RED,100.0,400,300.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,26.1,1.1,No,No,Normal conditions
+2024-08-05,UMRANE,OTHER,401.0,825,700.0,,0,0,0,Shukla Pratipada,Ashlesha,5,8,2024,32,25.9,4.6,No,No,Normal conditions
+2024-08-06,NASIK,POLE,100.0,525,401.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,26.9,3.2,No,No,Normal conditions
+2024-08-06,DINDORI(VANI),OTHER,600.0,1175,851.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,27.5,2.0,No,No,Normal conditions
+2024-08-06,SATANA,OTHER,55.0,955,725.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,27.0,3.2,No,No,Normal conditions
+2024-08-06,UMRANE,RED,301.0,650,500.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,27.5,2.4,No,No,Normal conditions
+2024-08-06,LASALGAON(NIPHAD),OTHER,351.0,775,700.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,28.0,3.3,No,No,Normal conditions
+2024-08-06,NANDGAON,OTHER,50.0,791,500.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,29.6,0.6,No,No,Normal conditions
+2024-08-06,MANMAD,OTHER,101.0,772,610.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,28.4,0.5,No,No,Normal conditions
+2024-08-06,KALVAN,OTHER,100.0,1200,650.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,28.4,0.9,No,No,Normal conditions
+2024-08-06,LASALGAON,OTHER,400.0,1118,775.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,28.0,3.3,No,No,Normal conditions
+2024-08-06,NAMPUR,OTHER,100.0,930,700.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,29.0,0.1,No,No,Normal conditions
+2024-08-06,SATANA,RED,50.0,630,485.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,27.0,3.2,No,No,Normal conditions
+2024-08-06,LASALGAON(VINCHUR),OTHER,350.0,912,700.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,28.0,3.3,No,No,Normal conditions
+2024-08-06,LASALGAON,RED,320.0,625,541.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,28.0,3.3,No,No,Normal conditions
+2024-08-06,SINNER,OTHER,100.0,891,600.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,27.2,0.6,No,No,Normal conditions
+2024-08-06,DEVALA,OTHER,100.0,885,700.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,30.0,0.6,No,No,Normal conditions
+2024-08-06,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,850,610.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,27.1,2.7,No,No,Normal conditions
+2024-08-06,NASIK,OTHER,450.0,951,725.0,,0,0,0,Shukla Dwitiya,Magha,6,8,2024,32,26.9,3.2,No,No,Normal conditions
+2024-08-07,PIMPALGAON,OTHER,325.0,1372,925.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.8,1.9,No,No,Normal conditions
+2024-08-07,NANDGAON,RED,75.0,425,250.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,29.9,1.1,No,No,Normal conditions
+2024-08-07,DINDORI,OTHER,600.0,986,720.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.5,2.4,No,No,Normal conditions
+2024-08-07,YEOLA,OTHER,150.0,861,700.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,28.8,1.6,No,No,Normal conditions
+2024-08-07,SINNER,OTHER,100.0,825,600.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,26.6,1.5,No,No,Normal conditions
+2024-08-07,MANMAD,OTHER,100.0,763,550.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,28.5,1.5,No,No,Normal conditions
+2024-08-07,NANDGAON,OTHER,50.0,800,500.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,29.9,1.1,No,No,Normal conditions
+2024-08-07,LASALGAON,OTHER,500.0,1091,800.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,28.1,3.2,No,No,Normal conditions
+2024-08-07,DINDORI(VANI),OTHER,650.0,1200,855.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.5,2.4,No,No,Normal conditions
+2024-08-07,PIMPALGAON,OTHER,350.0,1311,900.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.8,1.9,No,No,Normal conditions
+2024-08-07,NAMPUR,OTHER,100.0,930,700.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,28.5,0.8,No,No,Normal conditions
+2024-08-07,CHANDVAD,RED,100.0,645,400.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.4,2.3,No,No,Normal conditions
+2024-08-07,NASIK,OTHER,500.0,1001,750.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.4,3.2,No,No,Normal conditions
+2024-08-07,LASALGAON,RED,351.0,760,500.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,28.1,3.2,No,No,Normal conditions
+2024-08-07,NASIK,POLE,125.0,551,400.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.4,3.2,No,No,Normal conditions
+2024-08-07,LASALGAON(NIPHAD),RED,321.0,560,441.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,28.1,3.2,No,No,Normal conditions
+2024-08-07,PIMPALGAON,POLE,300.0,580,500.0,,0,0,0,Shukla Tritiya,Purva Phalguni,7,8,2024,32,27.8,1.9,No,No,Normal conditions
+2024-08-08,CHANDVAD,OTHER,400.0,887,650.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,25.2,1.1,No,No,Normal conditions
+2024-08-08,MANMAD,RED,100.0,625,490.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.2,1.5,No,No,Normal conditions
+2024-08-08,SATANA,RED,100.0,680,475.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,24.8,4.7,No,No,Normal conditions
+2024-08-08,SATANA,OTHER,50.0,1125,775.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,24.8,4.7,No,No,Normal conditions
+2024-08-08,LASALGAON(NIPHAD),OTHER,300.0,871,700.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,900,650.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,25.5,2.4,No,No,Normal conditions
+2024-08-08,DEVALA,OTHER,125.0,935,725.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,27.4,0.8,No,No,Normal conditions
+2024-08-08,LASALGAON(VINCHUR),OTHER,300.0,951,700.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,LASALGAON(VINCHUR),RED,300.0,692,500.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,LASALGAON(VINCHUR),OTHER,400.0,981,750.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,LASALGAON(NIPHAD),OTHER,351.0,852,725.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,NASIK,POLE,100.0,500,400.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.5,2.9,No,No,Normal conditions
+2024-08-08,PIMPALGAON,OTHER,250.0,1253,800.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,25.9,2.4,No,No,Normal conditions
+2024-08-08,DINDORI(VANI),OTHER,550.0,1171,801.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,25.4,2.6,No,No,Normal conditions
+2024-08-08,PIMPALGAON,POLE,400.0,653,500.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,25.9,2.4,No,No,Normal conditions
+2024-08-08,LASALGAON,OTHER,400.0,1000,760.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,LASALGAON,RED,300.0,740,480.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,26.8,2.3,No,No,Normal conditions
+2024-08-08,YEOLA,RED,100.0,735,550.0,Nag Panchami,0,0,0,Shukla Chaturthi,Uttara Phalguni,8,8,2024,32,27.1,1.4,No,No,Normal conditions
+2024-08-09,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,900,635.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,24.5,4.5,No,No,Normal conditions
+2024-08-09,LASALGAON(NIPHAD),RED,271.0,620,581.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,CHANDVAD,RED,100.0,627,550.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.1,7.7,No,Moderate,Good moisture
+2024-08-09,CHANDVAD,OTHER,412.0,901,650.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.1,7.7,No,Moderate,Good moisture
+2024-08-09,MANMAD,OTHER,200.0,860,700.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,27.1,6.3,No,Moderate,Good moisture
+2024-08-09,NASIK,OTHER,500.0,900,700.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,24.6,2.5,No,No,Normal conditions
+2024-08-09,YEOLA,OTHER,150.0,901,725.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,26.1,5.9,No,Moderate,Good moisture
+2024-08-09,MANMAD,RED,200.0,675,550.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,27.1,6.3,No,Moderate,Good moisture
+2024-08-09,KALVAN,OTHER,100.0,1055,650.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.4,9.0,No,Moderate,Good moisture
+2024-08-09,LASALGAON,OTHER,451.0,1131,775.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,LASALGAON(NIPHAD),OTHER,330.0,852,771.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,LASALGAON(NIPHAD),RED,475.0,681,602.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,LASALGAON(VINCHUR),RED,350.0,550,500.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,CHANDVAD,OTHER,500.0,901,750.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.1,7.7,No,Moderate,Good moisture
+2024-08-09,PIMPALGAON,POLE,200.0,661,550.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.8,10.4,No,Moderate,Good moisture
+2024-08-09,LASALGAON(VINCHUR),OTHER,401.0,992,750.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,LASALGAON,RED,252.0,800,660.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.5,10.5,No,Moderate,Good moisture
+2024-08-09,PIMPALGAON,OTHER,350.0,1201,850.0,Nag Panchami,0,0,0,Shukla Panchami,Hasta,9,8,2024,32,25.8,10.4,No,Moderate,Good moisture
+2024-08-10,PIMPALGAON BASWANT(SAYKHEDA),OTHER,275.0,865,630.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,27.6,2.2,No,No,Normal conditions
+2024-08-10,NANDGAON,RED,100.0,541,375.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,29.2,2.3,No,No,Normal conditions
+2024-08-10,LASALGAON(VINCHUR),RED,300.0,600,550.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.5,2.1,No,No,Normal conditions
+2024-08-10,MANMAD,OTHER,201.0,875,700.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.6,1.7,No,No,Normal conditions
+2024-08-10,LASALGAON(NIPHAD),OTHER,351.0,801,700.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.5,2.1,No,No,Normal conditions
+2024-08-10,SATANA,RED,50.0,725,600.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,27.0,4.7,No,No,Normal conditions
+2024-08-10,LASALGAON,OTHER,400.0,1111,750.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.5,2.1,No,No,Normal conditions
+2024-08-10,DEVALA,OTHER,100.0,1111,750.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,29.6,4.2,No,No,Normal conditions
+2024-08-10,PIMPALGAON,POLE,301.0,689,500.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.2,2.8,No,No,Normal conditions
+2024-08-10,CHANDVAD,RED,100.0,709,450.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.0,1.0,No,No,Normal conditions
+2024-08-10,KALVAN,RED,150.0,801,600.0,,0,0,0,Shukla Shashthi,Chitra,10,8,2024,32,28.9,0.9,No,No,Normal conditions
+2024-08-11,YEOLA,OTHER,200.0,862,725.0,Mangala Gaur (Shravana Tuesday),0,0,0,Shukla Saptami,Swati,11,8,2024,32,28.2,0.9,No,No,Normal conditions
+2024-08-12,NANDGAON,OTHER,100.0,800,550.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,29.2,3.0,No,No,Normal conditions
+2024-08-12,LASALGAON,RED,300.0,778,620.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,28.0,3.0,No,No,Normal conditions
+2024-08-12,PIMPALGAON,OTHER,301.0,1161,850.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,27.6,3.0,No,No,Normal conditions
+2024-08-12,KALVAN,OTHER,200.0,1085,700.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,27.8,2.0,No,No,Normal conditions
+2024-08-12,YEOLA,RED,150.0,762,600.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,28.4,2.1,No,No,Normal conditions
+2024-08-12,UMRANE,RED,201.0,700,550.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,26.8,1.4,No,No,Normal conditions
+2024-08-12,CHANDVAD,OTHER,528.0,936,720.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,27.7,2.1,No,No,Normal conditions
+2024-08-12,SATANA,OTHER,50.0,900,730.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,25.9,3.0,No,No,Normal conditions
+2024-08-12,MANMAD,RED,200.0,737,600.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,28.6,0.5,No,No,Normal conditions
+2024-08-12,LASALGAON(NIPHAD),RED,401.0,640,590.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,28.0,3.0,No,No,Normal conditions
+2024-08-12,UMRANE,OTHER,451.0,830,700.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,26.8,1.4,No,No,Normal conditions
+2024-08-12,LASALGAON(VINCHUR),OTHER,400.0,1011,750.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,28.0,3.0,No,No,Normal conditions
+2024-08-12,NASIK,OTHER,450.0,951,750.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,26.7,5.5,No,Moderate,Good moisture
+2024-08-12,NASIK,POLE,225.0,711,500.0,"Mangala Gaur (Shravana Tuesday), Tulsi Shravana Saptami",0,0,0,Shukla Saptami,Swati,12,8,2024,33,26.7,5.5,No,Moderate,Good moisture
+2024-08-13,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,925,675.0,Tulsi Shravana Saptami,0,0,0,Shukla Ashtami,Vishakha,13,8,2024,33,28.4,2.0,No,No,Normal conditions
+2024-08-13,LASALGAON(NIPHAD),OTHER,321.0,921,740.0,Tulsi Shravana Saptami,0,0,0,Shukla Ashtami,Vishakha,13,8,2024,33,29.4,1.1,No,No,Normal conditions
+2024-08-14,SATANA,RED,50.0,665,525.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,28.4,0.7,No,No,Normal conditions
+2024-08-14,CHANDVAD,RED,225.0,601,400.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,29.3,1.1,No,No,Normal conditions
+2024-08-14,DEVALA,OTHER,150.0,950,750.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,31.4,0.6,No,No,Normal conditions
+2024-08-14,CHANDVAD,OTHER,355.0,938,740.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,29.3,1.1,No,No,Normal conditions
+2024-08-14,PIMPALGAON,OTHER,200.0,1126,775.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,29.5,0.8,No,No,Normal conditions
+2024-08-14,NAMPUR,OTHER,100.0,905,700.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,30.5,0.8,No,No,Normal conditions
+2024-08-14,LASALGAON(VINCHUR),OTHER,450.0,991,750.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,29.8,0.6,No,No,Normal conditions
+2024-08-14,YEOLA,OTHER,150.0,862,700.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,30.0,0.2,No,No,Normal conditions
+2024-08-14,NANDGAON,OTHER,100.0,786,550.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,30.9,0.7,No,No,Normal conditions
+2024-08-14,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,1000,750.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,28.5,0.9,No,No,Normal conditions
+2024-08-14,NASIK,POLE,200.0,701,550.0,,0,0,0,Shukla Navami,Anuradha,14,8,2024,33,28.4,1.3,No,No,Normal conditions
+2024-08-16,YEOLA,RED,150.0,732,600.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,30.4,0.4,No,No,Normal conditions
+2024-08-16,SINNER,OTHER,100.0,835,600.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,29.0,0.5,No,No,Normal conditions
+2024-08-16,NANDGAON,RED,100.0,602,400.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,31.5,1.0,No,No,Normal conditions
+2024-08-16,LASALGAON(VINCHUR),RED,350.0,650,550.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,29.6,0.9,No,No,Normal conditions
+2024-08-16,LASALGAON,OTHER,400.0,1045,700.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,29.6,0.9,No,No,Normal conditions
+2024-08-16,LASALGAON,RED,200.0,681,500.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,29.6,0.9,No,No,Normal conditions
+2024-08-16,DEVALA,RED,150.0,950,750.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,31.8,0.5,No,No,Normal conditions
+2024-08-16,LASALGAON(NIPHAD),RED,304.0,680,590.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,29.6,0.9,No,No,Normal conditions
+2024-08-16,MANMAD,OTHER,201.0,821,700.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,30.2,0.3,No,No,Normal conditions
+2024-08-16,KALVAN,OTHER,130.0,1155,750.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,29.5,1.6,No,No,Normal conditions
+2024-08-16,DINDORI,OTHER,600.0,861,641.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,28.6,1.7,No,No,Normal conditions
+2024-08-16,DINDORI(VANI),OTHER,500.0,1015,750.0,"Putrada Ekadashi, Ashadhi Ekadashi / Wari",0,1,0,Shukla Ekadashi,Mula,16,8,2024,33,28.6,1.7,No,No,Normal conditions
+2024-08-17,NASIK,OTHER,550.0,1001,800.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,29.5,2.7,No,No,Normal conditions
+2024-08-17,PIMPALGAON BASWANT(SAYKHEDA),RED,200.0,600,500.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,28.8,1.9,No,No,Normal conditions
+2024-08-17,PIMPALGAON,POLE,225.0,700,580.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,29.1,2.6,No,No,Normal conditions
+2024-08-17,MANMAD,RED,200.0,717,600.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,29.3,1.0,No,No,Normal conditions
+2024-08-17,SATANA,OTHER,50.0,930,710.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,28.0,2.4,No,No,Normal conditions
+2024-08-17,UMRANE,OTHER,451.0,900,700.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,28.6,2.1,No,No,Normal conditions
+2024-08-17,PIMPALGAON BASWANT(SAYKHEDA),OTHER,250.0,930,730.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,28.8,1.9,No,No,Normal conditions
+2024-08-17,LASALGAON,OTHER,400.0,981,760.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,29.6,1.7,No,No,Normal conditions
+2024-08-17,LASALGAON(VINCHUR),RED,300.0,712,550.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,29.6,1.7,No,No,Normal conditions
+2024-08-17,PIMPALGAON BASWANT(SAYKHEDA),RED,200.0,595,400.0,,0,0,0,Shukla Dwadashi,Purva Ashadha,17,8,2024,33,28.8,1.9,No,No,Normal conditions
+2024-08-18,NANDGAON,OTHER,100.0,818,550.0,"Bhadrapada Purnima, Ganesh Visarjan (State Holiday), Narali Purnima / Coconut Festival",0,0,1,Shukla Chaturdashi,Uttara Ashadha,18,8,2024,33,30.5,15.4,No,Moderate,Good moisture
+2024-08-19,MANMAD,OTHER,201.0,835,700.0,"Bhadrapada Purnima, Narali Purnima / Coconut Festival",0,0,1,Shukla Purnima,Shravana,19,8,2024,34,28.8,4.5,No,No,Normal conditions
+2024-08-19,LASALGAON(NIPHAD),OTHER,451.0,887,700.0,"Bhadrapada Purnima, Narali Purnima / Coconut Festival",0,0,1,Shukla Purnima,Shravana,19,8,2024,34,29.2,7.0,No,Moderate,Good moisture
+2024-08-19,CHANDVAD,RED,100.0,675,450.0,"Bhadrapada Purnima, Narali Purnima / Coconut Festival",0,0,1,Shukla Purnima,Shravana,19,8,2024,34,28.5,13.4,No,Moderate,Good moisture
+2024-08-19,MANMAD,RED,100.0,722,600.0,"Bhadrapada Purnima, Narali Purnima / Coconut Festival",0,0,1,Shukla Purnima,Shravana,19,8,2024,34,28.8,4.5,No,No,Normal conditions
+2024-08-20,LASALGAON(NIPHAD),RED,311.0,631,581.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,29.0,9.9,No,Moderate,Good moisture
+2024-08-20,PIMPALGAON,POLE,250.0,731,550.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,28.1,18.1,No,Moderate,Good moisture
+2024-08-20,NASIK,POLE,150.0,600,500.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,27.8,28.7,No,Heavy,Heavy rain expected
+2024-08-20,PIMPALGAON,OTHER,350.0,1145,850.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,28.1,18.1,No,Moderate,Good moisture
+2024-08-20,NAMPUR,OTHER,100.0,835,550.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,29.2,7.1,No,Moderate,Good moisture
+2024-08-20,NANDGAON,RED,100.0,675,450.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,29.3,12.4,No,Moderate,Good moisture
+2024-08-20,LASALGAON,RED,201.0,706,600.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,29.0,9.9,No,Moderate,Good moisture
+2024-08-20,DINDORI(VANI),OTHER,500.0,1025,770.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,28.0,24.9,No,Heavy,Heavy rain expected
+2024-08-20,NASIK,OTHER,450.0,951,750.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,27.8,28.7,No,Heavy,Heavy rain expected
+2024-08-20,SATANA,RED,190.0,730,570.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,27.0,12.1,No,Moderate,Good moisture
+2024-08-20,LASALGAON(VINCHUR),OTHER,400.0,951,750.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,29.0,9.9,No,Moderate,Good moisture
+2024-08-20,UMRANE,RED,301.0,750,600.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,27.9,18.4,No,Moderate,Good moisture
+2024-08-20,DEVALA,OTHER,100.0,1111,725.0,,0,0,0,Krishna Pratipada,Shatabhisha,20,8,2024,34,29.4,9.7,No,Moderate,Good moisture
+2024-08-21,DINDORI,OTHER,514.0,895,720.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.5,6.8,No,Moderate,Good moisture
+2024-08-21,SINNER,RED,100.0,901,600.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.4,12.8,No,Moderate,Good moisture
+2024-08-21,CHANDVAD,OTHER,511.0,913,750.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,27.5,8.1,No,Moderate,Good moisture
+2024-08-21,SATANA,OTHER,340.0,1000,730.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,28.0,10.5,No,Moderate,Good moisture
+2024-08-21,PIMPALGAON BASWANT(SAYKHEDA),RED,220.0,660,500.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.1,13.8,No,Moderate,Good moisture
+2024-08-21,MANMAD,OTHER,201.0,832,700.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.0,4.7,No,No,Normal conditions
+2024-08-21,SATANA,OTHER,105.0,925,725.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,28.0,10.5,No,Moderate,Good moisture
+2024-08-21,DINDORI,OTHER,665.0,914,750.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.5,6.8,No,Moderate,Good moisture
+2024-08-21,CHANDVAD,RED,300.0,690,450.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,27.5,8.1,No,Moderate,Good moisture
+2024-08-21,LASALGAON(VINCHUR),RED,300.0,712,600.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.5,8.4,No,Moderate,Good moisture
+2024-08-21,LASALGAON(NIPHAD),RED,300.0,704,621.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.5,8.4,No,Moderate,Good moisture
+2024-08-21,PIMPALGAON,POLE,300.0,699,450.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.4,4.7,No,No,Normal conditions
+2024-08-21,KALVAN,RED,100.0,750,400.0,,0,0,0,Krishna Dwitiya,Purva Bhadrapada,21,8,2024,34,29.2,12.0,No,Moderate,Good moisture
+2024-08-22,PIMPALGAON,OTHER,200.0,1102,850.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.0,15.5,No,Moderate,Good moisture
+2024-08-22,LASALGAON,OTHER,500.0,1056,800.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.9,13.2,No,Moderate,Good moisture
+2024-08-22,NAMPUR,OTHER,100.0,800,650.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.0,16.2,No,Moderate,Good moisture
+2024-08-22,YEOLA,OTHER,200.0,911,700.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.1,21.1,No,Heavy,Heavy rain expected
+2024-08-22,MANMAD,RED,100.0,694,550.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.0,20.0,No,Moderate,Good moisture
+2024-08-22,CHANDVAD,OTHER,470.0,901,750.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.0,10.7,No,Moderate,Good moisture
+2024-08-22,NASIK,OTHER,600.0,1000,750.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.5,23.9,No,Heavy,Heavy rain expected
+2024-08-22,LASALGAON,RED,300.0,716,551.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.9,13.2,No,Moderate,Good moisture
+2024-08-22,DEVALA,OTHER,150.0,780,650.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.8,17.6,No,Moderate,Good moisture
+2024-08-22,SINNER,RED,100.0,870,600.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,28.5,25.6,No,Heavy,Heavy rain expected
+2024-08-22,DINDORI(VANI),OTHER,500.0,1020,775.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.9,19.3,No,Moderate,Good moisture
+2024-08-22,NASIK,POLE,100.0,600,500.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.5,23.9,No,Heavy,Heavy rain expected
+2024-08-22,YEOLA,RED,150.0,716,450.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.1,21.1,No,Heavy,Heavy rain expected
+2024-08-22,NANDGAON,RED,100.0,670,450.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.7,26.8,No,Heavy,Heavy rain expected
+2024-08-22,NANDGAON,OTHER,100.0,840,550.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,30.7,26.8,No,Heavy,Heavy rain expected
+2024-08-22,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,870,650.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.8,28.0,No,Heavy,Heavy rain expected
+2024-08-22,SATANA,RED,75.0,750,525.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,28.5,21.3,No,Heavy,Heavy rain expected
+2024-08-22,LASALGAON(NIPHAD),OTHER,341.0,981,780.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.9,13.2,No,Moderate,Good moisture
+2024-08-22,UMRANE,RED,351.0,700,500.0,,0,0,0,Krishna Tritiya,Uttara Bhadrapada,22,8,2024,34,29.0,12.5,No,Moderate,Good moisture
+2024-08-23,KALVAN,OTHER,100.0,1111,750.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,27.8,13.1,No,Moderate,Good moisture
+2024-08-23,LASALGAON(VINCHUR),OTHER,400.0,991,775.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.3,18.9,No,Moderate,Good moisture
+2024-08-23,UMRANE,OTHER,451.0,900,775.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,27.5,15.8,No,Moderate,Good moisture
+2024-08-23,LASALGAON(VINCHUR),OTHER,500.0,1048,800.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.3,18.9,No,Moderate,Good moisture
+2024-08-23,DINDORI,OTHER,675.0,821,776.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.1,12.7,No,Moderate,Good moisture
+2024-08-23,CHANDVAD,RED,103.0,717,450.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,27.8,19.2,No,Moderate,Good moisture
+2024-08-23,LASALGAON,RED,301.0,868,570.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.3,18.9,No,Moderate,Good moisture
+2024-08-23,CHANDVAD,OTHER,410.0,875,770.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,27.8,19.2,No,Moderate,Good moisture
+2024-08-23,PIMPALGAON BASWANT(SAYKHEDA),OTHER,225.0,830,625.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.4,12.8,No,Moderate,Good moisture
+2024-08-23,PIMPALGAON,OTHER,225.0,1021,800.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.2,18.0,No,Moderate,Good moisture
+2024-08-23,YEOLA,RED,150.0,722,600.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,29.0,19.3,No,Moderate,Good moisture
+2024-08-23,LASALGAON,OTHER,400.0,1090,800.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.3,18.9,No,Moderate,Good moisture
+2024-08-23,NASIK,OTHER,200.0,1121,850.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.5,10.8,No,Moderate,Good moisture
+2024-08-23,LASALGAON(NIPHAD),OTHER,401.0,1000,805.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.3,18.9,No,Moderate,Good moisture
+2024-08-23,LASALGAON(VINCHUR),RED,300.0,700,600.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.3,18.9,No,Moderate,Good moisture
+2024-08-23,MANMAD,RED,200.0,730,600.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.5,28.5,No,Heavy,Heavy rain expected
+2024-08-23,MANMAD,OTHER,400.0,990,720.0,,0,0,0,Krishna Chaturthi,Revati,23,8,2024,34,28.5,28.5,No,Heavy,Heavy rain expected
+2024-08-24,LASALGAON(NIPHAD),RED,300.0,660,571.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,25.0,7.4,No,Moderate,Good moisture
+2024-08-24,PIMPALGAON,POLE,275.0,707,525.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,24.4,12.5,No,Moderate,Good moisture
+2024-08-24,YEOLA,OTHER,180.0,879,675.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,26.2,16.2,No,Moderate,Good moisture
+2024-08-24,PIMPALGAON BASWANT(SAYKHEDA),RED,200.0,700,450.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,24.2,16.5,No,Moderate,Good moisture
+2024-08-24,LASALGAON,OTHER,600.0,1090,870.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,25.0,7.4,No,Moderate,Good moisture
+2024-08-24,LASALGAON,RED,300.0,751,600.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,25.0,7.4,No,Moderate,Good moisture
+2024-08-24,DINDORI(VANI),OTHER,700.0,950,801.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,24.3,13.7,No,Moderate,Good moisture
+2024-08-24,PIMPALGAON,POLE,250.0,799,500.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,24.4,12.5,No,Moderate,Good moisture
+2024-08-24,LASALGAON(VINCHUR),RED,300.0,743,600.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,25.0,7.4,No,Moderate,Good moisture
+2024-08-24,MANMAD,OTHER,201.0,904,700.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,26.2,9.8,No,Moderate,Good moisture
+2024-08-24,PIMPALGAON,OTHER,250.0,1100,800.0,,0,0,0,Krishna Panchami,Ashwini,24,8,2024,34,24.4,12.5,No,Moderate,Good moisture
+2024-08-26,LASALGAON(VINCHUR),OTHER,550.0,1043,850.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.8,20.8,No,Heavy,Heavy rain expected
+2024-08-26,YEOLA,RED,150.0,720,450.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.9,14.4,No,Moderate,Good moisture
+2024-08-26,PIMPALGAON BASWANT(SAYKHEDA),OTHER,200.0,925,700.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.0,25.4,No,Heavy,Heavy rain expected
+2024-08-26,DINDORI,OTHER,700.0,861,750.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.0,24.8,No,Heavy,Heavy rain expected
+2024-08-26,PIMPALGAON BASWANT(SAYKHEDA),RED,200.0,680,550.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.0,25.4,No,Heavy,Heavy rain expected
+2024-08-26,MANMAD,RED,100.0,751,620.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,25.0,17.0,No,Moderate,Good moisture
+2024-08-26,YEOLA,OTHER,200.0,899,650.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.9,14.4,No,Moderate,Good moisture
+2024-08-26,DINDORI,OTHER,686.0,887,716.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.0,24.8,No,Heavy,Heavy rain expected
+2024-08-26,CHANDVAD,OTHER,525.0,852,800.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.0,17.9,No,Moderate,Good moisture
+2024-08-26,PIMPALGAON,POLE,246.0,670,521.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.4,25.0,No,Heavy,Heavy rain expected
+2024-08-26,PIMPALGAON,OTHER,410.0,1190,850.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.4,25.0,No,Heavy,Heavy rain expected
+2024-08-26,NASIK,OTHER,425.0,1200,900.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.1,20.7,No,Heavy,Heavy rain expected
+2024-08-26,LASALGAON,RED,300.0,700,600.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.8,20.8,No,Heavy,Heavy rain expected
+2024-08-26,LASALGAON(VINCHUR),RED,300.0,700,600.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.8,20.8,No,Heavy,Heavy rain expected
+2024-08-26,CHANDVAD,RED,200.0,751,600.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.0,17.9,No,Moderate,Good moisture
+2024-08-26,LASALGAON,OTHER,551.0,1080,825.0,Krishna Janmashtami,0,0,0,Krishna Ashtami,Krittika,26,8,2024,35,24.8,20.8,No,Heavy,Heavy rain expected
+2024-08-27,LASALGAON(VINCHUR),OTHER,500.0,1002,850.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,LASALGAON(NIPHAD),OTHER,300.0,924,700.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,NASIK,POLE,325.0,775,551.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,25.3,6.8,No,Moderate,Good moisture
+2024-08-27,LASALGAON(NIPHAD),RED,400.0,599,500.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,LASALGAON,OTHER,500.0,1091,801.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,NASIK,POLE,350.0,751,601.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,25.3,6.8,No,Moderate,Good moisture
+2024-08-27,LASALGAON(VINCHUR),RED,300.0,746,600.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,CHANDVAD,RED,100.0,680,450.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,26.1,3.2,No,No,Normal conditions
+2024-08-27,NASIK,OTHER,450.0,1151,850.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,25.3,6.8,No,Moderate,Good moisture
+2024-08-27,CHANDVAD,OTHER,500.0,871,750.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,26.1,3.2,No,No,Normal conditions
+2024-08-27,LASALGAON(VINCHUR),OTHER,500.0,1011,800.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,DINDORI,OTHER,681.0,900,750.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,26.0,7.4,No,Moderate,Good moisture
+2024-08-27,NANDGAON,OTHER,100.0,790,550.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,28.4,1.9,No,No,Normal conditions
+2024-08-27,KALVAN,OTHER,200.0,1000,750.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,26.8,2.2,No,No,Normal conditions
+2024-08-27,LASALGAON,RED,200.0,653,500.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,NANDGAON,RED,100.0,665,450.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,28.4,1.9,No,No,Normal conditions
+2024-08-27,LASALGAON(VINCHUR),RED,300.0,750,600.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,27.5,3.7,No,No,Normal conditions
+2024-08-27,NASIK,POLE,300.0,700,600.0,,0,0,0,Krishna Navami,Rohini,27,8,2024,35,25.3,6.8,No,Moderate,Good moisture
+2024-08-28,NASIK,OTHER,700.0,1200,900.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,24.8,10.3,No,Moderate,Good moisture
+2024-08-28,DINDORI,OTHER,700.0,900,801.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,26.0,9.5,No,Moderate,Good moisture
+2024-08-28,LASALGAON(VINCHUR),OTHER,500.0,1000,800.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,26.8,7.3,No,Moderate,Good moisture
+2024-08-28,KALVAN,OTHER,200.0,1305,850.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,25.7,6.4,No,Moderate,Good moisture
+2024-08-28,LASALGAON(VINCHUR),OTHER,500.0,1001,900.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,26.8,7.3,No,Moderate,Good moisture
+2024-08-28,KALVAN,RED,200.0,950,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,25.7,6.4,No,Moderate,Good moisture
+2024-08-28,NASIK,POLE,350.0,851,625.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,24.8,10.3,No,Moderate,Good moisture
+2024-08-28,YEOLA,RED,181.0,525,450.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,27.5,4.1,No,No,Normal conditions
+2024-08-28,NASIK,OTHER,450.0,1025,650.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,24.8,10.3,No,Moderate,Good moisture
+2024-08-28,YEOLA,OTHER,451.0,816,651.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,27.5,4.1,No,No,Normal conditions
+2024-08-28,LASALGAON(VINCHUR),RED,350.0,801,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,26.8,7.3,No,Moderate,Good moisture
+2024-08-28,NASIK,OTHER,400.0,1050,700.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,24.8,10.3,No,Moderate,Good moisture
+2024-08-28,NASIK,POLE,300.0,751,601.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,24.8,10.3,No,Moderate,Good moisture
+2024-08-28,SINNER,RED,50.0,786,500.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,25.4,4.6,No,No,Normal conditions
+2024-08-28,CHANDVAD,RED,200.0,802,550.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,24.8,6.3,No,Moderate,Good moisture
+2024-08-28,YEOLA,OTHER,226.0,725,600.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,27.5,4.1,No,No,Normal conditions
+2024-08-28,SATANA,RED,50.0,750,565.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,23.9,8.3,No,Moderate,Good moisture
+2024-08-28,LASALGAON,RED,300.0,800,651.0,Krishna Ekadashi,0,1,0,Krishna Dashami,Mrigashira,28,8,2024,35,26.8,7.3,No,Moderate,Good moisture
+2024-08-29,PIMPALGAON BASWANT(SAYKHEDA),OTHER,400.0,900,755.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,26.7,3.9,No,No,Normal conditions
+2024-08-29,NASIK,POLE,350.0,851,600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,26.5,4.6,No,No,Normal conditions
+2024-08-29,LASALGAON(VINCHUR),RED,300.0,858,600.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.9,6.7,No,Moderate,Good moisture
+2024-08-29,PIMPALGAON,POLE,200.0,825,650.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.5,3.3,No,No,Normal conditions
+2024-08-29,DEVALA,OTHER,100.0,900,775.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,29.7,1.4,No,No,Normal conditions
+2024-08-29,KALVAN,OTHER,200.0,1000,700.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.9,1.2,No,No,Normal conditions
+2024-08-29,DINDORI(VANI),OTHER,650.0,950,801.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.2,3.4,No,No,Normal conditions
+2024-08-29,SATANA,OTHER,100.0,950,725.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,26.8,2.1,No,No,Normal conditions
+2024-08-29,NASIK,OTHER,450.0,1201,750.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,26.5,4.6,No,No,Normal conditions
+2024-08-29,DINDORI,OTHER,655.0,900,750.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.2,3.4,No,No,Normal conditions
+2024-08-29,PIMPALGAON,OTHER,250.0,1142,850.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.5,3.3,No,No,Normal conditions
+2024-08-29,UMRANE,RED,351.0,760,650.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.0,4.4,No,No,Normal conditions
+2024-08-29,KALVAN,RED,100.0,710,450.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.9,1.2,No,No,Normal conditions
+2024-08-29,MANMAD,RED,200.0,719,550.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,28.2,2.4,No,No,Normal conditions
+2024-08-29,LASALGAON,OTHER,500.0,1096,870.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.9,6.7,No,Moderate,Good moisture
+2024-08-29,UMRANE,OTHER,351.0,851,750.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,27.0,4.4,No,No,Normal conditions
+2024-08-29,NANDGAON,RED,25.0,850,450.0,Krishna Ekadashi,0,1,0,Krishna Ekadashi,Ardra,29,8,2024,35,29.8,1.5,No,No,Normal conditions
+2024-08-30,CHANDVAD,OTHER,401.0,925,700.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,27.6,3.2,No,No,Normal conditions
+2024-08-30,PIMPALGAON BASWANT(SAYKHEDA),RED,250.0,700,560.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,27.5,1.9,No,No,Normal conditions
+2024-08-30,DEVALA,RED,100.0,825,625.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,30.2,1.9,No,No,Normal conditions
+2024-08-30,YEOLA,RED,100.0,601,400.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.5,No,No,Normal conditions
+2024-08-30,LASALGAON(VINCHUR),OTHER,500.0,1058,800.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.3,No,No,Normal conditions
+2024-08-30,DINDORI,OTHER,631.0,999,806.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,27.6,2.0,No,No,Normal conditions
+2024-08-30,LASALGAON(VINCHUR),OTHER,500.0,1051,800.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.3,No,No,Normal conditions
+2024-08-30,LASALGAON(VINCHUR),RED,300.0,916,650.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.3,No,No,Normal conditions
+2024-08-30,NAMPUR,OTHER,50.0,850,600.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,29.2,1.1,No,No,Normal conditions
+2024-08-30,LASALGAON,RED,200.0,1000,700.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.3,No,No,Normal conditions
+2024-08-30,NAMPUR,RED,50.0,750,500.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,29.2,1.1,No,No,Normal conditions
+2024-08-30,LASALGAON,OTHER,400.0,1100,920.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.3,No,No,Normal conditions
+2024-08-30,YEOLA,OTHER,200.0,800,700.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.5,No,No,Normal conditions
+2024-08-30,LASALGAON(VINCHUR),OTHER,550.0,1050,850.0,,0,0,0,Krishna Dwadashi,Punarvasu,30,8,2024,35,28.9,1.3,No,No,Normal conditions
+2024-08-31,PIMPALGAON,OTHER,300.0,1070,850.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,28.0,1.3,No,No,Normal conditions
+2024-08-31,PIMPALGAON,POLE,200.0,871,675.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,28.0,1.3,No,No,Normal conditions
+2024-08-31,SINNER,RED,100.0,851,600.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,27.9,1.1,No,No,Normal conditions
+2024-08-31,NANDGAON,RED,100.0,811,501.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,29.6,0.9,No,No,Normal conditions
+2024-08-31,YEOLA,RED,150.0,750,650.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,29.0,1.8,No,No,Normal conditions
+2024-08-31,SATANA,RED,100.0,700,575.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,26.5,2.6,No,No,Normal conditions
+2024-08-31,CHANDVAD,OTHER,300.0,935,730.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,28.1,1.9,No,No,Normal conditions
+2024-08-31,DINDORI,OTHER,631.0,966,800.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,27.5,2.0,No,No,Normal conditions
+2024-08-31,CHANDVAD,RED,200.0,940,630.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,28.1,1.9,No,No,Normal conditions
+2024-08-31,NASIK,OTHER,450.0,1001,750.0,,0,0,0,Krishna Trayodashi,Pushya,31,8,2024,35,27.5,1.4,No,No,Normal conditions
+2024-09-02,LASALGAON(VINCHUR),RED,400.0,900,675.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Magha,2,9,2024,36,24.3,19.9,No,Moderate,Good moisture
+2024-09-02,DEVALA,OTHER,100.0,915,800.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Magha,2,9,2024,36,26.7,25.0,No,Heavy,Heavy rain expected
+2024-09-02,NASIK,POLE,300.0,750,600.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Magha,2,9,2024,36,23.5,19.8,No,Moderate,Good moisture
+2024-09-03,SATANA,OTHER,100.0,840,640.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,24.2,16.6,No,Moderate,Good moisture
+2024-09-03,DEVALA,RED,100.0,815,625.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,28.0,35.5,No,Heavy,Heavy rain expected
+2024-09-03,LASALGAON(NIPHAD),OTHER,500.0,853,700.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.8,4.8,No,No,Normal conditions
+2024-09-03,MANMAD,RED,100.0,670,550.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,27.0,26.6,No,Heavy,Heavy rain expected
+2024-09-03,NANDGAON,OTHER,100.0,801,550.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,28.1,53.4,No,Heavy,Heavy rain expected
+2024-09-03,LASALGAON,RED,200.0,851,651.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.8,4.8,No,No,Normal conditions
+2024-09-03,LASALGAON,OTHER,500.0,1101,851.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.8,4.8,No,No,Normal conditions
+2024-09-03,LASALGAON(NIPHAD),RED,351.0,760,671.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.8,4.8,No,No,Normal conditions
+2024-09-03,NAMPUR,OTHER,150.0,905,650.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.8,24.1,No,Heavy,Heavy rain expected
+2024-09-03,PIMPALGAON,OTHER,300.0,1201,900.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.1,5.8,No,Moderate,Good moisture
+2024-09-03,SATANA,OTHER,100.0,900,625.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,24.2,16.6,No,Moderate,Good moisture
+2024-09-03,CHANDVAD,RED,300.0,912,610.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.1,11.5,No,Moderate,Good moisture
+2024-09-03,DEVALA,OTHER,300.0,1000,825.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,28.0,35.5,No,Heavy,Heavy rain expected
+2024-09-03,PIMPALGAON BASWANT(SAYKHEDA),RED,200.0,875,590.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,25.8,3.9,No,No,Normal conditions
+2024-09-03,SINNER,RED,200.0,875,650.0,"Bhadrapada Amavasya / Mahalaya, Bail Pola / Pithori Amavasya, Mahalaya Amavasya / Pitru Paksha ends",1,0,0,Krishna Amavasya,Purva Phalguni,3,9,2024,36,26.0,9.0,No,Moderate,Good moisture
+2024-09-04,KALVAN,OTHER,200.0,1070,701.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,27.6,0.8,No,No,Normal conditions
+2024-09-04,NASIK,POLE,400.0,800,600.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,26.8,2.4,No,No,Normal conditions
+2024-09-04,LASALGAON,OTHER,300.0,867,660.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,27.9,1.1,No,No,Normal conditions
+2024-09-04,NAMPUR,RED,50.0,810,600.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,28.5,0.5,No,No,Normal conditions
+2024-09-04,KALVAN,RED,150.0,830,600.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,27.6,0.8,No,No,Normal conditions
+2024-09-04,LASALGAON(VINCHUR),OTHER,500.0,1111,900.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,27.9,1.1,No,No,Normal conditions
+2024-09-04,LASALGAON(NIPHAD),OTHER,511.0,959,800.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,27.9,1.1,No,No,Normal conditions
+2024-09-04,NANDGAON,OTHER,205.0,851,650.0,,0,0,0,Shukla Pratipada,Uttara Phalguni,4,9,2024,36,29.8,1.7,No,No,Normal conditions
